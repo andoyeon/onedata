@@ -13,6 +13,13 @@
       "category": "market-financial",
       "path": "data/kosis_financial.json",
       "last_updated": "2026-07-05T00:00:00+09:00"
+    },
+    {
+      "id": "immigration_stats",
+      "label": "KOSIS 국가통계포털 (원자료: 법무부 출입국·외국인정책본부) - 외국인 지표",
+      "category": "immigration",
+      "path": "data/immigration_stats.json",
+      "last_updated": "2026-07-05T00:00:00+09:00"
     }
   ],
   "last_updated": "2026-07-05T00:00:00+09:00"

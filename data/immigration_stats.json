@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-07-05T00:00:00+09:00",
+  "source": "KOSIS 국가통계포털 (통계청, 원자료: 법무부 출입국·외국인정책본부)",
+  "stat_cards": {
+    "total_foreign_residents": {
+      "name": "체류외국인 총수",
+      "unit": "명",
+      "series": [
+        {
+          "period": "2015",
+          "value": 1363712
+        },
+        {
+          "period": "2016",
+          "value": 1413758
+        },
+        {
+          "period": "2017",
+          "value": 1479247
+        },
+        {
+          "period": "2018",
+          "value": 1651561
+        },
+        {
+          "period": "2019",
+          "value": 1778918
+        },
+        {
+          "period": "2020",
+          "value": 1695643
+        },
+        {
+          "period": "2021",
+          "value": 1649967
+        },
+        {
+          "period": "2022",
+          "value": 1752346
+        },
+        {
+          "period": "2023",
+          "value": 1935150
+        },
+        {
+          "period": "2024",
+          "value": 2042744
+        }
+      ],
+      "latest_period": "2024",
+      "latest_value": 2042744,
+      "delta": 107594,
+      "delta_pct": 5.5599824303025605
+    },
+    "yoy_change_rate": {
+      "name": "전년대비 증감률",
+      "unit": "%",
+      "latest_period": "2024",
+      "latest_value": 5.5599824303025605
+    },
+    "annual_entrants": {
+      "name": "연간 입국자수",
+      "unit": "명",
+      "series": [
+        {
+          "period": "2015",
+          "value": 372935
+        },
+        {
+          "period": "2016",
+          "value": 402203
+        },
+        {
+          "period": "2017",
+          "value": 452657
+        },
+        {
+          "period": "2018",
+          "value": 495079
+        },
+        {
+          "period": "2019",
+          "value": 438220
+        },
+        {
+          "period": "2020",
+          "value": 233133
+        },
+        {
+          "period": "2021",
+          "value": 220571
+        },
+        {
+          "period": "2022",
+          "value": 412948
+        },
+        {
+          "period": "2023",
+          "value": 479768
+        },
+        {
+          "period": "2024",
+          "value": 450867
+        }
+      ],
+      "latest_period": "2024",
+      "latest_value": 450867,
+      "delta": -28901,
+      "delta_pct": -6.023953244067966
+    },
+    "naturalization": null
+  },
+  "visa_status_distribution": {
+    "period": "2024",
+    "unit": "%",
+    "note": "방문취업/결혼이민/영주/재외동포/유학 5개 항목은 KOSIS 수록값이며, 기타는 100%에서 이를 뺀 잔여치(비전문취업·전문인력 등)입니다.",
+    "categories": [
+      {
+        "label": "방문취업",
+        "value": 5.2
+      },
+      {
+        "label": "결혼이민",
+        "value": 2.8
+      },
+      {
+        "label": "영주",
+        "value": 1.4
+      },
+      {
+        "label": "재외동포",
+        "value": 10.4
+      },
+      {
+        "label": "유학",
+        "value": 12.3
+      },
+      {
+        "label": "기타",
+        "value": 67.9
+      }
+    ]
+  },
+  "nationality_distribution": null
+}
