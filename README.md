@@ -1,39 +1,89 @@
-# data_dic — KOSIS 데이터 대시보드
+# onedata — 국내 공공데이터 대시보드
 
-KOSIS(국가통계포털) 주요 지표를 최근 발표 순으로 정리하고 시각화하는 정적 웹 페이지입니다.
+시장 지표(KOSIS/DART) · 외국인 지표(법무부) · 데이터 검색을 한 사이트에서 보여주는
+정적 웹 페이지입니다. 구현 스펙 전체는 [`PROJECT_SPEC.md`](./PROJECT_SPEC.md) 참고.
 
-## 구성
+## 구현 현황
 
-- `index.html`, `assets/style.css`, `assets/app.js` — 대시보드 페이지 (외부 의존성 없는 순수 HTML/CSS/JS)
-- `data/kosis_data.json` — 대시보드가 읽어오는 지표 스냅샷 데이터
-- `scripts/build_data.py` — 위 JSON을 생성하는 스크립트 (새 데이터로 갱신할 때 재실행)
+PROJECT_SPEC.md 섹션 5 순서 기준:
+
+- [x] **1. 디자인 토큰 + 공통 카드/차트 컴포넌트 뼈대** — `css/tokens.css`, `css/components.css`,
+      `js/render-cards.js`, `js/render-charts.js`.
+- [~] 2. DART 수집 스크립트 + Actions 워크플로 → 시장 지표 페이지 완성
+      — KOSIS 쪽 금융 서브카테고리(시장금리/가계수신/카드소비)까지는 채웠고, DART 연동과
+      Actions 자동화는 아직입니다.
+- [~] 3. data.go.kr 법무부 외국인 통계 연동 → 외국인 지표 페이지
+      — `immigration.html` 페이지 구조(핵심 요약 4카드 + 분포/추이 3차트)는 만들었지만
+      서비스키가 없어 전부 "준비중" 빈 상태입니다.
+- [ ] 4. `build_catalog.py` + 검색 페이지
+- [ ] 5. (추후) ECOS 연동
 
 ## 페이지 구성
 
-1. **최근 발표 지표** — 주요 지표의 최신 값과 직전 시점 대비 증감을 카드로 표시
-2. **지표별 추이** — 인구·물가·고용·인구동향·금융 카테고리로 필터링 가능한 시계열 꺾은선 그래프 (마우스 오버 시 시점별 값 표시, "표로 보기"로 원자료 확인 가능)
-3. **최근 발표된 월간 지표** — KOSIS 월간 수록 지표 중 최근 갱신 항목 목록 (검색 가능)
+### 시장 지표 (`index.html`)
+1. **최근 발표 지표** — KOSIS 인구·물가·고용 지표 10종의 최신 값과 직전 시점 대비 증감
+2. **지표별 추이** — 카테고리 필터(인구/물가/고용/인구동향/금융) + 시계열 꺾은선 그래프
+3. **금융 지표** — 스펙 3-1의 서브카테고리(시장금리/가계수신/기업대출/카드소비) 필터.
+   시장금리·중앙은행 정책금리·예금은행총예금·신용카드 이용금액은 실제 KOSIS 데이터,
+   **기업대출은 ECOS 미연동으로 "준비중" 카드**로 자리만 표시됩니다.
 
-라이트/다크 테마를 모두 지원합니다 (헤더 우측 버튼으로 전환).
+### 외국인 지표 (`immigration.html`)
+data.go.kr 서비스키가 아직 없어 전체가 빈 상태(준비중)입니다. 핵심 요약 4카드
+(체류외국인 총수/전년대비 증감률/연간 입국자수/국적취득 현황)와 분포·추이 3차트
+(국적별/체류자격별/연도별)의 자리와 안내 문구만 먼저 구성했습니다. 서비스키 발급 후
+`scripts/fetch_immigration.py` + `data/immigration_stats.json`을 추가하면 채워지는
+구조입니다.
+
+두 페이지 모두 상단 GNB로 이동하며, 라이트/다크 테마는 `prefers-color-scheme`을 따릅니다.
+
+## 리포지토리 구조
+
+```
+/onedata
+  /data
+    kosis_market.json     # 시장지표 - KOSIS 스냅샷 (인구/물가/고용/인구동향/금융)
+    kosis_financial.json  # 시장지표 - 금융 서브카테고리 스냅샷 (시장금리/가계수신/카드소비)
+    meta.json             # 데이터 소스 목록 + 최종 갱신 시각
+  /scripts
+    fetch_kosis.py            # kosis_market.json 생성 스크립트
+    fetch_kosis_financial.py  # kosis_financial.json 생성 스크립트
+  /css
+    tokens.css            # 디자인 토큰 (accent 컬러, 상승/하락 컬러, 간격 등)
+    components.css        # 공통 컴포넌트 (GNB, 지표 카드, 차트 카드, 준비중 카드, 테이블, 툴팁)
+  /js
+    render-cards.js       # 지표 카드 + 스파크라인 렌더러
+    render-charts.js      # SVG 라인차트 렌더러 (호버 크로스헤어/툴팁, 표 보기 토글)
+    app.js                # 시장 지표 페이지 진입점 (market + financial 렌더)
+  index.html              # 시장 지표
+  immigration.html        # 외국인 지표 (데이터 연동 전 준비중 상태)
+```
 
 ## 로컬에서 보기
 
-`fetch`로 `data/kosis_data.json`을 불러오므로 파일을 직접 열지 말고 간단한 로컬 서버로 실행하세요.
+`fetch`로 `data/*.json`을 불러오므로 파일을 직접 열지 말고 로컬 서버로 실행하세요.
 
 ```bash
 python3 -m http.server 8000
 # http://localhost:8000 접속
 ```
 
-## 데이터 갱신 방법
+## 데이터 갱신 방법 (현재: 수동 스냅샷)
 
-`data/kosis_data.json`의 데이터는 KOSIS `koreaStat` 지표 조회 도구로 가져온 스냅샷입니다.
-최신 데이터로 갱신하려면:
-
+**KOSIS (시장/금융 지표)**
 1. 각 지표(`indicator_id`)의 최신 시계열 값을 조회
-2. `scripts/build_data.py`의 `RAW` 딕셔너리와 `RECENT_RELEASES` 목록을 새 값으로 교체
-3. `python3 scripts/build_data.py` 실행 → `data/kosis_data.json` 재생성
+2. `scripts/fetch_kosis.py` / `scripts/fetch_kosis_financial.py`의 `RAW` 딕셔너리를 새 값으로 교체
+3. 두 스크립트를 실행 → `data/kosis_market.json`, `data/kosis_financial.json`, `data/meta.json` 재생성
+   (실행 순서 무관 — `meta.json`은 최신 `generated_at` 기준으로 병합됩니다)
+
+**법무부 외국인 통계 (아직 미연동)**
+1. [data.go.kr](https://www.data.go.kr)에서 "법무부" + 원하는 통계명으로 검색 → 활용신청 → 서비스키 발급
+2. 서비스키는 GitHub Actions Secrets에 저장 (절대 코드/워크플로에 하드코딩 금지 — PROJECT_SPEC.md 섹션 0-1)
+3. `scripts/fetch_immigration.py` 작성 → `data/immigration_stats.json` 생성 → `immigration.html`의
+   준비중 카드를 실데이터 카드/차트로 교체
 
 ## 출처
 
-KOSIS 국가통계포털(통계청, https://kosis.kr). 본 페이지는 학습·개인용 비공식 시각화이며, 공식 수치는 KOSIS에서 확인하세요.
+- KOSIS 국가통계포털(통계청, https://kosis.kr)
+- 법무부 출입국·외국인정책본부 (공공데이터포털 제공 예정, 아직 미연동)
+
+본 페이지는 학습·개인용 비공식 시각화이며, 공식 수치는 각 기관 원본에서 확인하세요.

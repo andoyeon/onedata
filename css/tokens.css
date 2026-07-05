@@ -1,0 +1,34 @@
+/* Design tokens — PROJECT_SPEC.md 섹션 4-1
+   현재 다크 테마를 기본값으로 배포 (요청에 따라 prefers-color-scheme 무관하게 고정). */
+:root {
+  /* 카테고리별 accent 컬러 (다크 표면 대비 확보를 위해 한 단계 밝게) */
+  --accent-market: #60a5fa;       /* 시장지표: 블루 */
+  --accent-immigration: #34d399;  /* 외국인지표: 그린 */
+  --accent-search: #9ca3af;       /* 검색: 뉴트럴 그레이 */
+
+  /* 상승/하락 (통일해서 한 쌍만 사용) */
+  --color-up: #f87171;
+  --color-down: #60a5fa;
+
+  /* 베이스 */
+  --bg: #0b1120;
+  --surface: #111827;
+  --border: #1f2937;
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+
+  /* 타이포 */
+  --font-sans: 'Pretendard', -apple-system, "Segoe UI", sans-serif;
+  --font-mono-num: 'Pretendard', 'Roboto Mono', monospace; /* 숫자 tabular-nums */
+
+  /* 간격 */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 40px;
+
+  /* 라운드/그림자 */
+  --radius-card: 12px;
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
