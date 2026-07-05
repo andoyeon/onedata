@@ -34,12 +34,18 @@ jobs:
           ECOS_API_KEY: ${{ secrets.ECOS_API_KEY }}
         run: python scripts/fetch_ecos.py
 
-      - name: Refresh KOSIS market snapshots
+      - name: Fetch 지표누리 supplementary indicators
+        env:
+          INDEX_API_KEY: ${{ secrets.INDEX_API_KEY }}
+        run: python scripts/fetch_index.py
+
+      - name: Refresh KOSIS 금융 지표 snapshot
         env:
           KOSIS_API_KEY: ${{ secrets.KOSIS_API_KEY }}
-        run: |
-          python scripts/fetch_kosis.py
-          python scripts/fetch_kosis_financial.py
+        run: python scripts/fetch_kosis_financial.py
+
+      - name: Fetch financial news (Google News RSS)
+        run: python scripts/fetch_news.py market
 
       - name: Commit and push if data changed
         run: |

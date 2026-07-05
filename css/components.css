@@ -112,6 +112,19 @@ h1 {
   gap: var(--space-2);
 }
 
+/* ---- Source badge (spec 3-1: 어느 기관 데이터인지 표시) ---- */
+.source-badge {
+  display: inline-block;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 1px 7px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 /* ---- Shared card shell ---- */
 .card {
   background: var(--surface);
@@ -281,6 +294,50 @@ h1 {
 .chart-table th:first-child,
 .chart-table td:first-child {
   text-align: left;
+}
+
+/* ---- News / disclosure link list ---- */
+.link-list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: var(--space-3);
+}
+
+.link-list {
+  list-style: none;
+  margin: var(--space-2) 0 0;
+  padding: 0;
+}
+
+.link-list li {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+.link-list li:last-child {
+  border-bottom: none;
+}
+
+.link-list a {
+  color: var(--text-primary);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.link-list a:hover {
+  text-decoration: underline;
+}
+
+.link-list .link-meta {
+  margin: 4px 0 0;
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.link-list-empty {
+  color: var(--text-secondary);
+  font-size: 13px;
+  padding: var(--space-2) 0;
 }
 
 /* ---- Empty-state / placeholder card (spec 3-1: "준비중") ---- */

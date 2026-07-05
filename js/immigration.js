@@ -4,8 +4,19 @@
 
   const { renderStatCard, formatNumber, formatPeriod } = window.RenderCards;
   const { renderChartCard, renderBarChart } = window.RenderCharts;
+  const { renderLinkListCard } = window.RenderNews;
 
   const ACCENT = "var(--accent-immigration)";
+
+  async function fetchJsonSafe(path) {
+    try {
+      const res = await fetch(path);
+      if (!res.ok) return null;
+      return await res.json();
+    } catch (e) {
+      return null;
+    }
+  }
 
   function renderPlaceholderCard(container, title, desc) {
     const card = document.createElement("div");
@@ -96,6 +107,7 @@
     );
 
     statGrid.appendChild(renderStatCard(cards.annual_entrants, ACCENT));
+    statGrid.appendChild(renderStatCard(cards.foreign_marriages, ACCENT));
 
     if (cards.naturalization) {
       statGrid.appendChild(renderStatCard(cards.naturalization, ACCENT));
@@ -113,7 +125,7 @@
     renderBarChartCard(chartGrid, "체류자격별 분포", `${visa.period}년 · 전국 · 외국인 입국자 비율`, visa.categories, visa.unit);
 
     const trendIndicator = {
-      name: "체류외국인 총수 추이",
+      name: "외국인 등록인구 추이",
       unit: cards.total_foreign_residents.unit,
       area: "전국",
       period_type: "연간",
@@ -121,7 +133,33 @@
       series: cards.total_foreign_residents.series,
     };
     chartGrid.appendChild(renderChartCard(trendIndicator, ACCENT, "외국인 지표"));
+
+    if (data.net_migration_trend) {
+      const netMigration = {
+        name: data.net_migration_trend.name,
+        unit: data.net_migration_trend.unit,
+        area: "전국",
+        period_type: "월간",
+        category: "trend",
+        series: data.net_migration_trend.series,
+      };
+      chartGrid.appendChild(renderChartCard(netMigration, ACCENT, "외국인 지표"));
+    }
   }
 
-  document.addEventListener("DOMContentLoaded", init);
+  async function initNews() {
+    const newsGrid = document.getElementById("news-grid");
+    const news = await fetchJsonSafe("data/news_immigration.json");
+    renderLinkListCard(
+      newsGrid,
+      "외국인 관련 뉴스 · 보고서 요약",
+      news ? `${news.source} · 갱신 ${new Date(news.generated_at).toLocaleDateString("ko-KR")}` : "Google News RSS",
+      news ? news.items.slice(0, 5) : []
+    );
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    init();
+    initNews();
+  });
 })();

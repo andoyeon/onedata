@@ -278,7 +278,7 @@ window.RenderCharts = (function () {
    * @param {string} accentColor CSS color value
    * @param {string} categoryLabel shown in the card subtitle
    */
-  function renderChartCard(indicator, accentColor, categoryLabel) {
+  function renderChartCard(indicator, accentColor, categoryLabel, sourceLabel) {
     const card = document.createElement("div");
     card.className = "card chart-card";
     card.dataset.category = indicator.category;
@@ -289,6 +289,13 @@ window.RenderCharts = (function () {
     const title = document.createElement("h3");
     title.className = "chart-title";
     title.textContent = indicator.name;
+    if (sourceLabel) {
+      const badge = document.createElement("span");
+      badge.className = "source-badge";
+      badge.textContent = sourceLabel;
+      title.appendChild(document.createTextNode(" "));
+      title.appendChild(badge);
+    }
     const sub = document.createElement("p");
     sub.className = "chart-sub";
     sub.textContent = `${categoryLabel} · ${indicator.area} · ${indicator.period_type} · 단위 ${indicator.unit}`;

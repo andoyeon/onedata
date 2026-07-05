@@ -93,7 +93,7 @@ window.RenderCards = (function () {
    * @param {object} indicator {name, unit, series, latest_value, latest_period, delta, delta_pct}
    * @param {string} accentColor CSS color value (e.g. "var(--accent-market)")
    */
-  function renderStatCard(indicator, accentColor) {
+  function renderStatCard(indicator, accentColor, sourceLabel) {
     const card = document.createElement("div");
     card.className = "card stat-card";
     card.setAttribute("role", "listitem");
@@ -102,6 +102,13 @@ window.RenderCards = (function () {
     label.className = "stat-label";
     label.textContent = indicator.name;
     card.appendChild(label);
+
+    if (sourceLabel) {
+      const badge = document.createElement("span");
+      badge.className = "source-badge";
+      badge.textContent = sourceLabel;
+      card.appendChild(badge);
+    }
 
     const value = document.createElement("div");
     value.className = "stat-value";
