@@ -62,28 +62,8 @@
     return card;
   }
 
-  async function initMarket() {
-    const data = await fetchJsonSafe("data/kosis_market.json");
-    if (!data) return;
-
-    document.getElementById("updated-at").textContent =
-      `데이터 갱신: ${new Date(data.generated_at).toLocaleDateString("ko-KR", { year: "numeric", month: "long", day: "numeric" })}`;
-
-    const statGrid = document.getElementById("stat-grid");
-    data.indicators.forEach((ind) => statGrid.appendChild(renderStatCard(ind, ACCENT)));
-
-    const chartGrid = document.getElementById("chart-grid");
-    data.indicators.forEach((ind) => {
-      const card = renderChartCard(ind, ACCENT, "시장 지표");
-      chartGrid.appendChild(card);
-    });
-
-    const categories = ["전체", ...Array.from(new Set(data.indicators.map((i) => i.category)))];
-    buildSubcategoryFilter(document.getElementById("category-filter"), categories, null, chartGrid);
-  }
-
   async function initFinancial() {
-    const subcategories = ["시장금리", "가계수신", "기업대출", "카드소비"];
+    const subcategories = ["시장금리", "가계수신", "가계대출", "기업대출", "카드소비", "환율"];
     const statGrid = document.getElementById("financial-stat-grid");
     const chartGrid = document.getElementById("financial-chart-grid");
 
@@ -93,6 +73,11 @@
       fetchJsonSafe("data/kosis_financial.json"),
       fetchJsonSafe("data/ecos_market.json"),
     ]);
+
+    if (kosisData) {
+      document.getElementById("updated-at").textContent =
+        `데이터 갱신: ${new Date(kosisData.generated_at).toLocaleDateString("ko-KR", { year: "numeric", month: "long", day: "numeric" })}`;
+    }
 
     // category -> array of {indicator, source}; a subcategory can have more
     // than one KOSIS indicator (e.g. 시장금리 has both 시장금리 and 중앙은행
@@ -134,21 +119,20 @@
 
     renderLinkListCard(
       newsGrid,
-      "금융 뉴스",
+      "금융 뉴스 요약",
       news ? `${news.source} · 갱신 ${new Date(news.generated_at).toLocaleDateString("ko-KR")}` : "Google News RSS",
-      news ? news.items : []
+      news ? news.items.slice(0, 5) : []
     );
 
     renderLinkListCard(
       newsGrid,
       "최근 공시 (DART)",
       dart ? `${dart.source} · 갱신 ${new Date(dart.generated_at).toLocaleDateString("ko-KR")}` : "DART 전자공시시스템",
-      dart ? dart.disclosures.map((d) => ({ title: `${d.corp_name} — ${d.report_name}`, link: d.link, source: d.filer, date: d.receipt_date })) : []
+      dart ? dart.disclosures.slice(0, 5).map((d) => ({ title: `${d.corp_name} — ${d.report_name}`, link: d.link, source: d.filer, date: d.receipt_date })) : []
     );
   }
 
   document.addEventListener("DOMContentLoaded", () => {
-    initMarket();
     initFinancial();
     initNews();
   });

@@ -23,21 +23,27 @@
       <div>
         <p class="eyebrow">외국인 지표 · KOSIS(원자료: 법무부 출입국·외국인정책본부)</p>
         <h1>체류외국인 통계</h1>
-        <p class="subtitle">체류자격별 분포와 연도별 추이를 확인하세요.</p>
+        <p class="subtitle">체류외국인 규모, 혼인·이동 통계, 체류자격별 분포를 확인하세요.</p>
       </div>
       <span class="updated-at" id="updated-at">데이터 갱신일 확인 중…</span>
     </div>
   </header>
 
   <main class="wrap">
+    <section aria-labelledby="news-heading" class="section">
+      <h2 id="news-heading">최신 외국인 관련 뉴스 &amp; 보고서 요약</h2>
+      <p class="section-desc">외국인 투자 동향·환율 관련 외국인 반응·글로벌 기관 보고서 헤드라인입니다 (Google News RSS).</p>
+      <div id="news-grid" class="link-list-grid"></div>
+    </section>
+
     <section class="section">
       <div class="card placeholder-card" style="min-height: auto; align-items: flex-start;">
         <span class="placeholder-badge">일부 준비중</span>
         <p class="placeholder-title">국적별 분포 · 국적취득(귀화) 현황은 아직 준비중입니다</p>
         <p class="placeholder-desc">
-          그 외 항목(체류외국인 총수·전년대비 증감률·연간 입국자수·체류자격별 분포·연도별 추이)은
-          KOSIS 국가통계포털이 재수록한 법무부 출입국통계로 채워져 있습니다. 국적별 분포와 국적취득
-          현황은 KOSIS에 없어 <a href="https://www.data.go.kr" target="_blank" rel="noopener">data.go.kr</a>
+          그 외 항목(체류외국인 총수·전년대비 증감률·연간 입국자수·외국인과의 혼인건수·체류자격별 분포·
+          최근 월별 국제순이동)은 KOSIS 국가통계포털이 재수록한 법무부 출입국통계로 채워져 있습니다.
+          국적별 분포와 국적취득 현황은 KOSIS에 없어 <a href="https://www.data.go.kr" target="_blank" rel="noopener">data.go.kr</a>
           법무부 Open API 서비스키 연동이 필요합니다 (PROJECT_SPEC.md 섹션 1-1).
         </p>
       </div>
@@ -45,20 +51,14 @@
 
     <section aria-labelledby="stat-heading" class="section">
       <h2 id="stat-heading">핵심 요약</h2>
-      <p class="section-desc">체류외국인 총수 · 전년대비 증감률 · 연간 입국자수 · 국적취득 현황</p>
+      <p class="section-desc">체류외국인 총수 · 전년대비 증감률 · 연간 입국자수 · 외국인과의 혼인건수 · 국적취득 현황</p>
       <div id="stat-grid" class="stat-grid" role="list"></div>
     </section>
 
     <section aria-labelledby="charts-heading" class="section">
       <h2 id="charts-heading">분포 및 추이</h2>
-      <p class="section-desc">국적별 분포 · 체류자격별 분포 · 연도별 추이</p>
+      <p class="section-desc">국적별 분포 · 체류자격별 분포 · 등록인구 연도별 추이 · 최근 월별 국제순이동</p>
       <div id="chart-grid" class="chart-grid"></div>
-    </section>
-
-    <section aria-labelledby="news-heading" class="section">
-      <h2 id="news-heading">외국인 관련 뉴스 &amp; 보고서</h2>
-      <p class="section-desc">외국인 투자 동향·환율 관련 외국인 반응·글로벌 기관 보고서 헤드라인입니다 (Google News RSS).</p>
-      <div id="news-grid" class="link-list-grid"></div>
     </section>
   </main>
 

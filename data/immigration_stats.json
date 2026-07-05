@@ -3,60 +3,72 @@
   "source": "KOSIS 국가통계포털 (통계청, 원자료: 법무부 출입국·외국인정책본부)",
   "stat_cards": {
     "total_foreign_residents": {
-      "name": "체류외국인 총수",
+      "name": "외국인 등록인구(체류외국인 총수)",
       "unit": "명",
       "series": [
         {
+          "period": "2012",
+          "value": 932983
+        },
+        {
+          "period": "2013",
+          "value": 985923
+        },
+        {
+          "period": "2014",
+          "value": 1091531
+        },
+        {
           "period": "2015",
-          "value": 1363712
+          "value": 1143087
         },
         {
           "period": "2016",
-          "value": 1413758
+          "value": 1161677
         },
         {
           "period": "2017",
-          "value": 1479247
+          "value": 1171762
         },
         {
           "period": "2018",
-          "value": 1651561
+          "value": 1246626
         },
         {
           "period": "2019",
-          "value": 1778918
+          "value": 1271807
         },
         {
           "period": "2020",
-          "value": 1695643
+          "value": 1145540
         },
         {
           "period": "2021",
-          "value": 1649967
+          "value": 1093891
         },
         {
           "period": "2022",
-          "value": 1752346
+          "value": 1189585
         },
         {
           "period": "2023",
-          "value": 1935150
+          "value": 1348626
         },
         {
           "period": "2024",
-          "value": 2042744
+          "value": 1488353
         }
       ],
       "latest_period": "2024",
-      "latest_value": 2042744,
-      "delta": 107594,
-      "delta_pct": 5.5599824303025605
+      "latest_value": 1488353,
+      "delta": 139727,
+      "delta_pct": 10.36069303127776
     },
     "yoy_change_rate": {
       "name": "전년대비 증감률",
       "unit": "%",
       "latest_period": "2024",
-      "latest_value": 5.5599824303025605
+      "latest_value": 10.36069303127776
     },
     "annual_entrants": {
       "name": "연간 입국자수",
@@ -108,6 +120,56 @@
       "delta": -28901,
       "delta_pct": -6.023953244067966
     },
+    "foreign_marriages": {
+      "name": "외국인과의 혼인건수",
+      "unit": "건",
+      "series": [
+        {
+          "period": "2016",
+          "value": 20591
+        },
+        {
+          "period": "2017",
+          "value": 20835
+        },
+        {
+          "period": "2018",
+          "value": 22698
+        },
+        {
+          "period": "2019",
+          "value": 23643
+        },
+        {
+          "period": "2020",
+          "value": 15341
+        },
+        {
+          "period": "2021",
+          "value": 13102
+        },
+        {
+          "period": "2022",
+          "value": 16666
+        },
+        {
+          "period": "2023",
+          "value": 19717
+        },
+        {
+          "period": "2024",
+          "value": 20759
+        },
+        {
+          "period": "2025",
+          "value": 20701
+        }
+      ],
+      "latest_period": "2025",
+      "latest_value": 20701,
+      "delta": -58,
+      "delta_pct": -0.27939688809672913
+    },
     "naturalization": null
   },
   "visa_status_distribution": {
@@ -140,6 +202,112 @@
         "value": 67.9
       }
     ]
+  },
+  "net_migration_trend": {
+    "name": "외국인 국제순이동(최근 월별)",
+    "unit": "명",
+    "series": [
+      {
+        "period": "202401",
+        "value": 1319
+      },
+      {
+        "period": "202402",
+        "value": 19360
+      },
+      {
+        "period": "202403",
+        "value": 31952
+      },
+      {
+        "period": "202404",
+        "value": 17047
+      },
+      {
+        "period": "202405",
+        "value": 9254
+      },
+      {
+        "period": "202406",
+        "value": -5427
+      },
+      {
+        "period": "202407",
+        "value": -97
+      },
+      {
+        "period": "202408",
+        "value": 31871
+      },
+      {
+        "period": "202409",
+        "value": 18274
+      },
+      {
+        "period": "202410",
+        "value": 1211
+      },
+      {
+        "period": "202411",
+        "value": -11946
+      },
+      {
+        "period": "202412",
+        "value": -15062
+      },
+      {
+        "period": "202501",
+        "value": -12218
+      },
+      {
+        "period": "202502",
+        "value": 17352
+      },
+      {
+        "period": "202503",
+        "value": 31320
+      },
+      {
+        "period": "202504",
+        "value": 13837
+      },
+      {
+        "period": "202505",
+        "value": 5127
+      },
+      {
+        "period": "202506",
+        "value": -8196
+      },
+      {
+        "period": "202507",
+        "value": -8640
+      },
+      {
+        "period": "202508",
+        "value": 27514
+      },
+      {
+        "period": "202509",
+        "value": 16855
+      },
+      {
+        "period": "202510",
+        "value": 4837
+      },
+      {
+        "period": "202511",
+        "value": -16345
+      },
+      {
+        "period": "202512",
+        "value": -21256
+      }
+    ],
+    "latest_period": "202512",
+    "latest_value": -21256,
+    "delta": -4911,
+    "delta_pct": 30.045885591924137
   },
   "nationality_distribution": null
 }

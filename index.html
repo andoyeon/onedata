@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>onedata — 시장 지표</title>
-  <meta name="description" content="KOSIS 국가통계포털의 최신 시장 지표를 시각화한 대시보드" />
+  <meta name="description" content="시장금리·가계수신·기업대출·카드소비 등 금융 지표 대시보드" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22><rect width=%2232%22 height=%2232%22 rx=%226%22 fill=%22%232563eb%22/><text x=%2216%22 y=%2222%22 font-size=%2216%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22sans-serif%22>K</text></svg>" />
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
   <link rel="stylesheet" href="css/tokens.css" />
@@ -21,54 +21,37 @@
   <header class="site-header">
     <div class="wrap header-row">
       <div>
-        <p class="eyebrow">시장 지표 · KOSIS 국가통계포털</p>
-        <h1>대한민국 통계 대시보드</h1>
-        <p class="subtitle">최근 발표된 인구·고용·물가 지표를 한눈에 확인하세요.</p>
+        <p class="eyebrow">시장 지표 · KOSIS/ECOS/DART</p>
+        <h1>금융 지표 대시보드</h1>
+        <p class="subtitle">시장금리·가계수신·가계대출·기업대출·카드소비·환율을 한눈에 확인하세요.</p>
       </div>
       <span class="updated-at" id="updated-at">데이터 갱신일 확인 중…</span>
     </div>
   </header>
 
   <main class="wrap">
-    <section aria-labelledby="stat-heading" class="section">
-      <h2 id="stat-heading">최근 발표 지표</h2>
-      <p class="section-desc">가장 최근 시점 값과 직전 시점 대비 증감입니다.</p>
-      <div id="stat-grid" class="stat-grid" role="list"></div>
-    </section>
-
-    <section aria-labelledby="charts-heading" class="section">
-      <div class="section-head-row">
-        <div>
-          <h2 id="charts-heading">지표별 추이</h2>
-          <p class="section-desc">그래프에 마우스를 올리면 시점별 값을 확인할 수 있습니다.</p>
-        </div>
-        <div class="filter-row" id="category-filter" role="group" aria-label="카테고리 필터"></div>
-      </div>
-      <div id="chart-grid" class="chart-grid"></div>
+    <section aria-labelledby="news-heading" class="section">
+      <h2 id="news-heading">최신 금융 뉴스 &amp; 공시 요약</h2>
+      <p class="section-desc">Google News RSS 주요 헤드라인과 DART 최근 공시입니다.</p>
+      <div id="news-grid" class="link-list-grid"></div>
     </section>
 
     <section aria-labelledby="financial-heading" class="section">
       <div class="section-head-row">
         <div>
           <h2 id="financial-heading">금융 지표</h2>
-          <p class="section-desc">시장금리·가계수신·기업대출·카드소비 — ECOS 미연동 항목은 준비중으로 표시됩니다.</p>
+          <p class="section-desc">ECOS 데이터가 있으면 우선 표시되고, 없으면 KOSIS 데이터로 대체됩니다. 아직 연동되지 않은 항목은 준비중으로 표시됩니다.</p>
         </div>
         <div class="filter-row" id="financial-filter" role="group" aria-label="금융 지표 서브카테고리 필터"></div>
       </div>
       <div id="financial-stat-grid" class="stat-grid" role="list"></div>
       <div id="financial-chart-grid" class="chart-grid" style="margin-top: var(--space-3)"></div>
     </section>
-
-    <section aria-labelledby="news-heading" class="section">
-      <h2 id="news-heading">금융 뉴스 &amp; 최근 공시</h2>
-      <p class="section-desc">Google News RSS 헤드라인과 DART 최근 공시입니다.</p>
-      <div id="news-grid" class="link-list-grid"></div>
-    </section>
   </main>
 
   <footer class="site-footer">
     <div class="wrap">
-      <p>출처: KOSIS 국가통계포털(통계청). 본 페이지는 학습·개인용 목적의 비공식 시각화이며, 공식 수치는 <a href="https://kosis.kr" target="_blank" rel="noopener">kosis.kr</a>에서 확인하세요.</p>
+      <p>출처: KOSIS 국가통계포털(통계청) · 한국은행 ECOS · DART 전자공시시스템. 본 페이지는 학습·개인용 목적의 비공식 시각화이며, 공식 수치는 각 기관 원본에서 확인하세요.</p>
     </div>
   </footer>
 
