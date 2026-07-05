@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-07-05T11:21:58+00:00",
+  "source": "한국은행 ECOS",
+  "category": "market-financial-ecos",
+  "indicators": [
+    {
+      "name": "한국은행 기준금리",
+      "category": "시장금리",
+      "unit": "%",
+      "area": "전국",
+      "period_type": "20260703",
+      "series": [
+        {
+          "period": "",
+          "value": 2.5
+        }
+      ],
+      "latest_period": "",
+      "latest_value": 2.5,
+      "delta": null
+    },
+    {
+      "name": "예금은행 수신금리",
+      "category": "가계수신",
+      "unit": "%",
+      "area": "전국",
+      "period_type": "202605",
+      "series": [
+        {
+          "period": "",
+          "value": 2.93
+        }
+      ],
+      "latest_period": "",
+      "latest_value": 2.93,
+      "delta": null
+    }
+  ]
+}
