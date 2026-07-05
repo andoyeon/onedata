@@ -1,31 +1,13 @@
 {
-  "generated_at": "2026-07-05T11:20:57+00:00",
+  "generated_at": "2026-07-05T22:02:04+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "제주로 돌아온 외국인 투자…상반기 호실적",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80UHFQNlR0SDFwS1B2U1l5MVZ4SXNvYlBITWdHSEQyaFMtMkw4NURDX3lmaXVaR2F5TW5QYU56UXJDVmQtS0NialBxemd5VXdsMFF0eU1wanROYlhPNmp5T3l4S3U5dVE?oc=5",
-      "source": "제민일보",
-      "date": "2026-07-05"
-    },
-    {
       "title": "[산업통상자원부] 새 정부 출범 후, 첫 번째 대구모 외국인 투자유치 행사 개최",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNDAwU0ZFNXJwb3JDV0F0VkVFbE05VFRIQTVGS2FzSlJzVnpuRnpWQ2dmSlRMdDRIT09ycHFINW1weXdRSE1XeWNwcm5ac20xaFd2U3RacldOaVV5ZFNfMUowZ1BXcEQxMjhZTERCYmVld3d3bU8zekZzOHZTYnE2cDdTRV8ydVdXVUxubTZtWUM0V3IzT2ZuMEJlMWNhQ2JMOHE1TWY3Z1otSHRVamx2c3VvY0xEY1ZPcUxmbzkwbzNFRW9mMjFPbklmRFV4WG1HTTJEX1NEZ0xmQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEFoYmVxM0IxVTNLTEZIYm5rV0ZqYVF1aDE2ME1WMDRqVzR0Szc0aXVXQ1I3MXd5aVN3dzJyVWxDeXhhdlU0RVFvY3hHQ1lTRXJndHlJWWljeC0xLWxaMmIxQkpSZjRCbDIwbGVnNVJlcVFVaUNPelRuYVFvTVExTVhZamtvWWx1eUdSUWxzMF9icVhhVGdZV3l4QzY5QUhJRjl3c204aUZ6Q0libGxIUjhRS0ZhV243QlA4SDZXVmJzT21tbFpENGM4QnFidjdKRGRvLWhEbVo?oc=5",
       "source": "국가기후위기대응위원회",
-      "date": "2026-07-04"
-    },
-    {
-      "title": "연준 손에 달린 환율… 외국인 증시자금도 변동성 좌우 [고환율 뉴노멀 시대 (상)]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nQ2tHcC1NTGRQRmhjdEczZVQ2S1NheFhRTGRiYXR2RHlZN1pxU2tNZkpYaFktRzVCVm9uMGg1S1dUUVN3TkY0ZDhlNWxRNVJoTGgydE9MdzZnQQ?oc=5",
-      "source": "파이낸셜뉴스",
       "date": "2026-07-05"
-    },
-    {
-      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
-      "source": "YTN",
-      "date": "2026-07-01"
     },
     {
       "title": "상반기 외국인직접투자 신고 142.8억달러… 9.1%↑",
@@ -34,21 +16,21 @@
       "date": "2026-07-03"
     },
     {
-      "title": "인천시, 외국인 투자기업과 협력 확대…글로벌 투자유치 강화",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lbmd0WkxSWG9OZzdWUkg3aXQxTDJQSnk3R2FPNS1TMTJrR2tyZGs0dFBZa0tWQ1lDQUFBWUprZmtyeHlLZG5nbWtTRHY5bm9fdS1DeTdCbTYteC1aRnVUTlBRUW5UOFB1Q1FWetIBbEFVX3lxTE5lbmd0WkxSWG9OZzdWUkg3aXQxTDJQSnk3R2FPNS1TMTJrR2tyZGs0dFBZa0tWQ1lDQUFBWUprZmtyeHlLZG5nbWtTRHY5bm9fdS1DeTdCbTYteC1aRnVUTlBRUW5UOFB1Q1FWeg?oc=5",
-      "source": "국민일보",
+      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
+      "source": "YTN",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "제주로 돌아온 외국인 투자…상반기 호실적",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80UHFQNlR0SDFwS1B2U1l5MVZ4SXNvYlBITWdHSEQyaFMtMkw4NURDX3lmaXVaR2F5TW5QYU56UXJDVmQtS0NialBxemd5VXdsMFF0eU1wanROYlhPNmp5T3l4S3U5dVE?oc=5",
+      "source": "제민일보",
       "date": "2026-07-05"
     },
     {
-      "title": "인천시, 외국인 투자기업과 라운드테이블...미래산업 투자환경 홍보",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHSmJlMnlsV3ZvMnNFZ1pVcmtxa0VNY1VpMnZ0QUplbVNaZ2VxWjJ4MTBpUUFsNDNxSnBXcWx2TGZNREZtZHZHU0trZTdjNkRxT19McXVrNWF3d9IBWEFVX3lxTE03RGpTT1lFcU1CcHFXc2J1bW9hUXJvRlR0ZW95aDljUWkzQ3pEdWN1aDBrU3NjWlBpdU8xWTVtSXlHUW1pMXVtekQ5cTdfY21fajlpaExrcXg?oc=5",
-      "source": "아주경제",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "인천시, 외국인 투자기업과 비즈니스 라운드테이블 개최",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jN0hnYzMyemFZbnlXQTdTdUt0cVZheDVfS2wzR0pIOFlWSjh3cXNCUGFYSWpmTE5GMkVIWTJtOXYycHNBcmU2YlJidzZraXd4aXJtcjdDd09NNHBKTlRjZDlvazMwUnBFQUFnOTc1Ymg?oc=5",
-      "source": "신아일보",
+      "title": "인천시-FORCA, 외국인 투자기업과 투자 협력 확대",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YNkh3M2FGR2tza1FoYzhZS0pIYV92aUFlbTZ0Z19qdkIyRWN4ZVVKd1pULVRSc0FlbTVaMGxBYXFFSnhYYldJNElJWkdEOFhjWExZQ2JvTjhIelV6WmRueE13bE5sMWZzMVZPUlp6T196RTQ?oc=5",
+      "source": "오늘경제",
       "date": "2026-07-05"
     },
     {
@@ -58,9 +40,21 @@
       "date": "2026-07-04"
     },
     {
-      "title": "인천시-FORCA, 외국인 투자기업과 투자 협력 확대",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YNkh3M2FGR2tza1FoYzhZS0pIYV92aUFlbTZ0Z19qdkIyRWN4ZVVKd1pULVRSc0FlbTVaMGxBYXFFSnhYYldJNElJWkdEOFhjWExZQ2JvTjhIelV6WmRueE13bE5sMWZzMVZPUlp6T196RTQ?oc=5",
-      "source": "오늘경제",
+      "title": "연준 손에 달린 환율… 외국인 증시자금도 변동성 좌우 [고환율 뉴노멀 시대 (상)]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nQ2tHcC1NTGRQRmhjdEczZVQ2S1NheFhRTGRiYXR2RHlZN1pxU2tNZkpYaFktRzVCVm9uMGg1S1dUUVN3TkY0ZDhlNWxRNVJoTGgydE9MdzZnQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "인천시, 외국인 투자기업과 비즈니스 라운드테이블 개최",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jN0hnYzMyemFZbnlXQTdTdUt0cVZheDVfS2wzR0pIOFlWSjh3cXNCUGFYSWpmTE5GMkVIWTJtOXYycHNBcmU2YlJidzZraXd4aXJtcjdDd09NNHBKTlRjZDlvazMwUnBFQUFnOTc1Ymg?oc=5",
+      "source": "신아일보",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "인천시, 외국인 투자기업과 협력 확대…글로벌 투자유치 강화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lbmd0WkxSWG9OZzdWUkg3aXQxTDJQSnk3R2FPNS1TMTJrR2tyZGs0dFBZa0tWQ1lDQUFBWUprZmtyeHlLZG5nbWtTRHY5bm9fdS1DeTdCbTYteC1aRnVUTlBRUW5UOFB1Q1FWetIBbEFVX3lxTE5lbmd0WkxSWG9OZzdWUkg3aXQxTDJQSnk3R2FPNS1TMTJrR2tyZGs0dFBZa0tWQ1lDQUFBWUprZmtyeHlLZG5nbWtTRHY5bm9fdS1DeTdCbTYteC1aRnVUTlBRUW5UOFB1Q1FWeg?oc=5",
+      "source": "국민일보",
       "date": "2026-07-05"
     },
     {
@@ -74,6 +68,12 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zTzQyUVN2TzlkUGZ2UjRnZDhLVXctam9OTnRRLTk0bk1WX0RkOWlyajdYa1ZzTHdNUjZhNEZ6bFZxM3hhdnhlZDVxSlZjN2pIbEtPRnB2Nk10WGpLaTl4YzQxOA?oc=5",
       "source": "더구루",
       "date": "2026-07-03"
+    },
+    {
+      "title": "인천시, 외국인 투자기업과 라운드테이블...미래산업 투자환경 홍보",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHSmJlMnlsV3ZvMnNFZ1pVcmtxa0VNY1VpMnZ0QUplbVNaZ2VxWjJ4MTBpUUFsNDNxSnBXcWx2TGZNREZtZHZHU0trZTdjNkRxT19McXVrNWF3d9IBWEFVX3lxTE03RGpTT1lFcU1CcHFXc2J1bW9hUXJvRlR0ZW95aDljUWkzQ3pEdWN1aDBrU3NjWlBpdU8xWTVtSXlHUW1pMXVtekQ5cTdfY21fajlpaExrcXg?oc=5",
+      "source": "아주경제",
+      "date": "2026-07-05"
     }
   ]
 }
