@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>onedata — 외국인 지표</title>
+  <meta name="description" content="법무부 체류외국인 통계 대시보드 (연동 준비 중)" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22><rect width=%2232%22 height=%2232%22 rx=%226%22 fill=%22%23059669%22/><text x=%2216%22 y=%2222%22 font-size=%2216%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22sans-serif%22>K</text></svg>" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+  <link rel="stylesheet" href="css/tokens.css" />
+  <link rel="stylesheet" href="css/components.css" />
+</head>
+<body>
+  <nav class="site-nav" style="--nav-accent: var(--accent-immigration)" aria-label="주요 메뉴">
+    <div class="wrap">
+      <a href="index.html">시장 지표</a>
+      <a href="immigration.html" aria-current="page">외국인 지표</a>
+    </div>
+  </nav>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <div>
+        <p class="eyebrow">외국인 지표 · 법무부 출입국·외국인정책본부</p>
+        <h1>체류외국인 통계</h1>
+        <p class="subtitle">국적별·체류자격별 분포와 연도별 추이를 확인하세요.</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="section">
+      <div class="card placeholder-card" style="min-height: auto; align-items: flex-start;">
+        <span class="placeholder-badge">데이터 연동 준비중</span>
+        <p class="placeholder-title">공공데이터포털(data.go.kr) 서비스키 발급이 필요합니다</p>
+        <p class="placeholder-desc">
+          법무부 출입국·외국인정책본부의 체류외국인 통계는
+          <a href="https://www.data.go.kr" target="_blank" rel="noopener">data.go.kr</a>에서
+          "법무부" + 원하는 통계명(예: 국적별 체류외국인 현황)으로 검색 → 활용신청 → 서비스키 발급 후
+          REST(JSON) 호출로 연동합니다 (PROJECT_SPEC.md 섹션 1-1). hikorea.go.kr 직접 크롤링은 사용하지 않습니다.
+          서비스키가 준비되면 <code>scripts/fetch_immigration.py</code>가 GitHub Actions에서 이 키(Secrets)로
+          데이터를 받아와 <code>data/immigration_stats.json</code>을 생성하고, 아래 카드/차트가 자동으로 채워집니다.
+        </p>
+      </div>
+    </section>
+
+    <section aria-labelledby="stat-heading" class="section">
+      <h2 id="stat-heading">핵심 요약</h2>
+      <p class="section-desc">체류외국인 총수 · 전년대비 증감률 · 연간 입국자수 · 국적취득 현황</p>
+      <div class="stat-grid" role="list">
+        <div class="card placeholder-card"><span class="placeholder-badge">준비중</span><p class="placeholder-title">체류외국인 총수</p><p class="placeholder-desc">데이터 연동 후 표시됩니다.</p></div>
+        <div class="card placeholder-card"><span class="placeholder-badge">준비중</span><p class="placeholder-title">전년대비 증감률</p><p class="placeholder-desc">데이터 연동 후 표시됩니다.</p></div>
+        <div class="card placeholder-card"><span class="placeholder-badge">준비중</span><p class="placeholder-title">연간 입국자수</p><p class="placeholder-desc">데이터 연동 후 표시됩니다.</p></div>
+        <div class="card placeholder-card"><span class="placeholder-badge">준비중</span><p class="placeholder-title">국적취득 현황</p><p class="placeholder-desc">데이터 연동 후 표시됩니다.</p></div>
+      </div>
+    </section>
+
+    <section aria-labelledby="charts-heading" class="section">
+      <h2 id="charts-heading">분포 및 추이</h2>
+      <p class="section-desc">국적별 분포 · 체류자격별 분포 · 연도별 추이</p>
+      <div class="chart-grid">
+        <div class="card placeholder-card"><span class="placeholder-badge">준비중</span><p class="placeholder-title">국적별 분포</p><p class="placeholder-desc">데이터 연동 후 막대/도넛 차트로 표시됩니다.</p></div>
+        <div class="card placeholder-card"><span class="placeholder-badge">준비중</span><p class="placeholder-title">체류자격별 분포</p><p class="placeholder-desc">데이터 연동 후 막대/도넛 차트로 표시됩니다.</p></div>
+        <div class="card placeholder-card"><span class="placeholder-badge">준비중</span><p class="placeholder-title">연도별 추이</p><p class="placeholder-desc">데이터 연동 후 라인 차트로 표시됩니다.</p></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>출처: 법무부 출입국·외국인정책본부(공공데이터포털 제공). 데이터 연동 전까지는 실제 수치가 표시되지 않습니다.</p>
+    </div>
+  </footer>
+</body>
+</html>

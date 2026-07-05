@@ -11,6 +11,13 @@
   <link rel="stylesheet" href="css/components.css" />
 </head>
 <body>
+  <nav class="site-nav" style="--nav-accent: var(--accent-market)" aria-label="주요 메뉴">
+    <div class="wrap">
+      <a href="index.html" aria-current="page">시장 지표</a>
+      <a href="immigration.html">외국인 지표</a>
+    </div>
+  </nav>
+
   <header class="site-header">
     <div class="wrap header-row">
       <div>
@@ -40,25 +47,16 @@
       <div id="chart-grid" class="chart-grid"></div>
     </section>
 
-    <section aria-labelledby="releases-heading" class="section">
-      <h2 id="releases-heading">최근 발표된 월간 지표</h2>
-      <p class="section-desc">KOSIS 월간 수록 지표 중 최근 갱신된 항목입니다.</p>
-      <div class="table-toolbar">
-        <input type="search" class="text-input" id="release-search" placeholder="지표명 검색…" aria-label="지표명 검색" />
+    <section aria-labelledby="financial-heading" class="section">
+      <div class="section-head-row">
+        <div>
+          <h2 id="financial-heading">금융 지표</h2>
+          <p class="section-desc">시장금리·가계수신·기업대출·카드소비 — ECOS 미연동 항목은 준비중으로 표시됩니다.</p>
+        </div>
+        <div class="filter-row" id="financial-filter" role="group" aria-label="금융 지표 서브카테고리 필터"></div>
       </div>
-      <div class="table-scroll">
-        <table class="data-table" id="releases-table">
-          <thead>
-            <tr>
-              <th scope="col">지표명</th>
-              <th scope="col">지역</th>
-              <th scope="col">단위</th>
-              <th scope="col">최근 시점</th>
-            </tr>
-          </thead>
-          <tbody id="releases-tbody"></tbody>
-        </table>
-      </div>
+      <div id="financial-stat-grid" class="stat-grid" role="list"></div>
+      <div id="financial-chart-grid" class="chart-grid" style="margin-top: var(--space-3)"></div>
     </section>
   </main>
 

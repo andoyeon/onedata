@@ -19,6 +19,35 @@ body {
   padding: 0 var(--space-4);
 }
 
+/* ---- GNB (spec 4-4) ---- */
+.site-nav {
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-nav .wrap {
+  display: flex;
+  gap: var(--space-4);
+  overflow-x: auto;
+}
+
+.site-nav a {
+  display: block;
+  padding: 14px 2px;
+  margin-bottom: -1px;
+  border-bottom: 2px solid transparent;
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.site-nav a[aria-current='page'] {
+  color: var(--text-primary);
+  border-bottom-color: var(--nav-accent, var(--accent-market));
+}
+
 .site-header {
   background: var(--bg);
   border-bottom: 1px solid var(--border);
@@ -252,6 +281,40 @@ h1 {
 .chart-table th:first-child,
 .chart-table td:first-child {
   text-align: left;
+}
+
+/* ---- Empty-state / placeholder card (spec 3-1: "준비중") ---- */
+.placeholder-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 132px;
+  border-style: dashed;
+  color: var(--text-secondary);
+}
+
+.placeholder-badge {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 3px 10px;
+  margin-bottom: var(--space-2);
+}
+
+.placeholder-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0 0 4px;
+}
+
+.placeholder-desc {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin: 0;
 }
 
 /* ---- Releases / data table ---- */

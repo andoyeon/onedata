@@ -114,40 +114,6 @@ ORDER = ["2314", "58", "279", "276", "59", "1364", "1374", "93", "4", "1209"]
 def period_sort_key(period: str) -> int:
     return int(period) * 100 if len(period) == 4 else int(period)
 
-# recent monthly-indicator catalog sample (from list_by_period M, page 1)
-RECENT_RELEASES = [
-    {"indicator_id":"65","indicator_name":"지가변동률","unit":"%","area":"전국","period":"2026년5월","period_end":"202605"},
-    {"indicator_id":"58","indicator_name":"소비자물가지수","unit":"2020=100","area":"전국","period":"2026년6월","period_end":"202606"},
-    {"indicator_id":"59","indicator_name":"생산자물가지수","unit":"2020=100","area":"전국","period":"2026년5월","period_end":"202605"},
-    {"indicator_id":"1964","indicator_name":"전산업생산지수(전년동월비)","unit":"%","area":"전국","period":"2026년5월","period_end":"202605"},
-    {"indicator_id":"1959","indicator_name":"온라인쇼핑몰 거래액","unit":"백만원","area":"전국","period":"2026년5월","period_end":"202605"},
-    {"indicator_id":"1960","indicator_name":"제조업생산지수(전년동월비)","unit":"%","area":"전국","period":"2026년5월","period_end":"202605"},
-    {"indicator_id":"1961","indicator_name":"소매판매액지수(전년동월비)","unit":"%","area":"전국","period":"2026년5월","period_end":"202605"},
-    {"indicator_id":"1965","indicator_name":"대기오염도(미세먼지(PM10))","unit":"μg/m³","area":"전국","period":"2025년8월","period_end":"202508"},
-    {"indicator_id":"114","indicator_name":"국내인구이동자수(시도내이동)","unit":"명","area":"전국","period":"2026년5월","period_end":"202605"},
-    {"indicator_id":"115","indicator_name":"국내인구이동자수(시도간이동)","unit":"명","area":"전국","period":"2026년5월","period_end":"202605"},
-    {"indicator_id":"118","indicator_name":"내국인 국제순이동","unit":"명","area":"전국","period":"2025년12월","period_end":"202512"},
-    {"indicator_id":"2314","indicator_name":"주민등록인구(전체)","unit":"명","area":"전국","period":"2026년6월","period_end":"202606"},
-    {"indicator_id":"2349","indicator_name":"주민등록인구(남자)","unit":"명","area":"전국","period":"2026년6월","period_end":"202606"},
-    {"indicator_id":"2350","indicator_name":"주민등록인구(여자)","unit":"명","area":"전국","period":"2026년6월","period_end":"202606"},
-    {"indicator_id":"1374","indicator_name":"혼인건수(월, 전국)","unit":"건","area":"전국","period":"2026년4월","period_end":"202604"},
-    {"indicator_id":"1375","indicator_name":"혼인건수 전년동월대비 증감률(월, 전국)","unit":"%","area":"전국","period":"2026년4월","period_end":"202604"},
-    {"indicator_id":"1378","indicator_name":"이혼건수(월, 전국)","unit":"건","area":"전국","period":"2026년4월","period_end":"202604"},
-    {"indicator_id":"1379","indicator_name":"이혼건수 전년동월대비 증감률(월, 전국)","unit":"%","area":"전국","period":"2026년4월","period_end":"202604"},
-    {"indicator_id":"1364","indicator_name":"출생아수(월, 전국)","unit":"명","area":"전국","period":"2026년4월","period_end":"202604"},
-    {"indicator_id":"1365","indicator_name":"출생아수 전년동월대비 증감률(월, 전국)","unit":"%","area":"전국","period":"2026년4월","period_end":"202604"},
-    {"indicator_id":"1368","indicator_name":"사망자(월)","unit":"명","area":"전국","period":"2026년4월","period_end":"202604"},
-]
-# de-duplicate by indicator_id, keep first occurrence
-seen = set()
-dedup_releases = []
-for r in RECENT_RELEASES:
-    if r["indicator_id"] in seen:
-        continue
-    seen.add(r["indicator_id"])
-    dedup_releases.append(r)
-dedup_releases.sort(key=lambda r: period_sort_key(r["period_end"]), reverse=True)
-
 indicators = []
 for iid in ORDER:
     meta = META[iid]
@@ -180,7 +146,6 @@ out = {
     "source": "KOSIS 국가통계포털 (통계청)",
     "category": "market",
     "indicators": indicators,
-    "recent_releases": dedup_releases,
 }
 
 data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
@@ -188,7 +153,7 @@ out_path = os.path.join(data_dir, "kosis_market.json")
 with open(out_path, "w", encoding="utf-8") as f:
     json.dump(out, f, ensure_ascii=False, indent=2)
 
-print(f"wrote {len(indicators)} indicators, {len(dedup_releases)} recent releases -> {out_path}")
+print(f"wrote {len(indicators)} indicators -> {out_path}")
 
 meta_path = os.path.join(data_dir, "meta.json")
 try:
@@ -197,7 +162,7 @@ try:
 except FileNotFoundError:
     meta = {"sources": []}
 
-meta["last_updated"] = GENERATED_AT
+meta["last_updated"] = max(GENERATED_AT, meta.get("last_updated", GENERATED_AT))
 sources = {s["id"]: s for s in meta.get("sources", [])}
 sources["kosis_market"] = {
     "id": "kosis_market",

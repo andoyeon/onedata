@@ -7,9 +7,7 @@
 
   const ACCENT = "var(--accent-market)";
 
-  function buildCategoryFilter(indicators, chartGrid) {
-    const container = document.getElementById("category-filter");
-    const categories = ["전체", ...Array.from(new Set(indicators.map((i) => i.category)))];
+  function buildSubcategoryFilter(container, categories, statGrid, chartGrid) {
     categories.forEach((cat, i) => {
       const chip = document.createElement("button");
       chip.type = "button";
@@ -19,38 +17,41 @@
       chip.addEventListener("click", () => {
         container.querySelectorAll(".filter-chip").forEach((c) => c.setAttribute("aria-pressed", "false"));
         chip.setAttribute("aria-pressed", "true");
-        chartGrid.querySelectorAll(".chart-card").forEach((card) => {
-          card.style.display = cat === "전체" || card.dataset.category === cat ? "" : "none";
+        [statGrid, chartGrid].forEach((grid) => {
+          if (!grid) return;
+          grid.querySelectorAll("[data-category]").forEach((card) => {
+            card.style.display = cat === "전체" || card.dataset.category === cat ? "" : "none";
+          });
         });
       });
       container.appendChild(chip);
     });
   }
 
-  function renderReleases(releases) {
-    const tbody = document.getElementById("releases-tbody");
-    const search = document.getElementById("release-search");
+  function renderPlaceholderCard(subcategory, reason) {
+    const card = document.createElement("div");
+    card.className = "card placeholder-card";
+    card.dataset.category = subcategory;
 
-    function render(filter) {
-      tbody.innerHTML = "";
-      const q = filter.trim().toLowerCase();
-      releases
-        .filter((r) => !q || r.indicator_name.toLowerCase().includes(q))
-        .forEach((r) => {
-          const tr = document.createElement("tr");
-          [r.indicator_name, r.area, r.unit, r.period].forEach((c) => {
-            const td = document.createElement("td");
-            td.textContent = c;
-            tr.appendChild(td);
-          });
-          tbody.appendChild(tr);
-        });
-    }
-    render("");
-    search.addEventListener("input", () => render(search.value));
+    const badge = document.createElement("span");
+    badge.className = "placeholder-badge";
+    badge.textContent = "준비중";
+    card.appendChild(badge);
+
+    const title = document.createElement("p");
+    title.className = "placeholder-title";
+    title.textContent = subcategory;
+    card.appendChild(title);
+
+    const desc = document.createElement("p");
+    desc.className = "placeholder-desc";
+    desc.textContent = reason;
+    card.appendChild(desc);
+
+    return card;
   }
 
-  async function init() {
+  async function initMarket() {
     const res = await fetch("data/kosis_market.json");
     const data = await res.json();
 
@@ -61,11 +62,48 @@
     data.indicators.forEach((ind) => statGrid.appendChild(renderStatCard(ind, ACCENT)));
 
     const chartGrid = document.getElementById("chart-grid");
-    data.indicators.forEach((ind) => chartGrid.appendChild(renderChartCard(ind, ACCENT, "시장 지표")));
+    data.indicators.forEach((ind) => {
+      const card = renderChartCard(ind, ACCENT, "시장 지표");
+      chartGrid.appendChild(card);
+    });
 
-    buildCategoryFilter(data.indicators, chartGrid);
-    renderReleases(data.recent_releases);
+    const categories = ["전체", ...Array.from(new Set(data.indicators.map((i) => i.category)))];
+    buildSubcategoryFilter(document.getElementById("category-filter"), categories, null, chartGrid);
   }
 
-  document.addEventListener("DOMContentLoaded", init);
+  async function initFinancial() {
+    const res = await fetch("data/kosis_financial.json");
+    const data = await res.json();
+
+    const statGrid = document.getElementById("financial-stat-grid");
+    const chartGrid = document.getElementById("financial-chart-grid");
+
+    const bySubcategory = new Map();
+    data.indicators.forEach((ind) => {
+      if (!bySubcategory.has(ind.category)) bySubcategory.set(ind.category, []);
+      bySubcategory.get(ind.category).push(ind);
+    });
+
+    data.subcategories.forEach((sub) => {
+      const inds = bySubcategory.get(sub);
+      if (!inds) {
+        statGrid.appendChild(renderPlaceholderCard(sub, "ECOS 미연동으로 해당 지표는 아직 준비 중입니다."));
+        return;
+      }
+      inds.forEach((ind) => {
+        const statCard = renderStatCard(ind, ACCENT);
+        statCard.dataset.category = ind.category;
+        statGrid.appendChild(statCard);
+        chartGrid.appendChild(renderChartCard(ind, ACCENT, "금융 지표"));
+      });
+    });
+
+    const categories = ["전체", ...data.subcategories];
+    buildSubcategoryFilter(document.getElementById("financial-filter"), categories, statGrid, chartGrid);
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    initMarket();
+    initFinancial();
+  });
 })();
