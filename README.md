@@ -9,16 +9,34 @@ PROJECT_SPEC.md 섹션 5 순서 기준:
 
 - [x] **1. 디자인 토큰 + 공통 카드/차트 컴포넌트 뼈대** — `css/tokens.css`, `css/components.css`,
       `js/render-cards.js`, `js/render-charts.js`.
-- [~] 2. DART 수집 스크립트 + Actions 워크플로 → 시장 지표 페이지 완성
-      — KOSIS 쪽 금융 서브카테고리(시장금리/가계수신/카드소비)까지는 채웠고, DART 연동과
-      Actions 자동화는 아직입니다.
+- [~] 2. DART/ECOS 수집 스크립트 + Actions 워크플로 → 시장 지표 페이지 완성
+      — `scripts/fetch_dart.py` + `.github/workflows/update-market.yml`은 실제로 동작합니다
+      (DART_API_KEY Secret 등록됨, 매일 자동 실행). `scripts/fetch_ecos.py`도 워크플로에 연결돼 있지만
+      **ECOS 통계표코드(`stat_code`/`item_code`)를 아직 안 채워서 지금은 스킵됩니다** — 아래
+      "남은 설정" 참고. KOSIS 쪽(`fetch_kosis.py`/`fetch_kosis_financial.py`)은 여전히 수동 스냅샷이며
+      KOSIS_API_KEY Secret은 등록돼 있지만 아직 스크립트에서 사용하지 않습니다 (tblId 매핑 필요).
 - [~] 3. data.go.kr 법무부 외국인 통계 연동 → 외국인 지표 페이지
       — KOSIS 100대 지표가 법무부 출입국통계를 일부 재수록하고 있어, 별도 서비스키 없이
       체류외국인 총수/전년대비 증감률/연간 입국자수/체류자격별 분포/연도별 추이는 실데이터로
-      채웠습니다. **국적별 분포와 국적취득(귀화) 현황은 KOSIS에 없어** data.go.kr 연동 전까지
-      "준비중"으로 남아있습니다.
+      채웠습니다 (`scripts/fetch_immigration.py`, `.github/workflows/update-immigration.yml`로 자동 재생성).
+      **국적별 분포와 국적취득(귀화) 현황**은 KOSIS에 없어 `scripts/fetch_immigration_datagokr.py`가
+      DATA_GO_KR_API_KEY로 채우도록 연결돼 있지만, **활용신청한 데이터셋의 실제 엔드포인트 URL을
+      아직 안 채워서 지금은 스킵됩니다** — 아래 "남은 설정" 참고.
 - [ ] 4. `build_catalog.py` + 검색 페이지
-- [ ] 5. (추후) ECOS 연동
+- [ ] 5. (추후) ECOS 직접 연동 후 MCP 등록
+
+### 남은 설정 (Secrets는 등록됐지만 코드에 값이 필요함)
+
+퍼블릭 레포라 실제 통계표코드/엔드포인트 값 자체는 민감정보가 아니지만, 정확한 값을 확인 없이
+지어내면 조용히 틀린 데이터가 들어갈 수 있어 자리만 만들어뒀습니다. 아래 값을 채우면 다음 스케줄
+실행부터 바로 반영됩니다.
+
+| 파일 | 채워야 할 것 | 찾는 곳 |
+|---|---|---|
+| `scripts/fetch_ecos.py` `CONFIG` | 시장금리/가계수신/기업대출 3개의 `stat_code`, `item_code1` | ecos.bok.or.kr → 100대 통계지표 또는 통계검색 → 코드 보기 |
+| `scripts/fetch_immigration_datagokr.py` `ENDPOINT_URL` | 활용신청 승인된 데이터셋의 실제 요청 주소 | data.go.kr 해당 데이터셋 페이지 → "Open API 개발가이드" 탭 |
+| `scripts/fetch_immigration_datagokr.py` `fetch_nationality_distribution`/`fetch_naturalization` | 실제 응답 필드명에 맞춘 매핑 (`nat_nm`/`ratio` 등은 자리표시자) | 위 개발가이드 탭의 출력결과 명세 |
+| `scripts/fetch_kosis.py` / `fetch_kosis_financial.py` | (선택) 실시간 전환 시 지표별 `tblId`/`objL1`/`itmId` | kosis.kr/openapi, 각 통계표 조회화면 URL |
 
 ## 페이지 구성
 
@@ -44,12 +62,20 @@ PROJECT_SPEC.md 섹션 5 순서 기준:
   /data
     kosis_market.json      # 시장지표 - KOSIS 스냅샷 (인구/물가/고용/인구동향/금융)
     kosis_financial.json   # 시장지표 - 금융 서브카테고리 스냅샷 (시장금리/가계수신/카드소비)
+    dart_market.json       # 시장지표 - DART 최근 공시 (fetch_dart.py가 매일 자동 생성)
+    ecos_market.json       # 시장지표 - ECOS 금융지표 (stat_code 설정 후 자동 생성)
     immigration_stats.json # 외국인지표 - KOSIS 재수록 법무부 출입국통계 스냅샷
     meta.json              # 데이터 소스 목록 + 최종 갱신 시각
   /scripts
-    fetch_kosis.py            # kosis_market.json 생성 스크립트
-    fetch_kosis_financial.py  # kosis_financial.json 생성 스크립트
-    fetch_immigration.py      # immigration_stats.json 생성 스크립트
+    fetch_kosis.py               # kosis_market.json 생성 스크립트 (수동 스냅샷)
+    fetch_kosis_financial.py     # kosis_financial.json 생성 스크립트 (수동 스냅샷)
+    fetch_dart.py                # dart_market.json 생성 — 실제 DART Open API 호출
+    fetch_ecos.py                # ecos_market.json 생성 — 실제 ECOS API 호출 (stat_code 설정 필요)
+    fetch_immigration.py         # immigration_stats.json 생성 스크립트 (수동 스냅샷)
+    fetch_immigration_datagokr.py # immigration_stats.json에 국적별분포/국적취득 추가 (엔드포인트 설정 필요)
+  /.github/workflows
+    update-market.yml      # DART/ECOS/KOSIS 시장 지표 매일 자동 수집 + 커밋
+    update-immigration.yml # 외국인 지표 매일 자동 수집 + 커밋
   /css
     tokens.css            # 디자인 토큰 (accent 컬러, 상승/하락 컬러, 간격 등 — 다크 고정)
     components.css        # 공통 컴포넌트 (GNB, 지표 카드, 차트 카드, 준비중 카드, 테이블, 툴팁)

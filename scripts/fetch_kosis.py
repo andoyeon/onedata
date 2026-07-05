@@ -6,9 +6,11 @@ catalog (via the koreaStat MCP tools) on 2026-07-04. Re-run this script
 after re-fetching fresh snapshots to refresh the site's dataset.
 
 TODO (PROJECT_SPEC.md 섹션 0/5-2): this currently bundles a hand-fetched
-snapshot. The planned production pipeline calls the KOSIS Open API
-server-side from a GitHub Actions cron job using a KOSIS_API_KEY secret
-(never a client-side key), and commits the resulting data/kosis_market.json.
+snapshot and does NOT read KOSIS_API_KEY yet — update-market.yml passes
+the secret in already, but wiring up real statisticsParameterData.do
+calls needs a per-indicator tblId/objL1/itmId lookup (see kosis.kr/openapi)
+that hasn't been done. Until then this script just re-writes the same
+snapshot on every scheduled run.
 """
 import json
 import os
