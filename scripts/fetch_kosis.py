@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-"""Build data/kosis_data.json from KOSIS indicator snapshots.
+"""Build data/kosis_market.json (시장 지표 - KOSIS) from KOSIS indicator snapshots.
 
 The raw series below were fetched from the KOSIS national statistics
 catalog (via the koreaStat MCP tools) on 2026-07-04. Re-run this script
 after re-fetching fresh snapshots to refresh the site's dataset.
+
+TODO (PROJECT_SPEC.md 섹션 0/5-2): this currently bundles a hand-fetched
+snapshot. The planned production pipeline calls the KOSIS Open API
+server-side from a GitHub Actions cron job using a KOSIS_API_KEY secret
+(never a client-side key), and commits the resulting data/kosis_market.json.
 """
 import json
 import os
@@ -173,12 +178,37 @@ indicators.sort(key=lambda i: period_sort_key(i["latest_period"]), reverse=True)
 out = {
     "generated_at": GENERATED_AT,
     "source": "KOSIS 국가통계포털 (통계청)",
+    "category": "market",
     "indicators": indicators,
     "recent_releases": dedup_releases,
 }
 
-out_path = os.path.join(os.path.dirname(__file__), "..", "data", "kosis_data.json")
+data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+out_path = os.path.join(data_dir, "kosis_market.json")
 with open(out_path, "w", encoding="utf-8") as f:
     json.dump(out, f, ensure_ascii=False, indent=2)
 
 print(f"wrote {len(indicators)} indicators, {len(dedup_releases)} recent releases -> {out_path}")
+
+meta_path = os.path.join(data_dir, "meta.json")
+try:
+    with open(meta_path, encoding="utf-8") as f:
+        meta = json.load(f)
+except FileNotFoundError:
+    meta = {"sources": []}
+
+meta["last_updated"] = GENERATED_AT
+sources = {s["id"]: s for s in meta.get("sources", [])}
+sources["kosis_market"] = {
+    "id": "kosis_market",
+    "label": "KOSIS 국가통계포털 (통계청) - 시장 지표",
+    "category": "market",
+    "path": "data/kosis_market.json",
+    "last_updated": GENERATED_AT,
+}
+meta["sources"] = list(sources.values())
+
+with open(meta_path, "w", encoding="utf-8") as f:
+    json.dump(meta, f, ensure_ascii=False, indent=2)
+
+print(f"updated {meta_path}")
