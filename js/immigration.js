@@ -4,8 +4,19 @@
 
   const { renderStatCard, formatNumber, formatPeriod } = window.RenderCards;
   const { renderChartCard, renderBarChart } = window.RenderCharts;
+  const { renderLinkListCard } = window.RenderNews;
 
   const ACCENT = "var(--accent-immigration)";
+
+  async function fetchJsonSafe(path) {
+    try {
+      const res = await fetch(path);
+      if (!res.ok) return null;
+      return await res.json();
+    } catch (e) {
+      return null;
+    }
+  }
 
   function renderPlaceholderCard(container, title, desc) {
     const card = document.createElement("div");
@@ -123,5 +134,19 @@
     chartGrid.appendChild(renderChartCard(trendIndicator, ACCENT, "외국인 지표"));
   }
 
-  document.addEventListener("DOMContentLoaded", init);
+  async function initNews() {
+    const newsGrid = document.getElementById("news-grid");
+    const news = await fetchJsonSafe("data/news_immigration.json");
+    renderLinkListCard(
+      newsGrid,
+      "외국인 관련 뉴스 · 보고서",
+      news ? `${news.source} · 갱신 ${new Date(news.generated_at).toLocaleDateString("ko-KR")}` : "Google News RSS",
+      news ? news.items : []
+    );
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    init();
+    initNews();
+  });
 })();
