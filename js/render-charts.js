@@ -325,5 +325,64 @@ window.RenderCharts = (function () {
     return card;
   }
 
-  return { renderLineChart, renderChartCard, buildTable };
+  function rightRoundedRectPath(x, y, w, h, r) {
+    const rr = Math.max(0, Math.min(r, w, h / 2));
+    return `M ${x} ${y} L ${x + w - rr} ${y} Q ${x + w} ${y} ${x + w} ${y + rr} L ${x + w} ${y + h - rr} Q ${x + w} ${y + h} ${x + w - rr} ${y + h} L ${x} ${y + h} Z`;
+  }
+
+  /**
+   * Render a horizontal bar chart (category label left, value at bar tip).
+   * @param {HTMLElement} container
+   * @param {object} opts {categories: [{label, value}], unit, accentColor}
+   */
+  function renderBarChart(container, opts) {
+    const { categories, unit, accentColor } = opts;
+    const rowH = 34;
+    const barH = 18;
+    const pad = { top: 8, right: 54, bottom: 8, left: 90 };
+    const w = 560;
+    const h = pad.top + pad.bottom + categories.length * rowH;
+    const plotW = w - pad.left - pad.right;
+    const maxV = Math.max(...categories.map((c) => c.value)) * 1.08 || 1;
+
+    const svgNS = "http://www.w3.org/2000/svg";
+    const svg = document.createElementNS(svgNS, "svg");
+    svg.setAttribute("viewBox", `0 0 ${w} ${h}`);
+    svg.setAttribute("class", "chart-svg");
+    svg.setAttribute("role", "img");
+    svg.setAttribute("aria-label", "체류자격별 분포 막대 차트");
+
+    categories.forEach((c, i) => {
+      const y = pad.top + i * rowH + (rowH - barH) / 2;
+      const barW = Math.max(2, (c.value / maxV) * plotW);
+
+      const label = document.createElementNS(svgNS, "text");
+      label.setAttribute("x", pad.left - 8);
+      label.setAttribute("y", y + barH / 2 + 4);
+      label.setAttribute("text-anchor", "end");
+      label.setAttribute("font-size", "12");
+      label.setAttribute("fill", "var(--text-secondary)");
+      label.textContent = c.label;
+      svg.appendChild(label);
+
+      const bar = document.createElementNS(svgNS, "path");
+      bar.setAttribute("d", rightRoundedRectPath(pad.left, y, barW, barH, 4));
+      bar.setAttribute("fill", accentColor);
+      svg.appendChild(bar);
+
+      const value = document.createElementNS(svgNS, "text");
+      value.setAttribute("x", pad.left + barW + 8);
+      value.setAttribute("y", y + barH / 2 + 4);
+      value.setAttribute("text-anchor", "start");
+      value.setAttribute("font-size", "12");
+      value.setAttribute("font-weight", "700");
+      value.setAttribute("fill", "var(--text-primary)");
+      value.textContent = `${c.value}${unit}`;
+      svg.appendChild(value);
+    });
+
+    container.appendChild(svg);
+  }
+
+  return { renderLineChart, renderChartCard, renderBarChart, buildTable };
 })();
