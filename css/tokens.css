@@ -1,20 +1,21 @@
-/* Design tokens — PROJECT_SPEC.md 섹션 4-1 */
+/* Design tokens — PROJECT_SPEC.md 섹션 4-1
+   현재 다크 테마를 기본값으로 배포 (요청에 따라 prefers-color-scheme 무관하게 고정). */
 :root {
-  /* 카테고리별 accent 컬러 */
-  --accent-market: #2563eb;       /* 시장지표: 블루 */
-  --accent-immigration: #059669;  /* 외국인지표: 그린 */
-  --accent-search: #6b7280;       /* 검색: 뉴트럴 그레이 */
+  /* 카테고리별 accent 컬러 (다크 표면 대비 확보를 위해 한 단계 밝게) */
+  --accent-market: #60a5fa;       /* 시장지표: 블루 */
+  --accent-immigration: #34d399;  /* 외국인지표: 그린 */
+  --accent-search: #9ca3af;       /* 검색: 뉴트럴 그레이 */
 
   /* 상승/하락 (통일해서 한 쌍만 사용) */
-  --color-up: #dc2626;
-  --color-down: #2563eb;
+  --color-up: #f87171;
+  --color-down: #60a5fa;
 
   /* 베이스 */
-  --bg: #ffffff;
-  --surface: #f8fafc;
-  --border: #e2e8f0;
-  --text-primary: #0f172a;
-  --text-secondary: #64748b;
+  --bg: #0b1120;
+  --surface: #111827;
+  --border: #1f2937;
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
 
   /* 타이포 */
   --font-sans: 'Pretendard', -apple-system, "Segoe UI", sans-serif;
@@ -29,23 +30,5 @@
 
   /* 라운드/그림자 */
   --radius-card: 12px;
-  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.06);
-}
-
-/* 다크모드: prefers-color-scheme 기반 대응 (선택사항, 권장) */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0b1120;
-    --surface: #111827;
-    --border: #1f2937;
-    --text-primary: #f1f5f9;
-    --text-secondary: #94a3b8;
-
-    /* 다크 표면 대비 확보를 위해 accent/상태 컬러를 한 단계 밝게 */
-    --accent-market: #60a5fa;
-    --accent-immigration: #34d399;
-    --accent-search: #9ca3af;
-    --color-up: #f87171;
-    --color-down: #60a5fa;
-  }
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
