@@ -1,13 +1,61 @@
 {
-  "generated_at": "2026-07-06T22:18:46+00:00",
+  "generated_at": "2026-07-07T22:15:43+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "외인·기관 순매도 공세…개인이 겨우 지키는 코스피",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yMzEzeklKQzFQUkpfSlo5a2JMaEw0VGZyQkR0bGx4S0dEV0oyMWR4NEI0ekNRek12ODVhczB4RU5xNk5tOHRiYjVIQVY4STloZFBGdE0tZ2J5UnNMNHUySXBMZlh4WWs?oc=5",
-      "source": "영남경제",
-      "date": "2026-07-06"
+      "title": "코스피 포워드 PER 6.43배…\"2008년 금융위기급 저평가 영역\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iaGpXc0dISlUwa1RBNk85aHFUNjZIYmw3YVJBYjQ2MUN3dmRUU3E4ZG45aWYxeWdGenptSmtYNy1JLUxMamFMWk9yTVYyYkFmLUFJY0RLWUV6OFd2NE5EZm1UWmVEbDFXSHZBVV9PbG0?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "美 기대인플레 급등에 흔들리는 금리 인하 기조",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhemRzUlBISU4zRUxaaEhORWNwMlNYNFlPWlg1em9CeXBZaVFCZHd2SkYzQ3N2NlFHZ2JNWm40VGxLRVJiTGtZT3ZHMDBBQUhQcmxUXzV5OV8zT0lTS1Nnd09kVzFleXds?oc=5",
+      "source": "ebn.co.kr",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "[논단]환율상승과 미국의 국제금융전략",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ocXIxc2NxQXBlYTFBSXlvLTFMcWxfdF9CZ05rQV9fM1NiTWx2dEtyNVBJZ25JLVN6dE9pdEJ1LWJzSDZjd0E3bWxrdHN2Wkh5SXNwTTQ3bl9LUEJMbldtUw?oc=5",
+      "source": "아시아경제",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "금융위, 중저신용자 대상 금리 인하·자금공급 확대 모색",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UWGtsNVNxQ3lmSkFnUkN2cS1WSU9LVG1MQ1RJM1N5YlU4c2U0aE1TZVpra1VoVy1VUGpuZWZFanM1ZVk4Z2lJVHZZdHVIRHh0VEE?oc=5",
+      "source": "매일경제 마켓",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "금융위, 중저신용자 '금리단층' 해소 시동…건전성 규제까지 손질",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWTEpkLXJmV25PR2phcWRBTDI2SkUtOWxRREZEVkpuQ3dkMnNvUVZySGc1Sk9qV1R3U0kzWDhJd2VycnI4aU85amx6Z1d3WnVkS0RpNFZfRjc1cVROOEZzei1YNjBKSTIz?oc=5",
+      "source": "녹색경제신문",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "코스피 4.91% 급락…장중 사이드카·서킷브레이커 이어져",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvTXB5RjNCeWdZWVJ2N2t5SE5BUmdtSnpveGk1b0NscThsbU1EUTB5ZzNBOWtua1d2ampsVzdLTWROS3pGMVl0LVdndTlac1dLTEowTFNYOWZ1YVNRc3hZSmZCb0ZSWmRSaWVTREo0RXl5Tk3SAXdBVV95cUxNVUVJSGpORUM4SldCQVZlWVRtMW9GRnB3NjlnVVVFdkhhcnFwcjNrOEI5Nm1JemY1dHR1OGExN1NDXzZjQVVEcDNLM1BLOWtoN1g1TG9ERUhLOHZFWGxnUm93eWRhem9Hc1FQcENPczhXLWVONTQ2cw?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "금융위, 중저신용자 '금리단층' 해소 착수…은행·2금융 협업 검토 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Mko4dF9ZVWNnSks1SnFTSWJXeXNQUmhpQ0I0aTQ4LTcyVDV1N1JpN25LZkxHRFNGZjBUMlU1NElaZHl1dFQ0bndfNUpwZVNUdVkzQzRCZnBoN0RaN193RGRLaHdocFRWc3RB0gFwQVVfeXFMT2trR1FrZjFHeGlHNDBuR1BrWUFRVEtQOEYzSFdqU0gtaFFuclRaWWtmY09ZcGJnVXUzaUN0MS1hRzJ0Nm00X3ZIUUdack1OczdHMlRFaTJydExVVmxPWGF2dXFjcjQ4Mk5aWFNha3JuNA?oc=5",
+      "source": "머니투데이",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "'변동성↑코스피'…이찬진 금감원장 \"과도한 레버리지 투자, 가계건전성 심각 훼손 우려\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LSElScDNlYXRDUDBvVU1KbXlkZ2h4b1NWV2RTdnlJb0JWRl9IT29PU2EySW9MNVhxR21rWHNSWGpOajdhdVllSHBvdXc0RUpMM3VaQkRtaWdKd0pobjctMA?oc=5",
+      "source": "KBC광주방송",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "중신용자 대출금리 최대 8.7%p 격차…금융당국, 금리단층 손본다",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2ZlbUFGYU1UVlJmeU10dzlCd19WcDJfUUZReEp4ZzNhbDNZM2ZaUDRjY3dvZTlUTWxkX3RObm1KQ2RucXBpS3pCLTZqUUNRalAyTU9JREZ3NEhFdHRVbURVNlR4SUVQWEZia1FiU2oyZ21ZS3h4SkxkS2Q1cjNJQlA1LXRWZUNpSVRJ?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "2026-07-07"
     },
     {
       "title": "\"코스피 카지노 됐는데 대통령은 관람만\"…안철수 \"금융수장들 파면해야\"",
@@ -16,64 +64,16 @@
       "date": "2026-07-06"
     },
     {
-      "title": "원·달러 24시간 거래 개시…고환율·금리 상승에 금융시장 '긴장'",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWVdTVkVMY1ZSUXc3LVJPaUg0blhROGRSQS1EZkFrNjd0QjdhN0RyOTA2Y2ZFQlV4Y2ZCQndycmludkhhNnNsTTZtcWdxUEp3Q2xOZFhMc19wUlRpTi02Y2xtVGdIZnlDWWg4Mw?oc=5",
-      "source": "프라임경제",
+      "title": "외인·기관 순매도 공세…개인이 겨우 지키는 코스피",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yMzEzeklKQzFQUkpfSlo5a2JMaEw0VGZyQkR0bGx4S0dEV0oyMWR4NEI0ekNRek12ODVhczB4RU5xNk5tOHRiYjVIQVY4STloZFBGdE0tZ2J5UnNMNHUySXBMZlh4WWs?oc=5",
+      "source": "영남경제",
       "date": "2026-07-06"
     },
     {
-      "title": "“환율 정상화? 기대 접으세요”…이젠 고환율이 뉴노멀인 시대",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbE5MODhSLTJjZzdrSjR5WERYRF9IZFRxZ2o5RDItU3E1cnNoTHZYZTQ2U2N5TmhmVDZhd2RYYS13S1BLeEg4YU1ObmVBZ0RwWGc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "맞춤형 재무상담 받고 청년미래적금 우대금리 0.2%p도 챙기고",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ZHdRTHpLUWV6QlVabUZ4WkM4VEw3SHZ5U29QVVRnS1RrbFQ0clRtQm94b0J5WEhVakw4NjhLbzc1NVRpR3V1WnRjdzNiakVfMUtnS3hvU3A4Y2NwTWc?oc=5",
-      "source": "한국방송뉴스",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "금융연 “구조적으로 오른 환율, 충격 없으면 과거로 돌아가기 어려워”",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SUWVacmJVT0lCcVM2dmUycXpDU1ByTXNKWl9yRFBwYUl2YWsxaDFVQlk1ZWVDaDVhVlF2NzlGdlR0b2Q1WU41cEk4c2NxNlBOS0dWai00RmlaVTZBcVhJaGJ1SGl6SFE?oc=5",
-      "source": "한겨레",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "코스피, 외국인·기관 매도에 8050선 후퇴",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UbFpfYnhvQ3pqRmFLRXRxeWFvQ3lmdnkyUW5aTXZ2ZmpsNXBMTzdYb00wY1VtM0xnd3BZQi1Mbk9HX0QyYnRySkRQZW5fU3FZWTBUeUFVUl9VeVFFb0hSNVlUWjBqU3lLVDl3Wl81WXdGREHSAXdBVV95cUxPWktsbVFLLTBMaDl4UGk2eDBzSmJ0S3JCcFUwamc4UUt2aUg2LXpiMWV0dktUdFVJR3JzVGpCTUFlMVhOUTdjQWxXbWRSXzFDckNYN3VhbFYwRWkyZ3I1eGFMYzFwMkUweXJpbDBFTE0xSUs5b0dQcw?oc=5",
-      "source": "스트레이트뉴스",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "한은 금리 인상 예고에 예금족 '눈치싸움'…\"지금 넣을까, 기다릴까\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxU2JZa0xXQll6VDV1ZWw0bTYzemhEclFKRHVKaVlFcV9GalBsTmpwZkxVaUw5NWt2UW0xYUlzQjBJZU9XWXVQeEVZeGRrYWlJNS1HQ3ZiamRxX3VUdjhsUVVR?oc=5",
-      "source": "뉴스1",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "상반기 코스피, 반도체 빼면 ‘보험’이 선두⋯금융·건설이 뒤 이어",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRUEpXSXJvallKM2xwanUxM3ZzMTBxTnJ4T1ktLTdyT1hEaDMzMXVVcDhpTzh1WGRlMU1Kc2JfSVY3WnBtRndWVGRRYnp6M2tRZjF5eg?oc=5",
-      "source": "이투데이",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "[굿모닝! 금융지식] 기준금리는 누가 정하고 왜 중요할까",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMXc2RS1KWC1zMXpJMlVfMldObkRHNXZZa1JWbFlpbmQ3cVZ5NmdSN3ZEeHJoUFZUZHZZanZnM2dlQmVJSFNGb1BYMXlydlk5UTMtbElkendXRmtwTGJkSUxtVllCUzlBZVg5Vw?oc=5",
-      "source": "굿모닝경제",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "\"안 떨어지는 달러-원, 경상수지 아닌 금융계정 영향…하반기 금리도 변수\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdXhIVUwycGEzci00anQ1amhxNTlzM0ZfMTFZZ19GOTFxXzI0NVlkbDNjaUdiS2M0LTdKVnlfbjdQLTFKd2FRODlBb2RRaERSSG9Pa1FaeDVmS0RFem13eldCa25udUJwemlfZ21JaDXSAXRBVV95cUxOY0VSVmw5Sk9tdEY5bWt6dlVYbUNyYUFIamFkaDZleXp5UVR5TUJpTTlHcDZ2WjJ3T2pSZDF2anNqSVdyT3paRUE5X09sbUR1X1ZpbVVoQUdyZFBxZlFCVzN5bTlXN0NBNW55YjFnVDl0M3FfNA?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "최근 인도네시아, 필리핀의 정책금리 인상과 시사점",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFJtSlZkSDU4elRWeHAyRlVxalYyM2lXbk9RTHFjdkVoeHNyakMzaGt4YXIxbU1kNl9mSElHRDhpMGU5SXZoOGZ1UzFkWFZ5SHBVa25MYjFyUGlKTmZMY3N4bW5zNF9CR1A1ZFdaN3Z4Z3VCZnFJOV90VWZkNGFIUw?oc=5",
-      "source": "한국개발연구원(KDI)",
-      "date": "2026-07-04"
+      "title": "삼성전자 호실적에도 외국인 매도 폭탄…코스피 ‘검은 화요일’",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5faVBHS2JHU0xRalljcTJSQXNCSmU5REEtTTB4N1kxYjl4UU5oZDM3dE04SWRoU3RiSi1kcWNWSjBBenBTQTczbkYtb2VYTjlwQk9SUFRabzhCbFFpd0hPQWI0VWlVM0p0ZWUw0gFuQVVfeXFMUEQ2X2plSlQ0R3BwNkItVExZYlF3V3FOeE5HNXp2SGdJSlVWam9OdzBVenhaUThzREFWVWVXMUZ0eU1YRno4aUtYR0Z4a0owaVN2LTNGQWwtc0J2d28xd25XT0pRblR3Q2tpRF8zM0E?oc=5",
+      "source": "뉴시안",
+      "date": "2026-07-07"
     }
   ]
 }
