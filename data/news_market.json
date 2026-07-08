@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-07-07T22:15:43+00:00",
+  "generated_at": "2026-07-08T22:12:19+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "‘美·이란 재충돌’에 코스피 장중 7100대까지 '급락'",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCYlZEVVZxYjBic1p6ZjREUFQxVEFEeWcxU0JBVmtSblQteHkzQzJYeHBHUnc3M0xDemdCMWxLTEVGampCOEdoWklva3JJZW5TbkZkaklqX3BaZjV6akZhNUotbTVTaEFsZFcybA?oc=5",
+      "source": "재외동포신문",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "실적시즌 다가오는 금융지주···증시 변동 속 ’방어주’ 위상 굳히기",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KQ0dRWDl3RWNHb0FMcUtrSVBUOV9ieEFUcWp5ZnJRMU9EWHZqRTJlTFJHdktuamVWZFp1bEw1VFg4WU5rTjY0Wlk3NnlRWFdCWUhFeVBUSEFQUHR4S2I0T0Q5X0Vqa0JuSzM3SnBadHFWQdIBdkFVX3lxTE4yMUFmczVHekhxOTNsV3Y1aWRzbU5lSVkwcW5xREw2dmRWT2FoWTRiN2FNZ3Ywd3NzNUVHZUVkSmtmbDBEWmxlMEpfR1BiUU1kM3dabG0wbC1tNXp4bkZVeTZVNGJtcG9OSzN2NzFpNDlNSkhuQ3c?oc=5",
+      "source": "시사저널e",
+      "date": "2026-07-08"
+    },
     {
       "title": "코스피 포워드 PER 6.43배…\"2008년 금융위기급 저평가 영역\"",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iaGpXc0dISlUwa1RBNk85aHFUNjZIYmw3YVJBYjQ2MUN3dmRUU3E4ZG45aWYxeWdGenptSmtYNy1JLUxMamFMWk9yTVYyYkFmLUFJY0RLWUV6OFd2NE5EZm1UWmVEbDFXSHZBVV9PbG0?oc=5",
@@ -10,52 +22,46 @@
       "date": "2026-07-07"
     },
     {
-      "title": "美 기대인플레 급등에 흔들리는 금리 인하 기조",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhemRzUlBISU4zRUxaaEhORWNwMlNYNFlPWlg1em9CeXBZaVFCZHd2SkYzQ3N2NlFHZ2JNWm40VGxLRVJiTGtZT3ZHMDBBQUhQcmxUXzV5OV8zT0lTS1Nnd09kVzFleXds?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "[논단]환율상승과 미국의 국제금융전략",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ocXIxc2NxQXBlYTFBSXlvLTFMcWxfdF9CZ05rQV9fM1NiTWx2dEtyNVBJZ25JLVN6dE9pdEJ1LWJzSDZjd0E3bWxrdHN2Wkh5SXNwTTQ3bl9LUEJMbldtUw?oc=5",
-      "source": "아시아경제",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "금융위, 중저신용자 대상 금리 인하·자금공급 확대 모색",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UWGtsNVNxQ3lmSkFnUkN2cS1WSU9LVG1MQ1RJM1N5YlU4c2U0aE1TZVpra1VoVy1VUGpuZWZFanM1ZVk4Z2lJVHZZdHVIRHh0VEE?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "금융위, 중저신용자 '금리단층' 해소 시동…건전성 규제까지 손질",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWTEpkLXJmV25PR2phcWRBTDI2SkUtOWxRREZEVkpuQ3dkMnNvUVZySGc1Sk9qV1R3U0kzWDhJd2VycnI4aU85amx6Z1d3WnVkS0RpNFZfRjc1cVROOEZzei1YNjBKSTIz?oc=5",
-      "source": "녹색경제신문",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "코스피 4.91% 급락…장중 사이드카·서킷브레이커 이어져",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvTXB5RjNCeWdZWVJ2N2t5SE5BUmdtSnpveGk1b0NscThsbU1EUTB5ZzNBOWtua1d2ampsVzdLTWROS3pGMVl0LVdndTlac1dLTEowTFNYOWZ1YVNRc3hZSmZCb0ZSWmRSaWVTREo0RXl5Tk3SAXdBVV95cUxNVUVJSGpORUM4SldCQVZlWVRtMW9GRnB3NjlnVVVFdkhhcnFwcjNrOEI5Nm1JemY1dHR1OGExN1NDXzZjQVVEcDNLM1BLOWtoN1g1TG9ERUhLOHZFWGxnUm93eWRhem9Hc1FQcENPczhXLWVONTQ2cw?oc=5",
+      "title": "코스피 7250선 붕괴…반도체 피크아웃 우려",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIQm04WEREM053d01GYTdCSDhTNFlreENkZjdPa2R0UUVNeDFYS2RBRThkQ0Y1Wi15bjQwVmRTR3h1MlBVb2d0VGhWVjhBbkVEWFprT0pEek40OFFpQ2NZczFSTGxxc2xjQnF0MHd0UnJpS3PSAXdBVV95cUxQbExwMTVGdzBoek5ZY1h6ay1pVTJtMHpyYzdmSEVwdXFTR0ZndThWM3FKci1CWWV5UzcwQVRlbllYTjNKSDFBRi1NVUNCa3U2NjQteF8tSy1iX0tjdEdjRWp5Y3RnNXVJTXN1WFNnUmY5Tm9ybmRuOA?oc=5",
       "source": "스트레이트뉴스",
-      "date": "2026-07-07"
+      "date": "2026-07-08"
     },
     {
-      "title": "금융위, 중저신용자 '금리단층' 해소 착수…은행·2금융 협업 검토 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Mko4dF9ZVWNnSks1SnFTSWJXeXNQUmhpQ0I0aTQ4LTcyVDV1N1JpN25LZkxHRFNGZjBUMlU1NElaZHl1dFQ0bndfNUpwZVNUdVkzQzRCZnBoN0RaN193RGRLaHdocFRWc3RB0gFwQVVfeXFMT2trR1FrZjFHeGlHNDBuR1BrWUFRVEtQOEYzSFdqU0gtaFFuclRaWWtmY09ZcGJnVXUzaUN0MS1hRzJ0Nm00X3ZIUUdack1OczdHMlRFaTJydExVVmxPWGF2dXFjcjQ4Mk5aWFNha3JuNA?oc=5",
-      "source": "머니투데이",
-      "date": "2026-07-07"
+      "title": "\"코리보 퇴출 카운트다운\" 금감원 금리전환 점검 착수…기업은행 '비상'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FQ3FWZFVicEg1T3Ztd1FITnpUZ2pFQVhZOFkxS0g1V2JLRGEzTjRNbkQ4MEVVYkZ1dFBuMXpGY3N2NTJMb2dpV3EyN0VEUmlxWGV1T2I2OW03YXRpT2dPbVNR?oc=5",
+      "source": "뉴스1",
+      "date": "2026-07-08"
     },
     {
-      "title": "'변동성↑코스피'…이찬진 금감원장 \"과도한 레버리지 투자, 가계건전성 심각 훼손 우려\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LSElScDNlYXRDUDBvVU1KbXlkZ2h4b1NWV2RTdnlJb0JWRl9IT29PU2EySW9MNVhxR21rWHNSWGpOajdhdVllSHBvdXc0RUpMM3VaQkRtaWdKd0pobjctMA?oc=5",
-      "source": "KBC광주방송",
-      "date": "2026-07-07"
+      "title": "'4%대 주담대'도 사라진다…계속 오르는 금리에 영끌·빚투족 한숨",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwWVppemd1bGV1QTVkMGc2OEJZZW5pY0JfbEc0YllYREtxY3dwNHJGR0dQUnY4akgtcWcycmV2LXJ3SDg1NW1iLVU0OFBmZFZiOWZ0QXE0QU5FUEgyRV9uN9IBeEFVX3lxTE1PaVh4SGRjbG5WZWllOWQ2T2dESkV2RDVtYXVwazlpTEpvYl84VUItQ0gzOHFPNzVuWUdERjhKbHZXbzNfWE5RZzRaZE42SE9XRXo1NzVFNkt5WHFhVGhMeWgyYzFHb2s5OHlFQ3dKbFhkLV80RHJvZw?oc=5",
+      "source": "뉴시스",
+      "date": "2026-07-08"
     },
     {
-      "title": "중신용자 대출금리 최대 8.7%p 격차…금융당국, 금리단층 손본다",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2ZlbUFGYU1UVlJmeU10dzlCd19WcDJfUUZReEp4ZzNhbDNZM2ZaUDRjY3dvZTlUTWxkX3RObm1KQ2RucXBpS3pCLTZqUUNRalAyTU9JREZ3NEhFdHRVbURVNlR4SUVQWEZia1FiU2oyZ21ZS3h4SkxkS2Q1cjNJQlA1LXRWZUNpSVRJ?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "2026-07-07"
+      "title": "'검은 수요일' 코스피 5% 급락…코스닥은 800선 하회",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZ2VKaVU4Q3VhRjQ5ZDRqbVl5SUJIWVpLbU5HeWVxMW9nNFZDYVdjRkpUM29SYk90RVo2UHVvc2MzQU5peXZ5c0RYRzJveFRBUzBvemdDc1ZDTllVOTFZbmw0ZzBNYTdaSXc?oc=5",
+      "source": "금융소비자뉴스",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "반도체 피크론 우려에 코스피 5%대 급락",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93VmdjR2FJZ0NPOUs4eEZTRnVCXzBsYUNCOXRLbDVpV2JuR0dlcXloOHlkZHBvZlVSN2l0d0tWVnZhUWdJbnFxX3dTSUFKUFg5ay10WmFXZjJtTmZvNEl6RHR0WE1TUTRJX3c?oc=5",
+      "source": "중부매일",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "롤러코스피에도 든든한 은행주...KB·신한·하나 '기관 매수 집중'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpR3phbldBUVFsWWs4QnE5NmdMT0ZIT1dScVhSV0hRTS1OanB3TkFvdDIzOGM4TzFBSVdiWnVUd1g1MHBNMnZGYzlqSk9PaWU1cm0yVmZYS0RBY0dmU1FjelhTeWVkQ3dHT2ItZ2d4dTM?oc=5",
+      "source": "오피니언뉴스",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "‘검은 화요일’ 이어 ‘검은 수요일’…코스피, 7000선도 ‘위태’",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KYVFOLUhKZlZZRExxd3dmUkdrVS1xcTJDWmwtSnFJaGVEQ1QyV2hoUjlCRGRTdGRsME9LWFdnaHdNODV0RTR2VllyblRrY094dlM3emxxQjNBWWswMnk0UGJQX2V2T2xHWW9V0gFuQVVfeXFMTmZhWFdZdXN4cUdGejVmeHI1NG5EaFU3clpSamZjRWxlUTRJZDlTMW9pOGttVW9ncmdocDZacVBubnVVTWF3cEZrT09CRUNISDBJM0JUN042LWtza1dWeUdHN0VTalVNNUpxX21meXc?oc=5",
+      "source": "뉴시안",
+      "date": "2026-07-08"
     },
     {
       "title": "\"코스피 카지노 됐는데 대통령은 관람만\"…안철수 \"금융수장들 파면해야\"",
@@ -64,16 +70,10 @@
       "date": "2026-07-06"
     },
     {
-      "title": "외인·기관 순매도 공세…개인이 겨우 지키는 코스피",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yMzEzeklKQzFQUkpfSlo5a2JMaEw0VGZyQkR0bGx4S0dEV0oyMWR4NEI0ekNRek12ODVhczB4RU5xNk5tOHRiYjVIQVY4STloZFBGdE0tZ2J5UnNMNHUySXBMZlh4WWs?oc=5",
-      "source": "영남경제",
+      "title": "금융硏,“1500원대 환율…상당 기간 유지될 가능성 높아”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93U2FmckFwX0toNXpoQ3pNWmEwYXVKaThHU003UnVRSGdCc3hFTlNqQUJJdndfS1JfaG5pa3hjOGlvLUdWWGNjOWZYRzM5NnJfOWc?oc=5",
+      "source": "매일경제 마켓",
       "date": "2026-07-06"
-    },
-    {
-      "title": "삼성전자 호실적에도 외국인 매도 폭탄…코스피 ‘검은 화요일’",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5faVBHS2JHU0xRalljcTJSQXNCSmU5REEtTTB4N1kxYjl4UU5oZDM3dE04SWRoU3RiSi1kcWNWSjBBenBTQTczbkYtb2VYTjlwQk9SUFRabzhCbFFpd0hPQWI0VWlVM0p0ZWUw0gFuQVVfeXFMUEQ2X2plSlQ0R3BwNkItVExZYlF3V3FOeE5HNXp2SGdJSlVWam9OdzBVenhaUThzREFWVWVXMUZ0eU1YRno4aUtYR0Z4a0owaVN2LTNGQWwtc0J2d28xd25XT0pRblR3Q2tpRF8zM0E?oc=5",
-      "source": "뉴시안",
-      "date": "2026-07-07"
     }
   ]
 }
