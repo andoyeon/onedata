@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T21:51:35+00:00",
+  "generated_at": "2026-07-13T21:57:03+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
@@ -8,6 +8,12 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYmdDSldBdkxYSUZCaXdYOTJXaDJKelIzRFRrVThJdHU2SUdxUEk2dENJWVlsODV2X0sxRk9vNklDZndLdVBLRG1KRUJWVnc2dDN4cGU0NUZOcGpXZVdpRFk2V051X0RGWVJpa1Faalh2QzA3RVBCNXZ2NjdfMWhxeHhEZWNuTkZsZWloQW1jNG5raUM5SDhuTWpiUVkwRGQtR2Yxd1VfUy01S19QMExtdkc0S19lcTlaUFFpXzFBQ1BwQ1k4Q0FjdlNYRHkzR2ZLd2JTUE1yN1NPcDl3d05RU3dn?oc=5",
       "source": "국가기후위기대응위원회",
       "date": "2026-07-10"
+    },
+    {
+      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
+      "source": "YTN",
+      "date": "2026-07-02"
     },
     {
       "title": "정부의 '오픈북' 증시 정책이 부른 폭락장 … 국민연금, 외국인 'ATM'으로 전락했다",
@@ -22,28 +28,16 @@
       "date": "2026-07-09"
     },
     {
-      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
-      "source": "YTN",
-      "date": "2026-07-02"
-    },
-    {
       "title": "트럼프 \"외국인투자 21조달러\" 주장…NYT \"순투자 오히려 감소\"",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40UEVsNzNTS0g3Z3hkMTNvbmoxcGtVb0ZjYWNITnV1anM3UjhNaUdzN2gyTjNaaUdaNkN3ZWIxN0pYN0hHUlcyclpLbmhBeVNER1ZxV1JnX1c?oc=5",
       "source": "뉴스1",
       "date": "2026-07-08"
     },
     {
-      "title": "150조 '셀 코리아' 멈춘 외국인…코스피 반등 신호탄 될까",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTLXF6MUJXOGV1aC05dF9CQUtQcXBwNWdHUWdscTlzSS1SeWFka3FLeUpZdlhBX1dna0J0d1pNNExxckNjQzQ2MUxpVF9WbzNXRGNlOEozRjcwRG4tdjZIaGQ3TUk0SVZYc0VlTl930gFzQVVfeXFMTm1WZlZydVB6Nm1ySFg4WTVEMS1uNnluYXZ4YURQeDRyWjRBWkJGZWZqa1FKSjFkUVg3eVNKWlhIT0p0N0RyemZtMEJ0bnpUdExyVndtcER5R0J6OEhsTVY0a1Y4QVZrbnllRzVpRGhGRDVwQQ?oc=5",
-      "source": "한국일보",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "베트남, 선별적 외국인 투자유치로 선회...질적 측면 중시",
-      "link": "https://news.google.com/rss/articles/CBMiiwZBVV95cUxPWGFsZ1ZGR2NiZDZ0VVJNLXVLSV9ncnNoM0VEc0lVRDlZOVhCaFN4UHhpaFZkbmMzUG1ySTdKd0M3b09rT25KSGFhYnlGdnZuV1RkSnlHOXRoMF9PM3k5eFFIZmxTaTZRTmlyc1ZSU0JwVlA5X0RVb0lyVEdZSXhsVmZCVExwb0Fja3NUV0ZQM3MwNUp5aVFqOTlFdExMM21LRGZPUmNkSDQ5QzF5TzJUMnhlOFEtRC15aW9tdWRuY05SRFpOdVBDUGFfU240c1BHVHllV0JNVE5aZ1c1WDU2ajV3aS1ac3htTEZTN0gtd2NTa1dWVUZOT1Y4bnFSWE1tU1BJdDEyMUx4SHQzZzNnVmtkZXhNaUhCVmxXbTduXzFxRng3T3h5Wi1pTWp2WkRpT3BpM05rbXhjakxLdGNQSGRpTWFPa0ZaRlA4cnVHejQwajNwTF9IbFl0QXBJQ1N1cndYX3NBZERQRTF3YkR3ZlpvdWVEdFc1clFOS2NETGVlVHloN3ZSVjloUDdqaHV6WktRVVhqY3UtYWJsMmNQM1YySmpVcDNPbHBwQ2FLX180VWdHYWtiZnFpNUpDZmd1TExoalFvclJTM0pUYlF1cFFtcmVkZHp3UTNmYzQzUnF4dS1uTmRWM1ZvZl8wQTE4dldKa0NrNE5lREJEdVZSdTk2MW1FVG04WjIwLVVydWdzYi1DeDhmV1ZHeFVNSU5OdFlCaVY1T0M0Q293bUFaQVQtdXVOT2JMZ0NkVXdUY1k1c2ZhTnJyMFZJSTU2NkJtbFh3M0lGOU5TUlNyVGlBVHpzTWxPME00Qm5CbnQwRlFWVDlUYTFLZEdFY05IdVBwNmM2NVNUbThNWVY0WWZ3OV8tRTVLS1UwVmJtSm44WVJ3UkJ6WHh6UklEN0g0dFJFbkFjbTlLeUFnZks4Z2EtNThWT01GeWk5UzVGby1kY0RuVS1JazJMeE9xT20yYVpxbFRyX3E0bV9VSDlQZjJkWWhVdTUxS29vWi1XTHVCLTVxcWFkYW5ac2paOA?oc=5",
-      "source": "Thông tấn xã Việt Nam (TTXVN)",
-      "date": "2026-06-30"
+      "title": "우수한 외국인 직접투자(FDI)를 유치하는 것은 경쟁력 강화의 핵심입니다.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2xQUW1Cakx2akR2aGp0QWpSd09VNDVJYXJMdzZpZHdFelRwcllUdV9LejFKNjFONi12U1BiQW1PYUdfV1FnUHA0UkhEczh4RVRKdWNqVWJsaXVSdHRNQ0Ztb2ZDSlNoZ2NGOE1tVmRrRlBFQ2pJSmFEa2YxR1A3bTBOTFl6cnZkX0ZpQWRtS1VaNHpD?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-07-13"
     },
     {
       "title": "2026년 상반기 외국인직접투자 동향",
@@ -64,15 +58,21 @@
       "date": "2026-07-09"
     },
     {
-      "title": "외국인 투자 유치 강화 및 산업 발전의 새로운 동력 창출 - 제1부: 투자 유치 공간 확대",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0xhdUFCT0xXdjdvQ2hUejlWZEZPY3JpaVpVZWVwWU80Y2FrZWtqckJUelFiTnFTSHpVUEw2YlctSGJHSkNkcV9fLUVtOVZWQVZGc0tEVGx1ODBEdE9kRzVCUGdBMHRDNzZmVmZHYUh2bktWRXhPSVFKSTl4MHF5WkdsUVVOSVNYb19zbTVacGRCSGlUU0QxLXR2cXlWV19fNDIxNllUVTE3YUVfblk3dXFtYU1oWDFuX3BnNC1VaGdSM0JNeFlzYjliZVRHWk9paU1qLVBrOU9OVnRuc19v?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-07-09"
-    },
-    {
       "title": "상반기 외국인직접투자 신고 142.8억달러… 9.1%↑",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYkZfN3c1UTVaYndadjFHdTFPYVgwZTJ2ZDRYQW96ajBJaG5TdkVuY0d3UGswT2ZkQXRpaHRtQnZBa3hTMTMyc0ZzelpjTl9BWUZmTnBEbDg1Q3k5aXZveEVTcmpYeWRsM0pkaNIBcEFVX3lxTE9kcWM0bHpYUWswNFIwR1hvZU9TQl9aQTJQb0czcDh0SWRjS25nTmtBVVZwLVJVcW5yM3E0Z1RpNDQtVmk0d3dMNnZVS01QQnhmOXFDSmFZNnNzVzB5eTc0YWNLRGxxWThud21US19USkQ?oc=5",
       "source": "전기신문",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "[투자] 앞으로 5년 간 외국인직접투자 2천억~3천억 달러 유치 목표 제시",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qT0lBR1NUaHh0QmFFSl84N0xmUEhtcDVydEV5MUhwdGhMUE5lU3RJT0llWTExelNvNDQ5aEtFcjgwMWt0RXpJbmNjRmhUY0lTZjc1Vl8xT1BMalk2LWEzemVHTW5yNnlidVRFZmhQLWk?oc=5",
+      "source": "굿모닝베트남미디어",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "상반기 외국인투자 9.1% 늘었지만 … 美·EU·日·中 4대 투자국 모두 '마이너스'",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MOGRXcl9DMGV0YjlDcGwyUXg3eUVlRVZKMXZDZjZHU0ZJdHZmaGRSY3dONkJuNG5FT1pfWlBfZU5sdEFkM1l6bzBibWFrb0RzX3EzX3RnZGgxRUZtZldsbEhKZEM1YjhXNm1yeFdrbWI5UTlCa1NHaUZyb9IBgAFBVV95cUxNWDREVVNmd3lRb3lkRUtWSzA2NkU4bjdQcTJxWWpzbUxsWHpGX0dNdmVlell1WHZaTnBITGg2Y010R1htb2Vfek9iNUFpOWpqUkdRcGFQdS0yUzhOQ0IyVHRvUUJqbmhiSWxvU2k3djZZNnVseUV6Rm95bEhpUmwzdQ?oc=5",
+      "source": "뉴데일리",
       "date": "2026-07-03"
     }
   ]
