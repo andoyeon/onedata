@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T21:57:03+00:00",
+  "generated_at": "2026-07-14T21:57:48+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
@@ -28,15 +28,9 @@
       "date": "2026-07-09"
     },
     {
-      "title": "트럼프 \"외국인투자 21조달러\" 주장…NYT \"순투자 오히려 감소\"",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40UEVsNzNTS0g3Z3hkMTNvbmoxcGtVb0ZjYWNITnV1anM3UjhNaUdzN2gyTjNaaUdaNkN3ZWIxN0pYN0hHUlcyclpLbmhBeVNER1ZxV1JnX1c?oc=5",
-      "source": "뉴스1",
-      "date": "2026-07-08"
-    },
-    {
-      "title": "우수한 외국인 직접투자(FDI)를 유치하는 것은 경쟁력 강화의 핵심입니다.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2xQUW1Cakx2akR2aGp0QWpSd09VNDVJYXJMdzZpZHdFelRwcllUdV9LejFKNjFONi12U1BiQW1PYUdfV1FnUHA0UkhEczh4RVRKdWNqVWJsaXVSdHRNQ0Ztb2ZDSlNoZ2NGOE1tVmRrRlBFQ2pJSmFEa2YxR1A3bTBOTFl6cnZkX0ZpQWRtS1VaNHpD?oc=5",
-      "source": "Vietnam.vn",
+      "title": "외국인 매도에 환율 다시 1500원대…시장 \"ADR 자금 유입 땐 안정될 것\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHkzZUt0cmhTNXRoUXI0YXVzc1dEaUQ4OHlCWThHRFBZMmlpQk9OaFVueGItNDBSRzJuXzFpeXRoQnFQaHdQMzY0LXgxWGwxcjlxeFhVZ19QOWVfb3NtQUY5Yko2VS0wajBpT09BRVNIUS0tQkszZ2U2S3puM0VDbg?oc=5",
+      "source": "edaily.co.kr",
       "date": "2026-07-13"
     },
     {
@@ -52,12 +46,6 @@
       "date": "2026-06-23"
     },
     {
-      "title": "결의안 10은 양질의 외국인 투자를 유치하는 데 새로운 동력을 불어넣습니다.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUE4WDNFY1ZHTmc2TnRuQndiWHhCS3VIT05BbldHaGJvVEZ2U2hlOWEyT0pMVi03V3FwT0ZhOGEwSWFqM1dHRlZFSVVpTGJHLUt6ZEdvODBlNjZRN24zam03OVVoN2NVVVh1RjR1dlY5cmlhUEYtLW0xY1Bocmc2RVRDUWZjS2lLbkNaUGJSWEMwS3dOOGMyT1NyQ2lyUQ?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-07-09"
-    },
-    {
       "title": "상반기 외국인직접투자 신고 142.8억달러… 9.1%↑",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYkZfN3c1UTVaYndadjFHdTFPYVgwZTJ2ZDRYQW96ajBJaG5TdkVuY0d3UGswT2ZkQXRpaHRtQnZBa3hTMTMyc0ZzelpjTl9BWUZmTnBEbDg1Q3k5aXZveEVTcmpYeWRsM0pkaNIBcEFVX3lxTE9kcWM0bHpYUWswNFIwR1hvZU9TQl9aQTJQb0czcDh0SWRjS25nTmtBVVZwLVJVcW5yM3E0Z1RpNDQtVmk0d3dMNnZVS01QQnhmOXFDSmFZNnNzVzB5eTc0YWNLRGxxWThud21US19USkQ?oc=5",
       "source": "전기신문",
@@ -70,9 +58,21 @@
       "date": "2026-06-24"
     },
     {
+      "title": "트럼프 \"외국인투자 21조달러\" 주장…NYT \"순투자 오히려 감소\"",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40UEVsNzNTS0g3Z3hkMTNvbmoxcGtVb0ZjYWNITnV1anM3UjhNaUdzN2gyTjNaaUdaNkN3ZWIxN0pYN0hHUlcyclpLbmhBeVNER1ZxV1JnX1c?oc=5",
+      "source": "뉴스1",
+      "date": "2026-07-08"
+    },
+    {
       "title": "상반기 외국인투자 9.1% 늘었지만 … 美·EU·日·中 4대 투자국 모두 '마이너스'",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MOGRXcl9DMGV0YjlDcGwyUXg3eUVlRVZKMXZDZjZHU0ZJdHZmaGRSY3dONkJuNG5FT1pfWlBfZU5sdEFkM1l6bzBibWFrb0RzX3EzX3RnZGgxRUZtZldsbEhKZEM1YjhXNm1yeFdrbWI5UTlCa1NHaUZyb9IBgAFBVV95cUxNWDREVVNmd3lRb3lkRUtWSzA2NkU4bjdQcTJxWWpzbUxsWHpGX0dNdmVlell1WHZaTnBITGg2Y010R1htb2Vfek9iNUFpOWpqUkdRcGFQdS0yUzhOQ0IyVHRvUUJqbmhiSWxvU2k3djZZNnVseUV6Rm95bEhpUmwzdQ?oc=5",
       "source": "뉴데일리",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "상반기 외국인투자 도착 107억달러 '역대 최대'",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxNktzMGJ2Mjd1aDRCQkFvZ29jYmZZSXNaVXA1NU1zR0FNX0gyUEdlVmpySjRUZzVxZWpFN2VDNWVJc2MwYWFRblFxZ1FUdEE?oc=5",
+      "source": "v.daum.net",
       "date": "2026-07-03"
     }
   ]
