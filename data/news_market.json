@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-07-20T22:04:36+00:00",
+  "generated_at": "2026-07-21T22:07:10+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "KB금융·신한지주 … 증시 먹구름 뚫는 은행株",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTmF2cm5PQUNMcGxSbE5VT2l2OWdTQTcyRXdrX0xPa0ZWUDlyQnhKajliUkJjM0JCQ3NUWnFVdmd5NE9yQ3czcU9GYmc4dHFQdWc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "[금융 한 입] 증시 급락세는 숨고르기? AI 슈퍼사이클 종료?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uUFJlYVFadWFlLThBUThpOEc3REpGLWlwTWh0MndCYXQzMTNqSm5BWm84aHB0MGxTbDdSSnM0c0xySGdxR05aY2k1Q1gtUERXNnNyUE1peUJjcDUtZV9JZWl6VVZMdlk2ZHlN?oc=5",
-      "source": "BBS불교방송",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "코스피, 금융위기급 저평가… 美 빅테크 실적이 반등 열쇠",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwREFFMzk2Mm9NT3BUUVF1QjVKZzE5R1hRVUhmbDVFeDY1aHJHdjU0cDllNEFYVTFfeHpMY1NUOFhoSTFEOUxYOEFpZkczWVA2dXVFU055Z2UwZjdYZ21SRUVLSF8?oc=5",
-      "source": "MTN 머니투데이방송",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "코스피, 금융위기급 저평가… 美 빅테크 실적이 반등 열쇠",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1tUDZoWTBiR2N6MjQ1OC1wSG5YRzBzM3ZHalMtdnNhNTJxVHBpdndFblM2U3c1UE9PbFQxX3NHWjM2VlBnckE?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "글로벌 투자자들, 코스피에 시선집중…‘AI 투자 바로미터’ 된 한국 증시",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04UDl5eklIbHVOcU1LNHBKNmJISkdwY3VfenBxNHFrVTBWWU5TZGpfUmFJSFZ4YUkzVjctZERzbzNURnFNVGtqM0lva01tQmZ6MENfY2xEeVBlRU1DcE9VWW9SZ3dVRFlBbWRmZA?oc=5",
+      "title": "태광 협력사에 200억 상생금융…최대 3.5%p 금리우대",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HT21DSGtCNkk0bzAwbjAtY1F2Z1JxTE1lMFBlUXhmZU55ZUpoU1JBQWFEQUE0cDJXY2R3NUMxOVgwWXQ3cS1BLWZlMG0zQ180d3RQZ2ltdmRVT1NjV0VVWDdJMEhaRG5pbmZaWg?oc=5",
       "source": "재외동포신문",
-      "date": "2026-07-20"
+      "date": "2026-07-21"
     },
     {
       "title": "기준금리 인상 사이클 본격화…주담대 8% 시대 눈앞",
@@ -40,28 +16,40 @@
       "date": "2026-07-18"
     },
     {
-      "title": "[투데이증시] 간신히 6500 지켜냈는데...증권가 “추가 하락 가능성 있다”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uQkc2X3NvTndRMTlyYVNhaThKRHNFRWxBNHJoMUhSYl9mWXFFUDBxVDktclEySlpFQVB3SEhrdWctOHZrbnY0Rnl4SUR0cW5zZnhsRmVsc0p1Vm42eG82NHJzeGFSaXhpQXdv0gFvQVVfeXFMTTRWQTVQMnA4WXByVE0tcTFZa0FHMEQzaFZ4QUljdFZDU0JUVEtDdTQ4dERVWkR1VGpYdWdZa182SFVEdlRfR3dkTldhcDlXN2RMSTZBRzdtOHpYMlZmMk8yQ0hlRHlDblNGbldBQUdn?oc=5",
-      "source": "투데이신문",
-      "date": "2026-07-20"
+      "title": "반도체주 반등에 코스피 3.56% 급등 마감…6700선 회복",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zeXhTTGF3Sjc0d1VYa3Q4NjZGVzlhUkQyYkJ6SklQZjRzdk9fNzFhb1NSekVwRGJqbGhpc3RHLXJiUE1QcTc0b0VYcGRQU01jYnF3SjUxT1pza21WZldSZDdZX3FHYmV3VUVmX1BkSmNldw?oc=5",
+      "source": "인더스트리뉴스",
+      "date": "2026-07-21"
     },
     {
-      "title": "코스피 4.46% 급락… 6,500선 턱걸이 마감",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1RDUyS3RmTm1DbTZVZFl1ZmdxUGh0QktpNVRfcWNUYkk3di11NUM4TU9vemlLNGplWXVERXoxNFdhTUpqZVMzampqOWhFNEl6RDJYeUdEMGFoM3owUzZoU042TjBCTGF2cWc?oc=5",
-      "source": "중부매일",
-      "date": "2026-07-20"
+      "title": "이 대통령 “환율 효과보다 투자자 피해 봐야”…삼전 6%·하이닉스 4% 반등",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0NjdnUVZXOGI3WklYR21GTU5VTEo3ZG16amFxeEdaQ2FMdXFtX0Zzb2J5VURCamZtVkFTVkVWQlJKSWctdHVsTmp6MHpTSEkxVHdhei1MNjFTRGROMk1KOXVLMnJBaDBy?oc=5",
+      "source": "녹색경제신문",
+      "date": "2026-07-21"
     },
     {
-      "title": "中증권당국, 증시 변동성에 \"시장 평온 운영 전력 수호\"",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NaXgyYUxzWUp1TVB3YmdFU2RWaUtEZ05uV1dyeWNSUGRldG8zd256VU0yNDVySVZrYVRna3JZU1doTThfYWVlSnFVSmtmN2k2M2JZVWxhUk9Hb0lrNXJRYWpYcXJ6UQ?oc=5",
-      "source": "조세금융신문",
-      "date": "2026-07-20"
+      "title": "금융위원장 “레버리지 ETF, 외화 유출 줄여 환율 안정에 도움”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jaTluemdPSlVpWWVEQ2I1a1FNQ1RXbXFrT3ptZzAzbVNic1M4NkZvNnM1dmJxVzlOcElMLU9PZnNnWVp4X2RLblc5eTgyWGhf?oc=5",
+      "source": "문화일보",
+      "date": "2026-07-21"
     },
     {
-      "title": "4대 금융, 이번주 후반 실적발표...금리 인상 ‘최대 수혜주’ 이어가나",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Xa2hXSy1fLUo2TWlxU0VFaTBsNUl6TEh5d0Nzdmpndmk0eF9ubmdKMVlJTWtKb3NLd1ZJTTZsOHZ3aE5pZFB3WGZ0WkVSeG9vSE1zV2F2ZzFFekNaTjVnQk9hb0FNTnFzbjlpa0RMcHY?oc=5",
-      "source": "오피니언뉴스",
-      "date": "2026-07-20"
+      "title": "고금리 직격탄 서민 차주…은행권, 자발적 ‘금리 상한제’로 포용금융 속도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaODR5VFNHOGhYZVpVbDVpVmtxcUpRaDYxLTVONF80ZVd4bVNDWEpfd0dfMTIzUTB6cDNnSnhCXzBPRUk4RG5YMXd3bjgyRWR6N2xoWE14VUZaUQ?oc=5",
+      "source": "브릿지경제",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "금리 8% 시대 오나…주담대 상단 7.5% 돌파, 가계·기업 '이자 쇼크'",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RcUMzZUlRcmNQeXlIWlY3WmRxRE1BeS1YRjlOQUlKbmJTY19NeVpwdEFQVWU5RW8zR1RmZFZBVnNIWHlXZERLSWFmT1FOV25XaEo1SmxLd1RUaGs1UlEydmd2eXJ6ak9k?oc=5",
+      "source": "ebn.co.kr",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "금융위원장 “레버리지ETF, 환율 안정에 일정 부분 도움 됐다” [현장영상]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmY3BvV1BwUldSUmZHOWt1ZFdxRUdEQi1oVC1laVFhWXpDM2NKYjg5UGtCb1hZVU05Ml9ucUE3dy13NFlUZjZSQ3FlOVlZeFFpbjhHSHhnUm51UUlxNmfSAWNBVV95cUxOTXFKUU1oVFFQTFN3UWlZM1E1c0NCMlVhcFVwNlVyT2lmcVhPWE9ILWZzVmd5Um1qTmdsNFhLUGFiU3ZyOThiY0xXOEhBakZhYy01Z1Nzc0dXT0hPTmlfU2w0RE0?oc=5",
+      "source": "채널A",
+      "date": "2026-07-21"
     },
     {
       "title": "[스타트 경제] 코스피 이달 하루 6.75%씩 급등락...금융·외환위기 때보다 더해",
@@ -70,9 +58,21 @@
       "date": "2026-07-19"
     },
     {
-      "title": "'은행 없는 마을' 우체국이 대신…우리銀, 신용대출 우대금리 제공",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SYnktWFZmdXRnWU1vR0tMZkpwTTZQLVNsQ0JmOVBzRXp1YzRxd01QNDZ1MEFwU083V1UzYjItRFlmYllnNWUyaVB4SXdPMEV3VV9NSm9XaGwyclVhUDM4R193?oc=5",
-      "source": "뉴스1",
+      "title": "“올 것이 왔다”…‘금리 8% 시대’ 되면 벌어지는 일",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ENDFPU1ExX2lpejVqWTU2TDJxUzNSbmJudjFaM3BSSWtWZ2Y1MlRGVXVjbm5uMkZXTU9rc0pUdGNFNTZxN1NBZ3ZGX1FfWmRDWl9za3l0bkZfWVd6OG53U0tqNG1NeWF1eE5hWXM2ONIBc0FVX3lxTE1IUE4xMUtJSkJWTUZ6OUpPdjJKUEFUbHFBc1habmpCQl8ySnBCako2MWRnZ2hST1ptbkFYX1hLaTVYcVBaZUJSRk90WkN2OEYxQzlBMExVRTFXdWp0RnVDWmJkbjlqY2ZIUlJQaERQdkZfM1E?oc=5",
+      "source": "시사저널",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "우리은행·태광산업, 협력기업 상생금융 협약…대출 금리 우대",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hS0V0aFNhWWx4SHJrS1RORkJ5VjBFWUtoNEdzbFY2N3JjTmxQdHAxLXFqblo3ME1oMWJ1ZHg2SlczX2RWWERsZzlUTkhFd1dwYXFZY09HUXhtc2fSAWBBVV95cUxQelRZYkthRGFKRjlEUHJHRjJMMXFtcTRCaERsZF8wVzFPWHVpdFNjMWdFenlncGNKNGwtdGZ4VjBsVWpxbU15cUdvd0FUTTdOMU80RzRwbFRmRXNlYWFTTU4?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "외풍·수급 악재 직면한 韓증시…\"이익조정비율 상향 금융·소비주 주목\" By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GRV92M0FUU3JRS2Z6WGlzZ1c2WlhXRlVEYVlpb3U2d3JCd3M5SnpWdDR5cU5EeGRVbnRBTVhSbnhUTzliNXNQTG5CYVItZktBTG5aWkI4Slo1V3IxblIyZXhOcmJ6a3pyRUdRdHNBTXg?oc=5",
+      "source": "Investing.com 한국어",
       "date": "2026-07-20"
     }
   ]
