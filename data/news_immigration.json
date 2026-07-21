@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-07-20T21:59:56+00:00",
+  "generated_at": "2026-07-21T22:03:25+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "기껏 증시 띄워놓고 ‘초과이윤 재분배’ 논의… “韓 증시가 ‘가두리’인 이유” - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEZZZnc1cEVDWThTaHZ1TnFmTWlrdnBVSnV1Y0RvM2FaZGdPLVRXeDJ1bXdYUG5CQ0NwRkk5dFpPdUxOMVVuXzlwekRsMnUyWVUtT2xCMWo5SjRsWW54cXBtTlpjd3djcmtsYkNSSXJwSHV3Nm5tcWdBU2FXVXdFWThRbTJOZ24x0gGcAUFVX3lxTE9VTUx6SlgyQ2x0WGtkYUEwcE5DTWI0bWozUzZfZ2xyLVE5eUpycWVxbXBPR2FLUS1yUEpnb1M1UnQ3blJpUnFhTVZiNncwLVBDV25uNGJHM0U1S1d0djBXSEZLMHJhX2xOYlBEVnlzV3pGejFBa0ZDa1hmWjN3ZVB4ZU51UFlIb3l4NEwzVWhrVzN0UHRpajVXNjNCMQ?oc=5",
+      "source": "Chosunbiz",
+      "date": "2026-07-21"
+    },
     {
       "title": "외국인도 자국 은행서 원화계좌 개설…'원화 국제화 로드맵' 발표",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTkFmc1hJTk05ZzVLWVYxdElIY0NJWGhkMnAtei1IMnotdjdILU05c241Yk5pX1VQVFZvWW1DSEhFZERXV1dEUzZkOFAtaEtGMXlZWEExMlFTbWR6bXZpQmhmQm5mQW5WaUU2Wg?oc=5",
@@ -14,12 +20,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRWVvZVZSbjI3ZzFQYjZYMlVyNUc1UmxEdWhhcER5cTFtcXdUT0x4bWx1NEtId3M2QW5fSFNxRlBKZUtGRUlYNzZfRTF4UzFqRGFyYm1XRHBRTGdvUlQ1Y1QtbmFIWEZaaE5SOWlEcHVfbEpNdGxNUEJtNDhPNlhKcGhMc0dZQnNMVFFTejlUYkdWNXJqb3VhLUx2LU9WQmxqVjZsSUR5VlJCNjdYaFdIYjM4VGNBVVByOHpMZmRuWDFHazhzdUI0OHBxdGZ6Z2Q1Z1FNTFY2cEp0TnJpVW9ITFdQVUNQUQ?oc=5",
       "source": "국가기후위기대응위원회",
       "date": "2026-07-17"
-    },
-    {
-      "title": "외국인, 해외 은행서 원화 계좌 연다",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mUlhMTjNyb1VDbkl6UWNPdFpsUkpoaUltRXpzbHdiUVNtMENkTllZM2U5dzYtb2tVakgtVUJxazJuRWpvVWUwR3FOOVVlM1Z6ZmRoWFRjcTdtcEdpWlNQUHA4ZWVTVDd2bzYySzdDLVJhZw?oc=5",
-      "source": "미래한국",
-      "date": "2026-07-20"
     },
     {
       "title": "전환점 맞는 베트남 자본시장...외국인 간접투자 '밀물' 기대",
@@ -46,33 +46,33 @@
       "date": "2026-07-02"
     },
     {
+      "title": "외국인, 해외 은행서 원화 계좌 연다",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mUlhMTjNyb1VDbkl6UWNPdFpsUkpoaUltRXpzbHdiUVNtMENkTllZM2U5dzYtb2tVakgtVUJxazJuRWpvVWUwR3FOOVVlM1Z6ZmRoWFRjcTdtcEdpWlNQUHA4ZWVTVDd2bzYySzdDLVJhZw?oc=5",
+      "source": "미래한국",
+      "date": "2026-07-20"
+    },
+    {
       "title": "외국인, 뉴욕서 원화 빌려 韓주식 살 수 있다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnZEZfNjFhNVhVUU4yS3JRQVYxSElHS2V6b2RRUFNnM0c2TnVUMDNyRExSNnY4NnJzSXk3cVNWUnJqeFltWm12eUtxeFBvaFNnSlViaQ?oc=5",
       "source": "매일경제",
       "date": "2026-07-19"
     },
     {
-      "title": "외국인이 해외 은행에서 원화 계좌를 만들 수 있게 됐어요. 🌏",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJOWZmU1hJdlMyOHRJYk1fd0JfN3pLR2tnV0w0SG5UVUR5aTVQMlBiZHdwZXk4WU8yaUNOeFM2QWJIUnZXdXlXTDZ2THc5RUI3Nm5B?oc=5",
-      "source": "뉴닉",
+      "title": "상장 보험사 외국인 지분율 확대 ‘뚜렷’…삼성화재 58.4%로 ‘최고치’",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STGZrRHZjVTE0UEFPTGJNcFM5ZUQyY2IzdTNDUU9USUJtZUdPVTZCTlFEN3RXWUZ3MnBvUW5KbS1IakZnZ1BJd2VPSms5VHdLUm5XM0VPLXVoc2diU0hpTVBJcmRHeDJX?oc=5",
+      "source": "CEO스코어데일리",
       "date": "2026-07-19"
+    },
+    {
+      "title": "외국인직접투자(FDI) 기업들은 결의안 10호에서 새로운 기회를 보고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQczZjcE9XcFAzQklJQzFGaEFqMEZMTFE1R3pKbVJKOVhNSlR6QXpmMmMzWi1vRDUwYWR5UWk5Q0p0dWZLSU9kTUlibU9YNElLdjRUSElmSmhIRW5rdHRadHRxdGpVOUtnek9OcTFZRC1neE9NUGl3bWFIR3Z0WEd1V090Q2pCOWs?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-07-21"
     },
     {
       "title": "상반기 외국인직접투자 신고 142.8억달러… 9.1%↑",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYkZfN3c1UTVaYndadjFHdTFPYVgwZTJ2ZDRYQW96ajBJaG5TdkVuY0d3UGswT2ZkQXRpaHRtQnZBa3hTMTMyc0ZzelpjTl9BWUZmTnBEbDg1Q3k5aXZveEVTcmpYeWRsM0pkaNIBcEFVX3lxTE9kcWM0bHpYUWswNFIwR1hvZU9TQl9aQTJQb0czcDh0SWRjS25nTmtBVVZwLVJVcW5yM3E0Z1RpNDQtVmk0d3dMNnZVS01QQnhmOXFDSmFZNnNzVzB5eTc0YWNLRGxxWThud21US19USkQ?oc=5",
       "source": "전기신문",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "정부, '원화 국제화' 본격 추진…해외서도 외국인 간 원화거래 허용",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14MjdDREdJVDZlVkpnR2pIMDZ3b3NZV3k4OVBobDZMQ21YSW5udlpTNTI4bUpIbGE0SlRfUHE5Y2cyc1dsdUNRSzVRX1BZQm50dUs4QzJJTjhmYTZab2JmWTBjWnk5RnJ3Y21RY2lB?oc=5",
-      "source": "전국매일신문",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "중동 전쟁에도 올해 상반기 외국인직접투자 9.1% 증가",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1X1ZHWDBDSlpOaExQQlJqa0JJZW5DOE51U1dhTXFpQl9TZkV5LUYxWkkzVG9CMmswMXhsSGRudTJDak9oeUp0UG9GTHFsOTY3RWxXNXo3ak5Dbm_SAWBBVV95cUxOeUZrTDVOVVJYMDB3NElNOUhHMTZyN0RDSGk1MkxOcGpEVnJPUXc3bE1kTndpZTV4am1TMDR0cE95czEzd2R1VEt5Z09xWDFPcndBLVhKdXNjVmtSeG9TcHI?oc=5",
-      "source": "연합뉴스",
       "date": "2026-07-03"
     }
   ]
