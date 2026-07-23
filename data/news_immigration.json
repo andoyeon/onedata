@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-07-22T22:03:30+00:00",
+  "generated_at": "2026-07-23T22:03:41+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "외국인도 자국 은행서 원화계좌 개설…'원화 국제화 로드맵' 발표",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTkFmc1hJTk05ZzVLWVYxdElIY0NJWGhkMnAtei1IMnotdjdILU05c241Yk5pX1VQVFZvWW1DSEhFZERXV1dEUzZkOFAtaEtGMXlZWEExMlFTbWR6bXZpQmhmQm5mQW5WaUU2Wg?oc=5",
+      "source": "대한민국 정책브리핑",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "외국인이 방향 잡고, IT가 끌고, 전 업종이 따라간 장",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXSU5SOE9VQkpEcGFETC1Obk1CbWNjaWQ1U1JKdDJGQ1UycDV5TGxFRk81NEExbTd3d09mWjE4RkVraXZ0MHItcHh3T29qOVlDZTcxX2kzdkZQOV8wYzdvYmtQdXhrV0kwSFN6V0hB?oc=5",
+      "source": "더리포트",
+      "date": "2026-07-23"
+    },
     {
       "title": "요즘 내 주식창 파란 이유, 외국인 투자자가 한국 떠나 일본 가서라고 ✈️🇯🇵? (feat. 다카이치 트레이드)",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rT253ajhEcDJIaDRHaW1wbnQ5bVNpVkNBc24xblNxR3pkOFFKTjhTTFhiSzVlcFMycWkxYjZ5YmxUMGxrV3MtYVk1clE0MXFGOG5V?oc=5",
@@ -16,22 +28,16 @@
       "date": "2026-07-22"
     },
     {
-      "title": "외국인도 자국 은행서 원화계좌 개설…'원화 국제화 로드맵' 발표",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTkFmc1hJTk05ZzVLWVYxdElIY0NJWGhkMnAtei1IMnotdjdILU05c241Yk5pX1VQVFZvWW1DSEhFZERXV1dEUzZkOFAtaEtGMXlZWEExMlFTbWR6bXZpQmhmQm5mQW5WaUU2Wg?oc=5",
-      "source": "대한민국 정책브리핑",
-      "date": "2026-07-20"
+      "title": "[산업통상자원부] 새 정부 출범 후, 첫 번째 대구모 외국인 투자유치 행사 개최",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRWVvZVZSbjI3ZzFQYjZYMlVyNUc1UmxEdWhhcER5cTFtcXdUT0x4bWx1NEtId3M2QW5fSFNxRlBKZUtGRUlYNzZfRTF4UzFqRGFyYm1XRHBRTGdvUlQ1Y1QtbmFIWEZaaE5SOWlEcHVfbEpNdGxNUEJtNDhPNlhKcGhMc0dZQnNMVFFTejlUYkdWNXJqb3VhLUx2LU9WQmxqVjZsSUR5VlJCNjdYaFdIYjM4VGNBVVByOHpMZmRuWDFHazhzdUI0OHBxdGZ6Z2Q1Z1FNTFY2cEp0TnJpVW9ITFdQVUNQUQ?oc=5",
+      "source": "국가기후위기대응위원회",
+      "date": "2026-07-17"
     },
     {
       "title": "BJFEZ, 민관 협력체 '외국인투자기업 협의회' 공식 발족",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zWkltWGVJcUltSmNORWlMalk2QkRKQkY5QWN0WHEwM3FwRHNzR0Q5OFZxSHFLUG80ZFUyQXZ6QV9EUGR3Y29fb2Zma0YyRGxYX2FOTVdEX0o4dTlTQ2NuQ3JlaENCQ1RGM3hsMXk5Y195N2PSAXZBVV95cUxPbDNDUDFianlEOEl0UmVab3dXX09uVks3MGhGSW93ekZWcjBxQVNESW1WOEs3RzZ3V29jQWNtV3ZkYXNLdmtEdmV1azV3SUJpbElnSkFlcXBiVHVaN3VLOHJRUEQ1andfYjFhV3ZuZVdzT2cwVkNB?oc=5",
       "source": "LG헬로비전",
       "date": "2026-07-22"
-    },
-    {
-      "title": "[산업통상자원부] 새 정부 출범 후, 첫 번째 대구모 외국인 투자유치 행사 개최",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRWVvZVZSbjI3ZzFQYjZYMlVyNUc1UmxEdWhhcER5cTFtcXdUT0x4bWx1NEtId3M2QW5fSFNxRlBKZUtGRUlYNzZfRTF4UzFqRGFyYm1XRHBRTGdvUlQ1Y1QtbmFIWEZaaE5SOWlEcHVfbEpNdGxNUEJtNDhPNlhKcGhMc0dZQnNMVFFTejlUYkdWNXJqb3VhLUx2LU9WQmxqVjZsSUR5VlJCNjdYaFdIYjM4VGNBVVByOHpMZmRuWDFHazhzdUI0OHBxdGZ6Z2Q1Z1FNTFY2cEp0TnJpVW9ITFdQVUNQUQ?oc=5",
-      "source": "국가기후위기대응위원회",
-      "date": "2026-07-17"
     },
     {
       "title": "외국인, 뉴욕서 원화 빌려 韓주식 살 수 있다",
@@ -52,28 +58,22 @@
       "date": "2026-07-16"
     },
     {
-      "title": "기껏 증시 띄워놓고 ‘초과이윤 재분배’ 논의… “韓 증시가 ‘가두리’인 이유” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEZZZnc1cEVDWThTaHZ1TnFmTWlrdnBVSnV1Y0RvM2FaZGdPLVRXeDJ1bXdYUG5CQ0NwRkk5dFpPdUxOMVVuXzlwekRsMnUyWVUtT2xCMWo5SjRsWW54cXBtTlpjd3djcmtsYkNSSXJwSHV3Nm5tcWdBU2FXVXdFWThRbTJOZ24x0gGcAUFVX3lxTE9VTUx6SlgyQ2x0WGtkYUEwcE5DTWI0bWozUzZfZ2xyLVE5eUpycWVxbXBPR2FLUS1yUEpnb1M1UnQ3blJpUnFhTVZiNncwLVBDV25uNGJHM0U1S1d0djBXSEZLMHJhX2xOYlBEVnlzV3pGejFBa0ZDa1hmWjN3ZVB4ZU51UFlIb3l4NEwzVWhrVzN0UHRpajVXNjNCMQ?oc=5",
-      "source": "Chosunbiz",
-      "date": "2026-07-21"
-    },
-    {
       "title": "한미간 금리 축소, 환율과 외국인 투자 증가에 도움 되나",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qRkhzWHRoOWhwX1BsTVpXa01hVEVGRXhuXzU5MGxTNjk5amQ5TTQ4QTExMDdpbVV1MlFya0c1MjdGQmM0Vm5oY2ludko5MG1GS3RaQ2tGS2kxRkZqdFM3a0RsY3g?oc=5",
       "source": "매일일보",
       "date": "2026-07-19"
     },
     {
+      "title": "[크랩] “외국인 투자자 다 빠져나간다”…진짜 난리났다는 인도네시아 경제",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQm5ibWVySFhpb1JDYi1zSFlMTjF1cUVZSU1ORGlXcWVLd0xDZ1hVU2dtbmRTY3hpYnlNaGNRak5tS05sUzRveks1eHZLUUU?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-07-16"
+    },
+    {
       "title": "상반기 외국인직접투자 신고 142.8억달러… 9.1%↑",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYkZfN3c1UTVaYndadjFHdTFPYVgwZTJ2ZDRYQW96ajBJaG5TdkVuY0d3UGswT2ZkQXRpaHRtQnZBa3hTMTMyc0ZzelpjTl9BWUZmTnBEbDg1Q3k5aXZveEVTcmpYeWRsM0pkaNIBcEFVX3lxTE9kcWM0bHpYUWswNFIwR1hvZU9TQl9aQTJQb0czcDh0SWRjS25nTmtBVVZwLVJVcW5yM3E0Z1RpNDQtVmk0d3dMNnZVS01QQnhmOXFDSmFZNnNzVzB5eTc0YWNLRGxxWThud21US19USkQ?oc=5",
       "source": "전기신문",
       "date": "2026-07-03"
-    },
-    {
-      "title": "개미에겐 레버리지, 외국인에겐 익절 기회?…정책 책임론 확산",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ROUFhMmFwX0lkWkdmWTdVbjlnSzdqbDI5cE82Q0RvemdDZy1VQTZBMW5YZFNUeTRlRHZtbGRCXzYxMldJNUUxemdFYlJ2UDhtczhrMC1GVDFRRk9YaF9qUlVITi1CRFE?oc=5",
-      "source": "연합뉴스TV",
-      "date": "2026-07-14"
     }
   ]
 }
