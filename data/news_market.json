@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-07-24T22:09:46+00:00",
+  "generated_at": "2026-07-25T21:59:50+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "반년만 코스피 사이드카 41번…글로벌 금융위기 때보다 많아 [마켓시그널]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85UFh2Rnh2dWFJZ0ZmNHlXckNTS3RTT2VzXzB5TGZUdDB2WmhVeWJEMlp2TmtrMHpxOEVlbTI0Umt1N1dxV3ExSnVGWnBmNURyalHSAVNBVV95cUxQOFJlbkJzRjNXMjhfR2VyaDJobkNPNWdUQ0o1b1VydWc1eFdLVlo5cUF5YWJIaEF1Mmh3LVVFVVNLYVdXVG04NHRBQ1VnUV9CWldmcw?oc=5",
-      "source": "서울경제",
+      "title": "증시 훈풍에 금융지주 웃었다…상반기 순익 13.1조 '역대 최대'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zMTQxSEN2NE5Wdzg0SGRiek9SSlNpVU9reUpCZGdUNnlqblB6bXBud19SNzF0TDZ4Mzc3eE84TkpoaVltdENXOFQyR3pLMHdOY1pQVTExM3dJcnN6QlVMM1Bn?oc=5",
+      "source": "뉴스1",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "기준금리 인상에 예·적금으로 '역머니무브' 꿈틀, 시중은행 수신 확대 기대 커진다",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NT0JhQlpra1hqUFIxTDA4QUV5cEEwMUtMLVBMdHRLNkJWSFZ4VXV3V0NTSnJtZ0s4YjhYTThMalpkMUZDRk40aThxU3BtNjgwbW8yNUx4eW5wUjJuOF9HNW9nWWw4X1RVUDg3U1YtVktaWkE?oc=5",
+      "source": "비즈니스포스트",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "기준금리 인상 이후... 은행 예금이자 상단 3% 중반, 저축은행은 4% 중반",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1dKaHJ2U2tHZzRIb1VNSl80a0o1UWFaeFRTTGpaMzd6OS1VeDExRzdXOXctem5jY09tUjlZSGlUTjMyYkNIMFRvN3ZKam56VE9IdGE1MC1TWTQ1RVlYLVNsZU5CZmc3UTQ2aHZ1RTBfWVVfQ3FlRDYzVHViaG5xN0U3YWI?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "신한운용 \"SOL금융지주고배당 ETF, 코스피 수익률 웃돌아\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CU25DSlFFQXhEYURnUHVUWGlndWVPeDN6ZmJGbjFhMVNlV1h6eDlIekE3cGRkczRXREc4RS1lNE5nYXN0VkFBTVAyVGRkV3NDenBlMjhvWUJfcjDSAWBBVV95cUxOdEZhWWxKU2RreEJ6U1JoUlFVWFVPTUdtS2FlZDRMMERwLTlkMGpRelF3NGVIbjB2dmJuRHBseHV5TVhob3ViOWFwNXdub3pfUDl0aGtzcGgxN3RfWXEwVmI?oc=5",
+      "source": "연합뉴스",
       "date": "2026-07-24"
     },
     {
-      "title": "증시랠리에 '함박웃음'…4대금융 상반기 순익 11.3조 '역대최대'",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WS2VTbzhFc0lUalJXdXRxeWxMSjRNRkZMYWNWRXo4TUJpN1J4X0VnZjlTRFh3ZUNmUVo2ZFhHYXI2NFI1blAteGhEaU1Oelk?oc=5",
-      "source": "v.daum.net",
+      "title": "예탁금 줄고 서학개미 순매수 4배 급증…국내 증시 이탈 가속화",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taEk0ZDFBZl9CaEhOR2U0NEhTTlpCdU9kaXZ5SE9HZ2ZxbDJ1QUhiOTEwbmhNQ1VtY1B3VjZMeFJWZmYySlBkWnFFNFhZQzFDMFJqNnZKd3pBMXZlRGNtWi1WQWNZNkZWVi1R?oc=5",
+      "source": "BBS불교방송",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "“증시 오르든지 내리든지 우린 버니까”…5대금융 13조 벌었다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5RU9abFN6VWV4ZDZZWncySEk4V1JkUTJiaEhYQ1pJRF9SZjV1SWlQNWpOcDU0QjFrQ1Ntd1ZES2RhSXpYOFVjdkFJSEprWndVdUM0WA?oc=5",
+      "source": "매일경제",
       "date": "2026-07-24"
     },
     {
@@ -22,58 +46,34 @@
       "date": "2026-07-24"
     },
     {
-      "title": "신한운용 \"SOL금융지주고배당 ETF, 코스피 수익률 웃돌아\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CU25DSlFFQXhEYURnUHVUWGlndWVPeDN6ZmJGbjFhMVNlV1h6eDlIekE3cGRkczRXREc4RS1lNE5nYXN0VkFBTVAyVGRkV3NDenBlMjhvWUJfcjDSAWBBVV95cUxOdEZhWWxKU2RreEJ6U1JoUlFVWFVPTUdtS2FlZDRMMERwLTlkMGpRelF3NGVIbjB2dmJuRHBseHV5TVhob3ViOWFwNXdub3pfUDl0aGtzcGgxN3RfWXEwVmI?oc=5",
-      "source": "연합뉴스",
+      "title": "흔들리는 증시, ‘SOL 금융지주플러스고배당 ETF’ 선방",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IR1VsU0RZLUd4T3gweHNtNnNRMlViVlE2emRvVVNQbG1wNElfODJrc2xLVXc3el9zVkNkZjJQN2FRRnRCRUZQQ0k1OVRRcDNCWno2c1I1U2hDS1pPbTIzNE5Oek8tUW1Sb3VQaWp1Q0haQk3SAXdBVV95cUxNNG9aM0tJZVJ5dzRiV01YVWRZdHRrcEZVd3otanVpY2ZQTWpCWTA5SGtpdWc0SWNyODVLTklGcnl2TndzUWRPV0ZwT29wZXJaSWp5UlY2TkxHVnpOVEhvWTVzVF9kYmJleWlFeFc2SjFmbkxQTEp2aw?oc=5",
+      "source": "스트레이트뉴스",
       "date": "2026-07-24"
     },
     {
-      "title": "국민 41.5% “증시 변동성, 금융위기 수준”…레버리지 ETF 도입엔 63.7% 부정 [여론조사]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44a2hLU0tuYlhaQXZiYnUweUF4MXNLalJQX0N0aVZZbXdsWk52UE11YzJpZHRIRkdtSFNKM3ZzMFpkVWNUZWhDT2FKRl9NdUlzV1VocTZZbkxVU1Q4WVE?oc=5",
-      "source": "유교신문",
+      "title": "30년물 미 국채금리 5% 고공행진...금융위기 후 최장기간",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zY2xWY2s2TXdOSDlDT0ZpRVdKTU00S0EyVjBGVEpXWVBmTTMtOVpNVS1lNndNbVFlM3ptNzJwZ3dCbEZ6TGQ0TVg5MnAtNFdYUXhDanlBZ3hNVFdjOGc?oc=5",
+      "source": "YTN",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "30년물 미국채 금리 5% 고공행진…금융위기 이후 최장",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42RVhJSzhNWVZRT2lHeGx1bXZSNHpUNmpBRFJta0dCT1BvTmxfNHNDZHNOSWo5TFJ1ZWl1ZzNLVjNLNWdtMjhFa2o4LUVtSmM?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "반년만 코스피 사이드카 41번…글로벌 금융위기 때보다 많아 [마켓시그널]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85UFh2Rnh2dWFJZ0ZmNHlXckNTS3RTT2VzXzB5TGZUdDB2WmhVeWJEMlp2TmtrMHpxOEVlbTI0Umt1N1dxV3ExSnVGWnBmNURyalHSAVNBVV95cUxQOFJlbkJzRjNXMjhfR2VyaDJobkNPNWdUQ0o1b1VydWc1eFdLVlo5cUF5YWJIaEF1Mmh3LVVFVVNLYVdXVG04NHRBQ1VnUV9CWldmcw?oc=5",
+      "source": "서울경제",
       "date": "2026-07-24"
     },
     {
-      "title": "5대 금융, 상반기 순익 13조 돌파…증시·금리 쌍끌이에 역대급 실적",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGxJdF9sYnZxeHFmc0dYYkZ6QkRvVFYtU3IxeVVPU3VQYTZCV0dFa3UybkJ1Sk9fOGRvYk1xSUNMdVFnbGI1bFl5VDI0cF81eHFKdG00Q3dGVjc2Ri1QR1k0T0RiMlhXbVYwX280NDJfOEZiUmJvMDNGT1RMTlhrYzR0TWo?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "5대 금융, 상반기 순익 13조 돌파…증시호황에 비은행 약진",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oZUI4YkhybTAwLWVVNUxJRU0xNTJrTzEyUmlCMldmVFVCYmgzcTk2UjRBWGNVbVFtMFpDbVlQcjlNSGk0dFlwV3c2Y0FBNDZERkZRSlI1cHNKSW1SRWloaE5iVm4?oc=5",
-      "source": "디지털데일리",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "5대 금융지주 상반기 순이익 13조 넘어서 역대 최대, 증시 호황에 비이자 이익 급증",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jVkZIaFpGbWh5ZnJfMGV2MGl6NWtYOWdad0lwNXZ2cjlpc0dzMjJPRFhQVzJ6MmV3TnQ1OXBmamVoVlNodWh2emY0NlU1ZHBWNUtaZV9jaU5tRkZkZ25ISkdWRml0VDYxV3BlSnNMTzRaMEk?oc=5",
-      "source": "비즈니스포스트",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "'증시 호황'에 금융지주 실적 날았다…5대 금융, 상반기 13조 '역대 최대'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TSURzQ09VYUw5aTBEODRsMnBHOTJraVZuM190aFdWRTVlOWUxYVI0bkhnLUFGUzNqdGFBd2lvSmM4RFE4SUpHWnYtSmxwN25iQjh2NFlONk5INU9DaEx6MtIBeEFVX3lxTE0xUEhnbFItRmZ5M2JCSW9CaVEtdFVDZEdvbFotTE5Od1NfNHkxM3QtTy0ybVRYNUhEZ2V3MVlkZ1JiYm1ldmVRVDd2R1dUdXZqS1VXdFY4T2lRSmZWWVAwOWk4bkdUbjhleTl3SWZ5NzljbDg2YWswNQ?oc=5",
-      "source": "뉴시스",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "반년 만에 13조…증시 호황 탄 5대 금융 ＇최대 순익＇",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03SUtBRFdlVU9nb0I3NjlQVG1lbVo3VGtLdHdNMmVyckVwLXl1cFNKa01ITEJ5Sk1EbGF0cnZlVU4xOEdrNmN4c1J1NjNsOVF1ZldVWmFaemxCNkd6UDVTazJsNTUwSlhrNU5Ubk9rQ2g2MF8yNmtJ?oc=5",
-      "source": "한국경제TV",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "코스피, 전날 급등분 반납…장중 6900선으로 밀려",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rTUp6TnNPRC01eThZdXZnMXlhRV9idmxCV2xLRHVHWmxCZmxuY0VRdzR3RTFqQTQ3WkRLMndkWE1FcklHN2NLMm5Sa2pBeVRYdTBZT3lVN19zSjJBeWRzdFpmTWdVRDczRHZyYTFJaVY4UQ?oc=5",
-      "source": "인더스트리뉴스",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "5대 금융지주, 상반기에만 13조 벌었다…증시 활황이 최대 실적 견인",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tYkhVUXVhN25vRDA5WDJNb1BCYThGSm5UdDlhQ0VOeUpmMXBzTFI1cmtmVDZaaWZIN1lKRHVvS09GZFdha0pNVm9pcmNKM3lrUXA0NXFFekg2UnpvVV9nUFF4SjYwTkY3bXgzTnBR?oc=5",
-      "source": "알파경제",
-      "date": "2026-07-24"
+      "title": "변동장 속 개인 CMA 잔고 증가···증권사는 금리 일제히 상향",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfck1YcXB0ZjdFQWZnT0N2MGV3QnU0X2RKdTVKZHl2d0lXaS1sRWthTHVXWlB3ZTBZb2FfVldxMHQxQjcwZ1VmY1dyWVBoQ1l0ZTdqZ3VkQ2dTMVJJSTZiNmhCRkN5Wkc1OXN2eWUyYkxmZ9IBdkFVX3lxTE9fMnQ3ZHQ3YXE5Zzl6RXB2b2taSTZpOTFfV0p1OXUwS2c3bGdPMlhHakhzamZpbnRXOEg5YXk3Z0pzVGUxNWhFZVdXT3A1OU83YzFNUjlCOXhvbUFNY1BmUG9XQmtXYW1HNE94Y1BhZGdYTnNfM2c?oc=5",
+      "source": "시사저널e",
+      "date": "2026-07-25"
     }
   ]
 }
