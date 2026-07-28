@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-07-26T22:02:53+00:00",
+  "generated_at": "2026-07-28T22:10:05+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "코스피 6천대면 거저 아닌가요…은행 대기자금 41조, 다시 증시로",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OcktIenNoUmxTR0o5TER1SDF4ZzlTUnZWZHE5bDVSZ3VwTjZseV9UeV9DYzRQQUZ0Nmp0OTJvbWRNWWZxYS1iMGktQWRCcW5qY0dUNw?oc=5",
-      "source": "매일경제",
-      "date": "2026-07-26"
+      "title": "‘10% 폭락 쇼크’ 코스피… 금융위기·코로나와 다른 ‘7월의 공포’ - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTR2S2ktYUxXOGlOX3VkMy1jS1doUVBDNHJXNV8wZ2hRTUkycmZpN3VGMGpzZnlZR2E5SWduQU5KTnMtMWhxSVZoczI5SW56M2g5OHpKQkpjVmFKNWpKcjlfbUhsLW5wdWVwRnhac2h3WUZha2hyUUJhYl9ZMjBsV1FSbXdkcjBY0gGcAUFVX3lxTE5rUGRLb0N5bVkxVWFYUjVpMVY4bjAyRzB4QXhCa2ttcUtIZk9taXFLRTJpSFYyVU5WUVpmWVFUcVdZbUY0NElmYjBHdmM0T0oyTFZYOXRnTWVuU29aNEhwa3ctX2lzM05kenZnNjZ4dkJNaUJWZjRVWGd5RkhUOTJDeEgwMFdnMDUzaUh2ZGZ3QlhUTWJkNmM3Q2FMUg?oc=5",
+      "source": "Chosunbiz",
+      "date": "2026-07-28"
     },
     {
-      "title": "[이번주 증시] 'AI 랠리' 이어질까…코스피 향방 가를 '슈퍼위크'",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wRmhaX3ZkNkhjSGVCSEVlbGxXNXlkS2pJc09fRTNKWEN5TzIyNFB1bnVWX1NVOHc4bkhWSEYxWS1GUDFOSkVvNVJXZHZjRUN3TzRtbjlxN0ZUMDB1a25YMjZMazhoSmZhZWfSAW5BVV95cUxNNHdnUzZEd0tZOVU1UDQxZzk1Yjc5NDF4eWRMbnFYSExGd3RoR0tSdkNjMElieVF6NUZDVWtwZmdoT0FSbDUxbGRSVmY0cGx3dUF2MUVmQUhiSVFBT1h4NHhnelpWWnU0bzRXbDhkQQ?oc=5",
+      "title": "금리인상기 5대 금융지주, 부실채권 7조...하반기 실적 연체율·충당금 관리에 달려",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYzUwRkVLN3gwbmhUZENtX3RBQ3Q2MGdKQWFiNUFHZjRhVGFKeHUtTjJ4aDF3M2JfZEZpYzV6MkhIVHo1RkU0RldaSkVmVGNXcm5kaVdxYmlBSzd2VTZ5VzVOX2VaMzB0aDh5c2RubGUyM1h1d2ctVGRaUEZ0OUw5d1FQTms?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "일본도 AI주 폭락…\"코스피·닛케이지수 연동성 강해져\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0RkxyajBwTmg4dUVMcUkwV0JHeV9iWTh2d25LUzd5eUhHaDZPZ2lpT2FsZGlNNmxoTXdCRHVYMnpIanFIUkNicmtWY290QlIyV2tNRWh6cUwxTVE4V3g4aV9WQQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "\"역사상 최악의 한달\"…'7월 코스피' 금융위기·IMF 보다 더 폭락",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ScVJoa1lLb3dhVlVNbGhmZjN1b084TjdoZE5leUV1QmE3WlpHLXlWUGRpVXA0LTV6WmZDUnROQU5KLVAxOTVYNFVac1FtXzhRdXNhNGd1VkZKemc?oc=5",
+      "source": "뉴스1",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "코스피 10% 폭락…6000피 겨우 사수",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RaXh2aHprZFlpM2ZMc1JVdzE3OEhpSng5bVQtdlZzbll3SEVvT1BXd0ZBd3pFUG4tWnBmN3Z5VTVwMzhXdDZSWVR1MDZBRGpuX2hHQWkyQUl2dHFIY2J4RmdabXB5QjgyZjl0WA?oc=5",
+      "source": "경상일보",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "'검은 화요일' 코스피 10% 급락…금융위 \"진정 안 되면 레버리지 투자한도 검토\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZZU1mZTFyNGlzYUVCYzlVMmpYTS04dHRZcmsydzBLYWZpRHBNSm5TdDVaRXpqVkFyS2E1bnJLcWlUSXlPNmZqbHFnYVNvZ1E?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "증시 덮친 '中 반도체자립' 공포 … 삼전 -13% 올들어 최대 낙폭",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Nb1phUGRxUm94X2ZmZnlBYnpyZGJrTUlQNV9UeTV1aGxIMU1LUUFqbGMtV3VDNlB1Y25Zdlo2WUJXcFhvR3FPWDdkSlVLbURma2c?oc=5",
+      "source": "매일경제 마켓",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "[이슈] IBK기업은행, 상반기 중기금융 점유율 '역대 최고'…환율 부담에도 건전성 유지",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01bi1lVEF5eS0wNGo2ZDRMN0pjX2twR2N5RVplQ3VqN1RyMmlpOUtReGpqYTNpeG1Fd1ZiUU5rSnI2bXRiTlJtdmZ2S0VidDdCNHJ5YWwxT20xYXNrdTh6Q0VIamk0QWs?oc=5",
+      "source": "팍스경제TV",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "코스피 덮친 ‘검은 화요일’…반도체 쇼크에 11% 추락",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HMGMyR3BsS19rN3Z6cTBnR3FndnU2RHh0RzFZaTNfRzNETzZIbHZpUzdPd0U1eWFPNmRrNUYxU0FSVFpvZTlRa2xFclE1ckJ2ekN1eUVjaGxIS1hTdlpIQk5oNzBkUUI4ZnfSAW5BVV95cUxNZTV4eUppQnB3a182WTZ0dlJneEtURHpyNzBrX20wYUoyQ21YNXo3elZWcll1TGstZGtwamNhWFdhckYzcEtJOGZzWHR1Q1I2Vkxnb0djaE5POGY3RC1NRXZvZXFic2NMRGdnRVBrUQ?oc=5",
       "source": "뉴시안",
-      "date": "2026-07-26"
+      "date": "2026-07-28"
     },
     {
-      "title": "한 달 만에 22조 '대이동'…주식 떠난 뭉칫돈 몰린 곳이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcWRScHNOeU5uMDBpQy1xXzZzSy0yY1NlN3JybG1sX2FQYnV5NnZfMlp0MFpSMzFKejRFMDM2ZW5BNTBuV0hIZHFkdlJ2bjQ5Rno4b0dwc25MQQ?oc=5",
-      "source": "한국경제",
-      "date": "2026-07-26"
+      "title": "[사설] 레버리지가 촉발한 증시 불안, 언제까지 땜질 처방만…",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tSmQ4S0U4eTBhcDNPbXFPdjRpVmlqZnlTTTZLNkNDQmJ5LUhpR1NZb0NWcmxvbDFxVk1yZi1zOHpNMzBmeW5xWm9xYV9fMmtmWXVlSnZUd0JWWGxsTUQ5dXlPMVNtWS1Cc0h6MHRtOWM4Y3JU?oc=5",
+      "source": "부산일보",
+      "date": "2026-07-28"
     },
     {
-      "title": "신한운용 \"SOL금융지주고배당 ETF, 코스피 수익률 웃돌아\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CU25DSlFFQXhEYURnUHVUWGlndWVPeDN6ZmJGbjFhMVNlV1h6eDlIekE3cGRkczRXREc4RS1lNE5nYXN0VkFBTVAyVGRkV3NDenBlMjhvWUJfcjDSAWBBVV95cUxOdEZhWWxKU2RreEJ6U1JoUlFVWFVPTUdtS2FlZDRMMERwLTlkMGpRelF3NGVIbjB2dmJuRHBseHV5TVhob3ViOWFwNXdub3pfUDl0aGtzcGgxN3RfWXEwVmI?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "[주末머니]美 국채금리 상승…“AI주 줄이고 금융·방어주 늘릴 때”",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41SzFMLWtvamZncWVEMHFEbmJTTm9WTkg1NURJcUpRZGFBZXRkNEdSOERkZTd6RzA5VmdBZzlfNlU2eDhEbGxpVVBya0Zpd3cxRngyc3FhWF9uVUpra1pTVQ?oc=5",
+      "title": "[홍석철의 경제진단] 레버리지에 갇힌 증시, 생산적 금융 돌아볼 때",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tNHB5NV9FV2p2NWZrVVE5M244N0VfdmhGNElPYTJNTlR6RF9TbWd2emhXMTJIM2dadlRhVGF4QUdYdjFUdi1aMGxnMXAyb21RcDM2MHpQQTZ1UHg2QkZnYQ?oc=5",
       "source": "아시아경제",
-      "date": "2026-07-25"
+      "date": "2026-07-28"
     },
     {
-      "title": "증시 호황에… '사상 최대 순익' 4대 금융, 격전지는 '비은행'",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeW5nZ3JCYllXM0FEWHVrZndUS0FiT091Y3BRcnVDcENoSkpYQ05VS0JENms1cnBFMW5mT29KRXk5M2dEUzRvekVyZ2pJcllTNVhGRmVKc3Y3Z0pncmdsVnJCZTA?oc=5",
-      "source": "매일일보",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "증시랠리에 5대금융 실적잔치…비은행 체급이 순위 갈랐다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZckFZb1Aza0FDbUx2LV90X0hMbnBxcFA4UGdvX3c5TGFteHJhZE1uZ293Y3k4b1M1NF9NOU9pMHRJUjNLa0Z5OWRYOUFNVEF5a080WUNxczVRZ9IBWEFVX3lxTE5tTklweG9xNW5faS1sbUszb1UyTjVnLUtSNDRqcXNRU0EyZklEczdZRlc0VWdnbFV3TW5ENUh5SVJGUDNtcVZuTkNHNkJHbm4zVHE0M0tuQjQ?oc=5",
-      "source": "아주경제",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "증시 난장판 속에…5대 금융, 상반기 순익 13조 '역대 최대'",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jQ3JEMGRjN19JM2UwRjBWdlRTUmJJSV9UenE0eUt6ZUpmbGw5aU02dGVxd3d6cGhRVFdLUjB0amprZ1lSUG56OGJEX29GdVN1Vjhzcm9tcHJJckZNWWcxT0JGUThBQ3RGd1HSAWZBVV95cUxOVTFuaS1Sb21RanI5c0YwYzJFcTlJNWZVTWZ3VUpya0FQZ3B3SEdLOEJjRGlrRUlvUWUweTNzQVhmTkJGUkVnUElWZTd4SzZfN2NvZ0FhdklpZUJnQmxuOEFtZVZaTmc?oc=5",
-      "source": "news.sbs.co.kr",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "4대 금융지주 상반기 순익 11조원 돌파…증시 호황에 비은행·수수료 수익 급증",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94aDNXbk85SkpiNmJQMjltWG1FWTg4MjgtaW1YVWUtQm9NR2RhN3dUendiWmluZzRSWGFfdW1MNDl0Q1hCMlc4bUN6X2l2MTZITzE2OU41NE1JQWhISkw2M2IyZmVEMDNxVTJJ0gFvQVVfeXFMTnZ1czhISWtEeVdNSXBUVjhVenVvWkhNOE5fSmVVX2Vpc25sc01wOFJYZEQ1ZHljRmZWQ3dZbDlvOG5WWHRiYlhfWTZ4RWY3RDFRYmxwbW9hbTdSbmVlamFKSnJsakF1RWlLaXh3djlz?oc=5",
-      "source": "투데이신문",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "원화 6월 실질실효환율 82.99… 글로벌 금융위기 이후 최저치",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kcHlUR0V0Z2FMTW5Qb0pOZkJtRl9mYmprWWhXZ3NEZC1iWGtMZHF4dER4ZlRHWGgzNy0ycDFMNmNrQWtqckhaNHNaV2dKZTJQREU4WjRpN3XSAVRBVV95cUxPX093X1dGOTVPcXByTjM3N0dFdm5uVUFZU2FXU0FOUW11cFRoUXo1YVVuQ0lVSlh3S01JdWlIc2lTYk12VlFaU3VEblUwQzlySHBRYVA?oc=5",
-      "source": "세계일보",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "흔들리는 증시, ‘SOL 금융지주플러스고배당 ETF’ 선방",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IR1VsU0RZLUd4T3gweHNtNnNRMlViVlE2emRvVVNQbG1wNElfODJrc2xLVXc3el9zVkNkZjJQN2FRRnRCRUZQQ0k1OVRRcDNCWno2c1I1U2hDS1pPbTIzNE5Oek8tUW1Sb3VQaWp1Q0haQk3SAXdBVV95cUxNNG9aM0tJZVJ5dzRiV01YVWRZdHRrcEZVd3otanVpY2ZQTWpCWTA5SGtpdWc0SWNyODVLTklGcnl2TndzUWRPV0ZwT29wZXJaSWp5UlY2TkxHVnpOVEhvWTVzVF9kYmJleWlFeFc2SjFmbkxQTEp2aw?oc=5",
-      "source": "스트레이트뉴스",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "단일종목 레버리지 규제 임박…코스피 7월 변동성 ‘역대 최고’",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qdUNkVE1Bbk5MYWtFZ2wtc253Rm9HTDNjOHBVeld2OU5VMUNYSkdSaTRmc0YxazZhWFN4SUJlUGRMSW9fdk0wX0hfbnpTSlRJV2hBRHJ0bmdDR2ZSTkduQ2pmN1lubEplNmxsU0xn?oc=5",
-      "source": "전국매일신문",
-      "date": "2026-07-26"
+      "title": "반도체서 돈 뺐다…코카콜라로 피신한 월가",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pazBKYkJWTWk0MHcyRjNLRmhCZ3BtOVROT0FWVUtrM09ZQzJtX1FxNEtkZmtXMFN0dWxlQTNiSjJlckZIWkdXOGFXS2UzSFJHOURkaWd6YmtfdTVBSFJ6TW9wSjQ1TFBE?oc=5",
+      "source": "ebn.co.kr",
+      "date": "2026-07-28"
     }
   ]
 }
