@@ -1,14 +1,8 @@
 {
-  "generated_at": "2026-07-28T22:04:26+00:00",
+  "generated_at": "2026-07-29T22:01:25+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
-    {
-      "title": "미국서 원화계좌 열고 외국인끼리 송금…원화 국제화, 무엇이 달라지나",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2Z01iREQ3S1U3dndjamFYWXhKWE42WHZWazVhZmtHTWhFVUZjZ0Z3cWdEelVDYjY2SUwwVEhib1FNc1dOY3dtYUs1WGlCVVBFcTUwZWVIUktFSzhoM25IQUF4OVJjOFNXdDl6ZlVtUW0?oc=5",
-      "source": "리더스팩트",
-      "date": "2026-07-28"
-    },
     {
       "title": "외국인도 자국 은행서 원화계좌 개설…'원화 국제화 로드맵' 발표",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTkFmc1hJTk05ZzVLWVYxdElIY0NJWGhkMnAtei1IMnotdjdILU05c241Yk5pX1VQVFZvWW1DSEhFZERXV1dEUzZkOFAtaEtGMXlZWEExMlFTbWR6bXZpQmhmQm5mQW5WaUU2Wg?oc=5",
@@ -22,34 +16,28 @@
       "date": "2026-07-27"
     },
     {
-      "title": "요즘 내 주식창 파란 이유, 외국인 투자자가 한국 떠나 일본 가서라고 ✈️🇯🇵? (feat. 다카이치 트레이드)",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rT253ajhEcDJIaDRHaW1wbnQ5bVNpVkNBc24xblNxR3pkOFFKTjhTTFhiSzVlcFMycWkxYjZ5YmxUMGxrV3MtYVk1clE0MXFGOG5V?oc=5",
-      "source": "뉴닉",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "日 다카이치 총리 \"외국인에 비우호적 이미지 안 돼\"…질서 있는 공생 강조",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYi1CcXRvTWpyZGs5M2FpVC0yY0ZzQmN6V3RHZ250S2lWOU9BWERVbE5PVlY0UmdMTFBxZnMyOUJKWHZRbkdEemJwbmtWYXZjcXdMMjAyUG5aQXFORU0wa0J2bUhGNjVtUkR0cg?oc=5",
-      "source": "재팬코리아데일리",
-      "date": "2026-07-28"
-    },
-    {
-      "title": "[크랩] “외국인 투자자 다 빠져나간다”…진짜 난리났다는 인도네시아 경제",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQm5ibWVySFhpb1JDYi1zSFlMTjF1cUVZSU1ORGlXcWVLd0xDZ1hVU2dtbmRTY3hpYnlNaGNRak5tS05sUzRveks1eHZLUUU?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-07-16"
-    },
-    {
       "title": "전환점 맞는 베트남 자본시장...외국인 간접투자 '밀물' 기대",
       "link": "https://news.google.com/rss/articles/CBMiwAZBVV95cUxQa2ZZNV9HMWNqbHJQYzkyV2xOUUZIRndRczFWeUJzd3hMNEpYcFRqU3c0bVlEXzJSVVRHdVN6bWFaOW1mZkFmYm1UcG1wd2huXy1kb1Q0ZnY5Mkc3cUF3SlhhaE8xLThaOXdWNkR6RGxPbnNTQmRuMGsyMmdObEhmY1dwaHdzNHFwcGFuUGZRdGpCQS05YmFxNWNWblFLX1BqRzFhRHhtaEpFSXlpZkJOWWpxYVVGRzZOWWVORU1wYkhnUjc1RThKQ1cteWkzelBzWXNNUWYzaHlQSTl6cU12SXFSbXlFVm9GN2xNXzVDOVpFVVFvNnl5a2JiMmFoZHZaRk8zZUhNVUFWVEtsR0RkYzZ3d24xOG9BM00tdFpfSXZ1RzZtdDFQellPVm5YY1FUelcxS0NUMUhWcDNRV0tiYy0wYWVFQVlpSW5CT0ZQZ0dvUTJ4bE9NQnBhQXo3Y3dGWnhtQlNocWFfcUlPVnFwdFdVSzVwT3RWUm5RRWVUWVhPYUNYUXBBTm52ZEtvY1BRYVJYd3hnT0pKajdab1p1eVA2V29fRHkzSmM2TUw0UVpEdjc4dGR0MkpUVWtoUlFVTUZTTmNxNUwwQXRBTW4yNlZhd0o2R1F5Z0NINFR1Qy1QWlVLVEhYeWVlVUJ2bTZYYnJwdC14dUNHb1RQeFlWODFodEdjUUU0U25wNmZLWHNsR0FnVUlRcm9OdTNKbmhNeEdUWThVdVFBaHItSmRSSzRtU20zOU9ya1FqbmtlNndNcVdDRFhwbzY4OWN6ZzFHUmNwaWhsX1ZTTE4xdndmQ3dUZjI5VnNJZWtKNHNCYkd5UmR3TVJrUGVWUUJRNzhRdUVBZnVEd24yaUFseDF4YzlheHlPRWZTVHJBRU9vb3ZUM3BhREgtUjF5ZUdBcjJ3dXNHcXh4SVlTUUh1Ri1sQTJGd0RLMzlsVE5faXVtS3kwRFBXTWIwZHJUOVhyamJXQ1RDRlJZeG0xQjNxRVdZSjJtNDg5NnNZemZpRUlZc0ZRZDNubjNRcXNWSDFUaGY2RVI1VFE3NTVIcmV3Rk1YT0VFRHNPLUFNWjFSckx3WkJZbG5ZUlh3OU10MC10Sllp?oc=5",
       "source": "Thông tấn xã Việt Nam (TTXVN)",
       "date": "2026-07-16"
     },
     {
+      "title": "요즘 내 주식창 파란 이유, 외국인 투자자가 한국 떠나 일본 가서라고 ✈️🇯🇵? (feat. 다카이치 트레이드)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rT253ajhEcDJIaDRHaW1wbnQ5bVNpVkNBc24xblNxR3pkOFFKTjhTTFhiSzVlcFMycWkxYjZ5YmxUMGxrV3MtYVk1clE0MXFGOG5V?oc=5",
+      "source": "뉴닉",
+      "date": "2026-07-22"
+    },
+    {
       "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
       "source": "YTN",
       "date": "2026-07-02"
+    },
+    {
+      "title": "미국서 원화계좌 열고 외국인끼리 송금…원화 국제화, 무엇이 달라지나",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2Z01iREQ3S1U3dndjamFYWXhKWE42WHZWazVhZmtHTWhFVUZjZ0Z3cWdEelVDYjY2SUwwVEhib1FNc1dOY3dtYUs1WGlCVVBFcTUwZWVIUktFSzhoM25IQUF4OVJjOFNXdDl6ZlVtUW0?oc=5",
+      "source": "리더스팩트",
+      "date": "2026-07-28"
     },
     {
       "title": "외국인, 뉴욕서 원화 빌려 韓주식 살 수 있다",
@@ -64,16 +52,28 @@
       "date": "2026-07-03"
     },
     {
-      "title": "[거래소 외국인] SK스퀘어·현대모비스 '사자'…삼성전자·SK하이닉스 '팔자'",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52Mld5OEtMQVRhazl3NkkwdlZzTmZSSVJSMVpQOE1HOVgwYlBOeEhFTGdveG1JcTVKdjdJaHZ2elBqNDRfUmdvZG8wcjI0dGdEU0R6TkJWMFQyUGVWV2dkbE1velJLd29EOGhrUHZBcDllbTjSAXdBVV95cUxPeVplN0d1eDVXRUxLRUNlT2x3cHdqVWszUUVRT2xxWEx5RGZPZmYzOFhicUZtOHE1Z0NqOWMzekJReGRRekdkaVlFS3BXTHNCcEZYZmZhakd2VG1yZmxLanN6R0ROQlZtbFdIdjFRY1luMHFOUHlZNA?oc=5",
-      "source": "핀포인트뉴스",
-      "date": "2026-07-28"
-    },
-    {
       "title": "[원화 국제화] 원화로 수출입하면 인센티브…외국인 국채 대차 허용",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tcF9JeFJGTFE5QWZxUm1DdTZUcVZ5QmRuYWw5bkV3VkJiSzRvVzZpeWpvNHNOWnltZi1pdXQyd2ZnX3h3bUs1UmR3YjM0cXBJbzRfZ2x6a3NxSmZQakQySzJVZjNLSDMzWkxrUjdtdjU?oc=5",
       "source": "연합인포맥스",
       "date": "2026-07-19"
+    },
+    {
+      "title": "外人, 17일간 3조원씩 던지며 달러-원 받쳤다…주식 투매 언제까지",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZW5DaXlYM0l5cnNPd2VKTDViMnQ1Nmk2M2FqQV9aUjl1X0xWdGhZTVdycndaemZydUVvUm5hYWVma3o2TC1ac0ZTMm1Tb3BaNnpoNl9OYVB3SEtyMG1qd0VZbXNNLW8wSUR3R3VHM0U5dw?oc=5",
+      "source": "KB Think",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "[산업통상자원부] 새 정부 출범 후, 첫 번째 대구모 외국인 투자유치 행사 개최",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNFBURzJLemJjZGRKajhVc2J0LS1sZURzNnFxaVZmNnNWY3BKa3B2Z3NvUTVFSkVsbFdhc09XdFZLUVJmekd3ODhqelVhdjJwSmxVWmw4dlBma2I4MWhGX0hxQUYwV0xlMlFyR2RRRk5xQ2xrbHV0VE1lMk5LVlhuZVdFTmVZREZQSjJwVTJ1RU0xeDgwTjJuUHBBTHJCYVA1dWNsR3FrZkhDRVNJWFJmYzZfT2Z3SXAza3JfMGtyQkE2a1ZLZTVCQUJ2dzRnQ1RSRl9fQU90ZlA0MlFrR0JsX0p4SmFFdw?oc=5",
+      "source": "국가기후위기대응위원회",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "상반기 외국인투자 9.1% 늘었지만 … 美·EU·日·中 4대 투자국 모두 '마이너스'",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MOGRXcl9DMGV0YjlDcGwyUXg3eUVlRVZKMXZDZjZHU0ZJdHZmaGRSY3dONkJuNG5FT1pfWlBfZU5sdEFkM1l6bzBibWFrb0RzX3EzX3RnZGgxRUZtZldsbEhKZEM1YjhXNm1yeFdrbWI5UTlCa1NHaUZyb9IBgAFBVV95cUxNWDREVVNmd3lRb3lkRUtWSzA2NkU4bjdQcTJxWWpzbUxsWHpGX0dNdmVlell1WHZaTnBITGg2Y010R1htb2Vfek9iNUFpOWpqUkdRcGFQdS0yUzhOQ0IyVHRvUUJqbmhiSWxvU2k3djZZNnVseUV6Rm95bEhpUmwzdQ?oc=5",
+      "source": "뉴데일리",
+      "date": "2026-07-03"
     }
   ]
 }
