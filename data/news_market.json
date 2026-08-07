@@ -1,36 +1,42 @@
 {
-  "generated_at": "2026-08-05T22:15:36+00:00",
+  "generated_at": "2026-08-07T01:01:12+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "“韓 증시 변동성 커 ‘투자 부적격’” 블룸버그 칼럼에…금융위 정면 반박 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlQ5YjZEMTBxVjF3Vjg0YmhnM09DdXQ5WHdWczB3WTRJOFJ3VVdIM01TXzlMd3Nmc3ZQTWZyTlhlWFpndlZaQ1FHWU1ZSVBfOU5FYW9uUzNMTmxqOWdzeElZaHdBdmhBR19nX1VvaHZCcVZ1R25ucXh5Yzd1SDY2bEpwdXI4SkdK0gGcAUFVX3lxTE1DX09HM0xjQmNGdGJaVVczWVZlOUs4RDEyRklvdmdJazBJUTIxRDVUWmtfWDZLbjJFZVVzMVFGOTZYZVZ6VExWRVlGVXo0UmlObGZPY1p0Nm5lcE4tZG9MSzhJR1JXajEtOWJHaVFzVnRFVkpUa3VkelgxZlljNWNBdm5sYUZaMWdzTi1uQUR3a1pfSU0yOFcxbzk0Uw?oc=5",
-      "source": "Chosunbiz",
-      "date": "2026-08-05"
+      "title": "부동산도 증시도 금융위 몫…업무 폭증에 휴가 반납한 금융당국",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wNTRUMEh4NWs2eHhYbWQ4VVFscVE2bnlURUZvQllScWY0MHNpWWsxbW1aMUtUVU02eXh0UWsyZlJ2QW96TVJDbmc1Mmw5MmVZM3lZdV9Hc2lJSG56TXJvYmdR?oc=5",
+      "source": "뉴스1",
+      "date": "2026-08-06"
     },
     {
-      "title": "[퇴근길머니] 코스피, 미국발 훈풍에 급등…금융위 '한밤중 해명'",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xTXN3SFk1SEZidFgzSG9tZXhEajJpYXdYTlF3TGhuQVpYX0I4WFhJYnhOZHJZaEJYb09LTDZBN3B2cFBkMUlsem5uek04cG8?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "이종욱 의원 “기준금리 0.25%p 오르면 기업 연간 금융비용 연 3.2조원 증가”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBINDlxX0UzMjc4YzQxODRGMk55Xy16R2J4dS03R3Z3Z000ZHNyUTBhSERmREtCMzNzUHo4ZHhnU283OEZGRGkwNjlURTRBLVBOQjN1U3NmVElZc3g4emd4QjhBaGpORTQ3?oc=5",
-      "source": "경남도민신문",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "코스피, 외인 ‘사자’에 3.76% 급등…6598선 마감",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52N3B1ZU5USkcwcnBzSU45eVlLR3JJWk9pUTdZcXJ6VEZGT3NRZ0dmVWJIMHdRQTdUdGdRbTVKVllBR0NsTHBkR2EwMHNzbVNYV1JYV1R3NV9NdnI1Z0x1LVl5azZ5OVFFYUR6VXVLaXktQQ?oc=5",
-      "source": "인더스트리뉴스",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "주택금융공사, 8월 보금자리론 금리 동결…연 4.9∼5.2%",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRNkZyTnl1cE9LdzBLUkUzR3l1YU4yYWNIOTQ5ZDQ0dXhsWldlSlFidnI2OGM3RFptU0NRSHJnME5BYUVoUEJjczRXSlgyUl82Vnh2VW5CaTJpOS1Ia20xQdIBYEFVX3lxTFBRNkZyTnl1cE9LdzBLUkUzR3l1YU4yYWNIOTQ5ZDQ0dXhsWldlSlFidnI2OGM3RFptU0NRSHJnME5BYUVoUEJjczRXSlgyUl82Vnh2VW5CaTJpOS1Ia20xQQ?oc=5",
+      "title": "우리금융硏 \"한은, 8월 기준금리 '매파적 동결' 전망\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vRk9rU3Izc2YxZzE4Q0pOY1cwS3JtRGFVRnRPNnc5bE9zNVRnVGYyMGQwWVh4VF8zblZHeG9NaXdPcUJJM3BmdUpKTWljX3dabmREUmVDbEdQVUnSAWBBVV95cUxQdzNDMVJlZ3dkeVN2OGhacF9oaEVyVVVsNURhZ1A0enllY2ZTclgzamZINEM5cnAtclgtbmZMRlVTV0JVV3pjb3VTZ1JITEhzTlUtVUpzMlNlMnhJRmpBaUc?oc=5",
       "source": "연합뉴스",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "AI 투자 경쟁, 조달 금리 싸움으로",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFA5eDQ1bF9TMU8wdUxNWlJGWVA5eEU5M01EeFc4eHJpUWI3V19GZHRaek9GaGFlNkhoN1lDZG80VGltekZWMzVYZ3Jpc0o3TG9mYVQ2VUZ1QnM1RnNsWGctRUZYN1JKVE5YUjV1RjhVS1M1Zm1BdlMycWE3cXRhVFVNWQ?oc=5",
+      "source": "조선일보",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "코스피 33% 급락했는데…피치가 내놓은 '뜻밖의 경고' 뭐길래",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yWjY0S090eUljT0pwRVRYd2FWNS1hdlBGVkMtUDBfX3VWc05scjVVSUJqa0NvSGdGTHhGUElPSzB4N1Y4UmR5MXUyVEZyVHhPU2V6RmppVWlUQQ?oc=5",
+      "source": "한국경제",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "우리금융硏 \"8월 금통위, 매파적 금리 동결 가능성\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RQkpObUxnWm1nZFpwY19rS0FwZ2ROZUxxbDlxNWRkZzlRN1lZbkR0ZDdManhqS2tOY1ZFd0FUSTdHdEdMOHBncENkaWtwNTFzRWZpMlVMUjVUc1lUQldFbTNR?oc=5",
+      "source": "이코노미스트",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "\"한국 증시 투자 부적격\" 블룸버그 칼럼에…금융위 정면 반박 By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wcTlBUGU5ODRXcVV5VEZhdk81UWZKUHc2UEg0SXZLWFM4Rl85VTV3Snd3dVpBZEJJQlZhQy1CZ0FWWXNtMnBFTUd0YU5nT00yZHlXRE92eHBNZV9qSTlrd01DLWlQWFZFMkhDaGp4cVA?oc=5",
+      "source": "Investing.com 한국어",
       "date": "2026-08-05"
     },
     {
@@ -40,39 +46,33 @@
       "date": "2026-08-05"
     },
     {
-      "title": "코스피 -22% 급락에도 -2.88%로방어…'버핏식 분산투자'",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XUjlYT01zOGx2YzlIZkxWek9OLXU3VFpicnNEeGc2RE1WOFBpTDJuRTJPWmotcUJuRHBpSE5pdXF5eVB3WmUwN3prc0hjMV9GLXZzU3BkYzl3Y2o5SXBWeHhTR3lYZVU?oc=5",
-      "source": "영남경제",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "주금공, 8월 보금자리론 금리 동결…'아낌e' 기준 연 4.9~5.2%",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5NkM4SlJQRFA4SDhyVHFTc19DZWxuNjFOZUkzSFQzNWtXUGY3ODBCRS1zUWF0Zm02cUhuYmdQX1B2MHd2UmFLcTRxcjJOQnc3OUREbVAtRjBocmRUMDdpLV83cw?oc=5",
-      "source": "조세금융신문",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "이종욱 \"금리 0.25%p 오르면 기업 금융비용 3.2조원 늘어\"",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ub29kY04tZHZqNnVrdzFoUHJ1X0l1dVNraEs5QjhLMmtpRUxlTXNwdTE0UmFNaGJ1MVdjWHM1MExjSVZnNEVWcVAweVEyQWtpM3ZxQ3ZWMG9VTC1LdG9TTGMyQ2g?oc=5",
-      "source": "서울경제TV",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "[시사금융용어] 롤러코스피(Roller-KOSPI)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96akZyTkdvbDlsV1ZkMmFLUVlDV1pmcnJieFMtazJDQzVmSV91ZktMSWN1bGZmbThUMm1iR2VRZDNDSXgzNzhaVi1zcm5qb3ItNFZXUDFENk44b3JWaFRzcWlwOGZDOE4tUTB6Zk9ILXLSAXRBVV95cUxPZkdFMDhtRnlYckhtYWd2ZG5XQ3IxdVVURFlrR2d0Tllhal9CdE52T0ZiYVdnZkJ6aktvTUNyWHFHNkNYSjA2ZUI2R3BkMmx0X0J5SmVoLXAwYUViN3dHa2xrTU0zMEZRVmE1TVVnQjRaV1NqaA?oc=5",
+      "title": "\"美·日 개입, 단순한 환율 문제 아냐…글로벌 금융 시스템 문제\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mUWZXbnNTRmg1aVN2ODhHYzY3QUxlTnlqM1BiTXRyUFMwWGYwQUpHejg1UWUzR1RaeHNRSXNTZGVzQVFOUGY1cXlULXhmMURYV1dONGlRelRBSWdmdVZCQnhGQjJtNnBSdEkxQzViZFI?oc=5",
       "source": "연합인포맥스",
-      "date": "2026-08-02"
+      "date": "2026-08-04"
     },
     {
-      "title": "“국민연금, 코스피 과열 부추겨” 블룸버그 비판엔…복지부 반박은",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSjhOV0ZvTkxUREphdlJHLUttbmdQVS1KZG96MTV4ZTY4ZGQzZERiajVDNG9uSWtVaXo0Vm5kR2VUOGNNNHEwZk5MeTFlNmU0enJVVENEYXpHUGx3Y052dXo5dXlCT3M?oc=5",
-      "source": "한겨레",
+      "title": "[퇴근길머니] 코스피, 미국발 훈풍에 급등…금융위 '한밤중 해명'",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xTXN3SFk1SEZidFgzSG9tZXhEajJpYXdYTlF3TGhuQVpYX0I4WFhJYnhOZHJZaEJYb09LTDZBN3B2cFBkMUlsem5uek04cG8?oc=5",
+      "source": "v.daum.net",
       "date": "2026-08-05"
     },
     {
-      "title": "환율 1400원선 내리자…4대 금융, 건전성·주주환원 '숨통'",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQTM2UGxPeGc1LVowRkhGb3JoenM4Z20tS01xNjh4Y3BCNDNUaE0xODRJSC1zczFqcWQtX1pyQmZXUnAwUlplVzJleHlaVVZiZkg4MXB2NlBqM09leVJrZnRqRkQyVnowUmFaQXNNTWtiRWV5aFdQUUt0RVVVbjJyQkF4R24zdkQwOEduUUxlTVpWVlE2RzRNYnVlYlFpNURjYXdPWWxETkxvR0ZYazJGSnpYTm9tVHVVRDNyamF2aHBoWjZxTlF4Ulhfd0M1cWJtOTJGZGxpRGJRb29wWGlFS2lmNTFBdmphQmh1VUpB?oc=5",
-      "source": "데일리안",
+      "title": "호르무즈 악재에 뉴욕증시 하락…다우 1%↓",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10VXFLbmdXY3BiSm9DcGt4ajJXZWxiVkpadGRoanJaVHlEM3pxeXk2TE5lcVNlWVRqdnJIMlBTT2h5MjdJTUZ5SVgwcDVWSnVtbm1SY3pOc1hHWTItaU9lU3JiR192ZGVWakhVUQ?oc=5",
+      "source": "중소기업신문",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "코스피, 4.58% 급락해 6200대 마감… 장중 매도 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2LVBSUnBIeGQ5VU9rSUVadFBQWXlwYnR2TjdyOGtlWkEtN1BjSldJbjBYMVE4Y1JqTV9PVlo3VFEtSzBtTHFCT3JaWklTaVEzTUE1ZElFdnR6WndRc195dVBKTTh4OWh2MkE?oc=5",
+      "source": "천지일보",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "“韓 증시 변동성 커 ‘투자 부적격’” 블룸버그 칼럼에…금융위 정면 반박 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlQ5YjZEMTBxVjF3Vjg0YmhnM09DdXQ5WHdWczB3WTRJOFJ3VVdIM01TXzlMd3Nmc3ZQTWZyTlhlWFpndlZaQ1FHWU1ZSVBfOU5FYW9uUzNMTmxqOWdzeElZaHdBdmhBR19nX1VvaHZCcVZ1R25ucXh5Yzd1SDY2bEpwdXI4SkdK0gGcAUFVX3lxTE1DX09HM0xjQmNGdGJaVVczWVZlOUs4RDEyRklvdmdJazBJUTIxRDVUWmtfWDZLbjJFZVVzMVFGOTZYZVZ6VExWRVlGVXo0UmlObGZPY1p0Nm5lcE4tZG9MSzhJR1JXajEtOWJHaVFzVnRFVkpUa3VkelgxZlljNWNBdm5sYUZaMWdzTi1uQUR3a1pfSU0yOFcxbzk0Uw?oc=5",
+      "source": "Chosunbiz",
       "date": "2026-08-05"
     }
   ]
