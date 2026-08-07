@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T22:12:40+00:00",
+  "generated_at": "2026-08-07T01:00:26+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "재정부는 두 자릿수 성장을 달성하기 위한 외국인 투자 유치 전략을 논의합니다.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeG1yRHFLd0FUcHJrc3NBbU9keDhrN3d0bUE5MjBhOTRfbGNaemNSeWdQdkhHTjhDNTBiRHRpZXk1S3hxeEU5cEZzbndrcVBrVWNMaktKOUxCU19yTUtFMGJDY1NHRGtCS3I2N2tOLXdENkR6YXNHLWlFTlhXdHdlZGxOaElmYlNtN2s4RnlMSVlMMUxQTldtMGVB?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-08-03"
+      "title": "외국인 세제는 손질했는데…재외동포는 빠진 2026 세제개편안",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbUJyaVRoNzhEdnZtSkJoZTQwb0hSTUt6alZOZlZ4c2FQbjFUOXJDTV9hcEh4RUt3MVJIZXFFMFMzNkQ1R0U1ZEotSnI1S3Zmc3FJUG1lV2ZUZkduOG9oWFQ2TUxENDJ3Y3U0Vg?oc=5",
+      "source": "재외동포신문",
+      "date": "2026-08-06"
     },
     {
       "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
@@ -16,21 +16,27 @@
       "date": "2026-07-30"
     },
     {
+      "title": "[머니톡스] 외국인투자자 엑소더스 주의보…한미 긴축에 대비해야",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRXVoTk1Qd29BM3F6dFBjYnRsLXVoOHZ3M21EdzdjWXlJLS1MalQwb0JfUVBZUHprTDdLN0ViTzdPVEhZa3lsR3FZYmhkZUpkcFNZNnlZdjFUWEnSAWBBVV95cUxQUjl5LXRoQ0x5VnF3ZVhoelRibWdlVXY4SVZVYnF4MGR2b0hKcGZ2WHdQcUNER1JIbjdXUjRJYUJCaVZ1eHBQM1Z6QTktTTlGZlYwM29VYWZDZDdXWWREOVE?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "재정부는 두 자릿수 성장을 달성하기 위한 외국인 투자 유치 전략을 논의합니다.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeG1yRHFLd0FUcHJrc3NBbU9keDhrN3d0bUE5MjBhOTRfbGNaemNSeWdQdkhHTjhDNTBiRHRpZXk1S3hxeEU5cEZzbndrcVBrVWNMaktKOUxCU19yTUtFMGJDY1NHRGtCS3I2N2tOLXdENkR6YXNHLWlFTlhXdHdlZGxOaElmYlNtN2s4RnlMSVlMMUxQTldtMGVB?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-08-03"
+    },
+    {
       "title": "외국인도 자국 은행서 원화계좌 개설…'원화 국제화 로드맵' 발표",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTkFmc1hJTk05ZzVLWVYxdElIY0NJWGhkMnAtei1IMnotdjdILU05c241Yk5pX1VQVFZvWW1DSEhFZERXV1dEUzZkOFAtaEtGMXlZWEExMlFTbWR6bXZpQmhmQm5mQW5WaUU2Wg?oc=5",
       "source": "대한민국 정책브리핑",
       "date": "2026-07-20"
     },
     {
-      "title": "[머니톡스] 외국인투자자 엑소더스 주의보…한미 긴축에 대비해야",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UOXlqUG1JS3FqTGNyOXp1Wk5yZi1uUWpCODhyMXMtMTd0ZThBLTdpZWhiX0hoVk9uUGo2YXZhMXZxWWI5aTAtQXAtNXlVYnJ4Qnc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-07-30"
-    },
-    {
       "title": "우리금융, 외국인투자자 지분율 최저…파격 주주환원 효과 볼까",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yQmtBVmkxWkpBbVNMblJJZk9QUDlHT1lsRWtNWWt3Q1V3d3NkOVRYNnQ4b09pcTh3Qy1WOHhvekswWEFFLW1xWEMwSDY0UUVibjdkQTlrUkRDSVhDWlpsUkVyblYwS2lHcXRzNUQ3bi0?oc=5",
-      "source": "연합인포맥스",
+      "source": "news.einfomax.co.kr",
       "date": "2026-07-30"
     },
     {
@@ -40,21 +46,27 @@
       "date": "2026-07-16"
     },
     {
-      "title": "요즘 내 주식창 파란 이유, 외국인 투자자가 한국 떠나 일본 가서라고 ✈️🇯🇵? (feat. 다카이치 트레이드)",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rT253ajhEcDJIaDRHaW1wbnQ5bVNpVkNBc24xblNxR3pkOFFKTjhTTFhiSzVlcFMycWkxYjZ5YmxUMGxrV3MtYVk1clE0MXFGOG5V?oc=5",
-      "source": "뉴닉",
-      "date": "2026-07-22"
-    },
-    {
       "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
       "source": "YTN",
       "date": "2026-07-02"
     },
     {
+      "title": "요즘 내 주식창 파란 이유, 외국인 투자자가 한국 떠나 일본 가서라고 ✈️🇯🇵? (feat. 다카이치 트레이드)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rT253ajhEcDJIaDRHaW1wbnQ5bVNpVkNBc24xblNxR3pkOFFKTjhTTFhiSzVlcFMycWkxYjZ5YmxUMGxrV3MtYVk1clE0MXFGOG5V?oc=5",
+      "source": "뉴닉",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "외국인, 뉴욕서 원화 빌려 韓주식 살 수 있다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZDVlQWM2TjNQemRyWmRzZVFhWVpQU2lBNU1VTm02TjRYbkFKMTJfRDlfTENZWkcySDVqbHA2TkZXX2hvZDlIRTBZbEFaT0VQZUE?oc=5",
+      "source": "매일경제 마켓",
+      "date": "2026-07-19"
+    },
+    {
       "title": "외국인투자 관련 조세정책동향(2026년 상반기)",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rekN6enVKUlk0cG9qZmY4MGhpbzdUT2FlbVhxdUQxZnFka3FDM1pxaWVuRGV2bjJEdlFZQzl6Wi1zanZZNXRBTmU4MzFDQXdtTVM2MVlGQ3VLUGlYOHZ5S2Y0VUdub2xqOXBr?oc=5",
-      "source": "eiec.kdi.re.kr",
+      "source": "KDI 경제교육",
       "date": "2026-06-09"
     },
     {
@@ -62,18 +74,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwZBVV95cUxPWGFsZ1ZGR2NiZDZ0VVJNLXVLSV9ncnNoM0VEc0lVRDlZOVhCaFN4UHhpaFZkbmMzUG1ySTdKd0M3b09rT25KSGFhYnlGdnZuV1RkSnlHOXRoMF9PM3k5eFFIZmxTaTZRTmlyc1ZSU0JwVlA5X0RVb0lyVEdZSXhsVmZCVExwb0Fja3NUV0ZQM3MwNUp5aVFqOTlFdExMM21LRGZPUmNkSDQ5QzF5TzJUMnhlOFEtRC15aW9tdWRuY05SRFpOdVBDUGFfU240c1BHVHllV0JNVE5aZ1c1WDU2ajV3aS1ac3htTEZTN0gtd2NTa1dWVUZOT1Y4bnFSWE1tU1BJdDEyMUx4SHQzZzNnVmtkZXhNaUhCVmxXbTduXzFxRng3T3h5Wi1pTWp2WkRpT3BpM05rbXhjakxLdGNQSGRpTWFPa0ZaRlA4cnVHejQwajNwTF9IbFl0QXBJQ1N1cndYX3NBZERQRTF3YkR3ZlpvdWVEdFc1clFOS2NETGVlVHloN3ZSVjloUDdqaHV6WktRVVhqY3UtYWJsMmNQM1YySmpVcDNPbHBwQ2FLX180VWdHYWtiZnFpNUpDZmd1TExoalFvclJTM0pUYlF1cFFtcmVkZHp3UTNmYzQzUnF4dS1uTmRWM1ZvZl8wQTE4dldKa0NrNE5lREJEdVZSdTk2MW1FVG04WjIwLVVydWdzYi1DeDhmV1ZHeFVNSU5OdFlCaVY1T0M0Q293bUFaQVQtdXVOT2JMZ0NkVXdUY1k1c2ZhTnJyMFZJSTU2NkJtbFh3M0lGOU5TUlNyVGlBVHpzTWxPME00Qm5CbnQwRlFWVDlUYTFLZEdFY05IdVBwNmM2NVNUbThNWVY0WWZ3OV8tRTVLS1UwVmJtSm44WVJ3UkJ6WHh6UklEN0g0dFJFbkFjbTlLeUFnZks4Z2EtNThWT01GeWk5UzVGby1kY0RuVS1JazJMeE9xT20yYVpxbFRyX3E0bV9VSDlQZjJkWWhVdTUxS29vWi1XTHVCLTVxcWFkYW5ac2paOA?oc=5",
       "source": "Thông tấn xã Việt Nam",
       "date": "2026-06-30"
-    },
-    {
-      "title": "中, 외국인투자 부진에 금융·의료 추가개방…기대 미흡 지적도",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01WkpVeUdxTHd2LWtiWW1kUGlOVW1TWnAwa1NPTXE0RWd5R0hrMVZXQjQxWXU5TVY0aHpKVnJQRnZaOFpjQVpDdEpDdmNhcTd3aFRReGxTUjBVN0HSAWBBVV95cUxNYXVZd3hjRjRrSTkySHUxWmtJQmVydFFweVF4Nk1SWGhZNkNDcTdEa3ZraFBYZjM0R1dqbU1BOVlxNkxFUWYtZVAwT080bmFXZHNqNWRBT3NIRlUyeHFyVWs?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-06-23"
-    },
-    {
-      "title": "'외국인 투자' 약일까 독일까…금융당국·국회 시각 엇갈려",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XVnhZZHRWWlVLNlZPcWZjSzFsYnBlNVRteVliUjc1aElENG1xTGdWR0xzbHU2bXRSOUI1VWJ2N0txejVURFFnQnNvMFRtdw?oc=5",
-      "source": "전자신문",
-      "date": "2026-06-08"
     }
   ]
 }
