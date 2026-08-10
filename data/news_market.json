@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-08-09T21:37:41+00:00",
+  "generated_at": "2026-08-10T21:47:37+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
+      "title": "금리·환율 급변부터 세법까지…신한금융, ‘혜안 2026’서 투자전략 모색",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpZjZKNGpCZVNfLUtTR0E3QTY2bW45d0RrNnFSeWpDWmh1S0l4R3QzSXUxZ2NNOGZEcUJ0alROQTZ6c2tmUHM3ZXUyQUI1eVpHWVHSAVNBVV95cUxORk1rZ1I3U0xlQ0tOeUttVjk0MmE3VUZha3Q1dS1rR1dUUjg5SmV5b3pfSVBuVFRfNUxpLXBlMnBNVUNWLXE4amI0V3NfcEhlTzZPaw?oc=5",
+      "source": "서울경제",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "코스피·코스닥 동반 상승",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83T2FYZnpmQ0I3QS1aWjFyNzJQeHg2NWRTOGpuaTZQUHJCYnc3RjVwX0ZhMjVOS09aaUR5dlkzTlA1bTdkMUtITGRDYzUyX04xaWt0UW54Z2JDbmFPTDNEbWsweTA4TU5vdC1lWA?oc=5",
+      "source": "경상일보",
+      "date": "2026-08-10"
+    },
+    {
       "title": "1500원대 환율 어디 갔나…환율 ‘롤러코스터’, 금융위기 이후 최대",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZMlNSNkVNdF9MUnlfeFhjM1ZsX3VoRkJsYUVDaTJoOGJTUnNEVmFUMUZBVVZjamN6UVBYREtxQjVRcmZrYTQtMldKUWZiM1Y3SE5KRUtLLTF6WXFlTENQN2pkWDkwb3M1RUpv0gFuQVVfeXFMUENZUWRDV0pMeVM3SnJoTjdYX3R3cWhVWDNuelJfQlhDYVhVY1R5YWY1ZmUzcmVpV2xSbUF6Nm5ubDFFX21wWm9HdHFFMnAyWDhlbmhtRWU3ektUQkRoQ0dsZzFsc01tSkNiZkdLWWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abHo5RHpCckdEX3QwY0VBQm9lUHRSSDlFWTNROTFmZWtGaVJIbzl0cURYS0lRNnRRaHAtN05CWnZoa2tnX2dBb21CdXEzWkZ4czdxSTBTSlRDSFdUbWlvZlphcjFjU19aMmfSAW5BVV95cUxQQ1lRZENXSkx5UzdKcmhON1hfdHdxaFVYM256Ul9CWENhWFVjVHlhZjVmZTNyZWlXbFJtQXo2bm5sMUVfbXBab0d0cUUycDJYOGVuaG1FZTd6S1RCRGhDR2xnMWxzTW1KQ2JmR0tZZw?oc=5",
       "source": "주간조선",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "미일 엔 매수 공동개입에...\"내년 봄 일 기준금리 1.5% 도달\" 전망",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PNmJFU1BfZUlpVjAzMXptT0dPbktWMmtNWVF0QlRSVFBuTE91b1JnQ1VmSURwbklxaUktVVF3QTRmNERqcDExSTlnQnhpSEhRZ1l4dGlBU292dTNBd0E?oc=5",
+      "source": "ytn.co.kr",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idS1aV1hvNnF1cUJ4RG1PaC1weW1Ec1BKUkw4SXpVcExkRU1GTVpZR2xCaGJGN25nMExRV01KTmQ3SVBXQzNFVHQ3emUtQQ?oc=5",
+      "source": "etnews.com",
       "date": "2026-08-09"
     },
     {
@@ -16,64 +40,40 @@
       "date": "2026-08-09"
     },
     {
-      "title": "이젠 1300원대 환율? 변동폭 금융위기 이후 최대",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WMnpSYkdXdXM3ZTNPbG5sSDc4QUxPY3dTTzkycHBoeExxNDRjR0QwUDR0bmVvREdwOUJIM1oxUkVLbGU2OXpWTkdBNEh6TVFV?oc=5",
-      "source": "문화일보",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5",
-      "source": "한겨레",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idS1aV1hvNnF1cUJ4RG1PaC1weW1Ec1BKUkw4SXpVcExkRU1GTVpZR2xCaGJGN25nMExRV01KTmQ3SVBXQzNFVHQ3emUtQQ?oc=5",
-      "source": "전자신문",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "중동 전쟁 후 환율 급등락…변동성 금융위기 후 최고",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uWVVRanRHX0tOVzRJdkRScVVzSlV6eEUycWZwUDJkLXBiSy1aYzl5RTJBbjFWYzJCUm1hZmRINi1pR0tJTG53YndLbjI2WFlSZlVNTEhQVE9peC1FM245UNIBYEFVX3lxTE1uWVVRanRHX0tOVzRJdkRScVVzSlV6eEUycWZwUDJkLXBiSy1aYzl5RTJBbjFWYzJCUm1hZmRINi1pR0tJTG53YndLbjI2WFlSZlVNTEhQVE9peC1FM245UA?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "레버리지 거품 빠진 韓증시…블룸버그 “극단적 변동성 끝날 수도”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UWTYwWFhQeGRRUkNWWXBxSWx2eHVzVGhGWWg4V2pCWW9teGNfTmJDZlNLb1Z5VE9mZjZ5bzFUU1dpU2NlZHEyZ1h0cVJBZy1rRFplc1pUZ0lFeThKbi0xbEV2N1hSRWZfdVHSAW5BVV95cUxQVnhNb2hMekZmbWRfRFpCRVpmX1hTYjZQelVBRjNTX1o1SEJBVVo3QS1PYURVSVFsYTZEd2RZUTFxSnNCS0hlMUFwV2kwRllSRDMxSmV6eTZiRXNKZzF2VEZ1QVJoS1luSF82b3RhUQ?oc=5",
-      "source": "뉴시안",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "1600원 코앞이더니 1300원?…환율 변동성 금융위기 이후 '최대'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZVEl0MVltTjZGMXFMVS1zV1RRV1RBT3FzcF9OaVhtN1pnQ2xvN1hMVU40M0Fma1d5dS1JRnc4UGxSRFAxekhTRTk4dmlIc0VRNC1xbDg1R2NnZw?oc=5",
-      "source": "한국경제",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "환율 변동성 금융위기 이후 최고… 월평균 변동 폭 47원",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5aGY2YmFtT3VzQ2NTQ3puWmJiRFM2cmNSYjFsNC1fZDFqNVF5MjU0dlIwa2FocVRXUDlLZEVEQjdaMW1tSzJfdDhZU0FOMDhlTlg5ZHdmWGRUQ1Q1ZGJxSmI0VEVaajRHNGo5Vkh0Yw?oc=5",
-      "source": "서울신문",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "환율 1600원 위협했다가 1300원대 눈앞…변동성, 금융위기 이후 최고",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53VVJXRWFKQ3VBVU1DMHYwamJjZDFDYjU0QUE5bE1HbnJMMnZ0Z3ZEM3hPQXR1bGdIMzAtUlBuMzhDdjJjRE1uVUhFdDJGdGM?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "[김진호의 금융포커스] `투자 부적합` 자초한 증시",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdHFrMGt1czFjQWR3dnFLQmhEaHRFYU9BeE9uSWJwemhmN3JsQ01fekIzSk40Mk9nSkp6MnhtYVFtWTJOT1RHLVZQTTB5UTB0Q18tZFdsejJYWm9VWTYzOE85ZWd3UzFmdWF3bjgyM3JVZXNZ?oc=5",
-      "source": "부산일보",
+      "title": "[시사금융용어] 환율 적극주의(Currency Activism)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00aXA0Xy1iQ2JoWWJ4Mk5xejJhS1J1TGwtMnZVbzFuR1V4czJCZ21tZHlTN2IteHVMckRCaVdWcTlELUFKbmF0X1o5TFFQMVdBS0p3TUpILS1NUndzdUFyb2haQzdWN1JWNXNtekZ6OWHSAXRBVV95cUxPVkN1ZzRZcFdoblNVM2ZBTlU4NC1uRkJrRUcteFRONkl4VDhSaEs1dlhfekZsMGFBbGhDNC10Q0lTcVVfLVBPS0JWclFFU3Y3d0Vzc2c0ZnF3LWFMSklIUU9jZkdERUVWZ054NTE2eVlfdkk2Yg?oc=5",
+      "source": "연합인포맥스",
       "date": "2026-08-09"
     },
     {
       "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YemRwYWFtVjlFdXpJcGJKeFQ4YkNBVU8wcGRGMkhpdDRHSHlmTDVIYi1nc0tRRlRIa3NpVldkZW00VlBUaWg0SDd1eWpqV2hNVTA1REFCV0dJeFnSAWBBVV95cUxPZi1OamxCMmdJdE1mV2NlVldJbTVyRHJoODVnVzFtcFhQQkJpalliajJuaklZS3poa0x4YU5TOVh0dUE0Y1dMLWFVQXRpRWhoRXQ1cG1sNkM4ekotXzdzZ0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNEpUclZPeFh3THJlUGZvdkRBRDdkX0xLV1R3dl9yS1JBbm5NV1VQYkRBVlRlVElPTEZYOEZsZjYxUDlONEQ5b2RlcFpoQ1U0Mm15a0xDTUhtOGfSAWBBVV95cUxQbW5qRTBXRFh1MldhX21xQkJtRFZNWHZJbng4c3dSckIzaDNFcnhqUmpqUno2cWVxQ2dlTE1lNmc0TkpXZVdINTA3cjhoMFBFM0wxcEI3Nk5QTUU4VzZvb2o?oc=5",
       "source": "연합뉴스",
-      "date": "2026-08-09"
+      "date": "2026-08-08"
+    },
+    {
+      "title": "코스피, 3거래일 만에 반등…코스닥은 7% 급등",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUUHdNemhwNUt5Q3RMT1lVZHg1LV84SFhnUHEtUjRHenhtNzF6WVdfOVpYY0dGcksteDVXZk01a0wxMmJUWVU5MTdCSlNBZXJKQ21mTUpLSDJjdkN5ckJXMWpLSEdQUl9aTnfSAW5BVV95cUxNbFY1c2lyc2RrOFhWVnNQMTlvWDA4ZG55Tzh5bDlrWGhLcjRhUzVLRTgwZ3VQWTBvbXA0UVlQdVE5TW9XRnJqWV82UTh4MllCallLaHBVLVU1Y2ZTSlpuVVRCUGpicXZQdzZfN3ZiUQ?oc=5",
+      "source": "뉴시안",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "[미·이란 전쟁 2주] 금융시장 대혼돈…코스피 10%대 급등락·환율 널뛰어",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XU1A2amJiUmZfSmxKVnRta21wZUtUdVl1Vk9KRUZLMUpnVU9IWlY0ZVRTd1pib2dKVFhoT25iQ2p5dFBWeEpSVm8zOVNsVUpobEE?oc=5",
+      "source": "매일경제 마켓",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "[단독]AI가 대신 \"금리 깎아주세요\" 신청 1000만건, 1년새 6배 폭증 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14WWx6LXNtZ1VPQklSdlJoWF9zWGt3TkluZ2R4bzdLaUVzTTJuSVZqZURKYjJHd2tiOHJPQ0dIZ3lrclNUbGtzN1gxZjNLeUpHNC04bDZGeFVsLUc3azhad2RRa3FOXzQ5X0FV0gFwQVVfeXFMTUd2TklkdU5mWE9YS3ZKQTBVQ1dHZzd2UlZNalRWZjRzVG5rc25ocTFoTTU1TWdXaFl4ZWhuZHp4RWY5ZThUSllpQ3VHbGNDQmhXYzNsSE5lLVhkVFFZMzA5QWJqNjFiVzExSW9NTTRuTw?oc=5",
+      "source": "mt.co.kr",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "韓증시 상승 마감… 코스피 3거래일 만에 반등",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kajM4U2JESE0tcHI4RWR2UnJXcUlXZFZkR2xZMkVrR0lTZHdtdW83eXFyRzlMZnU0b3F0Z3FHMlM0UzBYNkVPbmRjQkY0dUFMYm9zSDg2RldQOGtSUW1DbGZTNkRFNTIxVGc?oc=5",
+      "source": "천지일보",
+      "date": "2026-08-10"
     }
   ]
 }
