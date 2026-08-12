@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-11T21:47:35+00:00",
+  "generated_at": "2026-08-12T21:44:42+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "외국인 세제는 손질했는데…재외동포는 빠진 2026 세제개편안",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbUJyaVRoNzhEdnZtSkJoZTQwb0hSTUt6alZOZlZ4c2FQbjFUOXJDTV9hcEh4RUt3MVJIZXFFMFMzNkQ1R0U1ZEotSnI1S3Zmc3FJUG1lV2ZUZkduOG9oWFQ2TUxENDJ3Y3U0Vg?oc=5",
-      "source": "재외동포신문",
-      "date": "2026-08-06"
+      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
+      "source": "KDI 경제교육",
+      "date": "2026-08-12"
     },
     {
       "title": "“삼성전자 주주환원 최대 200조원”…외국인 복귀 신호탄 될까",
@@ -22,9 +22,15 @@
       "date": "2026-07-30"
     },
     {
-      "title": "[이번주 증시] 코스피 6000~7000선 전망…외국인 수급이 관건",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84dTlTY01LNF85YnVNVlJCZ0t4bWl2bUNPdkFpUmRvODNKdXJQdnR5M0ZiOWZBRnFPa1ZVdHBuWHBSNlRNT01fV29rdXRBM0xucVhTUmRha1lBX29zbUFPQjZzQXphbUNjMEHSAW5BVV95cUxNUW56RG9XMU9RODM3di0xeWdqZ1pGdVR2YUVxRnNMX0MxOFM4azRJRGc5TlhuVlV2T0lma0hwVnJ1TjRfWTRvcjljQ0Vka3JTUzVxZFp0VUZhTTc2aUxaQm9VR2JwX09oa1FPeGpfdw?oc=5",
-      "source": "뉴시안",
+      "title": "외국인 세제는 손질했는데…재외동포는 빠진 2026 세제개편안",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbUJyaVRoNzhEdnZtSkJoZTQwb0hSTUt6alZOZlZ4c2FQbjFUOXJDTV9hcEh4RUt3MVJIZXFFMFMzNkQ1R0U1ZEotSnI1S3Zmc3FJUG1lV2ZUZkduOG9oWFQ2TUxENDJ3Y3U0Vg?oc=5",
+      "source": "재외동포신문",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "아르헨, 외국인 토지 매입 완화 추진하다 후퇴…정치적 후폭풍",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mYWtBRzI3b3dmNFQ1d0lfV2x0RXNOa2ZBdThIOWFvRXRYLWtyR1NNSGNLeS1taVRCRjVIa3I4RGxKNGN2SDhIM1E2bXh0SVJXVDJVUGM5VXVLSmfSAWBBVV95cUxNR0w1VkozUGNJWVlXb1ZGdWs4cnhzLUlKenBpYklQNS1oWkNOUlpqRTJ3RENpazhUMGVrOG82VGxUeFA5cWZPaHVjTDVVOXJwazk0T3NJMXVzYXJVdkM4UXA?oc=5",
+      "source": "연합뉴스",
       "date": "2026-08-09"
     },
     {
@@ -32,12 +38,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82dW5mRG95ZlM2VUw0TGtvVUowTDJCRHZkXy1VcWgxcnJneGV5bzFJV1pBZmpMTUYzWGs5MEVqamNYS2JmcGNwU3BWcnloVnhtOXY3VEc3VE5lVGVkZEE?oc=5",
       "source": "YTN",
       "date": "2026-08-09"
-    },
-    {
-      "title": "[머니톡스] 외국인투자자 엑소더스 주의보…한미 긴축에 대비해야",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRXVoTk1Qd29BM3F6dFBjYnRsLXVoOHZ3M21EdzdjWXlJLS1MalQwb0JfUVBZUHprTDdLN0ViTzdPVEhZa3lsR3FZYmhkZUpkcFNZNnlZdjFUWEnSAWBBVV95cUxQUjl5LXRoQ0x5VnF3ZVhoelRibWdlVXY4SVZVYnF4MGR2b0hKcGZ2WHdQcUNER1JIbjdXUjRJYUJCaVZ1eHBQM1Z6QTktTTlGZlYwM29VYWZDZDdXWWREOVE?oc=5",
-      "source": "yna.co.kr",
-      "date": "2026-07-30"
     },
     {
       "title": "우리금융, 외국인투자자 지분율 최저…파격 주주환원 효과 볼까",
@@ -48,14 +48,8 @@
     {
       "title": "외국인도 자국 은행서 원화계좌 개설…'원화 국제화 로드맵' 발표",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTkFmc1hJTk05ZzVLWVYxdElIY0NJWGhkMnAtei1IMnotdjdILU05c241Yk5pX1VQVFZvWW1DSEhFZERXV1dEUzZkOFAtaEtGMXlZWEExMlFTbWR6bXZpQmhmQm5mQW5WaUU2Wg?oc=5",
-      "source": "korea.kr",
+      "source": "대한민국 정책브리핑",
       "date": "2026-07-20"
-    },
-    {
-      "title": "외국인 투자를 통한 경제 개발에 대한 사고방식의 6가지 주요 변화.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTjIxTEhRbjlsR29CQU80d1RFMXFORUlsREU0NVJTY3VsYUcwVFR0WTF0V1hLRHY0WnRUQmhiRTVjWC14dlFvZHhkeWpHNm5xYVBTN3NzbUFmLXRHdnNQbEVYZUd0SlFnSTVBcF9jdTdfQ1o0VU5aZU9mUjF1ajVYSjlDVXlqZURiNUpZVlpvREl3MXl2ZmRZczdYX2p6alU?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-08-07"
     },
     {
       "title": "요즘 내 주식창 파란 이유, 외국인 투자자가 한국 떠나 일본 가서라고 ✈️🇯🇵? (feat. 다카이치 트레이드)",
@@ -64,16 +58,22 @@
       "date": "2026-07-22"
     },
     {
-      "title": "외국인, 뉴욕서 원화 빌려 韓주식 살 수 있다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZDVlQWM2TjNQemRyWmRzZVFhWVpQU2lBNU1VTm02TjRYbkFKMTJfRDlfTENZWkcySDVqbHA2TkZXX2hvZDlIRTBZbEFaT0VQZUE?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-07-19"
-    },
-    {
       "title": "VN 지수는 국영주와 외국인 투자 호조에 힘입어 1,800포인트를 향해 상승하고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHpvMGJFV3FTVWtjeFpTYzdtZk44Ml9jSzh4WDVrcUl3VjdhS21VRjR3aGlOWHpucm1XUnUteGNPTlNQVl9IOC1scnFLdjNnMFhLM3FUQTZTSU1Cc29zX1dXWG1Rb2w2ZFZEX0FUYmU2UUJFYWtuRElfS3h2c0o3RVl3Y0J1cE5PRGtBcEdvMlE3NXFL?oc=5",
       "source": "Vietnam.vn",
       "date": "2026-08-08"
+    },
+    {
+      "title": "“韓 주식 직접 투자한다”… 외국인 3조 폭풍 매수 ‘칠천피’ 가시권 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmJxSk9RTDF0cEg4QUhSMk1qYkxkUTVpTDVwRzdvX3JwdzFyYnZfcTJ6OGt0VlZUV2hzUWpodmRYdndITE1UdDhaeEY1REpwWlN1LUpjWHZURmxVTlFsY09TblV1d3JyOFRtVjdYRm94Ry05Y0VSTWZla0lQR29rTzhmSVVjYmox0gGcAUFVX3lxTE9uT2cyMHZrMW5vZG5IenllZk1JU3BEVlQzZUtKVmJyMEptTkFXNDItakMwTDM2WW5OOTF3T0tsUl9hZXZLeVpVWW93ejZzM1RxVlpFUllsb2Y3ekQ0bldkN0paSEJrcUkzVG5zQnlDVF9NdW5HcUR0VUV5aXhtLURNc1VVSGc0cnNUWGY4N2Jwd2NxUUhSX2lVQnE2cQ?oc=5",
+      "source": "Chosunbiz",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "외국인, 뉴욕서 원화 빌려 韓주식 살 수 있다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZDVlQWM2TjNQemRyWmRzZVFhWVpQU2lBNU1VTm02TjRYbkFKMTJfRDlfTENZWkcySDVqbHA2TkZXX2hvZDlIRTBZbEFaT0VQZUE?oc=5",
+      "source": "매일경제 마켓",
+      "date": "2026-07-19"
     }
   ]
 }
