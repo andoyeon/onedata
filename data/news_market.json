@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-08-12T21:52:00+00:00",
+  "generated_at": "2026-08-13T21:52:02+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "日기준금리 연내 2차례 인상 전망도…\"1.75%까지 오른다\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hUzQ4aWU0VThXUlY3UlN5UWFEcHczaUVwMmhCNGduWndjTjljWFFGblJIU1BGMF9iT0xtTDRzRjZJTXFqYk0zY0xUSS1XTm9Tdy1zWHJFM0hFdWvSAWBBVV95cUxOc3J2V3hLRVdFN2pac045dEJpODR6WTRKUG45R195aHhJUE1IM2JkbDRkZDZiMmJja0hlcDRCa0pzWllZU2lwQ1hrVFNNUDV2VWU2UDIzV2ozYTcwSmVzb0s?oc=5",
-      "source": "연합뉴스",
+      "title": "AI·반도체 훈풍에 코스피 3.56%↑…6800선 회복",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43dWZSQ19CVXFOVU1kV19fb3BDSHZ6Z1BOaktsV2tyMHBkekJrZnBMWWZLSDJYbG5UeklHUlVJbU01SDJNQTk2ZV9obWF2ZTFrVjhHZWVCMTNVLW13d3VfZGNWb1p1NktTOEtkbEZ0Mzl3dw?oc=5",
+      "source": "인더스트리뉴스",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "코스피…3.56% 뛰며 6800선 탈환",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HZzd1X3MtWnMwS2JTR2RRbWw3a0Noamp1eFpUWnF5dVZGNVVwV2FiUGhBRlVxZ250dVV6Z2QzUlJtRDB3cE5rb0Zfakc2T2REMmFOUGlWbHR1c1ZKY2hlLVlIejJ1Um1RdHBnU1ZlRHFyc0HSAXdBVV95cUxPVUhCdHgzVGFNVVJ3SEw2T1BDZFhzUTVfdmtWZVZrNW9xaVRIS0Z3TEdrNWlvNl85dFkxV3AzdkZCMldPWlM0THBsOEVyUlU3QUVDeVJNa1hGcHlJVzdYS2hIV1JpTFJtTDRfTGxPNWRyVE5DU1VzSQ?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "美 국채 발행금리도 금융위기 이후 최고",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55aFZfWVlWN3NjZ3k0bU9vdW94ZEpZMWUyMVI5bnMtck8zQkQ3aWVrNGxwV2pXUDBCQ1FoWWd1VEkxNThmdHgzRFktZWxhdjZHWHc?oc=5",
+      "source": "서울경제",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "증시 활황에 돈 쓸어담은 증권사들... 하반기에도 ‘돈잔치’ 이어질까",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXdVMzZ1MGVud0NsZU5OXzRQTlZRVGlvRFN2NE5COExCMGNYN3ZORlp5UERfRC1RQTRwX3NDdEtSWGFDQUNtUmU5RWJXNEtBTzQ2M29jX21yc1JnYUVUZWwtWVhXSU00Z3J2bkxneUJDbDRWQldpdVdERWhub29rUw?oc=5",
+      "source": "chosun.com",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "한양증권, 숏폼 콘텐츠 '한양사전'으로 증시 역사 조명",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNlJFZHhLY0FCQy1XVzVzOEtpLW1fOU0wYVM3MUVVUnN3dmZfeVgwR2hSOWJPeUxZMHoyYWhieU0zOFlTTFhVc0NkeFd6UHZHSEVKUVBTTE40bVdWeDVMWEpTTmI2cExyV05F?oc=5",
+      "source": "BBS불교방송",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "금리도 환율도 은행 편…실적·자본 순풍타는 은행주",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fSEdlS1QtS1FvWm1CaDJiYTlsTVF4SEZFY2JiUnRTMGRibGE5VU10S3duajRlVmNhSzdvd216VHFJTFFKYm9FSjJSRWtRTHZHeS1vOUQ1V0JaRGNDLU9xREZ6cWZmbnB3ME5XOE1B?oc=5",
+      "source": "아시아투데이",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "美 10년물 국채 금리 4.7%...금융위기 이후 최고 금리",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWkttX3BLaE1NcWZZb2hQdEFPZ2lRbFhoaTg4NEpQX0dWVWJOZW41TERUUnM3Z2hraHdVMjV1MEJmcG4wc2RxenRRZXpFNDF5cTlpTjBISjZSTkRKQXE5NWZLTQ?oc=5",
+      "source": "더구루",
       "date": "2026-08-12"
     },
     {
@@ -16,21 +52,15 @@
       "date": "2026-08-12"
     },
     {
-      "title": "일, 9월 금리인상 힘 실려...연내 2차례 인상 전망도",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OemJ0VU9LWGlMWS1LTU8tT21KV25rcjhqVWJNVzFKTzBhV2l6dy1zMzlBeENuSk0zWmNBZDJzNXQ0dFVrWEdCZ25PWE95alM2Z0VKMFJSZTJ0U2JqU3c?oc=5",
-      "source": "YTN",
-      "date": "2026-08-12"
+      "title": "코스피 나흘 연속 상승… 코스닥 강보합 마감",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16YzNNVThwY1pzZ3ltY0RObmVCb21EaVdkcGlXWkRnT3JCSzJtSGlVQ09iVk1sM3loV1hxWlpiaW1KYXd6c1BOYzlYMFFfNXNrQ0xzX3EtQi1uUm51eThrbFJhZlZoRVpnelE?oc=5",
+      "source": "천지일보",
+      "date": "2026-08-13"
     },
     {
-      "title": "1500원대 환율 어디 갔나…환율 ‘롤러코스터’, 금융위기 이후 최대",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abHo5RHpCckdEX3QwY0VBQm9lUHRSSDlFWTNROTFmZWtGaVJIbzl0cURYS0lRNnRRaHAtN05CWnZoa2tnX2dBb21CdXEzWkZ4czdxSTBTSlRDSFdUbWlvZlphcjFjU19aMmfSAW5BVV95cUxQQ1lRZENXSkx5UzdKcmhON1hfdHdxaFVYM256Ul9CWENhWFVjVHlhZjVmZTNyZWlXbFJtQXo2bm5sMUVfbXBab0d0cUUycDJYOGVuaG1FZTd6S1RCRGhDR2xnMWxzTW1KQ2JmR0tZZw?oc=5",
-      "source": "주간조선",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "[베트남 증시] 정부 주재 금융·경제 회의 기다리며 혼조세...빈그룹株가 상승 견인",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5RGVDYXZyQXNIREhIMmtDOXF1SFltc21IYVJ3eldkUVUwTlNIVm4wR1kyazM5QUFyWldMQjJwYXpXc2Y1LW5mMWhYcVphNjdHdGxiV2tNa21oODky?oc=5",
-      "source": "뉴스핌",
+      "title": "日기준금리 연내 2차례 인상 전망도…\"1.75%까지 오른다\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hUzQ4aWU0VThXUlY3UlN5UWFEcHczaUVwMmhCNGduWndjTjljWFFGblJIU1BGMF9iT0xtTDRzRjZJTXFqYk0zY0xUSS1XTm9Tdy1zWHJFM0hFdWvSAWBBVV95cUxOc3J2V3hLRVdFN2pac045dEJpODR6WTRKUG45R195aHhJUE1IM2JkbDRkZDZiMmJja0hlcDRCa0pzWllZU2lwQ1hrVFNNUDV2VWU2UDIzV2ozYTcwSmVzb0s?oc=5",
+      "source": "연합뉴스",
       "date": "2026-08-12"
     },
     {
@@ -40,40 +70,10 @@
       "date": "2026-08-09"
     },
     {
-      "title": "[뉴스프레소] 뉴욕증시, 3대 지수 내리고 러셀2000 상승… 금융까지 장악한 엔비디아 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWd0NsdmJPcW9LSEpUNExpekllN2lEWW9WdEI2Q29MUFlhUzU0am5rM2ZCU1pmSFRNQzFTWkZWeHJZbFF1VXhYY25ULUsxWXhmX3RlWjNzRGM1ZkRyOU4zZHVXbXVzT0FD0gFuQVVfeXFMTTNEcDYzT3hyX0hFM3VYMmJ6Nk5QUU5NX2RnXzgxaHpEb0NxSjBLUzVOX2Z2ZFdjcmpjRVBzZGZ0VDZWSEp2UkZ4MGpiYUlnb0lkWXNSVlYxamxjZ3JHSHZoQTRRSWtZd3E1OUFnb3c?oc=5",
-      "source": "머니투데이",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "[이슈&인사이트] 금리인상기 취약 차주 악순환, 부분보증·대환 대출이 끊어야 한다",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdXJ0Y2ZPNnN5dFAxaDVrT0I4QWU0dF84YXF5R2FkU2RjZDVZZW95QXZIS0VTV1Uxd0tUVkR1cmgyTGZ2TTk0MHBIdzB2Q0E1bFBrdkppZlNMRWs?oc=5",
-      "source": "에너지경제신문",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "코스피, 1%대 상승 출발…금융∙보험주 강세",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13V0dlcFB0QTVBZDVINkZnNVdGTE9YaU9GZVdyVnA4YzZPU2c1QldkOGJyRWFBNkdiMmx4Q3Y2UWtKYnNPbTNkbUpjQ1VlWTA4ejRtQ3Y2Z1FhVWxUUlUzcjhkb2E?oc=5",
-      "source": "서울경제TV",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "증시 대기자금 100조원 붕괴…‘빚투’는 30조원 유지",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDT3gtR0JtOVFKWXhCajFCeW5PdGU3dG4wVjQyZ0FOSUZpNEZKbUQ5VGVGdERtd2hlWVhFQjh5WjlIOHUyZ2Z3RUJ5UGNHcEYzd2l1NkRiYmxnSUo1ME52NS0xVHNSRFJwc2xOQm1ybw?oc=5",
-      "source": "진일보",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "한국금융지주, 2분기 순이익 1조원 육박… 증시 활황에 ‘어닝 서프라이즈’ - 키움증권",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0dURUV3lzZkg0YjVMTzJkTjJreEt1ZGZnUkZRNzRhUVgtbGk4X0R4N3NGMUlUdEVsU0x5cDBsd1lRSFNDT20wcFM4SWNnUVRvZm5Zb09tOU5Vb1RTZ3ZaNExHNEtPX1VrQVg5RHVB?oc=5",
-      "source": "S저널",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "한은 추가 금리 인상 예고에 가계부채 '경고등'",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mNUEwNkw0Umc3RmduS2tOS0luSEtiRVJBa3B3LXFTbmgydjZXVnJNSldyZEo2MExCTU9ZSHZ4WFFOc1REZHpOTW13dXJKaW4zM0Y1dWNucUxZeGk0M1B4TXBQVzdhLV93bG5ydFZn0gFyQVVfeXFMT0JmdFZWRlZsMzFvZE10SkpMTzd5TTBqOTdrcVdaRXJFWlp5bFV5LVZVUzdLMEJhV2o0NFdKZ01FajI4Q3d1b0FSbHpQWGw4MkZScEtnMUg0RkJmMkNseEtnMkViaHdNam1fREpUSmpCX3hB?oc=5",
-      "source": "polinews.co.kr",
-      "date": "2026-08-12"
+      "title": "엄태영 의원 \"증시 과열 초래한 금융당국, 사과하고 책임져야\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81MWFTNjdEYVpGenJ1Y3VNbkU3Y2NpN2hEOE1EZXQwWFU1YjlPVVNGaVY4YXVtdXhZYmVDRXNjWS1BbzZ0MER5U1VDTkFQNl9VMjhVQ0tTUklsN3BT?oc=5",
+      "source": "newspim.com",
+      "date": "2026-08-13"
     }
   ]
 }
