@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-08-13T21:44:32+00:00",
+  "generated_at": "2026-08-14T21:24:58+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "인천시, 외국인투자 유치 기여한 시민·공무원에 성과급",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVXNsNExjaGc3ZjZZckFrUXJ3azExVDdPWXRrbGV3ZXhycEkyWFNVWXd5VTNtM3pZN2FUTkRPbzVBLWo2YldiV0dNbVk0VFgwZWp0b3NTM1g4R2owcko5TU9Hc2tYS2JtTkE?oc=5",
+      "source": "THE인천​",
+      "date": "2026-08-14"
+    },
     {
       "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
@@ -10,22 +16,16 @@
       "date": "2026-08-12"
     },
     {
+      "title": "MSCI 선진지수 편입 로드맵 77% 완료…외국인 투자 불편 해소",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpM2tOdS12b0dnZlJWTmU4MnVPXzllLWtObGJRbU54dUN0cVp5SlpxU2FaaTR5TXJscFdKMExnUTJtN2tzUWZDVnl4MFZvalRnRTh5ddIBWkFVX3lxTE1SMzJxRld3ZThHX1lLYlI2RkU3N2tnX0hCMEJqNGFjaktHZ0d3ZlZabFBEMXJocmRqUW5hMHZQMklHTnpVNjNqNGZ2VGtXc1hFQmtRdEFZVnVadw?oc=5",
+      "source": "뉴스1",
+      "date": "2026-08-14"
+    },
+    {
       "title": "[단독] 정부, 외국인투자 안보심사 강화… 지분 ‘50% 미만’도 심사 추진 - 조선비즈",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc1I2TDhoX3VhSzNPMXI4TUhIOXNLWFJFaEstcFhFWXZ6YkI4Z1ZsUmlPUUIzQVVhRENYU0JOdGRLRGhJZkhHUlg1ZXlWTDQ0SU5VSjI0eldFSTl6SWQxYzRxU21ISm1iM0lLRVFqNFhBMEd5bXhNNE5xYk9PVmUxRnJXNkR5QdIBmgFBVV95cUxNQ0ZfS0UyMGRxMk1XWnRFaFFiM00xOXNwdXJZWGlvRmlsYXlVcnRnNTVCTEZ5d20ybmxacDBSdW5HYlVWdUx2RTE5VmZCWElwVjVKUENJTHFZTUVYeC1ad19OczZUMHlxbnVrdTV0WkpzZnBqQXpfYmNpcE1JT2hrYUV4dXhqQXdIOVlnd0VRaVhPWG5aNW5ydnZR?oc=5",
       "source": "Chosunbiz",
       "date": "2026-08-13"
-    },
-    {
-      "title": "외국인 18거래일 연속 담더니 팔았다…브이티 주가 왜 꺾였나",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBweUVnanpWS2xlYVdEbUR5bm1yd2ROT0ZZeDFQeHE3TUVtcGdpamk3dnpfbE5KcEJZS1dEb1cwdnlON1lBZjBRY1ZzRmNxZG5pTkFsa1dxRnNlVHU4d0dxSGtPb1dTMlpOMGc?oc=5",
-      "source": "뷰티경제",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "“삼성전자 주주환원 최대 200조원”…외국인 복귀 신호탄 될까",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RdGdrUlU2NEY0UTJiaW9DNDlpdmNUWXY3U2pqck9heDhDbjNNSjdNNC1EM0NLM1hyYVZ5LXZDd3B6bHYxNGUtSU5DVmd3cTQ?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-08-10"
     },
     {
       "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
@@ -35,7 +35,7 @@
     },
     {
       "title": "[머니톡스] 외국인투자자 엑소더스 주의보…한미 긴축에 대비해야",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRXVoTk1Qd29BM3F6dFBjYnRsLXVoOHZ3M21EdzdjWXlJLS1MalQwb0JfUVBZUHprTDdLN0ViTzdPVEhZa3lsR3FZYmhkZUpkcFNZNnlZdjFUWEk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRXVoTk1Qd29BM3F6dFBjYnRsLXVoOHZ3M21EdzdjWXlJLS1MalQwb0JfUVBZUHprTDdLN0ViTzdPVEhZa3lsR3FZYmhkZUpkcFNZNnlZdjFUWEnSAWBBVV95cUxQUjl5LXRoQ0x5VnF3ZVhoelRibWdlVXY4SVZVYnF4MGR2b0hKcGZ2WHdQcUNER1JIbjdXUjRJYUJCaVZ1eHBQM1Z6QTktTTlGZlYwM29VYWZDZDdXWWREOVE?oc=5",
       "source": "연합뉴스",
       "date": "2026-07-30"
     },
@@ -58,6 +58,12 @@
       "date": "2026-07-20"
     },
     {
+      "title": "외국인 18거래일 연속 담더니 팔았다…브이티 주가 왜 꺾였나",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBweUVnanpWS2xlYVdEbUR5bm1yd2ROT0ZZeDFQeHE3TUVtcGdpamk3dnpfbE5KcEJZS1dEb1cwdnlON1lBZjBRY1ZzRmNxZG5pTkFsa1dxRnNlVHU4d0dxSGtPb1dTMlpOMGc?oc=5",
+      "source": "thebk.co.kr",
+      "date": "2026-08-13"
+    },
+    {
       "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
       "source": "YTN",
@@ -68,12 +74,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rT253ajhEcDJIaDRHaW1wbnQ5bVNpVkNBc24xblNxR3pkOFFKTjhTTFhiSzVlcFMycWkxYjZ5YmxUMGxrV3MtYVk1clE0MXFGOG5V?oc=5",
       "source": "뉴닉",
       "date": "2026-07-22"
-    },
-    {
-      "title": "외국인, 뉴욕서 원화 빌려 韓주식 살 수 있다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZDVlQWM2TjNQemRyWmRzZVFhWVpQU2lBNU1VTm02TjRYbkFKMTJfRDlfTENZWkcySDVqbHA2TkZXX2hvZDlIRTBZbEFaT0VQZUE?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-07-19"
     }
   ]
 }
