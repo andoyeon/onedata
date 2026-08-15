@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-08-14T21:29:18+00:00",
+  "generated_at": "2026-08-15T21:25:20+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "유로·파운드·엔화 강세 속, 달러가치 '하락'",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqTUp4OVcxSWN3RV8xRnEycm1mWlQxTm5NX2hfNEdzS1hfZGdERFdabnFuMWhnLTNaT25DcTNsQmd2UzNPR1lLVE1obHVXRDhHdUk0QjJzTHFZYm9hdDhBYVB4dWJkNTg3N2hIVWZaSdIBc0FVX3lxTFBNamhzWVJuZF9lN2RrcDZyeC1JeWZST3BZRWxrdi11MnpBM2RVekdsMFZnV1N4QTFHMXhMOWN6U1k2YkkyOWU0UzF0bkFxcnlGdU9PS2IxUEJZWWR3SG5PaHg0V2UzM1NfNXVXMDZyTWZ5Mmc?oc=5",
-      "source": "초이스경제",
-      "date": "2026-08-14"
+      "title": "'가계부채 2천조원' 시대 진입…금리 인상기 건전성 비상",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MTRLYnlSMmVDRzhhVzgxYWJQLTBLYmZlYTFQZzlSUTZuc19ic1o2cVhTSjJpMW94YzdfLTF5U3Fmb05xb21aWHBRSU9mbDhHZnc?oc=5",
+      "source": "매일경제 마켓",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "증시 변동성 축소·우호적 매크로 환경...외인 매수세 지속 기대감",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9INWJNR05DQk1SaVI5RHVqLUVjTWM2b0twTmpxWmJ2aXhwZmFvNGdMY3pFZUpBQ3o5RW9oaVYycGprQUdfRlNobjhJSGJWTmhqZWVXUXFaR0FzWmZSbWgzOE5OOXNQLUFJUWRCbkc5NNIBc0FVX3lxTE8xWHlHMl9TdkMwOTVrM0ItZGpFODE4Q1E2Sy1EVUpBUWZSdEV5QWRmbS1zYjZicXNlNm8wZnFTTExSa3A2Q2tFSmFLUE45Q3NHamFiYXdfX1RrUDhPVjB0b2FyLXFFRzl1R3N0UDN4LXdQWk0?oc=5",
+      "source": "데일리한국",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "금융위 검사 쇄신 추진과 금리 불확실성 등 이시각 주요뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MWHhiSjE4b0RkTTFuOC1QbklTZzlxTURhWk1JMENrWklWckx5cWlYUHJfUk85Tk1HTXBiZDZlYnBLTmJBa0otYjlvXzNqdDRuUnNrWTVGMHNwa2kzd1k3bE8xZTA5ZXhvNm92NnVITmfSAXRBVV95cUxQeGZQWFNDOTE2V1BuRUFlWnU0dk10SDdGX21HXzBMc1JYZU02cmxUaEF5S0MyUWFlTkdXTzFvd3B0bHJZN0c5NzdWeHp0S2RRd0hkNUo2NEd6YTNpLXZmbHVFa3NVVklfUTY5aEFORzd5b3ZTdw?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-08-12"
     },
     {
       "title": "한화에어로 vs KB금융, 코스피 톱텐 쟁탈전...투자포인트는 '극과 극'",
@@ -16,15 +28,33 @@
       "date": "2026-08-14"
     },
     {
+      "title": "1500원대 환율 어디 갔나…환율 ‘롤러코스터’, 금융위기 이후 최대",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abHo5RHpCckdEX3QwY0VBQm9lUHRSSDlFWTNROTFmZWtGaVJIbzl0cURYS0lRNnRRaHAtN05CWnZoa2tnX2dBb21CdXEzWkZ4czdxSTBTSlRDSFdUbWlvZlphcjFjU19aMmfSAW5BVV95cUxQQ1lRZENXSkx5UzdKcmhON1hfdHdxaFVYM256Ul9CWENhWFVjVHlhZjVmZTNyZWlXbFJtQXo2bm5sMUVfbXBab0d0cUUycDJYOGVuaG1FZTd6S1RCRGhDR2xnMWxzTW1KQ2JmR0tZZw?oc=5",
+      "source": "주간조선",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "AI·반도체 훈풍에 코스피 3.56%↑…6800선 회복",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43dWZSQ19CVXFOVU1kV19fb3BDSHZ6Z1BOaktsV2tyMHBkekJrZnBMWWZLSDJYbG5UeklHUlVJbU01SDJNQTk2ZV9obWF2ZTFrVjhHZWVCMTNVLW13d3VfZGNWb1p1NktTOEtkbEZ0Mzl3dw?oc=5",
+      "source": "인더스트리뉴스",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "美 10년물 국채 금리 4.7%...금융위기 이후 최고 금리",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWkttX3BLaE1NcWZZb2hQdEFPZ2lRbFhoaTg4NEpQX0dWVWJOZW41TERUUnM3Z2hraHdVMjV1MEJmcG4wc2RxenRRZXpFNDF5cTlpTjBISjZSTkRKQXE5NWZLTQ?oc=5",
+      "source": "더구루",
+      "date": "2026-08-12"
+    },
+    {
       "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qV3VYOWFoOHB6V0l1WGRzbGxMWXBMRTN6M0lpME5zSTBBTVctOURTNm9qRlpvdXB2Y1UxdVZzVXlybi1WVUVVUDFzMnJYTk9VdThjbTg0ckQ0TWlvakw2VGI4aS1SZDNBRVFJ?oc=5",
       "source": "BBS불교방송",
       "date": "2026-08-14"
     },
     {
-      "title": "고금리에 3년물 회사채 대신 3개월 CP 찾는다…“연말 차환 부담 늘듯”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82eTc2ZFZyWXlLclFFZkNZa0xOU2JZZnVWLTJLbkQtU1pwYWZDT0pMeG5VNUFmbFQwcGFHZTRma0p6ckZsUVptY0RLVUJIRFA1RVROTGQ0bThTOWFIeXJqUEE4RQ?oc=5",
-      "source": "에너지경제신문",
+      "title": "코스피, 외국인 매수에 장중 7000선 회복",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzZWp5UXBfMTc5NWo0M0xhN3JuX09QOVdDeF8tMUFvaTlSeEFTRFg0Yms5VkFIeWNQN0FHV0xhRUo5NjF0MC15SGliWXVNSVVZTXVuMHhQc0ZtX1NxRnlnTF80Z3dfeExxV3Q4Y1ZUQW40OWfSAXdBVV95cUxPNXFCMFU1YnpvY2xmQmhWMkdDUVotZDZpUnFjeDUwQVRYUVREel9VUnlsVVFJdGVvZDZIUVh5bXJhQVdXN2ZmcVYxdE1GNFRzdkNFSWpQcDBXajNGNnpmYWQ2YUpGdGR3NGxRS3FTSW82eG9la2FCQQ?oc=5",
+      "source": "스트레이트뉴스",
       "date": "2026-08-14"
     },
     {
@@ -40,40 +70,10 @@
       "date": "2026-08-14"
     },
     {
-      "title": "1500원대 환율 어디 갔나…환율 ‘롤러코스터’, 금융위기 이후 최대",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abHo5RHpCckdEX3QwY0VBQm9lUHRSSDlFWTNROTFmZWtGaVJIbzl0cURYS0lRNnRRaHAtN05CWnZoa2tnX2dBb21CdXEzWkZ4czdxSTBTSlRDSFdUbWlvZlphcjFjU19aMmfSAW5BVV95cUxQQ1lRZENXSkx5UzdKcmhON1hfdHdxaFVYM256Ul9CWENhWFVjVHlhZjVmZTNyZWlXbFJtQXo2bm5sMUVfbXBab0d0cUUycDJYOGVuaG1FZTd6S1RCRGhDR2xnMWxzTW1KQ2JmR0tZZw?oc=5",
-      "source": "주간조선",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "씨티 “한은 8월에도, 10월에도 금리 인상 가능성”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NM1lOMGhoR1kxWHp1a0tmaVNISFhfZlVCNXpzNEtyeEhKYzFTa1pmQ1VZRDN5UnR6c05KdU5JSWUxY0d3bV9QZC1VcnQ0cGNDanpOYlJNQk53dlJNeE1OclVac2h6OHJMNFNkdlA5MNIBc0FVX3lxTFAwV1c4OHVsRzcwODYtd3N0NWJXLXMwMEZGZjFEc0VMWUlRU1RGdW55M0hpLVVpNWhvbmZ6SUhaUXVHUmpMTUhLTVJWaS1vLS1VS1dCcTU5XzJQRVhJYkstU2YzelBKSGlVbVBFNGxjMjk0YTg?oc=5",
-      "source": "시사저널",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "금융위 검사 쇄신 추진과 금리 불확실성 등 이시각 주요뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MWHhiSjE4b0RkTTFuOC1QbklTZzlxTURhWk1JMENrWklWckx5cWlYUHJfUk85Tk1HTXBiZDZlYnBLTmJBa0otYjlvXzNqdDRuUnNrWTVGMHNwa2kzd1k3bE8xZTA5ZXhvNm92NnVITmfSAXRBVV95cUxQeGZQWFNDOTE2V1BuRUFlWnU0dk10SDdGX21HXzBMc1JYZU02cmxUaEF5S0MyUWFlTkdXTzFvd3B0bHJZN0c5NzdWeHp0S2RRd0hkNUo2NEd6YTNpLXZmbHVFa3NVVklfUTY5aEFORzd5b3ZTdw?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "코스피, 외국인 매수에 장중 7000선 회복",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzZWp5UXBfMTc5NWo0M0xhN3JuX09QOVdDeF8tMUFvaTlSeEFTRFg0Yms5VkFIeWNQN0FHV0xhRUo5NjF0MC15SGliWXVNSVVZTXVuMHhQc0ZtX1NxRnlnTF80Z3dfeExxV3Q4Y1ZUQW40OWfSAXdBVV95cUxPNXFCMFU1YnpvY2xmQmhWMkdDUVotZDZpUnFjeDUwQVRYUVREel9VUnlsVVFJdGVvZDZIUVh5bXJhQVdXN2ZmcVYxdE1GNFRzdkNFSWpQcDBXajNGNnpmYWQ2YUpGdGR3NGxRS3FTSW82eG9la2FCQQ?oc=5",
-      "source": "스트레이트뉴스",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "[EBN 데이터센터] 14일 상승 종목 30選",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02T0NHVHZIajFUWVBJbHFTTmY4RHk5dmpTcFdMTkxRMkpaLVBzbnB0ZlZsTWhyMEJNNFFPYnFPMGxNcHVaclM1TW1xeENQT0lTVUdrb3NnUndrZzVuZXNvSUYtZkVReHhO?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "코스피 상승 마감… 개인·외국인 매도에도 기관 매수에 올라",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrR1FENnlTWm5TZHBQbzV1b0Y3d09OUU1xcUJUTWtqbldTVXJtR2tFaXU2QWUyT19LdG04MlF6M3NBN1N6dFNVM1IwNGtSd2dnbTl5SjJnT1lhTEI1RkRMUWlhM2J5NHZuVVE?oc=5",
-      "source": "천지일보",
-      "date": "2026-08-14"
+      "title": "美 국채 발행금리도 금융위기 이후 최고",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55aFZfWVlWN3NjZ3k0bU9vdW94ZEpZMWUyMVI5bnMtck8zQkQ3aWVrNGxwV2pXUDBCQ1FoWWd1VEkxNThmdHgzRFktZWxhdjZHWHc?oc=5",
+      "source": "서울경제",
+      "date": "2026-08-13"
     }
   ]
 }
