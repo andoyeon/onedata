@@ -1,43 +1,61 @@
 {
-  "generated_at": "2026-08-16T21:24:53+00:00",
+  "generated_at": "2026-08-17T21:30:00+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYlVDeUdHSGZMTWZPNW9DM2lFclNkNHlIR0oxblpSYTh2RTVpOHRLNXc1NEhGd2Q1M0tTckRyRFJfbjRrek9pSGNvVVFKeHQwZ2lSVw?oc=5",
-      "source": "매일경제",
+      "title": "美국채 매도세에 30년물 금리 5.31%…2007년 이후 최고치",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tbVQ2TDZrZmdONGRGWWVLVkdfclhjOHBPYUtqNEZFXzViMXdNdUFkUlhoYnZxeTBmUkVqSHhENkdCQmxqMFRsb2FvVjVZYXNHMTMtb29WRi03blMwRHRsNQ?oc=5",
+      "source": "tfmedia.co.kr",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "미국도 못 막은 엔저…일본은 금리를 더 올릴까? [동여의도 위클리]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NRUtiWXo0Tmw1dk9ldEsxQXlId0h5ZzZKVkdlQ09DaGtVY2pxdDQxb0dKdnZQaHJkR2VwV0w5bWw4Wk1CREE1Y19VNjQxV0d3YkE?oc=5",
+      "source": "매일경제 마켓",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "\"6개월새 28조 증발\" 초유의 상황…불장에 '직격탄' 맞은 곳",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QWFVLRE1Fb05TbGpyRWJjbXZ6em92Qkc5Z29IbFRpUFRKZnQ4al9jejJwb3FsLU9MYzNScFVVT0lqUHpFVEhEVlFucmV4M3RsWHk3bHl2U2pRQQ?oc=5",
+      "source": "한국경제",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "4대 은행, 경남 폭우 피해에 긴급 금융지원…최대 5억원·금리 우대",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbUhwUkNwVUdyTWhXcUtvWkYza3JiOFh1YlNUWEYtZl90SjRaVmFDTHVxc2FQZGVhSFdubktqb2RBbldqcVkwRTBPcHF5NE9saWJjRFdPbGh3QUFQb0hrTjFQSHZERVo2enJQR0l6OA?oc=5",
+      "source": "데일리e뉴스",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "[금융이슈 Summary] 환율 급등락에 따른 보험권 변동성 관리 과제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XN3lXT21SWXNQck1EV1JseHVIR0VuR0tfbUpMQ0p4M0ZmaDYtd0RpcjItLVJ0WG5OV3FXV2Uwc0FJbHZiX0pISTRndUdtc1JqanQzMmV2MmNPc2RmOXUyMVFQQVpwZGNqVE5N0gFvQVVfeXFMT1R0TEdTenYyeVEyUzhuZnVUbWNFVzBpSTNDb2hrZVhOZ2VXZGpTbFFIeGUtaVhIWWRsY2FyUk9hT0J5WjY4MXlEb2ItM2JjNXB4RUpselFNWVVzdF9NU0pqUklkeWpQNk45T0VsNW84?oc=5",
+      "source": "한국보험신문",
       "date": "2026-08-16"
     },
     {
-      "title": "가계빚 2000조원 돌파 확실시…금리 인상에 취약차주 비상",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZWR1YnJycmlKZ19fbUY1eFRjUnhiazcwMHc4Vi1TZ3pweW5fN0pfaUk4VkJWYWhCcWFoTjlFbDYydGduRmI0ME1JWDdOcDVfZFBscV9rcHUtUQ?oc=5",
-      "source": "경북매일",
-      "date": "2026-08-16"
+      "title": "日 2분기 0.3% 성장…내달 금리인상 여부 주목",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42cEI4dEdLTk1KR3VXdW9CeEN4UG51cXlGSHFVZW1WRjBoX2JUMzRfd1dSVkN6eGNCZGVFUXBUWEtrbE1FM2lCUDZFUHU4V3Q3eEtGc0RZWk9FUzZVTXBDcDVTT1ltNEljV3BCVFJ1MGM2U2k5?oc=5",
+      "source": "dnews.co.kr",
+      "date": "2026-08-17"
     },
     {
-      "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-08-16"
+      "title": "“달러 쌀 때 바꿔두자”…환율 하락에 환전·예금 수요 ‘꿈틀’",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xbXg3eFBhZWhWWHZ2UHJpLUJEekd0dDlSeTJJRjlsY0dwWkFpQjdCN2RaVTRQVWlGNFBkTE9WUTZwMDZWUDhkeG55VzkxUlU5SlFZemlDeXRHbFV3dTRISzB2V2UtMTJMbkNuXzU1QjJyVEE?oc=5",
+      "source": "마켓인",
+      "date": "2026-08-17"
     },
     {
-      "title": "경북도 차기 금고 어디로? 금리 배점 높이고 시중은행 참여",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85ay14TDEyQVA5NVg0YjF6dWdYSWpBSU5EWWkzNm16T1dsM2Y0UDNXbjdSaEFqaV9xVVRJWHdfaXpQSktRbkZxdEhTNGdvRjNOeW9BTWVQc3FsdzVVT05GY2U3c213M0YzdElj?oc=5",
-      "source": "영남일보",
-      "date": "2026-08-16"
-    },
-    {
-      "title": "반도체가 가린 2000조 가계빚 … 금리 인상에 커지는 금융안정 뇌관",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JM3VEWlpjZlNkUGxHLXVBQ3RKNUNZZ3lGR094aVdPaWdlZGFwQWlSZDNnQ2ZzTWNZRUR1V1otMXZiS1RuaHNMR0RqZ3ptdWV3VWpxRG01NWg2dXhhMm93bDhjb2dJOExFbGhYUDlianBxY1pZNThEQ0ZMa9IBgAFBVV95cUxNZUczVkpRVlNRdTcwdkR3WHN6b0txWTQ4OEF1NlNDUUNFZVF0OGgxdjA1Y2Z0R3RpTVRNcnFIYlN6WVFXRXJ3alFZb09zR1JqY21zUnhIWC1SZlp0MUQtREJlZnB0S05na3l6alhOVTR6Szd6TmRrMm5VcDU1cER0Zg?oc=5",
+      "title": "영끌·빚투에 가계빚 사상 첫 2000조 눈 앞 … 기준금리 인상 제동걸리나",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Tcy1WVFFfU1dnVURMSWdCSXpwdzg2OXh1QVlXV3A2M2p2blVPZFFicVhBNlY1YWNRdGJIdFk2anh0WWMtUWlrSmtGYlg5YWVWMzJOMEJsZnZ5R3Y3dUdySlpLVnkxV05NcWNadUFOc0RiMDFjYXI2c0hhZ9IBgAFBVV95cUxPUjZZOGFLWTBTNE9iaWxETXBKdzRFaVN0b0tVSk1NSG9hdENOMFZyQVJEYi1oNi1wZHpsdGRiYzRYbGYxaHBrdF9HcHpGblB5cUlrbmE5eHZqdV85QWhITUI0LVNtNzByRmRpOFNHSDN0clF2bmI4RjdPOFNaNlVLZg?oc=5",
       "source": "뉴데일리",
-      "date": "2026-08-16"
+      "date": "2026-08-17"
     },
     {
-      "title": "가계빚 사상 첫 2천조원 시대…금리 인상에 상환 부담 ‘비상’",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TbDF6R2xldVFOZUxVb0pJbEtkckI5TzFoLWRINkFNLWx1dDhoWk00NTlaUXFsQ2V6d1REdGlWeDh5ZVpGcmIwdmRaTHZBWnVzVmc3VWJSUERIdEJ6LXdsQkozTHU3ZVJMbFBITVVFVUfSAXRBVV95cUxNaERvaV9INkU0NDFMbmN1dU5OcXg3eEwweEc1NDRlQVl0TlkxRjN2YU1uWE5vZERyLWVTa01ZUlMtdFVZVFVwNHNYYklmZHZBVGs1dndsVHZ3dUJtT0VBUlJCMWg5andXNjhWUTBVRzlrNkdMMg?oc=5",
-      "source": "산경투데이",
-      "date": "2026-08-16"
+      "title": "열흘 앞으로 온 금통위, 연속 금리인상 저울질 - m-i.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5la1BTVVYyRXhzejNHYTVYaVJyeFlfMEZUb2dwbF9IbHktNWZzZk1XX2dHTE5BeHhZYWJuMmJ6Vm9XajRkRHJNN1RjUVNwZjRLTzByMkhGZEtMM3FhXzZFRFZoOTA?oc=5",
+      "source": "m-i.kr",
+      "date": "2026-08-17"
     },
     {
       "title": "'가계부채 2천조원' 시대 진입…금리 인상기 건전성 비상",
@@ -46,34 +64,16 @@
       "date": "2026-08-15"
     },
     {
-      "title": "금융위 검사 쇄신 추진과 금리 불확실성 등 이시각 주요뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MWHhiSjE4b0RkTTFuOC1QbklTZzlxTURhWk1JMENrWklWckx5cWlYUHJfUk85Tk1HTXBiZDZlYnBLTmJBa0otYjlvXzNqdDRuUnNrWTVGMHNwa2kzd1k3bE8xZTA5ZXhvNm92NnVITmfSAXRBVV95cUxQeGZQWFNDOTE2V1BuRUFlWnU0dk10SDdGX21HXzBMc1JYZU02cmxUaEF5S0MyUWFlTkdXTzFvd3B0bHJZN0c5NzdWeHp0S2RRd0hkNUo2NEd6YTNpLXZmbHVFa3NVVklfUTY5aEFORzd5b3ZTdw?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-08-12"
-    },
-    {
       "title": "1500원대 환율 어디 갔나…환율 ‘롤러코스터’, 금융위기 이후 최대",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abHo5RHpCckdEX3QwY0VBQm9lUHRSSDlFWTNROTFmZWtGaVJIbzl0cURYS0lRNnRRaHAtN05CWnZoa2tnX2dBb21CdXEzWkZ4czdxSTBTSlRDSFdUbWlvZlphcjFjU19aMmfSAW5BVV95cUxQQ1lRZENXSkx5UzdKcmhON1hfdHdxaFVYM256Ul9CWENhWFVjVHlhZjVmZTNyZWlXbFJtQXo2bm5sMUVfbXBab0d0cUUycDJYOGVuaG1FZTd6S1RCRGhDR2xnMWxzTW1KQ2JmR0tZZw?oc=5",
       "source": "주간조선",
       "date": "2026-08-09"
     },
     {
-      "title": "외국인 투자자 대거 매수세…코스피 상승세 이어갈까?",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IZm1xbzhoR3VEMzdnRzhqRFRrTjNzYkZUdVdrTFFXZzV6ZlpZSUxnNnNsQ0pxeHpVU3dIYWl4ZnpoU2FXYmxrMWJrY2twRV9rVnNpRUJrMDQzYzBlUHNOV2hFMVhFNy1K?oc=5",
-      "source": "공감신문",
-      "date": "2026-08-16"
-    },
-    {
-      "title": "한화에어로 vs KB금융, 코스피 톱텐 쟁탈전...투자포인트는 '극과 극'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ITVh6MmpVM09kQjhzYVQ3aDcyMWNkZHo3em1tUVEwZkRPQ1pmQlJWWWxNWEtDbTd4ZHNVeC1zNmc4bUxBcDRRaUhvM2tKR2phbWQ2c21zWV9PMllPYzlHUktNOXo3dXNXTS1xbUVsZnQ?oc=5",
-      "source": "오피니언뉴스",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "고금리 논란에…증권가, 매담대 금리 줄줄이 인하",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83S2dybU9qWDRLcV9WMHIwX0FCekN6MEw2SE5HY1ktMXN1NGM5WVlyeUMtVzg4QnZxV1FRZGhGdkFGcnNlQUJOM2I2bkw1T1czMUJxdkx0b3dSd2d6VkZxS3BUVEE?oc=5",
-      "source": "서울경제TV",
-      "date": "2026-08-15"
+      "title": "가계부채 2000조원 넘나...금리 인상·빚투 확산에 복합 위험 확대",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2Ql8zWTFTMjc1c2pwQmVsaFhOeU5Wd1EwT21OR1IyYkZaZFFCVE9EZ2F1WFJpc3BWUkc1RV8wbWthOWNyZVRqUzNmUjRXaUszTjRNR0VZTmtnTDZMRlN5ZG1GNGhXVzg?oc=5",
+      "source": "M이코노미뉴스",
+      "date": "2026-08-17"
     }
   ]
 }
