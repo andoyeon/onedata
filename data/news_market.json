@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-08-19T21:29:41+00:00",
+  "generated_at": "2026-08-20T21:32:21+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "코스피 급등의 역설…순대외금융자산 12분의 1 토막",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jcUwzcllFODUzWnJqR3RTbVQtOTRVcWZqb09jQmE3S1ExdTYtYUtmT0pPcWd2ZXd3VFUxT0VvNnB4ZmVKZ1FBZ21tZFZDeW9sV3UwOF84YnM4LTd1VFl0NkJGRVk2dk0?oc=5",
+      "source": "연합뉴스TV",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "코스피, 6852선 ‘껑충’…반도체가 끌어올려",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6WkQyd3RiOTBpVWhDLXQwT2pHWGJVMnNBd1ktNENDZFZfWHI5ZldFOGZIX2FtcmFmTS02enA0WW9fLXplRVV4dS01NGpfRnc2WUN3NExTMmVBNDgxeFVDLWtva1lKM0pzMVlwaGJNamVhX1HSAXdBVV95cUxOSGZpSW9sejBmMHlzVjlMX1hiTzhOZ3pXc0ZwZXU3ME9KMzZXMUhkUnJqQkxlNy1pRFJaRk5qLWtrd05lZi1IU0lkc3NBdkF1aDlKQ0g4eXZkLTBiVjJ1YXBHZndWNks0Rkd3SzFkMkl1dDNsTVZ5QQ?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "코스피 폭등에 외국인 보유 국내 주식 가치 급증...2분기 순대외 금융자산 역대 최대 감소",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnd0VmFZM3RQZXJBVW5ZcHIzUzdDTWtBSUtlUlBfcW0xWTJvMUJ2TVBQNlBsMzllcGhCMnNtRXE2Z01hNTZDWDdsYmZaQ2IwM0JoTWpMeG5OenAtaXlOUi1DQ2R4WGJjUnFTTC1zODhUUHpZVE5XdXVpbFk3R0ZCUDZ5UUxldjdEU1FEeENB?oc=5",
+      "source": "조선일보",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "美 금융시장 참가자 66% \"10년물 국채금리 연내 5% 돌파\" 전망",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZEhfSWQwOE9reDlndzRNa0VVRGF6cDcwaUdZY05yRUxLdWlVaFBWN2ZLSGRlT01OcUFXczVTaFl0MDZESW5YYXA4ZWFkQndrOFR3X2lCOWV6ZkFHRWc?oc=5",
+      "source": "더구루",
+      "date": "2026-08-20"
+    },
     {
       "title": "금융위기 직전 수준 美 장기금리…베선트, '기습 바이백'으로 맞섰다",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pcHZqbko2cmx6TGdZb051Uk42TU1JSnhSWmk1WUwzLWVMNnRmRDF0a3F1VXN3TmV3Rks0Mkloc0pCUF9qckttclVZdUc1cDFwWDVKalVhWkxadl9JV1AxZTlRMU05MFRFRE9YLVpnUFo?oc=5",
@@ -10,16 +34,10 @@
       "date": "2026-08-19"
     },
     {
-      "title": "농협캐피탈, ‘NCAP 건강 우대금리’ 금융서비스 시행",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1peWhyOEU4c195UzY0a0pfdjBQZHVWc25MMkdMSFZrcUJIUFQybjB4bENvRE50aHNJY1pGUVRvUVF1SW1HdElvelk0OThFNUlaU0F3aVBfY2p0N0NzTnJCd3lUWW03cTJVdGlFcWpxbExOcEZo0gF0QVVfeXFMTWl5aHI4RThzX3lTNjRrSl92MFBkdVZzbkwyR0xIVmtxQkhQVDJuMHhsQ29ETnRoc0ljWkZRVG9RUXVJbUd0SW96WTQ5OEU1SVpTQXdpUF9janQ3Q3NOckJ3eVRZbTdxMlV0aUVxanFsTE5wRmg?oc=5",
-      "source": "주간한국",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "원/달러 환율, 장중 1400원 깨졌다",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00dTIzbWtuMVB6bHZnNGZuWVpVUWhtVFU2ZE9JdTFCaFRwWlFGQ3hmTWFZT3ZfSk5JekN4cWJhX1MwT21nYzdQdnMwSVhHT0gtMmVuZjVFSXpfVWxHZmstaElBb2I3Y1Z3UXZlc2xpcGhodDjSAXdBVV95cUxOSEg1MlFLY24wRHp1MHJFckt4N1VMbGZ0ZmU4Zl90OEN0d01GbVB5REZ3MXVKMXRjM0t5QmtCekVkTlI1REJ1X29fVm1IT0dmVzRpUk1JSU1FQ2lLMFhUVW5LYkFycDBTRXdKNWJJUG9hT0t4b3ZuWQ?oc=5",
-      "source": "스트레이트뉴스",
-      "date": "2026-08-19"
+      "title": "코스피 폭등의 역설…순대외금융자산 11년 만에 최저",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjNFgyLXgxLUJWYUNvQkRXeTZQMzl4dDdmZEZfTVR2S2tFZVE4cE9ibTNXdERJQnhYVUdveGxudnpEUXhOZkVqSTltTWVNTUdwckZ4c0FEand6M1BjbWtQMEpfbVpUelhWVGdB?oc=5",
+      "source": "머니투데이",
+      "date": "2026-08-20"
     },
     {
       "title": "미 30년물 국채 금리, 19년 만에 최고…국내 금융시장 긴장",
@@ -28,52 +46,34 @@
       "date": "2026-08-18"
     },
     {
-      "title": "못 믿어 한국 증시 “더블카운팅 89조원”, 코리아 디스카운트",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlTlRiUDFNSXRVQkdSWnBJZk9rUE5pd2tMOHJZcjJ2UVhJV2ZoT3FGcmZXUXJUMWF3U0JFMzFMV05yU29RTC1CRERXb0czSEUtZFVUdlB4bWxaM1ozbkVEQTZqZU40ODQ?oc=5",
-      "source": "ynenews.kr",
-      "date": "2026-08-19"
+      "title": "SK하이닉스 '40조' 잭팟에 코스피 상승…다음 주자는 삼성전자?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JY0pDRkhNVjdOSFV4ZVdfV0luWGtBcXhDWUotaEtITE91dWFoTUFlRzc4cmpqQTZ1RFNGems2NjVyWTJ4SzNxTUFGTEFRZGg2YnAzNTJjek00Wm5T?oc=5",
+      "source": "뉴스핌",
+      "date": "2026-08-20"
     },
     {
-      "title": "국채금리 발작에 위험자산 '휘청' … 글로벌 금융시장 뇌관 부상",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mQkg4bVBNUVlBRXkwUzJldUJVeWNDR3RnVEV1WjJ2Q21iSkJ6d0VablItN2twMzhDc09NOUtxd09pYl83V3R1cy0wUHBLaGRvVHJlTWhQOUplUzRHOGVoaENuN3NpaVpZazNiclZJNUZhdnNndUI0YUNZRdIBgAFBVV95cUxPRXppcVZlUWJuNWtNc0d0UDQwZk5DR1RUZXllVVMta19TZ0w4c2xDMEN5T0JUTGwyekV1bEtyT3hQdXdqWUhLVG9RM0RSTEJHYWNERnhHNDlWQ3VXbFJhc3VuVkc1a1YxaEtNSWRBYWI4YUREemxBa0tlajZGd3NLVQ?oc=5",
-      "source": "뉴데일리",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
-      "source": "한겨레",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "미 재무부 시장 개입에 금융 시장 훈풍...국채 수익률 하락, 증시 반등",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41TTN4SGRWd0tQTnI5Q2p4R19fVUhKV0dmbEFYUzA0Ri00OVRUUnp4YUhRV1Y2TmI4ZkVaeTVrWFFBMTdmRm9udG1FMUNnN3JoeVNyTFlvaEljUQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "[김종인] 미국 장기 국채금리 급등…원인과 전망은",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSTVlaUFuNG9EUTRrSVZUMFdMLUFmTlRrY2JkRUxlSHk2a0VkQUlleVZzYTFsdV84aG8yVGRVay0xX2tXYjJTLVQyelJQY3RzMVVTQ1dB?oc=5",
-      "source": "지디넷코리아",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "‘암 백신 3상 성공’ 모더나 177% 폭등...‘국채 소방수’ 美재무부에 뉴욕증시 상승[데일리국제금융]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRzV3dXdWMWxKb2ZXWjZZazZYLVk1ODBDWklRaS1HaWZ1QmJBNTJUNmNab1h4eXhuNGJyV3NBMUY1UjNwNmFHeTZoU3Q3QzBhYWc?oc=5",
-      "source": "서울경제",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "또 멈춰선 코스피…올해 사이드카 48번, 금융위기 기록 2배 육박",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2N21ZNVY0ZWpndDNKY2F4M3RjaEQySzZQQmZkM1ZpSkw4VmdkTHFRS2VuWWxyYWtVMS1sb1RYZmJWOGlYZ2NGWF9QOXVXZDA?oc=5",
+      "title": "코스피 68% 급등의 역설…순대외금융자산 640억달러로 급감",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10TS01cXZhMm0xdTRjNVhmeEJkdXlIUF9Kd3UzbUpqOE4yc3B4VWMwYS1aaGZ2Q0E3aXE1LWxHUC1Pb3MwdW9GejlJR3hWeXM?oc=5",
       "source": "v.daum.net",
-      "date": "2026-08-19"
+      "date": "2026-08-20"
     },
     {
-      "title": "고공행진하던 환율, 10개월 반 만에 1300원대로",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aNzZzLTZTeW9EamhCRkVRTzBIdTc4c3NvaWlCRm5EMjdQRnp1b1hQaXpCUXF5WFRWeWl5Qlk3LURsQUhMUTRXRmFHLWwzNFFGNmZXUjVJS1hCUVNzb193cUEtY2V6OGphNnU2N2Fhb9IBc0FVX3lxTE1JU0YtamRVVmU3SkFPV1JGZ1lmcDZjQUh6b3c3VUxnRU1pZ25vQjdUWlE2TUMtUmU5NjJ6YVU1a240VlY0eUZNdm9udVRCS2hPa1Z4WGFaY2g5UGctcWtKcVplWmUtUzkyY3BFWlBsTllWdkU?oc=5",
-      "source": "시사저널",
-      "date": "2026-08-19"
+      "title": "코스피 급등의 역설…韓 순대외금융자산 ‘1조달러→640억달러’",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hTGZxSEhXWi04ZVQ5OHktbFJlcThuTUg4WHJfZGluNUUtZGZsNE1NaWlwdDR3SXVKb25DV0FUaGRRU1VReXE1bFVWTjRIbWtQZWM3c3YyRGgwRjlOY0lN?oc=5",
+      "source": "조세일보",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "여전채 뛰고 기준금리도 오르나···카드사 조달 부담 ‘첩첩산중’",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1ak44M2duWklIV01CZGpoMVBhZ2piSDNiR3hET0g1bmNxNTNWT2tFR09RWUR0bHJocDZXNi1mUmdwWFc5SEN0X2sxUUpNZjZDTmxyc1lUSG9rMjdrdjVVb196VkJ4ZHRuZnowQlF6TS1MZ9IBdkFVX3lxTE5YeDh2Z2hnLUZkOHZjbEU4SUpwZTBPcDJDZUsydUFzVFYtU3Ytd29QSkd2RGNRbGxyTGZoTVhiSnBKMDU3eW42elB4Z0p2ekN5aTJGMnI2YUpQbUNLNEZkalFIWG1ELUdTYW9kaGdHdUYxUjA5UWc?oc=5",
+      "source": "시사저널e",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "코스피 5% 급등에 매수 사이드카 발동…6800선 돌파",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sUzZfanF4dmRzbWxtSTBGend4eEFXVHpod1JsbHZKVTlrNG51anpITEI4MEV3bG1xZ1J1Z2tSMldIVzQ0anl1cnExQ2JGSExzbWh5SjV4a0VhaHdZSEUyUmJlOGR3Y2xUcDRHTlFUOVl4UQ?oc=5",
+      "source": "인더스트리뉴스",
+      "date": "2026-08-20"
     }
   ]
 }
