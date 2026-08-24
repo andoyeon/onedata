@@ -1,19 +1,43 @@
 {
-  "generated_at": "2026-08-23T21:25:54+00:00",
+  "generated_at": "2026-08-24T21:35:16+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "이번 주 엔비디아 실적 영향 관심...기준금리도 주목",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yN1dqYmJZaEpXOXAyNk8wWkZreFUzQ1JTRWZmRVlZbnJYdjItSVhFYzlWVDBJcTI0alpyU0thb0dDb0ZMTjdLZmdNeFJlSTdkNC1tLW45NWhDb2MySXc?oc=5",
-      "source": "YTN",
-      "date": "2026-08-23"
+      "title": "[휘낭시에 카페] 굿뉴스에도 불안한 증시...금융시장 흔드는 ‘美 국채’의 경고 ①",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54OHU2aTZLS0dqMzcxQ3FFLVd1ZF9DbTJrY0NaY1lmY01uNGJoZUFhWGt4SDBtX2VyYmU2Q1hwODl6TzJ6WjB3c3FqTW9JM3IzRnYyeGxsYnF5c09GX0wtcDVMTm1iNlROaUFtNGlWNNIBb0FVX3lxTE54OHU2aTZLS0dqMzcxQ3FFLVd1ZF9DbTJrY0NaY1lmY01uNGJoZUFhWGt4SDBtX2VyYmU2Q1hwODl6TzJ6WjB3c3FqTW9JM3IzRnYyeGxsYnF5c09GX0wtcDVMTm1iNlROaUFtNGlWNA?oc=5",
+      "source": "투데이신문",
+      "date": "2026-08-24"
     },
     {
-      "title": "美재무, 국채금리 급등 '대증요법'으로 눌러보려다 참교육 당해",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XclpRNU5nRTI0TmhJZWRHQTBpN3dnaUtPbTd3ekZBcUVxQlk2bnVUNWVqS1UtNzZaeWEtRVhrQlBlMTBLcWtfdThoeGZFMmVtcG1GU0RsZ2p6Y1Y5d3kweHpVNA?oc=5",
-      "source": "조세금융신문",
-      "date": "2026-08-23"
+      "title": "장기금리 급등…금융시장·세계 경제에 울린 ‘경고’",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BRXhFNVVNS2pkeUtqVHFucEYxaURXS0ZfWU54TV9FOVJMOUR2d2xHWkZlNXplY2FrMmk0WGUwVUxXUnVlUFp2Yk1EaTBWLUJwYV9oMzk0ZFduWkV2UmVaVENUcjk1NUtYc1c3WlBqUjNPQQ?oc=5",
+      "source": "한겨레",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "美 “이란에 최대 금융 공격” 선언에 긴장감 증폭…뉴욕증시 혼조 출발 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjZ1Z0VlSVZMTTNDeHJ0dVgwdnBBN0hscDF3R1lvSWF2R3J3WjdmbklNR3ZMU0J4cHhIeGN6d2h6dXV6TzI1OTRyQkF4UDNDaUVCcjI4Y3g3dzcySWpDbHo5eHZMXzB6SlhwLVhidXdVY2tSMHBXUjRpeDNWVFpsQ0R0OGhCenJQMWhwZHVwY3JteXJBUm1TbVdKZjB5d9IBsgFBVV95cUxOQ3VJYmZwd2s3UlFVdW50OFhpb0swcEREam51bG5SeWRnMzBKWlItcldBenlGZFk2bFZ2WjlmSG5rdUh6Z1JDUHNkVnhzTVdvemhJZk5yN055YWpVOHpqN0tTanU3TUkxZmpIc3k0MkhtOGE4OGFfbXVHMENQQUhqRDB1VnQyTlhMMkk4eDZJcm1QV1liNHdNVHZRWVc5VEI0S21XV19LNlF6LVlKaDU5Z293?oc=5",
+      "source": "Chosunbiz",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "저금리 때 최종관찰만기 확대 미룬 금융위…금리 상승에 부메랑으로",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DSm1jdWNMSFM2alk2RDlqdmVrZVRqNkNPb2JEU0hIWHpkU0loWlRWdVFzT3pscDViWHFZWFhNUEJ0Qm9mbVp4bXRfNC1qMG9jQlI5cjZwZVY0YmxCTzByZE1kY3lmaWg1TE5tVzN1VEs?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "기업은행, 중금채 금리 급등…조달비용 비상",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oOFVfZkotT2JqQUc5cnMxdlctZDRYbDJwcFQ3LWYxUTZ3d1BzVGo5T0tST0dPN1k0NnZtNDdud05CT2JZZC1GY19aZzhDLUotYncxOHpIcW1LTlVkaXFDU0tKTnN5anFBZ0d4bNIBcEFVX3lxTFBJdDlTS2ZxOUtjNUo4QWwtenRVZ1ZHTmdLT2hyMlhFQ3c5OVI2RmFGXzNZVUtIaW00SzJoUS1hM0w5eFIyaFRYNUl3Qm8xeHNDMld5U1hZeGZMYXZHRFZOMmUxdHJ2bE9SOGlfWlRzQUM?oc=5",
+      "source": "DFT 대한금융신문",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "[금통위 인터뷰] BNP파리바 \"8월 동결 전망…금리인상 속도조절\"",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4VXRTdmluWDVHT3dvZmVRZ2JVc2RZeXZDZUJsdGV5bDN0QS1XV1V2Q2xLU2xHTjd4QjFWOE9mR3hYdklYODhLZFNqd1F5MU0zWjhnSXJHM3U2ZTNHbFAzZ2prdW1QQkVuNGNxSlRybU1xQQ?oc=5",
+      "source": "KB Think",
+      "date": "2026-08-24"
     },
     {
       "title": "기준금리 전망 '혼조'…\"7·8월 연속 인상\" vs \"숨 고르기\"",
@@ -22,58 +46,34 @@
       "date": "2026-08-22"
     },
     {
-      "title": "미국보다 일본 국채 금리가 더 중요하다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5laFRWWkJ6b3ZZaGtwZEFpQmo3NThOT3hVNFdYQkpNNjdLUTk3b202UmZGZUU1RmdzcV9ocS1ReDRXeXp4V3pnNnJkSG51Q3k1UFhKa3BmbVFpYXFVYjl6dUFUdHJGZ3c?oc=5",
-      "source": "한겨레",
-      "date": "2026-08-23"
+      "title": "국채 금리 하락에도 美증시 혼조...엔비디아, 실적 경계에 2.9% ↓ [데일리국제금융]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JcldmelZwUjBjTjV0Z1BFdVM4Uk9KaTVISnJrUktrWnFLX3lTTTY4X1lnOXVKRjJZejZ0OEx5TGJKeGh4al9KRERJSDc2RzU2cXc?oc=5",
+      "source": "서울경제",
+      "date": "2026-08-24"
     },
     {
-      "title": "[주간금융이슈] 한은, 금리 또 인상할까…27일 통화정책방향 회의 관심",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uUC1zT1hiWVR2UXJaejROVFd0MGZvVlFPTmZXWXZBQzl0UmdvamN5MGJyQUFDNzhMQ1Q5QWE5aG03OF9BSDM4cFkwdlREVmJqQTRVRE1Bc0FRalI0?oc=5",
-      "source": "뉴스핌",
-      "date": "2026-08-22"
+      "title": "원/달러 환율 1380원선까지 하락",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56c2ZFTktrRE9oZWZRa1NsRmVfMDV6SG5kUnF1LVllLXhWYlV2b1YtYnlXM1pxaHZZakx4TmpaalgzeklWWF9nUC00UjB1WDdDOG1TTzdoeXRWMUlVQmM1bDI2aGZJeUcxWjFBXzBYMUQwUm_SAXdBVV95cUxPX3FlUGhnUVBOU1Y5VWxxTTNpdVlYdWVTc1FncDlibjhsbnpfRDFqMlpUa05LWXo1aTlFT2ZFS3YxTnpuRDRQQ3VnRXh6VGthM2FMTnZnZElvSk45OWVfcFJnSzlzbWlGVEFLX3YySm5GOXRDa3lFdw?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-08-24"
     },
     {
-      "title": "금융당국 “고금리” 지적하자… 증권사, 매담대 금리 줄인하 [경제 레이더]",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LTnhMdkg5YnNrb1l0Tk5DRW1uMVA2MDEwM25uUjNuTmU4cld2Z3ctMVgzUnlianR1ZUhBX25ub1laSkxxY2IyUmJoOUhDRkZsNHlqdXpnY0HSAVRBVV95cUxORjlMUkJ4UG91VF9UOWRVUXFMeFRrQnRfZ3hrcHhiN0lCV0o2VTNiT1BZd1paM2pmMG1DUWNOSi1nSzZ5aUNXSmJDRTJhZ3l1MW5GeFo?oc=5",
-      "source": "세계일보",
-      "date": "2026-08-23"
+      "title": "금리ㆍ환율 어렵지 않게 배운다 ‘생활 속 경제 문해력 키우기’",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZOXdtZ19YODJqNkl6Z2hYd0FEaXh0UUVldEw5ZGhzbzg3YWVLRjN1Sm1kQTdLYThsOUlPNnhWV1QzSTBTalluS01zbEZscHM3dFA2ZXZReUlNWWo0bV9UR21paEUtLWc?oc=5",
+      "source": "강남내일신문",
+      "date": "2026-08-24"
     },
     {
-      "title": "[이번주 증시] 엔비디아 실적·금통위·잭슨홀…코스피 반등 이어질까",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZFozTTc2WXh3MXJKWThvWFBOOVFxcTVzemNYOXJCNnRfaHc0V2JoaHc0TXRyV0V0Ym9wUEZnUzQzS2p2SFdwSllXTmozSVJTekh0UElWUVZ1b211U2hXa2N5TTYtOTZ0MFHSAW5BVV95cUxOUGpLbDlnUEpJdWxqUFZvaDhBeFBkb0tNNWVuaWF3TDN5a1BLZ0wzMWRJOTJOT1JYOWsyZUd5YlN0NkJiaVE2UUFUVlF6eUpodFVDbW5EZUN5X1pUTGhwZHl6aEJUZXNLQ1dOMmZqUQ?oc=5",
+      "title": "코스피, 외인 3.6조 매도에 3.12% 하락…삼성전자 8.7%↓",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ielI3UHhkaWhoWFFiWk90STNQVmxoWllPUjdSOHdVMmZjUlBVdENBMGRIVFh5NlhITVVNWjlQOEtfa0F0Ylg1b2RWR3RubWowY0FuOFFzc2lqUHE2YWlfMmM3WDkwdTVsUVHSAW5BVV95cUxPZkNxMXVlNWNIRnFobDduUGxkMXZqMVZwMU5UcUozUHM1YmlNRzdlTS1rV3o2andJNk8wSGJHcDZJUnF6X1lLaGJTRzdhSW94aHRJZmFEZS1JNm9NbEpkY29JM3JZamRGb1FDRVVqQQ?oc=5",
       "source": "뉴시안",
-      "date": "2026-08-23"
+      "date": "2026-08-24"
     },
     {
-      "title": "코스피 급등의 역설…순대외금융자산 12분의 1 토막",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jcUwzcllFODUzWnJqR3RTbVQtOTRVcWZqb09jQmE3S1ExdTYtYUtmT0pPcWd2ZXd3VFUxT0VvNnB4ZmVKZ1FBZ21tZFZDeW9sV3UwOF84YnM4LTd1VFl0NkJGRVk2dk0?oc=5",
-      "source": "연합뉴스TV",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "[베세노믹스의 역설] 美 증시, 지금 들어가도 될까",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BNnNyYmpOZXQxcTVuQ3VCYTFpS25sSTROUlVFdXNENEx1RE1TSXNQWUVfYVRWZVlWSlFfSTJlMUJ5YWExeWVEWVlROUlVSHd2Qkg4QTNGa3NLYzZyaEZLcWFhM0l6bkxUVkFsbC15RzM?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "8월 금리 '백투백 인상' 촉각…성장·집값 vs 환율·물가",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VTGhzT0RCX2dIVVJPeTVWY3JPNGpHS3FiQXppOWc1SjJDQnRFekc1b3pOYTlFZzNpcVlZY3pLUlJObDhwMGRtTzEyVkhoTEdiTFZMY1QwZGlfQQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "국내금융그룹이 전망하는 올해 하반기 기준금리는?",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DVVY4VDJ1Wk4wOV9sSjZQa05kUG9kTlJsUk1zdW92UDVyZGJLOFBLdGlqS1dNTEpacmxfTUNnQndibmoxandiRTN4Vmk1bDVNLUhXUXpWa1k2d9IBX0FVX3lxTE9MU1VkaEgzMHhBQ0ZSNnF3d25Fdlh4S3I3Yl93WTJUdWhSQnd2U1ozNFMtZW11QzRkdlJCSlhndjY4VjNzejVuMnd0MTI0Q1UxX2JrLUlJbnB0RXNPVUlz?oc=5",
-      "source": "경향신문",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "가계빚 첫 2000조…금리 올리는 한은, 총량 푸는 금융위",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Lb1N4TlNQb0dzLThNY01zTmt2MWtZV21DOEJvWm41SnlIZ0NCamNod2dBVFU2X05NdzRCTjk4RWNoYmJkNVNaRkxtWGUzSkhlWHI5cU1ZSEJrSzdCRGpvbTBrajU?oc=5",
-      "source": "서울경제TV",
-      "date": "2026-08-21"
+      "title": "5.4조 불어난 '빚투' 신용대출, 증가 멈췄지만 금리 변동 시한폭탄 온다",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TU2I2TlR5aGFHQnVqYlk3MWhPVWFLbFBjT0g4OE9JM0M2V2pWTzQwQTBCX3pWai0ycjZObEM0OE1pdXFOS0RxUy1ObDNSRmJaakZRMXFnSERXUkcx?oc=5",
+      "source": "뉴스핌",
+      "date": "2026-08-24"
     }
   ]
 }
