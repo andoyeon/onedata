@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:33:04+00:00",
+  "generated_at": "2026-08-27T00:35:11+00:00",
   "source": "한국은행 ECOS",
   "category": "market-financial-ecos",
   "indicators": [
@@ -8,7 +8,7 @@
       "category": "시장금리",
       "unit": "%",
       "area": "전국",
-      "period_type": "20260823",
+      "period_type": "20260824",
       "series": [
         {
           "period": "",
@@ -24,15 +24,15 @@
       "category": "가계수신",
       "unit": "%",
       "area": "전국",
-      "period_type": "202606",
+      "period_type": "202607",
       "series": [
         {
           "period": "",
-          "value": 3.08
+          "value": 3.21
         }
       ],
       "latest_period": "",
-      "latest_value": 3.08,
+      "latest_value": 3.21,
       "delta": null
     }
   ]
