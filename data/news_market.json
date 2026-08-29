@@ -1,25 +1,31 @@
 {
-  "generated_at": "2026-08-28T05:09:45+00:00",
+  "generated_at": "2026-08-29T03:06:53+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "금리 상승에 취약차주 부담 우려…정부, 채무조정·금융지원 확대",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBER0JDeGowVTRjcFpvMzNjQk43Z1ZUb1JnNmx1dzdJV3kwXzJ3ZE5tNnRNZkloXzBRZWNNWndTM1QtMURfNEJEY2tFLWtjRDY2R3FLM0V1dVZxWUU?oc=5",
-      "source": "KBS 뉴스",
-      "date": "2026-08-27"
+      "title": "워시 매파 발언에 금융 시장 충격…국채 수익률 뛰고, 증시는 하락",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LVENKQ2c5WjlIckFrbGw5Vno5Zl9KZlpyMG1zenRZeWI4NUNtdDVLRDVBM2ZTRmsyQTM4WHA1clZhM0dGMWNlbDBvV1QwSW8?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-08-28"
     },
     {
-      "title": "금융시장 흔드는 美 국채 금리 쇼크… 주요국에 날아든 빚 상환 청구서",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44WWZDZ2hOMVM4OVpGTExZWE95QU5SaU1XOEVTZUJBZS1mUzUwTmlXdS1yWTJ3YVRJekdIYTgyTmZZUDBqa29wUWp4d2xHczJncDRRRWY1UUVXN0NqQ0RvRzk2XzZqX0pEMmZyWlJoU2FfZnPSAWZBVV95cUxQS0pHcFJ6TE14dGdIZHB2T29KSHRGY3pGdGptWmVhU0l4c3JsVG9Da2N6azRJSjlNYWhReWpLbHdEOWNtVGgwM3FBdTVsTDBOOVhCVTB1eUp4T0pSMEhaX2kwQzhDY3c?oc=5",
-      "source": "동아일보",
-      "date": "2026-08-27"
+      "title": "CET1비율 ‘톱’ KB금융 13.74%…4대 금융, 환율 안정에 하반기도 상승 기대",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81bWRRQmtLTjRwdFotTUlSNzlZQVc3VTdUc2RjSy0td013dUY3c00xbWp4dzY2UGZranhiWHJWWG1XYjBFOFFIV2JBNUlNOHo1SFBhQkZQbWI1aXlqdXhtVjk0WWhsdTBf?oc=5",
+      "source": "CEO스코어데일리",
+      "date": "2026-08-28"
     },
     {
-      "title": "금융회사도 연기금도 '외면'…'수요 소멸'에 장기채 시장 '경고등'",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmVINDdjdm5FNHlJbk5tN1ktZ3pHc0FFaG5zOFlOeWtoZHlWcDlxcGY2YXVmRjRXbjJnS3hKUlRKcEtvUF9XV2cwMEJzeXdGUmdlM3pQcXFhLWM0YmlvcnlaVzdTYmhMZEFlamtyNF9GV19YazlBR1c0VTg2cFBvaWR4UQ?oc=5",
-      "source": "인베스트조선",
-      "date": "2026-08-27"
+      "title": "뉴욕증시 일제히 약세…워시 매파 발언에 반도체주 ‘휘청’",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zeUFjWDhlOWRqNU9RWFZrdDA2NWFKdXZzUnZrQ1BMLUhLUGM5aHBiWW1xTmJVcEV2NUZSV25YUTFicFV2SWpIMXFjM2F3LS1GcGZsRmlqcDBWc3l4cjBjOFlnS081S1dMa1HSAW5BVV95cUxPZlZmZndYSkpOTzUtSDBhUGtyeV9IRThTWmxPa0tsMXRmWnVjUzhDVzRfNWRldmR2Y3BzY0xKTk1faVNFZkhrbDk1a1R0dHNNUURtSE4wQjZjX2haMm82SG01azdNMnJ1OVdVa2N5Zw?oc=5",
+      "source": "뉴시안",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "베선트 美재무 \"엔화 불안시 美 금리상승\"…엔화 개입 의도 밝혀",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ybVBLQTBVU05MZVQzODR3UU5hblNiWU1pQ196Q2MydThaMXYzQi1NaXU2UTNMQ1EzYTFSazIwRTdCaWtSOGhxZnctXzhfSDZueTRQcUZGYTJrRXBrZHEwajI5bw?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-08-28"
     },
     {
       "title": "신현송의 '호미'…백투백 선제 대응으로 물가·환율·금융안정 겨냥",
@@ -28,52 +34,46 @@
       "date": "2026-08-27"
     },
     {
-      "title": "한은총재 \"연속 인상, 경제안정 선제대응…향후 6개월은 완만히\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DNFBURlhZYjdkQVFVMGU0QlhibTlFRGIzVGdTLWNQOENTQUdKSXA5MzczOVIxVThtTWVQUDRTRUlTQm8yM2d4R2VMQ3hUQnFUYVY4bld0S3BvSlJRdzhyU09Pb0ljZ242UktWMA?oc=5",
-      "source": "세무사신문",
+      "title": "금리 오르면 은행주도 오른다?…시장금리·연체율에 달라진 셈법",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS3JhZU1UWGFvazB1M1ZfcWh0QUl4SVlVYVBpWUlhVG5JaHZZUFcxUERUQ3R0WXJKdFdteXNQOHVpVmM5OS1EX080MVdJbDhZSVBCU1p2ZmlBd0ZFX0NYUV9xM1hBQUoxRlJaNTFnWm4yMU5qNFdkejE3ckg3Y1YyaXJicw?oc=5",
+      "source": "인베스트조선",
       "date": "2026-08-28"
     },
     {
-      "title": "‘호미’ 든 한은, 기준금리 3% 벽 세웠다…최종은 3.50%?",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43VENGRWVSZ19rSHhveTl2YzkzMGdZS3JKbmc3bkhmTWx4SkNxbnJiUHVjSHNNZlV1Z3dlZE85anBrc3N4RHVBSGM3ZkI4WFdBZ1FNTzRjZHpTVUxzcVIw?oc=5",
-      "source": "조세일보",
+      "title": "한은 기준금리 인상에 與 “금융취약계층 주시”, 野 “정책 엇박자”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MZFBSaF9Rc1JHWkp1TkhzRlg1TmFoQ3Nxd1NHeXVQXy10dWVjNHJDbkd2dUtpaDZZSVZuOG5sYTloZEQ2Njl2bFhYZDVrb2hFdEVzT0RnVUtVdnlnV0NPQnRBeGVrT3dqblZiOQ?oc=5",
+      "source": "굿모닝경제",
       "date": "2026-08-28"
     },
     {
-      "title": "김민석, 한은 금리 인상에 \"금융 취약계층 위한 대책 마련하겠다\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ydnNKeHVpbUx6dDRsVWUybTdnZFZtemJOWFFUN1ZkVkN6NGhqSWZmaUFjOGM1VnFMS01rb0JreldmTGNtWHNqR2Z6OS1pUGM?oc=5",
-      "source": "v.daum.net",
+      "title": "한은 오늘 기준금리 또 올릴까…'7·8월 연속 인상' 기로",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yVUtGMjRxWUpENDhUbWtabWNLanhSMFlEOFVHU0swNnJacHNWZzZMNGQ0WERpTnFWZkZnejIwMV9VaXRjb2VCNTBHenVETDBWWk1rOVkxRFJyaEJxYWszbtIBYEFVX3lxTE9yVUtGMjRxWUpENDhUbWtabWNLanhSMFlEOFVHU0swNnJacHNWZzZMNGQ0WERpTnFWZkZnejIwMV9VaXRjb2VCNTBHenVETDBWWk1rOVkxRFJyaEJxYWszbg?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "금리 상승에 취약차주 부담 우려…정부, 채무조정·금융지원 확대",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBER0JDeGowVTRjcFpvMzNjQk43Z1ZUb1JnNmx1dzdJV3kwXzJ3ZE5tNnRNZkloXzBRZWNNWndTM1QtMURfNEJEY2tFLWtjRDY2R3FLM0V1dVZxWUU?oc=5",
+      "source": "KBS 뉴스",
       "date": "2026-08-27"
     },
     {
-      "title": "3% 금리시대, 中企 이자·연체 부담…\"선별적 금융 지원 필요\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10S05nWWpwWjl2Y3duNGl2N0c5Y0Vibm1qQXQyaDRJR293dW9nQWtDN2p1cFFCQ1FxRnZfMU02UkJFd2pKWm5VSlNwM0RDOVpwOGFET0I2RnRQSThu0gFiQVVfeXFMTWlBb0tyNVVTYmFtTnNIUFRuTGloVnpGZFcyVDFPTnZqS19jYXRNMmlsYjFIZC1jcDVCVHRYcTEzTVJxeHV1TmJjb29Pa0N4Z3dsLWt4akpVdjk2VjRPM1huZ3c?oc=5",
-      "source": "뉴스1",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "자영업, 코로나19 장기연체 채무 감면…3% 금리에 “빚 부담 던다”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2SXFjTmdERG9PanNLVzFaTm9seWpuMFU2NlJYT25YTUktU21xbjVNaF9ZN01LR1lkZmN6dXFVVDZpS0hfT0tzZG1JNU1UUEluV0JPWGRfRUplbk0?oc=5",
-      "source": "에너지경제신문",
+      "title": "“호미로 막는다” 연속 금리인상 한은… ‘800조+α’ 슈퍼예산안엔 “엇박자 아냐.”",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43M2Z4UUllVWVVOVdWNlhkYlRBaU9DV0tJVFVqYk9iVDMxMzZGZXIzQmwyWjVVdENLWlQtUmp6b1pYeEk3ZjRfTFhNMEg3dw?oc=5",
+      "source": "campaigns.do",
       "date": "2026-08-28"
     },
     {
-      "title": "기준금리 10월은 '숨 고르기' 무게…추가 인상은 '11월' vs '내년 1분기'",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTkJPVWR6NHZ1WUpNaFRNekJFVkpUdlYzcXRscjBzWEF3VHJzNHo5LWYyR0xnVDV2eW5KMXBpM3NlNUtqc1FjTVozYUFRZXJiUDJjTGhJS0dCTENHdUVfbjBQTUZoOUlZMnfSAW5BVV95cUxQWG9WV01Rb0VWbUZObjd4SnVkeEwxTlhOcFhranZLNndXbG9xSW41SkZlQUhXWlZueWg4UklSeERqNUFLOHVxSzMydU5LeUdHYi04cnNaemdTUm9YTTFyM2RSZkxhY1ZubGtUQzBJUQ?oc=5",
-      "source": "뉴시안",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "일 은행 부총재 \"계속 정책금리 금리 인상해 금융완화 수준 조정\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50ZWZaTzhhTm9IY21JWjJFbHVSZjdIUUt2UGtVbmduMFlaZUxGZE9UbllnZkItZlRpZkRJeDhYdFRFeEdrMEgzNVEwb2kyMXk5Q1B3OVFpTVVOWGNxemc?oc=5",
-      "source": "YTN",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "정부, 코로나 피해 소상공인 채무조정…성실상환자 금리·한도 우대",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWHdXNkROVG5RUl9VbUtuY3ZvUzQ2Sl94Y0ZKMFUzMkNMc3hMUFdIbzNNVDFYV2VLSlZTU2k2UEQ1Q1Awdm9JT3Joa3o4QVZJc1d6SmVNSEVKMFU?oc=5",
-      "source": "경기일보",
+      "title": "'주담대 빗장' 아직인데, 이자는 8% 눈앞…실수요자 이중고[기준금리 3% 시대①]",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjV21mdWo5U2pJNExCY3hHSjF4TUg4VHlNc1Zhakd6T29wQkZRblVTVHYzY3NSaWdqeHpjNzdlbkdyOGdzYm5sUjVZSUNtOWtpYzhtcjhvMHd3ZWRNVUZDeNIBeEFVX3lxTFBQWU1FMy1odmEwQzZmTEZmMGV3VXVGNDZPaUJ1SmNwdU9TTXRKX1pmbFBLRlg5blIwbTdVRTZqTHNiT1J4ZWRhTElnNjl6cXFSa3pNenpPSkJ4UGxMS2JkTm42SEVIM3RkVTIxMmFsM3JDUUtsMjFzTA?oc=5",
+      "source": "뉴시스",
       "date": "2026-08-28"
+    },
+    {
+      "title": "8% 향하는 주담대 금리···영끌·빚투족 '이자폭탄' 공포 엄습",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xX3ZleVRmUHFqd1lPVjFkV210UU8zUElPZFY1SlR6aDFJM3p6LTFMYnJjTElsLTNTVzVlVjJuR3VvVHNEYldJT2Z0d19WUTJLUGE0dEZVQXptQXZrUHdPME5HTVlmNi0wVVE?oc=5",
+      "source": "서울파이낸스",
+      "date": "2026-08-29"
     }
   ]
 }
