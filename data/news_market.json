@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-29T23:09:19+00:00",
+  "generated_at": "2026-08-30T23:18:49+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "기준금리 3% 시대…기업 자금조달은 ‘단기화·양극화’ - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVp1X01yR2hDSnhVdHMwQVBLQ1hhdG9mYXI5ZnJoQTU3c2ZBbGZHZkFGbmNvTTExWWV5Wm90R0VmZ0g1LUxnVDJON3hLS0ZPZmo4OEh4VkpVNWlEREFBRFpjMkZ5d3RUYzMyUzN0WGFKd1VqMzhxN2Z2ZWliWVliSzY1cUQzVDlJ0gGcAUFVX3lxTFBUdXBFbDJoZUQ1ZVBYUDNzN3I1UUFMX1N2cXlGOURlRE5GYVRaNmwxM2R5dEhmOHBfSklDVXMwMllyRk4waVM4ZTNxeW5TYU1CTXdPZGlEZzBacEpDNFloRkwxc3FSclZLRzFHYlV3ekM5ZzZMZm5SaWk3VV9uV0lSZDFHMUxZQkRpalVFTmNadlNEeU13S2tBMzB4cg?oc=5",
+      "source": "Chosunbiz",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "고신용자 오르고, 저신용자 내리고…포용금융에 일부 금리 역전",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MSWd4NnRvemd2UnBmSlk0ano5SDZxdml5MmhRYzFINnIzS0U0RWZWUGFZTHgxZGZMZjdjbVZHN1FmcTlYbElLRXBXN3c2dw?oc=5",
+      "source": "전자신문",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "신용점수 900점보다 600점이 더 싸다?…은행권 대출금리 '역전'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BQkFNaVVZVzhvQ1NpajlLLTJySDROVjd1Nkc5UVQzdGpqXzlQVE12ODBUUmljaGFYRWItZ3h1U2hVUTFrREdnV1VzNFo1Y0lmZ3dBSC1nZHN6a3BDUjQ0ZkZ30gFnQVVfeXFMT0dwdmpIUURRX1VTeXZaaHM1Q0hkWjhiNjhjMUprTTlsb2VzZ2pfMzM2RmVDU09YcDlBc0hSOVZIcmUzTkNkY3hIRGxsanA3VE5FTGpvTUhCNUxaY3hoV1FjaWgtQzlTSQ?oc=5",
+      "source": "뉴스1",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "신현송 한은 총재 \"美 금리 올려도 기계적 대응 안 해…환율·금융안정 종합 판단\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1WmJwZUQxWXVJUHBkLUxXekwxSFRfcVo3eXRNalJZTVRqZjFaSmo5U0FOQmduMmM5ZkZTRENSMVBmS2xqeFNmOUxhMjl4S0h6MGI1aG9ZdlI4dlJYd1RKUjA2alAwVlNEcUZn0gFwQVVfeXFMUDJfNmlQbXkyNzdjQV9GYTlUdkV1OS1zTGhNQzluaVoxR1BSNG1WYkFRR3FDMTFHX3BjY21WVzlfYTZwakFUYzBEQXB0RFdxZ01WbUNQTnR1YzJoVjB6TEoxY3B2aFo3b3lZcTYzRDVUbg?oc=5",
+      "source": "머니투데이",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "한국은행이 기준금리 2연속 올린 배경은[금알못]",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GektKS2ZDWjFVWUliOU1UYTJrblNHVmcwNEFKMDNKMEYzdEFUY1Z4ZUlFZ1V6SXB6NXU4a2V2Rzc3T3NGNHl2bmkwR2drMFpITm55MDFBbHZjeTBDWC1UX9IBeEFVX3lxTE9YRV9Dd1JvdHdWWDNOeGdvWUN4c1BJcFpoMEVnVGVQenpIN3ZpWTE1ZWVRREUyU1ZTSTdSbEZvU2NNazFKTW5LQ0JLQjVvR0l0X29fSGdSLXdhQXcya25QdkNldWpTMDIxWUJCNnF6ZDV6OVREQlp2cA?oc=5",
+      "source": "뉴시스",
+      "date": "2026-08-30"
+    },
     {
       "title": "신현송의 '호미'…백투백 선제 대응으로 물가·환율·금융안정 겨냥",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kREx5NWZoSEtCa2tpSUd4aWRfNVN2cWFMNFF4cGtLd2UxMFltWjRhbG1wMVJqUHBuM0JxTFJNTE9PSWhFb0R1YUU0UVVDMVBWT2FEQWV1aU5BU2hyRHFCd3dVS2NBaFliY3E0LTRRcFY?oc=5",
@@ -10,22 +40,28 @@
       "date": "2026-08-27"
     },
     {
-      "title": "美 ‘9월 금리 인상설’에 시장 출렁…韓도 긴장 고조",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeVMza1dIeGFiZEVFRmY4aTVKbml2bW1IbkJaRm5lVm9tTERkZDY4UkZ4UUc4ZVpPajZOUjhRVGRlbEpxX09MOXhKZ2ZTazVMbXhqRDluaTNJYzA?oc=5",
-      "source": "에너지경제신문",
-      "date": "2026-08-29"
+      "title": "[코스피·코스닥, 삼성바이오로직스 한화엔진 대우건설 메리츠금융지주 뷰노 HLB생명과학 코맥스등 28일 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JMkFBMVgzVVlFb3M4azBBLU5ybnNrQVpUR0FWRWVJNVhqQVFkT1ZXeUM2cHZhZTE0WGtWX3VpWkdydlZNdV9LTUJvclhJcWMzU0VndW5zamYxUDZKNGk0QmJTUVRNZ0pzOWfSAW5BVV95cUxNeHVHV1lVUUp3WTNpLXdEYmMyZDhobnVtZXh6M3Bvek9IcWU5LTU4YzFzekpEeFhXNU5IRVhMQ0ZENGJpaFJUeTRuVTVuMWxJc1hMWEY0OEdRSlNxR1RIM0lSenQ0RlE3d0dOaXBhdw?oc=5",
+      "source": "퍼블릭타임스",
+      "date": "2026-08-30"
     },
     {
-      "title": "기준금리 3%로 올랐는데…2000조 가계빚·자영업자 부채 '경고등'",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBReE8yVTRLNTRvV3pRcDk0VXZDUm5JLWhaNVh4NnV5RlVMNC01dHZnaXdqcl9NdEF6NVZ1cjEwc0ZPYkhQVFNXN0huWkZ6UzFTcWdhTtIBWkFVX3lxTE1ON3h2dW1tdThsenhsd01UMktvZkFld0tiSk1tZ2tTZ2stV3RUU0VwbmJ3Z0VTY21jbnJ6WUdZd0plM25ZSG1QdmtONGJfUkp5MURrVktTM05BZw?oc=5",
-      "source": "뉴스1",
-      "date": "2026-08-29"
+      "title": "연중 최저치 기록한 달러·원 환율...전문가들 “더 내려간다”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rcTJ5ZUo4YXk4VnFjb3RIdnZHdzE1c2pYY2dsQU1RNVRLOGMtam9Wc21KT0JiZ2RLMGg2TlJtOE16RVRqUV83b0w0RmN4SEdiUk91RVhxUjMyQzZzeFpFaUlPSll4Vi1fS2JB0gFvQVVfeXFMT0xPZmItOWhEYjlnT3I5WjJSTUdFRGRxaTFfMlp2U2RGTnE5U2pIdzF5bE5ianF3QWVudG9NS25BLV9aRW9uMW1UNXd1eTYtWXZkVUJZTTFzaGFYSG5aX3VTU3FyOWlfTEliMkVWM1pv?oc=5",
+      "source": "투데이신문",
+      "date": "2026-08-30"
     },
     {
-      "title": "기준금리 3% 시대…빚투 개미 이자폭탄 비상",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaalpGclpjWm5BRUExYm5NRUNLS1c2UGFodzhpamdpdWdQb0UtazZaTW1zM1FwOGFfU1ZlUEZ6SWdpaWtCSTVCRHdIMVJrU3hJaUNEX1ZJZElrX05FN2tzOVVpTERpTjN5?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-08-29"
+      "title": "금리 연속 인상에 가계 이자 늘고 영세기업 자금 조달 부담",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Xa2dVWEFDc21VYTlxcGlnM2tqR1BXRDdEaWdkODdTWDItR21BZ3hCUXFiOWRPZVUtTS1VaUJfbzgyTllSVmNRWVliVE5wdkw4QXRVWl9BV1BIejNYenREQXNHM1FqdHA0YkE?oc=5",
+      "source": "경남도민일보",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "기준금리 3% 시대…가계빚 2000조 쌓였는데 취약차주는",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hVG1adlhXQjlyckw5anNwNE00enpFdlhKMm1ZWU9JSFpNRVltUHAyS3JCUmZ2aTF2X05QUHJUODd4YUJEY0dlTkJBeC1yRVM3b3I2dFFWNVl4TmdqdG81MUlQT3hhc0NJMnJn?oc=5",
+      "source": "라이센스뉴스",
+      "date": "2026-08-30"
     },
     {
       "title": "주요국 국채금리, 단기물 중심으로 상승 압력 확대 | 국내연구자료 | KDI 경제교육·정보센터",
@@ -37,42 +73,6 @@
       "title": "금리 상승에 취약차주 부담 우려…정부, 채무조정·금융지원 확대",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBER0JDeGowVTRjcFpvMzNjQk43Z1ZUb1JnNmx1dzdJV3kwXzJ3ZE5tNnRNZkloXzBRZWNNWndTM1QtMURfNEJEY2tFLWtjRDY2R3FLM0V1dVZxWUU?oc=5",
       "source": "KBS 뉴스",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "한은 오늘 기준금리 또 올릴까…'7·8월 연속 인상' 기로",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yVUtGMjRxWUpENDhUbWtabWNLanhSMFlEOFVHU0swNnJacHNWZzZMNGQ0WERpTnFWZkZnejIwMV9VaXRjb2VCNTBHenVETDBWWk1rOVkxRFJyaEJxYWszbtIBYEFVX3lxTE9yVUtGMjRxWUpENDhUbWtabWNLanhSMFlEOFVHU0swNnJacHNWZzZMNGQ0WERpTnFWZkZnejIwMV9VaXRjb2VCNTBHenVETDBWWk1rOVkxRFJyaEJxYWszbg?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-08-26"
-    },
-    {
-      "title": "금리 오르면 은행주도 오른다?…시장금리·연체율에 달라진 셈법",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS3JhZU1UWGFvazB1M1ZfcWh0QUl4SVlVYVBpWUlhVG5JaHZZUFcxUERUQ3R0WXJKdFdteXNQOHVpVmM5OS1EX080MVdJbDhZSVBCU1p2ZmlBd0ZFX0NYUV9xM1hBQUoxRlJaNTFnWm4yMU5qNFdkejE3ckg3Y1YyaXJicw?oc=5",
-      "source": "인베스트조선",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "한은 총재 \"환율 아직 높아…원화 좀 더 강해져야 바람직\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53LVpTUWt5eVM0eEtjakJibGJlX3YwZFdNYTBnNXJodEV1VlhYUWNyczMxRWlFVHhpY040aGlTOGl3bHV5ZURDOTdybG9uUkkxbmROR251VDJ0Z0hQZ1ptdUt2bWhWcHM?oc=5",
-      "source": "연합뉴스TV",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "금융시장 흔드는 美 국채 금리 쇼크… 주요국에 날아든 빚 상환 청구서",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44WWZDZ2hOMVM4OVpGTExZWE95QU5SaU1XOEVTZUJBZS1mUzUwTmlXdS1yWTJ3YVRJekdIYTgyTmZZUDBqa29wUWp4d2xHczJncDRRRWY1UUVXN0NqQ0RvRzk2XzZqX0pEMmZyWlJoU2FfZnPSAWZBVV95cUxQS0pHcFJ6TE14dGdIZHB2T29KSHRGY3pGdGptWmVhU0l4c3JsVG9Da2N6azRJSjlNYWhReWpLbHdEOWNtVGgwM3FBdTVsTDBOOVhCVTB1eUp4T0pSMEhaX2kwQzhDY3c?oc=5",
-      "source": "동아일보",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "3억 빌렸더니 매달 220만원…금리 3% 시대 '영끌족' 잠 못 드는 이유",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxUVU2cHI2VjNsNjMwTXZwVWtnbll5WWhRQlFrSGpOVndfNlFXdEZoVXA2dXZyRWlXc2xxa3l1NW45d1R4ZlFJZ2RSREd0ZTk5eXZKcWNiU0t1OWpEMklXdnNjWGRyaXJiOFHSAW5BVV95cUxQZTZkQ0pjeHRHTW5sX0hjQ0FyRnVueGU3dXUyZGV4c0RmNjloN0RMNndPekc5MFk1bERfLXNXcHVpMnR0ZGw1QU51VE1xbzh1eWFubUdkRExKSHhVMEFpV3dZTnlYVHdSV0ZMOXotQQ?oc=5",
-      "source": "주간조선",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "일 은행 부총재 \"계속 정책금리 금리 인상해 금융완화 수준 조정\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50ZWZaTzhhTm9IY21JWjJFbHVSZjdIUUt2UGtVbmduMFlaZUxGZE9UbllnZkItZlRpZkRJeDhYdFRFeEdrMEgzNVEwb2kyMXk5Q1B3OVFpTVVOWGNxemc?oc=5",
-      "source": "YTN",
       "date": "2026-08-27"
     }
   ]
