@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-09-02T23:01:06+00:00",
+  "generated_at": "2026-09-03T22:59:46+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
       "title": "[산업통상자원부] 새 정부 출범 후, 첫 번째 대구모 외국인 투자유치 행사 개최",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGFDNHZxM2padlBwUXkteHFLSEh2V29mMkpxNmt0bDgzaGh4SFJhOWdncmpGaUNYc2ExZkVHSDNTeG9LeWVSZVRKc0s2VHlsM2NRcnJmTzBPLTl5VXVfdGZhN09BOVFXQkxiWlk1b2hNbTNhMEpuSkVuMVBzb3gzQVRRRUZuTmZFa2RUWWIzdEd2OUtpaHc0N1RIbThJRzE4dzBnOW1mQWZZUDdiWDJwczJxR3FKVWZWMXY4Sm1LcEhfbnBuV3RoSF8wVmY0d2FPcnlfZnFMblRnQQ?oc=5",
-      "source": "국가기후위기대응위원회",
+      "source": "pcccr.go.kr",
       "date": "2026-09-02"
+    },
+    {
+      "title": "굴뚝 없는 서울의 '영업사원' 서울투자진흥재단…\"미래 먹거리 발굴\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqYXlyRFlacHBRcXdrVTRoUWZsaUNJc1lxRlVVTXZIc1JRb2M0NmZYNzNPb0piZjhpSkJVWFk3LV9YYTZ4UXl1dHVVeFFqaDRINUxWWTltZkdTSGFzQkpxN0N0U3BTTUhBbXFCYkw3MNIBb0FVX3lxTFBqYXlyRFlacHBRcXdrVTRoUWZsaUNJc1lxRlVVTXZIc1JRb2M0NmZYNzNPb0piZjhpSkJVWFk3LV9YYTZ4UXl1dHVVeFFqaDRINUxWWTltZkdTSGFzQkpxN0N0U3BTTUhBbXFCYkw3MA?oc=5",
+      "source": "머니투데이",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "[외국인 놀이터 코스피⑤] 외국인 잔칫상 차린 정부…급락장 안전판은 없었다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GOF9TSzhlUUpKOTZsY0Q5VGFIQVl1bVBBTHRGbk5pb29vcjluT1F4ODVTRHQ3b2JPLWI5Mnl1SDhOQWVqWUpjTG5yTk9PZjJOYjM5NTFwRXkybjdGRUtmc1hCZFF2TFhk?oc=5",
+      "source": "ebn.co.kr",
+      "date": "2026-08-31"
     },
     {
       "title": "산업부 'KFEZ Day 2026' 열고 3대 메가프로젝트 연계 외투 유치 가속",
@@ -16,9 +28,15 @@
       "date": "2026-09-02"
     },
     {
+      "title": "中, 외국인 투자기업의 외국인 배당금·보너스에 20% 소득세 부과",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cktfbmVvbmNnX2tTSDR2bW80OFBTRURhVm5IR0U2bWRKcV8tWWxZTW56NXJLZEdrcDFBckhxRmtBSEtYM18yaWx0WU11RjNtMGtickFvUUNyYmtLeU1MLdIBeEFVX3lxTE5aSjZMdEJKTGlJbk93eDJBdU5kaXJMOXd0ZTNGQ2hKMS1PVHZPWUpDNEhJTFJ0ZS1IbUpDMGt1dTl0M3JiX005aGc5SHdEaEc5amlSS0hUbk5WQWthYlVQdkZJRmQwYjd5bjN0ajF2Wk9ZSUFha2hXUw?oc=5",
+      "source": "뉴시스",
+      "date": "2026-09-01"
+    },
+    {
       "title": "WGBI 편입 한국 국채, ‘담보’로도 쓴다…예탁원, 외국인 활용 가이드 발간",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WOWNoeEVuM1pHRXNGQnEtY3NURWRWSUJ3SmcxMlJGUC1jbXRPNkpFTkc2bXJPb3lrQmdYM2QzakVHdkM5dTM5Y25GQ0J0ZEpaemhaMURSbXRNZlRkYTUtYk10RlN2aFRiSjNOYUY3R25sSGtFd3R6RWhCM1g?oc=5",
-      "source": "fntimes.com",
+      "source": "한국금융신문",
       "date": "2026-08-31"
     },
     {
@@ -28,52 +46,34 @@
       "date": "2026-09-02"
     },
     {
-      "title": "[외국인 놀이터 코스피⑤] 외국인 잔칫상 차린 정부…급락장 안전판은 없었다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bHdNUFNvR0dnMllvaUVZVU9wdkVUWTVwYzNieEdMVG1pcmg0YXNObkZhNFRmTnA4ZlRVOVJZOTdMeTRhT3QwR1RRcExyMVRObDNN?oc=5",
-      "source": "네이트",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
-      "source": "YTN",
-      "date": "2026-07-02"
-    },
-    {
-      "title": "양주시, 독일계 기업 대상 투자환경 설명회…외국인 투자유치 '시동' - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kbS1wa1J3Y2FRUkRGWmlBYWFFdW5QOW1SUC1lZFkzbXdHZVlFYno0ek1adXJjVkpBR2R3Z0xuY1dJZHVBSUttMDlheFhRbUFyUjdiNE5VbnpNVUZZZi1vVHRnM3hIYW1BMnfSAW9BVV95cUxNQnpIXzNwR09Bb0Y1ZHJ3S2RoanM4TGRjdGdELXRGRHRLcEVBeG1vUFJma3JsM2RjLVZxb1cxSzBEaDF3ZVpWcnlTNjVva0pzYThQZkY4UktNQWNzdFJMLTRjUG1MRnR1eV9rbEYtdTA?oc=5",
-      "source": "mt.co.kr",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "韓美 금리 불확실성에 … 외국인 '일단 팔자'",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0dnRQeF9NSE1VWUlJTjJkb2U1Xy1lUjVPWmhNN1lJSU82SzJNSXJJMWJyWllPdmV0T2hWTm1NRnNyV1JyT2Z2am9KdmkxOGVMbWc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-08-25"
-    },
-    {
-      "title": "외국인도 자국 은행서 원화계좌 개설…'원화 국제화 로드맵' 발표",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTkFmc1hJTk05ZzVLWVYxdElIY0NJWGhkMnAtei1IMnotdjdILU05c241Yk5pX1VQVFZvWW1DSEhFZERXV1dEUzZkOFAtaEtGMXlZWEExMlFTbWR6bXZpQmhmQm5mQW5WaUU2Wg?oc=5",
-      "source": "대한민국 정책브리핑",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "차세대 외국인 직접투자(FDI)를 위한 길 열기: 2부 - 외국 자본 유입을 환영하는 새로운 '활주로' 조성.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTRWMlVxQjNJTzN0UUJmMWpSZzFJclhWUHdPdkkzMURheGo5NHNxRUhzUXQwWWpRSGs1TUUwUzhoLWdXSzhSOUZCNlB1em0wSVljQ3hJWXBidklKR2ctMkUzLWJMcjRvcWZBdzBnOHhpYk9taElldGJWWVNaYVdRd1ozalo5TVFBQWZ3cVpSQjhCcjJyUGZXUmtvb3F4b3duRExiemFhby1PV1B5YzNTUFhzN1lodE5kRnJR?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
-      "source": "법률신문",
-      "date": "2026-07-30"
-    },
-    {
       "title": "[머니톡스] 외국인투자자 엑소더스 주의보…한미 긴축에 대비해야",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRXVoTk1Qd29BM3F6dFBjYnRsLXVoOHZ3M21EdzdjWXlJLS1MalQwb0JfUVBZUHprTDdLN0ViTzdPVEhZa3lsR3FZYmhkZUpkcFNZNnlZdjFUWEnSAWBBVV95cUxQUjl5LXRoQ0x5VnF3ZVhoelRibWdlVXY4SVZVYnF4MGR2b0hKcGZ2WHdQcUNER1JIbjdXUjRJYUJCaVZ1eHBQM1Z6QTktTTlGZlYwM29VYWZDZDdXWWREOVE?oc=5",
       "source": "연합뉴스",
       "date": "2026-07-30"
+    },
+    {
+      "title": "차세대 외국인 직접투자(FDI)를 위한 길 열기: 2부 - 외국 자본 유입을 환영하는 새로운 '활주로' 조성.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTRWMlVxQjNJTzN0UUJmMWpSZzFJclhWUHdPdkkzMURheGo5NHNxRUhzUXQwWWpRSGs1TUUwUzhoLWdXSzhSOUZCNlB1em0wSVljQ3hJWXBidklKR2ctMkUzLWJMcjRvcWZBdzBnOHhpYk9taElldGJWWVNaYVdRd1ozalo5TVFBQWZ3cVpSQjhCcjJyUGZXUmtvb3F4b3duRExiemFhby1PV1B5YzNTUFhzN1lodE5kRnJR?oc=5",
+      "source": "vietnam.vn",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "[크랩] “외국인 투자자 다 빠져나간다”…진짜 난리났다는 인도네시아 경제",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQm5ibWVySFhpb1JDYi1zSFlMTjF1cUVZSU1ORGlXcWVLd0xDZ1hVU2dtbmRTY3hpYnlNaGNRak5tS05sUzRveks1eHZLUUU?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "우리금융, 외국인투자자 지분율 최저…파격 주주환원 효과 볼까",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yQmtBVmkxWkpBbVNMblJJZk9QUDlHT1lsRWtNWWt3Q1V3d3NkOVRYNnQ4b09pcTh3Qy1WOHhvekswWEFFLW1xWEMwSDY0UUVibjdkQTlrUkRDSVhDWlpsUkVyblYwS2lHcXRzNUQ3bi0?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "상반기 외국인직접투자 신고 142.8억달러… 9.1%↑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYkZfN3c1UTVaYndadjFHdTFPYVgwZTJ2ZDRYQW96ajBJaG5TdkVuY0d3UGswT2ZkQXRpaHRtQnZBa3hTMTMyc0ZzelpjTl9BWUZmTnBEbDg1Q3k5aXZveEVTcmpYeWRsM0pkaNIBcEFVX3lxTE9kcWM0bHpYUWswNFIwR1hvZU9TQl9aQTJQb0czcDh0SWRjS25nTmtBVVZwLVJVcW5yM3E0Z1RpNDQtVmk0d3dMNnZVS01QQnhmOXFDSmFZNnNzVzB5eTc0YWNLRGxxWThud21US19USkQ?oc=5",
+      "source": "전기신문",
+      "date": "2026-07-03"
     }
   ]
 }
