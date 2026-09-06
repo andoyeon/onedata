@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-09-05T22:43:32+00:00",
+  "generated_at": "2026-09-06T22:49:15+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
       "title": "글로벌 금융시장은 ’출렁’… 美 금리는 어디로?",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRWxUUngta2RiMXZmRUFQcFFIdUVqd2tjS0F6T0lsaUZmMmh5cnNFdUptbGhNMV9KT3lkaWp6cjdMMWVtTml3SDZJWEhsYlI4THRsaFJGMWowRzBSUk84d2hTMFBMQW8?oc=5",
-      "source": "연합뉴스TV",
+      "source": "yonhapnewstv.co.kr",
       "date": "2026-09-05"
+    },
+    {
+      "title": "트럼프 \"美-캐나다 달러 불균형\"…관세 이어 환율 건드리나",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2b0JrSjhMU1FfOGVqbmRqcWUxaUdjWEpEVTlhRHJ2Y1phb2Fja3JmYWZSNjhUaFR2ZTZVeWtsX0tnMllDaXB3WGZwZTllSVYwVTA5SzQ1cXhGVU96c3duMURXTQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "[이번주 증시] 美 CPI에 쏠린 시선…코스피 7000선 회복 '시험대'",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URHBzSGtVZnlKR0dPR18zN1Vjc0R5R3ZvZW8tQWdGNUZZWndnVUsySkhSeGxSdHBvVDAwcThiYWRsSm1PZjJONkRQb2FUNHRXVC0zczN2VThtSkpya0o4MlFCa29lMHNRQTRR0gFuQVVfeXFMT0FTbjVnN0lMbGZDbnljeGk2NWJMZExmeWREcnJraDJwaDdvcHJZNjI4R2lFY0d6ang4WWJ0R3hNN0hzeU16X1VzaURLcFpaZVJEM2NIQzMzX3QwMEIxWmhWX1FRMzFtSjVGQ0NPcHc?oc=5",
+      "source": "뉴시안",
+      "date": "2026-09-06"
     },
     {
       "title": "[마켓펄스] ‘세이비어 월러’...디스인플레이션 기대감에 살아난 증시",
@@ -16,22 +28,28 @@
       "date": "2026-09-04"
     },
     {
-      "title": "“금리·환율까지 우주의 기운이 모이는중”…금융지주 주가 ‘불기둥’",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NZE05WkFvZzNUcmxoemRKWVVKMVoyN3FtNUJSRXQ5TUlNQkxZOTJ4YWZsZkZxRG9Vb1daQ1Z5VDhjRXJhVzFwdi0tUDd5RHgyU0E?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-09-03"
+      "title": "금리 인상기의 제2금융권 건전성 유지 시급 [서지용의 금융 톡톡]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tcU9YYVhFdEVvY0EzNklFU2xjaHpONThrWWN5WVhjbm5GYUFXNnN4bThzNWZteVRDZVhuWGM4NDlXbzBySVl3LS1MTWJBU3YwcWRn?oc=5",
+      "source": "news.nate.com",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "이찬진 금감원장 \"연속 금리인상, 취약 차주에 불합리한 거래 관행 점검\"",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90RDZub0MzVUZHQWFDM0g5ZDdkejZOdExOOEdLSjYzMlpYeWtYLV9FVHZaeEtNS1J3T1FpbjVwRTczRFlKVXlzdUZNUk1ESlZjSlVDd2dpUE51VlgyU1FfZ2RuSUQ?oc=5",
+      "source": "news.mtn.co.kr",
+      "date": "2026-09-06"
     },
     {
       "title": "우리금융硏 \"연준, 9월 금리 25bp 인상할 것…근원물가 압력 대응\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yZTNVcmNrUUNLUmpVZUtlRS12VjRza1Q3em90c05oaXdJSnlma2xCdmg5NXI4dkJ4VENWU2JvWlZ4d2VnTjdPek9UVVdybkJ5R3hvRHNjSGduZXlacEZFTG1yUF9kS3lpZ293VWRRTG4?oc=5",
-      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GNlFUdlZFQjlweEVCUGZaZERmZW84WEhhX1hPam9KUlAtd1FFeU10QWIxMXRIMWJGT25ybVlveUNQazlHRHotMk5UOGd1WjdzbEU2ZWc3QWhrUkJfeEcxbFpDa05WTVJ5UDFTM3lEaTJOZw?oc=5",
+      "source": "kbthink.com",
       "date": "2026-09-03"
     },
     {
-      "title": "증시, 다음 주 선물·옵션 동시 만기...변동성 커질 가능성",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rOHcyd0dYTDhvNXNaZzl2dnZJZ2ptVlFUWEZOZDBCaUNsdnZOUjJWendsY2Y4Tm5xXzlpM2pxZXd1SG1UbWU0UERYd1lXejNFTWNJeEwwdW1PYjlkSExYRGZLYlF5YjRUeWFIVmFja9IBc0FVX3lxTE1YT0g3Q0U4NWh6dlpjaFBVZzR4aGJ2Z05vWFNlOC1EQVRkNVZWU29ybVRVYUlYaEpsMHJmSGFVLVZsS180Tlk5aXNuaVRzdXRSVXVRcEZKMVpnUDZYSkRuT2xmWkNfU0xGb0N2WHFZTmNvbms?oc=5",
-      "source": "데일리한국",
-      "date": "2026-09-05"
+      "title": "'비싼 이자 탓' 10년 고정금리 주담대 외면⋯금융당국은 활성화 드라이브",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQTG1ob1R1U0owQWNEWUlkUUpJWTlRY1BHT2tuNG1JT0NTRmRBRVRfOHJTWUFheDkzU2hfeWJmU3lnblduQ2c?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-09-04"
     },
     {
       "title": "뉴욕증시, 고용호조-금리인상 경계에 일제 하락",
@@ -40,39 +58,21 @@
       "date": "2026-09-05"
     },
     {
-      "title": "정부, 금리상승 리스크 점검…\"취약차주·상호금융 부담 커질 수도\"",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BbFU2M1hGYzVMdHJzTlV2TThNVnoxWWZIWlVwNWFOc25KT2VBeUVrYWtuOFlDX29rTndkSHRDMmN4Q3lPandURnFwdlBzb0ROU3NUcldOQVNVTkxkYkVfZmtrUWM?oc=5",
-      "source": "서울경제TV",
-      "date": "2026-09-04"
-    },
-    {
       "title": "은행주 금리 상승·환율 하락 겹호재, KB금융지주 '금융 대장주' 다시 굳힌다",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkWTUydnhQblhINGY0alBnWmtCREEwdlNfb0d2T1BYbERSY2VYcUhPUFRIMTJCVGVrcHJVYU5wLUk1NUlvYUk5NHlycXhGYUc2Y3hkVEYxbXhtU1E4YmJOakdzUURzR01TRkllX3pJNHBIOFE?oc=5",
-      "source": "businesspost.co.kr",
+      "source": "비즈니스포스트",
       "date": "2026-09-02"
-    },
-    {
-      "title": "우리금융硏 “연준 9월 0.25%p 인상…코스피 7500 전망”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yYWIwenFBNXhYSElKdmlJUGhWYUZ2Zm9Cbk04XzlIYmhzY2p6MFFYS0J4ZmZiY3hyci1ENDYxSnJLeVF4b3dDckota2UySHBhaXZ3dXFDSWtSSUQ2SGRQWWdXbk5ma1NDV1HSAW5BVV95cUxPTE8zSGNwYkVTVTl1UERmR2J0X3NnX1B5amtXM19aaXFOdjcybWdhZEVYN2p4WllBeVFrSFM1MmFVTS1rQW5PSTFlZXlrVGZweV9iN01XSzhjQlFyQUZmUjY4UlJPanVaUjlJTnhDZw?oc=5",
-      "source": "뉴시안",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "금리·환율·주주환원 '삼박자'…금융지주 회장 자사주 매입에 담긴 '시그널'",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZaG1WZG5vSHhZYWhZX3ZEd21nOVBHRU5OWDRTT1ZWMVBjRVZ1OEFXS2FXVEhhVXFPcU0tWWVvRTVGNTRlZ1hoWWY3OFNYMms?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "부동산원 \"건물 에너지 줄이면 금리 혜택\"…ESG 금융상품 지원",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IOXVOcEpraklrdDZMQ0VtNE9ZWW1xekg2U2Vva2w4RnVWT2l6eFZpY1lSeTZVUlNzeGw3QzZiSDU5X25VZ1EtNGZoblFXVHpTVmpmc0xEUXUwQQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "2026-09-04"
     },
     {
       "title": "1300원대로 낮아진 환율에…금융지주 3분기 실적도 ‘맑음’",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYnpOeVU0bldFMFkydGlFZ09ENmFBdk8zbDNqUWJVYVRBZk5SNl9WMmNZeXdIalh0NVNqYjBJQUZOZWpYTWJ5TExFcmFUZFVoU3J2STdrYlNFdmtOVkZDZXpCbWE4V0hBVWhLZjF3?oc=5",
       "source": "아시아투데이",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "[EBN 데이터센터] 코스피, 반도체 강세에 1.64% 상승",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xNVJ5SVhDQXBIU3gzdzlpc1RGRV9tdmk4bVAzUzljLVpncWlGdVd6em9NRXM4WG1FWmJEd3k2VWdwMm5vSEhXeE9DVTZlYUNZVkRnYThieEgwdTdjSVlUWGwxbHR4bllq?oc=5",
+      "source": "ebn.co.kr",
       "date": "2026-09-04"
     }
   ]
