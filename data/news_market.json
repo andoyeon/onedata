@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-09-07T23:21:43+00:00",
+  "generated_at": "2026-09-08T23:16:21+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "[금융현미경]금리에 환율까지 '겹호재'…금융지주 3분기 최대 실적 넘보나",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4weGYzenNLb0FwUWdiSWJrdGtuV1RPalpld3NzVzRiUWliQWEybkRhWHItcWtjbEQyWFYwQlFFcVRIM2E2WnJ1c2swSzZxbFVnN3FZUVk5UzlOSHZ5M0tLUQ?oc=5",
+      "source": "아시아경제",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "'월가 채권왕' 건들락 \"美 기준금리 0.5%포인트 더 높아야\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WUlZ4Z2RlWnBzcFJvSmt4NWwyenJMLUFGb0YxU1ZtQktHZmJoRDJxdXFhemUzLWN5azB3ZExRRm9UdUJXWFBMNHRBV25ZUS1sXzlmTjJaSUZKNWFqVnFpeGZWQQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "일본 15조엔·인도 150억달러…‘환율 전쟁’이 글로벌 금융시장 흔든다 [김주완의 글로벌 머니 X파일]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HVlI0dllybFBMSTBiSjFGWGxkTWJoYTVTWUxJT3Y4X3NvVW12NGZ0bzlzbWpWalpUYkdMXy1GY1hNOE91RzNreGlJNW5ReE03Z09VVEIwaEhEUQ?oc=5",
+      "source": "hankyung.com",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "미 증시 일제히 하락 마감...다우 1% 넘게 밀려",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Y3otWXk3ZVk3bkdWeWNsUzNTcVdpeThtRHpJR0dkRGJ6SGpHMVpjejg1TEtOMUhHX3BwNVB1QjdpWjZOLXR3bkp6TWtldVZlZF9CdjRBU2o5TEhKQzdWOTl0emN2a3ZG?oc=5",
+      "source": "ebn.co.kr",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "엔화 '강세' 속, 달러 '절하'...유로·파운드는 '관망세'",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56a0dkeVllLUF1alhrUnJGWldiWmtIYzVxdEhJNlE2a0ozbGlXVUppTHE2eWtIbktUTURzUHN6QWFpaUgwYXVZaUdGVUpzaGNCTmtQQUsyaDM4V0NoMmZSMnEwbGo5WFJTQ2JrRzJpWdIBc0FVX3lxTE9nRmVQeDhFcmZEZFpnZ1lVTDJ4dElaZ0FYM1p4SXdFVUt0d3U2bW05REFtSUZaXzVyUTlodnJkbmE1ZkxnQmtQeUVnUTZGM1N6cU5OTW9ncElKaUJ6N210cWJ0bnNicnUxV3UwZmtZbUFxN3c?oc=5",
+      "source": "초이스경제",
+      "date": "2026-09-08"
+    },
     {
       "title": "글로벌 금융시장은 ’출렁’… 美 금리는 어디로?",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRWxUUngta2RiMXZmRUFQcFFIdUVqd2tjS0F6T0lsaUZmMmh5cnNFdUptbGhNMV9KT3lkaWp6cjdMMWVtTml3SDZJWEhsYlI4THRsaFJGMWowRzBSUk84d2hTMFBMQW8?oc=5",
@@ -10,70 +40,40 @@
       "date": "2026-09-05"
     },
     {
-      "title": "[미국 특징주] 도이체방크 \"금융시장, 연준 금리 인상폭 과소평가\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzV09mbS1JVUlzMEpJbTY3bTU2X0VVZmhIVDBBVnRSSGN3UmgzR2ZYNU00cXc1ZnB4ajRFUUU5bmJfZnpmVWhYUFF0eXFMLXI3Q09PZExodkc2VjNP?oc=5",
-      "source": "뉴스핌",
+      "title": "정부, 금리 압력이 미치는 부동산 리스크 점검",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRaFAxNUw5TWtXZUhsUzZEeU15X2lMNEpGelFFdjRKSmVZeW91ZElMRWo0eWVwODRNaGs3MkhWdFRXdWluNU9RZktFdHk2djhnOUpKRTc1M2ZIUmNfQkd4LS1yTncxUjQ?oc=5",
+      "source": "영남경제",
       "date": "2026-09-07"
     },
     {
-      "title": "코스피, 4.6% 상승 6995.39로 마감...7천선 눈앞",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2cHdBcWhnYWtqUnUwampoenhhYndGaExNcXJPaXozVUdtajFNQVl6cVJoREtoSTFTVXdaQWFQRGhMTjZwSTlCMWZzTjg0WFRXS3RhdzJsQUxTNldEZFh1VUxIVUUyZ1NXSS04?oc=5",
-      "source": "news.bbsi.co.kr",
-      "date": "2026-09-07"
+      "title": "[치솟는 금리, 금융업 향방은-下] 여전사, 조달 비용 증가 ‘비상’",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ac2llSWZ6WU13N0p3aVNkYjRMTl83Z1R5ZXltNFh4R1ZsVi1CTFZHTXJFNXNJdWgzTHM1NmphVXQ2bGVxcEhydm9XTlpselAyYzdGV0Qzb3pKb0ltZ191T0R1aExDU2FMNEdyOE56dDJCZ9IBdkFVX3lxTFBwRFRkdzRGRm5tUjdXZ1gtendLbWZ1aDg3MTJ1emkxOVhWREcxWDY0MjZ4OG5rUnRsRHhfVEgxaW4xRklOVjB0ZjUyaUlPSkJrTzRHUG82NFlDTjVDRWRXR0VVU0k1eGNVYVc5TzlEXy1KVGxwbmc?oc=5",
+      "source": "시사저널e",
+      "date": "2026-09-08"
     },
     {
-      "title": "신한·하나금융, 금리·환율 업고 훨훨...자사주 추가 매입 기대까지",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rdU8zUEQzcnYyWFNPNWh6WHlCODUzc0V5LXV0RFlNLV9sWWQwUk5RM3JJVW9vN0lFUnJ4dDkySE1wM2RKbHhudGtLS2lsRnZzWUF5Q3JVYWJKQVJnM1pJUU5CUjg2aUFjRWFLQms5V1NWZw?oc=5",
-      "source": "오피니언뉴스",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "[이슈체크] 2년여만에 환율 1,330원대…국민연금 환헤지 중단에 낙폭 반납",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1salVCZWhmU1FlNXVFQV9JNXptb3pHTzBLUlZPNHNPcHdJaDJoOHh0dFAycmszNUVCcFk0M3hLeFhaVmxOeThNNlJTclNLSW1qdFY1Y19Ta3FnMUIwOUxCc2tVNA?oc=5",
-      "source": "tfmedia.co.kr",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "9월 금융시장 금리 ‘상방’ vs ‘상단 제한’ 맞물려 - apple-economy.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teVFPUWIydExRMmFVLUFVQi0yQlNjdnE5ZExibDVoOTlLOVlBX3prVVYtNDFtbm9jRk5uQmxBbndwR0xrU3BBeVY5Q05TTUY1TkQwOFg1UmtneUlIeW5JUUF3ckY3MW1LSV9QbVB4Yw?oc=5",
-      "source": "apple-economy.com",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "[中 증시 마감] 금융기관 증자에 상승...광모듈 섹터 강세",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wT0JpVUFSU3cycGNhY05JblQxUVp1ekMxVTF5d3E4UzRGbWxVcXE3THJuM24yNENzRUxXdzRKUzZ6M3puX2pfck5qaGRhUjA?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "금융지주 하반기도 호실적 이어간다···고금리·환율 효과 '톡톡'",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iVzZjTmFoenU5OU9oVGRRSmtOUWlsM2NSTTItanA0MjVQcHc3eU94cVZqQ3l5YW5mZE1rTl9pZTB2cG5BNzFkNXBaVjFmT2NVVGdLemxjSVVRT1plWlB0YkxLUXM1c1ZGc2c?oc=5",
-      "source": "서울파이낸스",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "공영홈쇼핑, 협력기업 금융지원 확대…최대 4.3%p 금리 감면",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oRlRXVnVfMmEtck52ZVJoYjVVcERoM0pFUTNzS185SHY3V2lYa0FmckpoWmlwYWNzSUZJRWFxU3Ftei1QTjRIN3ZKQVk3V3JKNTJIRGozcjR2MHJDMC1NVVpFbTM?oc=5",
-      "source": "MTN 머니투데이방송",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "아르헨 전 경제장관 \"인플레 낮추는 것보다 경제 회복이 중요\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OY0pFQkZVZUhqd1NHRkpPWWphcmYwUE9KczFyYTRqOVVOc2pNU1p6SkVqeURraVdndHRxWHZGM1RWdng5ckY4eUI0OXRGMUV6SHROWnhKbmFWXzVXaU1DStIBYEFVX3lxTE1OY0pFQkZVZUhqd1NHRkpPWWphcmYwUE9KczFyYTRqOVVOc2pNU1p6SkVqeURraVdndHRxWHZGM1RWdng5ckY4eUI0OXRGMUV6SHROWnhKbmFWXzVXaU1DSg?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-09-06"
-    },
-    {
-      "title": "환율 1330원대 터치",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XUkZ2Mk1WUEpFcGJpRk1GYlJuWkpLUDlVX01GWmwzQ0NYUERMNDc2N1I5M2R1Z2Q5c0c4OER6RXJtLS1jYkFFT1dPZ2xJcDZxenY4clVUS2RtMzlBMUdzdDZuTzJzN0U2akxF?oc=5",
-      "source": "대구신문",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "코스피, 반도체 업고 2.9%대 급등",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FTkt4RXhBdU8xcDdWQWc0dUtHdnBfV2VEWDFuZ2xybVFJYjRtTV96UUhOeTJWT3RGM3dMX1I5cnVHOWZGSXNPaFU1SDdGYjAwal9wTFgzTS12ekE0d3JJMFNqRWJmVUlBZ3BGSF9KWkhUX1HSAXdBVV95cUxQc3dYbTNWU0VRZUZHcDNJczVIOF95aVBjYzNlUXY0b1BKZ0pKeGMtU1pWMWFWWHNTNWpKb09QQWJlWUtUTzJ6R0xHZnFjWXVfeHIzdTBUWkdkSmlOckZqNXNjc2hOU0ZCVUd2cUJlNUVJOWVpZm8ydw?oc=5",
+      "title": "코스피, ‘7000피’ 반납...장 후반 하락",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiOVBpVTVSUWJvczNtZVpLUnBCOUE4RU1RYjlYNDJUdzdvRzE1a2J2N3JCelRxZTQ4ZzkySzRmZzhDdERYaDVKNldTaUNnWmxkMGIxRk9GVXhnWDFfcjFKenJUbGxOTDRVeXY2N28yenBKMknSAXdBVV95cUxNLXA2Y0JRdDZmaWNsMURYSEhMZjlhVFFpRTlKUzlaTHIwZkJXWllxanh3LVRzZld5Um94dDlhVjNuTDc4REN6T2R3M25JOEMyX1BWS1FoREdvUU5VNUttdkNpZmhkanJGZ1BsVlZwenZwS1djSkVQQQ?oc=5",
       "source": "스트레이트뉴스",
-      "date": "2026-09-07"
+      "date": "2026-09-08"
+    },
+    {
+      "title": "환율 1300원대로 ‘뚝’…금융지주 주주환원 기대감 ‘쑥’",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Q3JkbVh3eFZFM28xRWtmeDNTaVRlVVZDVUtPMGtReFdMN2p4NEtLd2Q4U1JwUHhxMV8xTjBfNDJybG1kWkxRZ3NQMTlzcHNKNlpGbDVyWW1ueGRjQ19SOGp0dw?oc=5",
+      "source": "쿠키뉴스",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "코스피, 마감 직전 하락… 코스닥도 하락 마감",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Zi11aG1TWDJycEZycVJ5WVFha296eHdxODBNMHY4WWdjWFpWdGdiM01HbEFHWXRJS2g0TDNxaXhuOTRCSFFYaEc3YTB3TWQ2SWgzLU1ubFpYRnU0WmwwV3oxSUowUFNZTkE?oc=5",
+      "source": "천지일보",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "레버리지가 흔든 코스피…다음 랠리는 ‘상승의 확산’에 달렸다 [하나금융硏]",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWbnh2V0xHdFlKU1o3YWhTRGxvbENIYzBiZS1BN1ZyOV9uclJ3MjFnLVVQNmh4N0tRd0NlUWZFRS1fVlBXQk5aR21CT0NPaERWQnlfYnduQ0xpMkI0elZj?oc=5",
+      "source": "조세일보",
+      "date": "2026-09-08"
     }
   ]
 }
