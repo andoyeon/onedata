@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-09-11T23:06:33+00:00",
+  "generated_at": "2026-09-12T22:54:45+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtaHcxaW9NczlVTHMyTFVRbmpHY1JDSnNBTHZQTmlRWlRQeGswOWNfeWNwR3VEN3dFbWprX29ZUko1RFMweUpwcldSY05hVHdIVm1aX2szWUxrWURFdFJRMtIBYEFVX3lxTFAtaHcxaW9NczlVTHMyTFVRbmpHY1JDSnNBTHZQTmlRWlRQeGswOWNfeWNwR3VEN3dFbWprX29ZUko1RFMweUpwcldSY05hVHdIVm1aX2szWUxrWURFdFJRMg?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "\"집값·대출에 금융불균형…여건 보며 기준금리 결정\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Sk1wV3NidXYtRjI1UHNicVQtYW5vQkZzNmZmTW80N0VQNE5SeG5WUWlJdVZ1RFNrc3NqNHZVWVNET09YV1dQRS1Namg5OW8wRzdMVFNqbXJEQzJOVmt4NXY5b3ZHSEk?oc=5",
+      "source": "연합뉴스TV",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "[주간금융이슈] 美·日 금리 결정 '슈퍼 위크'…원화·채권시장 '긴장'",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjd0FNUWNoaHpPdUFOVk5ZS0Y3M2czN2NnT1UtM3BrTTFRR09QcXJveWxmU2pQREdHT1lZY3drVWlZQmVIYVpkc3hhMVp3QmRRelVv?oc=5",
+      "source": "네이트",
+      "date": "2026-09-12"
+    },
     {
       "title": "[금융 한 입] 글로벌 증시 변동성 경고…AI 반도체 호황 계속될까",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uaHdYNmd4ZnpkNzVueGdoM3BFcDc5NE4wZl9TdjVabjJNWUcwUk01Q3FCM2ZXWFNsUmFQTnNFN0ZueEJXQjBON1hycmhxUmc0Z2VSMTVlckRFcXhpYVBnOUxiV2VqX2gxdm5R?oc=5",
@@ -16,52 +34,28 @@
       "date": "2026-09-11"
     },
     {
-      "title": "\"집값·대출에 금융불균형…여건 보며 기준금리 결정\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Sk1wV3NidXYtRjI1UHNicVQtYW5vQkZzNmZmTW80N0VQNE5SeG5WUWlJdVZ1RFNrc3NqNHZVWVNET09YV1dQRS1Namg5OW8wRzdMVFNqbXJEQzJOVmt4NXY5b3ZHSEk?oc=5",
-      "source": "yonhapnewstv.co.kr",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "예금금리 3%대 중반까지… 은행권 고금리 상품 잇따라",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nVklueTBWamlyQmQ5TjB0OUhyTVZRZEJxRS1tZjAxZ0h2ajRIUW5TYnNRTFMxT1NyX3o0eUZJTzFDbHRVdmkxSUNzTDJmQVlPS1F2ZGVaN3ZWZU83YlJqWlJ1YlphakU3V284RkJoS1nSAXRBVV95cUxOaWZyMlpFSDdXOGlMeUR5WlJlWjhtT0tGdTJKSzRtZWMtYkJzc0dLSDhnT09Pd2hKSW5lMlhuSmFWTU8tcVVrdC0ybEpVTWZMd01jejFzREdpeHJ3QkhEUFk5Y29oTWRVN0daQmdPNHk3UkdDcw?oc=5",
-      "source": "IT조선",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "유가 급등에도 버틴 환율…엔캐리·물가가 변수",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkMGtraWhkU3hkU2pZOHFXLU5rN1dsa2NRTGlpYk5vYk1NMFJYdU9JZ2h1OGExcGZlZTJ2YVFUN1F2eWs0ZnBLNF85VGlSeVE5WkZaOXJYZlBPczRXa1dNUUc4NGZGQnJLNDBV0gFvQVVfeXFMTzR5eGdBcmc2bWZpUDdwX2FJelV0TTdwS1hQY013NU9tYzZBaU9haVp0bFVUbGRjVGZoeGoySUppcXlnRERsS1BqQlJBdEU4alJvSUNKenJuV2xKR1cybzJFV2RQNDF5WHp2Z1QwMWZj?oc=5",
+      "title": "[마켓펄스] 유가·금리 ‘더블쇼크’...코스피 3%대 하락 출발",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHeFFoTkVXMXhWSmhtVnIzT3B2UDV0ZDJWWm5VbHpFam10cWNtTVd1Y29ENHo4bjZUYUVFXzFCMFhpQ1g0MEZjenI5VFMzd2dtaGY4QXZnR3ZsM3ZTYnpVdnItVmRZT0YxUVJj0gFvQVVfeXFMT2wyWERrZmRYZUlyR1JfdmZHMC1saHk0dkFnclhYd1dRQ3dSN00tVkNYQzVEajBZY01NSHp1OEMzMlJfckRCNUdYdE1meWdQTVJIeWY1ZW9tLXFqM0NtZWlBbjVCMURqSF9pODByY2dv?oc=5",
       "source": "투데이신문",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "\"집값·대출에 금융불균형…여건 보며 기준금리 결정\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12VUw5YXV3QkhMQ05YVzZjeHJIdkROY1hfbEhIVk4wRGF1NmZpREFxRWZZcGRLUFM2T0RoTXllbkxJVFRhSGYxbW44WjBqN0tRODhnRTdSdld2Y1FRV3dqTdIBYEFVX3lxTE12VUw5YXV3QkhMQ05YVzZjeHJIdkROY1hfbEhIVk4wRGF1NmZpREFxRWZZcGRLUFM2T0RoTXllbkxJVFRhSGYxbW44WjBqN0tRODhnRTdSdld2Y1FRV3dqTQ?oc=5",
-      "source": "yna.co.kr",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "\"소방수 없는 금융시장\"…美 바이백 실망·고유가에 국채금리 '흔들'[주末머니]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BMFZyTGc2TnJlSnV5TlNUOFBnV2FwaW9CMk5aNDZlXzh0QjdTS3pnTGJ2S0c0aVBKcDVxUDkwVGRhblN6TGgxS2dTUHNWX28?oc=5",
-      "source": "v.daum.net",
       "date": "2026-09-11"
     },
     {
       "title": "금융당국 \"금리 상승기 대출상환 부담↑…고정금리 주담대 출시\"",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tb1VZYkpqVkRYV0tNUDRlOC0zd1VqcjN1ZGJiZnlPSHZmZFZGVjA4enhDR0ZpcU1WUVV1SlJBaEZNNkdjUG1zc0FWdXFVMkZVbGZBMmlXYnNhd2NEaWNRaURHaEZpX3pkZndjeFBHTjXSAXRBVV95cUxPOVU2c1hEbHJ0N0hQSkIwQTRudnM4SG9ZTTlOSHRYMW05cmoyODJ1WGs4RWlvajM0UnJPU3RvRG44VW5XVnJRSG85ZmFHXzNwNU9ieHNqYnJ4TnJtVXNwem0zNDkwaHdQUV8wd0FWUkdlMGphcw?oc=5",
-      "source": "news.einfomax.co.kr",
+      "source": "연합인포맥스",
       "date": "2026-09-09"
     },
     {
-      "title": "국민연금, AI로 환율 분석한다… LG AI연구원과 금융 AI 개발",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DSzBRMGRnWWdZLU4tWFg0Mks5WlJtMmxlUnpzemZ1dWpBaTFIc2VjTk9yS0dteTNMNXJDN2ducF91XzNHWXVRSTdIc2N0a0I4Tms3TmFSU09hUGx6R1N3dXp6am1RdmVIb3c?oc=5",
-      "source": "천지일보",
+      "title": "[EBN 데이터센터] 코스피·코스닥 시총상위 약세",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPV2R4b3czVGMyUXI3WGFPa3dFTWV0VmQtM1BTcVhQcVcxLVJjS0NwejBQQ1BOUWNpdlR1V19uVzVIeDZGZGZPNV9PWWhJT3BUbUxIdkQzZTdfQXlxZG5pdk8zQnlQZVZs?oc=5",
+      "source": "ebn.co.kr",
       "date": "2026-09-11"
     },
     {
-      "title": "전북 주담대 금리 경쟁 본격화… 은행보다 상호금융이 싸",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UdHVYckZwOU45dGZlbWo0RW9CYUVIb0xfQ3pzeXRCY3NobVd2dDRuQ0RBUy16ZEJCaW5QNWNGdTg4VUhKdVZybXZHTXB3aUllcF94NzZoejAyRXlfemQyYkdPRzNUbzNkS1E?oc=5",
-      "source": "전북제일신문",
-      "date": "2026-09-11"
+      "title": "\"집값·대출에 금융불균형…여건 보며 기준금리 결정\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qVXV0ekNTYnV4c3FvZThCM3Q4bnRkX09sN0FQOW1zTnFRQ1VQbGN2aXJkQzBRR3B4dFY5UTlHa0JJeWJWOEdUWUlnS2ZfNUk?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-09-10"
     },
     {
       "title": "2008 금융위기 데자뷔?...미국 모기지 금리, 7% 돌파 - 머니투데이",
@@ -70,10 +64,16 @@
       "date": "2026-09-11"
     },
     {
-      "title": "코스피, 美CPI 앞두고 1.76%↓…3거래일 만에 7000선 반납",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoNFhfU0tCaG5rREVJX2ZzaE1oMy1mUEw5Wkd0NjVuUUxnQjdEYi1obHdZalNOUXgwWUJqRkt3RzFoTEJ3NHlJNWFqeko4RGppOHBtWllXdzUtVUR5dlFlZTROa09kZ0VJZEE?oc=5",
-      "source": "뉴시안",
+      "title": "장·단기 국고채 금리 일제히 상승",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaT3g0UmhIUnBpbjdGd2hncDVyamotaFFLQThSdzBjUy1mOGQ2VUVjQi0wYzFSb0k0aldKQ1FFaXotY0FvbnRjZUttQnhlbmhROWtYV1NmSDhqcDlscHRHV1J6ZlhjSzIteTZYOUpGTENqQW_SAXdBVV95cUxQSHRiaExRMzEzRU1qeEVpN1lfU3lybmFuT0xsZDlRODFPVXV4VEw4VWVVRHBCR2c2Vm5lQUJZaDlveUtQOGdvV0taYURPNVVDTnQtQkdXLXZkV2w5YlR6dm5KZVppWUM0Y3Nia3V0aXkxY2FXS3JtTQ?oc=5",
+      "source": "스트레이트뉴스",
       "date": "2026-09-11"
+    },
+    {
+      "title": "환율 200원 빠지자… 금융지주, 상반기 환손실 회복 ‘파란불’",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42S2VCNndnSlJrZkNCMFd5NktTR0l2ci1sSXJ4TlBLWFZKcXRNTllqa3dYN29hNXF0RUUwcXdWWFNBVmJZbjJLUXdUVHZxYWxhTGZPZzlCRXVQNHVudGt0OXFIU2VEdHN0cFUzRHVrVnLSAXRBVV95cUxOVTB0NmNnVGdZTm5zcFVjejJaR0FsM2U4LU5jV1BIZzVHQUFGMThyelJvMWJoWlVwLS0yQUNXN1dzbE5YY085eU50eVBJVDlKdXhkcmFqZy1oR0hjSlpjZ3NLdVJBRGw3Rmd1WnZIbkxwZXpWaQ?oc=5",
+      "source": "IT조선",
+      "date": "2026-09-10"
     }
   ]
 }
