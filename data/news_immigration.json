@@ -1,18 +1,12 @@
 {
-  "generated_at": "2026-09-12T22:51:37+00:00",
+  "generated_at": "2026-09-13T22:55:42+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "인천시의회, AI 데이터센터 유치 위한 외국인직접투자 방안 논의",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RaXJGWGtTNm0ySFhSbWZJN3luZmNvcTBXNkJmMVdfNHVlZWJNbVM4dUVURmhIUktQNTJyOHRieVYyQTg3SEVmazRMcHFLOHE0OXROd3R1VXRmVG1vUXdNckZRaS05NnBKengxb1FkVTc?oc=5",
-      "source": "인천투데이",
-      "date": "2026-09-12"
-    },
-    {
       "title": "[산업통상자원부] 새 정부 출범 후, 첫 번째 대구모 외국인 투자유치 행사 개최",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUlBLWWp6dHF1RkpITlROQUxmQ3FMck9aS08wSjQwU2hCT19qRlROUFVuMnYzZnM3ZzNkcl91aXpLcFUtNG5TSHRqOVZYTmFuT1NQSXpHaVJURGRjNFdTMmFnSzVneTBjLTRuRUdzNExMb0VpOUZoWng3NmVoV09FMmxhdTgzNms1YkpmRGNRVl9XeEZWd2U3YVNod3ZSblVYZlU2RHhDTGU1QS15cTNxLVo5ODBMZTBxSGxuaWhCbWc2UG5jTE8wUUNvc0lYTjF5bHVzdGFxeGZDZw?oc=5",
-      "source": "pcccr.go.kr",
+      "source": "국가기후위기대응위원회",
       "date": "2026-09-07"
     },
     {
@@ -20,6 +14,12 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KbUpOM1h3YWlNS0l4SVlXOFc1NGZnVUY5eHFackQzVnpIa1E1Sl9GaG1fUnRUUnNFWmpKTFJTcHd1UGhGam8tZzhvcURkWGFZNTFfZXJPQ3dLNTdBTkk2TzIyQ1dJWnpNdVBiYQ?oc=5",
       "source": "재외동포신문",
       "date": "2026-09-11"
+    },
+    {
+      "title": "인천시의회, AI 데이터센터 유치 위한 외국인직접투자 방안 논의",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RaXJGWGtTNm0ySFhSbWZJN3luZmNvcTBXNkJmMVdfNHVlZWJNbVM4dUVURmhIUktQNTJyOHRieVYyQTg3SEVmazRMcHFLOHE0OXROd3R1VXRmVG1vUXdNckZRaS05NnBKengxb1FkVTc?oc=5",
+      "source": "인천투데이",
+      "date": "2026-09-12"
     },
     {
       "title": "외국인 투자를 통해 경제 발전의 기회를 열어줍니다.",
@@ -58,12 +58,6 @@
       "date": "2026-08-28"
     },
     {
-      "title": "국채통합계좌 누적 거래 1740조원 돌파, 외국인 국채투자 확대",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbXRZQ0Ffc19raEtsdUJsMW9URHJnb1JVZHJPQWZubll4cE5DRjZQLWJ0OHBocXRub212UjBBUkRSOFMzQU4tdXgxZkR3Qk45cml3MXdBMmxGYzFZVnA4bEtpYWM?oc=5",
-      "source": "ppss.kr",
-      "date": "2026-09-11"
-    },
-    {
       "title": "中, 외국인 투자기업의 외국인 배당금·보너스에 20% 소득세 부과",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cktfbmVvbmNnX2tTSDR2bW80OFBTRURhVm5IR0U2bWRKcV8tWWxZTW56NXJLZEdrcDFBckhxRmtBSEtYM18yaWx0WU11RjNtMGtickFvUUNyYmtLeU1MLdIBeEFVX3lxTE5aSjZMdEJKTGlJbk93eDJBdU5kaXJMOXd0ZTNGQ2hKMS1PVHZPWUpDNEhJTFJ0ZS1IbUpDMGt1dTl0M3JiX005aGc5SHdEaEc5amlSS0hUbk5WQWthYlVQdkZJRmQwYjd5bjN0ajF2Wk9ZSUFha2hXUw?oc=5",
       "source": "뉴시스",
@@ -72,8 +66,14 @@
     {
       "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
-      "source": "YTN",
+      "source": "ytn.co.kr",
       "date": "2026-07-02"
+    },
+    {
+      "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
+      "source": "법률신문",
+      "date": "2026-07-30"
     }
   ]
 }
