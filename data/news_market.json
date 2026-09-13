@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-09-12T22:54:45+00:00",
+  "generated_at": "2026-09-13T23:02:06+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtaHcxaW9NczlVTHMyTFVRbmpHY1JDSnNBTHZQTmlRWlRQeGswOWNfeWNwR3VEN3dFbWprX29ZUko1RFMweUpwcldSY05hVHdIVm1aX2szWUxrWURFdFJRMtIBYEFVX3lxTFAtaHcxaW9NczlVTHMyTFVRbmpHY1JDSnNBTHZQTmlRWlRQeGswOWNfeWNwR3VEN3dFbWprX29ZUko1RFMweUpwcldSY05hVHdIVm1aX2szWUxrWURFdFJRMg?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-09-12"
+      "title": "iM금융지주, 신종자본증권 차환 금리에 '끙끙'",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnS1dmalpPQWE1SzJGckpPbDY1WS03cHhJNjd2SEdJa09FazY2WGhXVUdvbHRwZDBkcFE0SVduWHlqOGluUFp6Ny1qc2NoYUE?oc=5",
+      "source": "톱데일리",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nLVoxNE5HS0UxR3pocWM1SXNlcnk2UG5samJIUzF1LWhuQURaRWwwSzBoYkVhbkdJTElHSGllMTAzMUdGaHd4b3dQNjJPakN6M0hIM3VUVl9SUdIBX0FVX3lxTE9fY2l2MXczNmVZREVCOGJTMFBVa2ZfVkJrc0dvamktbEJndERyTlh3T083RzFOcm9ENXJfZ0I2dGVkTTM1cnNsc202X3RkYVdQWE80ZTZtWjJnNnpMTjk0?oc=5",
+      "source": "경향신문",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "[이슈체크] 美연준 금리 올릴까...금융당국 F4회의 등 대응 착수",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMVkkzeDcwUGw3dmFIdFJCaU5mZlBYR1FFN0pQZVhxMk02c1NGbXBxbXY1UmhTZXZSX1FkREVNZFZaaUllMDJMUFI0alVJODNnUnowRGlUZHBPTjBiWGsyS1hQOA?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "[N2 포커스] 금리 오르고 환율 내리고…금융지주 3분기 실적 눈높이↑",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41QVB1cnc3NEgwWVlwcXplcWJIWGVadnVYNlF2akZ3NGlYOFBHZDIyMzR2bHJBYk5hMVh3YkE5NTNxUC1md082QjN2YVZBV1RaQWFzcjNId3FEVmFCMkE?oc=5",
+      "source": "뉴스투데이",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "FOMC 앞둔 코스피 '금리 이후' 본다…반도체가 버팀목",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdG1HUXpDb3lsNEx6X25PNlJGeE1hMW95SV9vRFlVZmZlM0Y4SFZPb1B5Um1IYUFpNF9kaWFqeUR5ZU11UGdXOXZ2a1dvbmVYa0xEcldTbi05STdqN19fdU53WWtidXRX?oc=5",
+      "source": "ebn.co.kr",
+      "date": "2026-09-13"
     },
     {
       "title": "\"집값·대출에 금융불균형…여건 보며 기준금리 결정\"",
@@ -16,64 +40,40 @@
       "date": "2026-09-10"
     },
     {
+      "title": "美 금리 인상·유가 급등에 금융당국 'F4 회의' 소집…가계부채 관리·취약 차주 지원 강화",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xblVPQXZ4WnRHWFB0M0lqRFlwR2h5Qm5yakRMcVY2ZEx1WGUzNHY2NkxwTWEtWFhoVGF1bVUtT3l4N09CVTlvcnM3cy1RZw?oc=5",
+      "source": "전자신문",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "美 금리 인상 우려에 금융당국 대응 착수",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sR3ZqVThiTkxYM1dTRk1zS0lTNnVCLXZWZ2VycS0zRERuWkI3ODlDWThpeEI2eUIzRGRydFRKWEJHdVp5aWJGdWMyS3pmeEVtaDl4NzBQQkZ0LTVOMnozR0RvOE80VDF1WlZV?oc=5",
+      "source": "BBS불교방송",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "美 금리 인상에 촉각…금융당국, 17일 'F4 회의' 개최",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NODl5cDBQZ3JIdTBfYzN2RThrRUdfU05KWThZZmJVbmttQjU5RHB5VS1DSHhOTkpqSERWSVRHZFBySzMtRE5ZbGhrRlZQQzQ?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-09-13"
+    },
+    {
       "title": "[주간금융이슈] 美·日 금리 결정 '슈퍼 위크'…원화·채권시장 '긴장'",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjd0FNUWNoaHpPdUFOVk5ZS0Y3M2czN2NnT1UtM3BrTTFRR09QcXJveWxmU2pQREdHT1lZY3drVWlZQmVIYVpkc3hhMVp3QmRRelVv?oc=5",
-      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BT2p3STBiWWlVc2RjaWp0bG5JTzM0dHlBRFdvU3FtRVZ0bXNpSENJakRoTDVoaEFyeFpvczBQWGh1dDd2ZFhhNGxaMldfbG51RXNvamhXUU0tSzFC?oc=5",
+      "source": "뉴스핌",
       "date": "2026-09-12"
     },
     {
-      "title": "[금융 한 입] 글로벌 증시 변동성 경고…AI 반도체 호황 계속될까",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uaHdYNmd4ZnpkNzVueGdoM3BFcDc5NE4wZl9TdjVabjJNWUcwUk01Q3FCM2ZXWFNsUmFQTnNFN0ZueEJXQjBON1hycmhxUmc0Z2VSMTVlckRFcXhpYVBnOUxiV2VqX2gxdm5R?oc=5",
-      "source": "BBS불교방송",
-      "date": "2026-09-11"
+      "title": "美 금리 인상 가능성 고조…금융당국, F4 회의 등 대응 착수",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OLW9JeVhyd09wLVdiNzRtUzZqWndqMU9UZllQb0hlbnpGWE9wanZpeUxzZnZWMUdYYkFzVjVxYklxalM3T0w3aDRIYmxDWndLZWhhcU1ZclNleGJsVVpiQ052azJyOW1WdEFNRFVyZw?oc=5",
+      "source": "진일보",
+      "date": "2026-09-13"
     },
     {
-      "title": "금감원장 “韓 증시 저평가 탈출”…외국인 자금유입 속도 낸다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KbUpOM1h3YWlNS0l4SVlXOFc1NGZnVUY5eHFackQzVnpIa1E1Sl9GaG1fUnRUUnNFWmpKTFJTcHd1UGhGam8tZzhvcURkWGFZNTFfZXJPQ3dLNTdBTkk2TzIyQ1dJWnpNdVBiYQ?oc=5",
-      "source": "재외동포신문",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "[마켓펄스] 유가·금리 ‘더블쇼크’...코스피 3%대 하락 출발",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHeFFoTkVXMXhWSmhtVnIzT3B2UDV0ZDJWWm5VbHpFam10cWNtTVd1Y29ENHo4bjZUYUVFXzFCMFhpQ1g0MEZjenI5VFMzd2dtaGY4QXZnR3ZsM3ZTYnpVdnItVmRZT0YxUVJj0gFvQVVfeXFMT2wyWERrZmRYZUlyR1JfdmZHMC1saHk0dkFnclhYd1dRQ3dSN00tVkNYQzVEajBZY01NSHp1OEMzMlJfckRCNUdYdE1meWdQTVJIeWY1ZW9tLXFqM0NtZWlBbjVCMURqSF9pODByY2dv?oc=5",
-      "source": "투데이신문",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "금융당국 \"금리 상승기 대출상환 부담↑…고정금리 주담대 출시\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tb1VZYkpqVkRYV0tNUDRlOC0zd1VqcjN1ZGJiZnlPSHZmZFZGVjA4enhDR0ZpcU1WUVV1SlJBaEZNNkdjUG1zc0FWdXFVMkZVbGZBMmlXYnNhd2NEaWNRaURHaEZpX3pkZndjeFBHTjXSAXRBVV95cUxPOVU2c1hEbHJ0N0hQSkIwQTRudnM4SG9ZTTlOSHRYMW05cmoyODJ1WGs4RWlvajM0UnJPU3RvRG44VW5XVnJRSG85ZmFHXzNwNU9ieHNqYnJ4TnJtVXNwem0zNDkwaHdQUV8wd0FWUkdlMGphcw?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "[EBN 데이터센터] 코스피·코스닥 시총상위 약세",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPV2R4b3czVGMyUXI3WGFPa3dFTWV0VmQtM1BTcVhQcVcxLVJjS0NwejBQQ1BOUWNpdlR1V19uVzVIeDZGZGZPNV9PWWhJT3BUbUxIdkQzZTdfQXlxZG5pdk8zQnlQZVZs?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "\"집값·대출에 금융불균형…여건 보며 기준금리 결정\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qVXV0ekNTYnV4c3FvZThCM3Q4bnRkX09sN0FQOW1zTnFRQ1VQbGN2aXJkQzBRR3B4dFY5UTlHa0JJeWJWOEdUWUlnS2ZfNUk?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "2008 금융위기 데자뷔?...미국 모기지 금리, 7% 돌파 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12azhpTW5sN1BYU2xNMnNTaTRxVkh2dXkzd2JyMnR6VE5BMDlZOUVFTmZpWE5RUW9BTk9JNmZPem9aTG1LSjlfZGVfaE9Lano0TnlBdUNuZXVuRDR3VC05dm1jZEs0dk9K0gFuQVVfeXFMT0k1bEdwcTNOdHRWdEJpcExXOUVpLVFqNXJoRktjT2cyMS1pQ1YyMm9YREtNbWVVMEoxVldjYUxWNG9seWVwejNIcE13YWtjSXdjS2lOc3ZpQlVHcXZxRlRGbjBYcjVGRkc4THVhZ0E?oc=5",
-      "source": "머니투데이",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "장·단기 국고채 금리 일제히 상승",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaT3g0UmhIUnBpbjdGd2hncDVyamotaFFLQThSdzBjUy1mOGQ2VUVjQi0wYzFSb0k0aldKQ1FFaXotY0FvbnRjZUttQnhlbmhROWtYV1NmSDhqcDlscHRHV1J6ZlhjSzIteTZYOUpGTENqQW_SAXdBVV95cUxQSHRiaExRMzEzRU1qeEVpN1lfU3lybmFuT0xsZDlRODFPVXV4VEw4VWVVRHBCR2c2Vm5lQUJZaDlveUtQOGdvV0taYURPNVVDTnQtQkdXLXZkV2w5YlR6dm5KZVppWUM0Y3Nia3V0aXkxY2FXS3JtTQ?oc=5",
-      "source": "스트레이트뉴스",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "환율 200원 빠지자… 금융지주, 상반기 환손실 회복 ‘파란불’",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42S2VCNndnSlJrZkNCMFd5NktTR0l2ci1sSXJ4TlBLWFZKcXRNTllqa3dYN29hNXF0RUUwcXdWWFNBVmJZbjJLUXdUVHZxYWxhTGZPZzlCRXVQNHVudGt0OXFIU2VEdHN0cFUzRHVrVnLSAXRBVV95cUxOVTB0NmNnVGdZTm5zcFVjejJaR0FsM2U4LU5jV1BIZzVHQUFGMThyelJvMWJoWlVwLS0yQUNXN1dzbE5YY085eU50eVBJVDlKdXhkcmFqZy1oR0hjSlpjZ3NLdVJBRGw3Rmd1WnZIbkxwZXpWaQ?oc=5",
-      "source": "IT조선",
-      "date": "2026-09-10"
+      "title": "추석 명절 소상공인·중소기업에 ‘103조원’ 풀린다…정책금융 특별대출·금리우대 지원",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vQmdIVmEtLUo3X0pyTmhJWHVHX05sOEcxNkpCNG5TZXE5MUtjZ2kzb3RMbXYwSWFFMy1JN21jaC1Id2JHcVVvei03WGJFaDI4QUw1Q1lDQVVYTGM?oc=5",
+      "source": "경기일보",
+      "date": "2026-09-13"
     }
   ]
 }
