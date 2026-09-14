@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-09-13T23:02:06+00:00",
+  "generated_at": "2026-09-14T23:46:33+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "iM금융지주, 신종자본증권 차환 금리에 '끙끙'",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnS1dmalpPQWE1SzJGckpPbDY1WS03cHhJNjd2SEdJa09FazY2WGhXVUdvbHRwZDBkcFE0SVduWHlqOGluUFp6Ny1qc2NoYUE?oc=5",
-      "source": "톱데일리",
-      "date": "2026-09-13"
+      "title": "부산시, 소상공인 체감금리 1%대 금융 지원…1조2천억원 규모",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTjU4YVBWbnY3NTkxdmdQSmRDMHk0MlNxcGhMcXptYkMtV3lPMFpSWlhXN1d3MWREMjJQdERCc3RQaWk5eWt2QVltVUFsRmRWYzlTYmpUaFN1NWfSAWBBVV95cUxNRWNIQjVCVkVmUmdLTElreXlJQjgycXVkdkhKUlRiUVQyVVZLRWxWZ08wMjVwOWpFX2lXQ3FTb3ZBa0lra3I0ZUY3R2hvaGhiem1WTHJPNEtqWlRGTENnNU8?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "美연준 금리인상 베팅 90%로 상승…월가 IB들도 인상 전망 합류",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YelJwNVM1Y0xNQVFxXzhBRFRnYmN2OHpTakt3R1ZIaUJEaF9CQVFQOFZWbG44YnoyNG51UEhEcGlKUnF5bWF3WjY3aktFQjB1TGJxQVMxT1ZjZHQtTzNneA?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "'마의 5%' 뚫린 美 10년물 국채 금리… 2007년 금융위기 직전 수준 위협",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTXpoYjBVaDFHVDFtaXB2bWNSbm1uMWVrdnVZT3lLX1Jwc2R4ZDNMX0doaXRPN3BiZGlweHhpX3FkUGlvMkhLR0ZmQ1plSkk?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "금리인상 수혜 기대에 은행주 아웃퍼품…우리금융 5% 강세[핫종목]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NOGMzTWM2S0gxOHZlaGliT0NKNHQ2WGZscWlUWGlrNl8wbGlQdHI1U1c5aWNFSkRVN0xtVXFYMl9SUl9lcUVROTBqVlBUdXhvSTZaSTZnaDF5blHSAWBBVV95cUxNa3NER2N3X1hwZXdiQktZa3poMGNwTklCbXN1QUh6aHBuTUpiN0lLZ2NybVE2aUxUQW1sT3VCZ0x5Z0l0NFM4ZjdiZWoyaHpYQnY3cjlVdTRyZ3FtSGNpZmE?oc=5",
+      "source": "news1.kr",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "부산시, 소상공인에 1조2천억 금융지원…체감금리 1%대 저리대출",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hRHJHWmRzRmo4MTJuWVpGRmdweXEyeXU4UTUyRXBIMmxxeUhGRnVjQXlZbHNVLTFpT0RjWTI2cU1SeWh6b1VaYnJqOTd4QXY3WldldzdkdFlMMUc4amRYY2t0WQ?oc=5",
+      "source": "nsenior.co.kr",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "금리 상승 ‘그림자’···처브라이프도 110억 파생 손실",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NMFpyclVNM3BVamJlbEFZYlZ4X3JPSV9adTRJS3psRjUza05oMW16RHVpWVZZdy1UTEdpdWZjMGdjaTJjQ3Z6REtUSDZhMTd2SE1tcm16eWJvTkJjbmxXMHFsdEh4VVFqZDN3TTZWSG1WQdIBdkFVX3lxTFBGY3lKRnZPTjZ5dk1xMnF4NW9ZVk9iWHIwQkk1X0Uwc3BvbVN1WTlibWxTWHdGaGdaR0swUjZyM2hLVlRHbndiUmVmaVNLcEpMX2ZzbVptWGpjX2J3YVhfbU54Y28zYnFyU2hDQXY5ZGF4M1l6S0E?oc=5",
+      "source": "시사저널e",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "부산시, 소상공인 금융부담 완화 위해 ‘민생112’ 1%대 금리로 1조 2천억원 금융지원",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Sa2hJRTZldHB0VWlaVzhsdE82TWMwXzBBbnZTZUxLNl8xb0NmREc5emJzREZQODBwQjBtVHo2TVI0Q21oR0dLOHhZcVFKSXA4Y3Nkc3dwN3ZXa1NBTHZRWURZb3pQWVJGakhvcktB?oc=5",
+      "source": "서프라이즈뉴스",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "금융당국이 띄운 ‘장기 고정금리 주담대’…현장선 회의론",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhaHVDcEUtWXdQY0pQa3oxbVlDTnoxMmZwRWlXN2lvclVOZ1pScTRxRDRISHV2ZWVuV3phS3BCWjdkYVBDdVAyTEFENGxlVTRZaGJkaFM3em5Ucl9Bc1E0TDFNYw?oc=5",
+      "source": "kukinews.com",
+      "date": "2026-09-14"
     },
     {
       "title": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나",
@@ -16,64 +58,22 @@
       "date": "2026-09-13"
     },
     {
-      "title": "[이슈체크] 美연준 금리 올릴까...금융당국 F4회의 등 대응 착수",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMVkkzeDcwUGw3dmFIdFJCaU5mZlBYR1FFN0pQZVhxMk02c1NGbXBxbXY1UmhTZXZSX1FkREVNZFZaaUllMDJMUFI0alVJODNnUnowRGlUZHBPTjBiWGsyS1hQOA?oc=5",
-      "source": "조세금융신문",
-      "date": "2026-09-13"
+      "title": "[금융권 풍향계] SC제일은행, Hi통장 특별금리 쏜다 外",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wTlRUYUxBaVZVRVNuNXBvY1FTSWlkNmlCSlZvVWcwbjJmbjRJc2pIZE1LSW5Qd3d2RVJXOFZpeVprYXpaTHJEd0tESEtWZDhiY29wbzdBQ0l1cW8?oc=5",
+      "source": "에너지경제신문",
+      "date": "2026-09-14"
     },
     {
-      "title": "[N2 포커스] 금리 오르고 환율 내리고…금융지주 3분기 실적 눈높이↑",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41QVB1cnc3NEgwWVlwcXplcWJIWGVadnVYNlF2akZ3NGlYOFBHZDIyMzR2bHJBYk5hMVh3YkE5NTNxUC1md082QjN2YVZBV1RaQWFzcjNId3FEVmFCMkE?oc=5",
-      "source": "뉴스투데이",
-      "date": "2026-09-13"
+      "title": "'10년 고정금리' 주담대 카드 꺼내든 금융위…실효성엔 ‘물음표’",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblY3Q0ZUQ0kwUlpmU1lPVl9pMkxBcWtTSjQzVXhoOUN5dWcxYjY2UklDaVNDVE5BY2h5SC13S09HSUxySXBmbGY4cENVbDdJYlF2RzhlelBKd1YxUXM3Z3VIVjJaazBkbWlmWTUyNTRVeWEzUUMwZWlPREt1dXhFcw?oc=5",
+      "source": "edaily.co.kr",
+      "date": "2026-09-14"
     },
     {
-      "title": "FOMC 앞둔 코스피 '금리 이후' 본다…반도체가 버팀목",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdG1HUXpDb3lsNEx6X25PNlJGeE1hMW95SV9vRFlVZmZlM0Y4SFZPb1B5Um1IYUFpNF9kaWFqeUR5ZU11UGdXOXZ2a1dvbmVYa0xEcldTbi05STdqN19fdU53WWtidXRX?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "\"집값·대출에 금융불균형…여건 보며 기준금리 결정\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Sk1wV3NidXYtRjI1UHNicVQtYW5vQkZzNmZmTW80N0VQNE5SeG5WUWlJdVZ1RFNrc3NqNHZVWVNET09YV1dQRS1Namg5OW8wRzdMVFNqbXJEQzJOVmt4NXY5b3ZHSEk?oc=5",
-      "source": "연합뉴스TV",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "美 금리 인상·유가 급등에 금융당국 'F4 회의' 소집…가계부채 관리·취약 차주 지원 강화",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xblVPQXZ4WnRHWFB0M0lqRFlwR2h5Qm5yakRMcVY2ZEx1WGUzNHY2NkxwTWEtWFhoVGF1bVUtT3l4N09CVTlvcnM3cy1RZw?oc=5",
-      "source": "전자신문",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "美 금리 인상 우려에 금융당국 대응 착수",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sR3ZqVThiTkxYM1dTRk1zS0lTNnVCLXZWZ2VycS0zRERuWkI3ODlDWThpeEI2eUIzRGRydFRKWEJHdVp5aWJGdWMyS3pmeEVtaDl4NzBQQkZ0LTVOMnozR0RvOE80VDF1WlZV?oc=5",
-      "source": "BBS불교방송",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "美 금리 인상에 촉각…금융당국, 17일 'F4 회의' 개최",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NODl5cDBQZ3JIdTBfYzN2RThrRUdfU05KWThZZmJVbmttQjU5RHB5VS1DSHhOTkpqSERWSVRHZFBySzMtRE5ZbGhrRlZQQzQ?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "[주간금융이슈] 美·日 금리 결정 '슈퍼 위크'…원화·채권시장 '긴장'",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BT2p3STBiWWlVc2RjaWp0bG5JTzM0dHlBRFdvU3FtRVZ0bXNpSENJakRoTDVoaEFyeFpvczBQWGh1dDd2ZFhhNGxaMldfbG51RXNvamhXUU0tSzFC?oc=5",
-      "source": "뉴스핌",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "美 금리 인상 가능성 고조…금융당국, F4 회의 등 대응 착수",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OLW9JeVhyd09wLVdiNzRtUzZqWndqMU9UZllQb0hlbnpGWE9wanZpeUxzZnZWMUdYYkFzVjVxYklxalM3T0w3aDRIYmxDWndLZWhhcU1ZclNleGJsVVpiQ052azJyOW1WdEFNRFVyZw?oc=5",
-      "source": "진일보",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "추석 명절 소상공인·중소기업에 ‘103조원’ 풀린다…정책금융 특별대출·금리우대 지원",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vQmdIVmEtLUo3X0pyTmhJWHVHX05sOEcxNkpCNG5TZXE5MUtjZ2kzb3RMbXYwSWFFMy1JN21jaC1Id2JHcVVvei03WGJFaDI4QUw1Q1lDQVVYTGM?oc=5",
-      "source": "경기일보",
-      "date": "2026-09-13"
+      "title": "코스피 2%대 하락에도 은행주는 ‘활짝’…우리금융 4.6%↑ [이런국장 저런주식]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBTGlUY0ZXMTJyeXVyaVdhM3ZJZmlqM0U0Y3Y2d20wWExQYkMxYlpVd2J1M1pTSElDaDBWNTN5eGo0ZW1YSzV6VVh0bGZ6emtzaWfSAVNBVV95cUxQTUJLN0FNZmh2cmt2OEM0NkpJQ0lxWGpJQzVGSG0zU0l0bkpkY2RMczRleW42THdwc09mTmF0NEphRXBzTVFZb1hKZzBMOG9HaGtOOA?oc=5",
+      "source": "sedaily.com",
+      "date": "2026-09-14"
     }
   ]
 }
