@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-13T22:55:42+00:00",
+  "generated_at": "2026-09-14T23:41:56+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "해외 칼럼 트럼프發 관세 롤러코스터, 외국인 투자를 죽인다",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQThSdDlEeGRSQk9lTXdGbm5RUFoyczNtUDNvM0hLNmN1aC0wRTAteWhHcE43SEItdndueFpzbXVjYmR3bzZmYUdEZk4yUlhmOVZpZDNCUzY0aVdJaTVocDMwS3dETnZKNVdmeHV3Q3plZGRabXBtRGhrOGdtazA?oc=5",
+      "source": "economychosun.com",
+      "date": "2026-09-11"
+    },
     {
       "title": "[산업통상자원부] 새 정부 출범 후, 첫 번째 대구모 외국인 투자유치 행사 개최",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUlBLWWp6dHF1RkpITlROQUxmQ3FMck9aS08wSjQwU2hCT19qRlROUFVuMnYzZnM3ZzNkcl91aXpLcFUtNG5TSHRqOVZYTmFuT1NQSXpHaVJURGRjNFdTMmFnSzVneTBjLTRuRUdzNExMb0VpOUZoWng3NmVoV09FMmxhdTgzNms1YkpmRGNRVl9XeEZWd2U3YVNod3ZSblVYZlU2RHhDTGU1QS15cTNxLVo5ODBMZTBxSGxuaWhCbWc2UG5jTE8wUUNvc0lYTjF5bHVzdGFxeGZDZw?oc=5",
       "source": "국가기후위기대응위원회",
       "date": "2026-09-07"
-    },
-    {
-      "title": "금감원장 “韓 증시 저평가 탈출”…외국인 자금유입 속도 낸다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KbUpOM1h3YWlNS0l4SVlXOFc1NGZnVUY5eHFackQzVnpIa1E1Sl9GaG1fUnRUUnNFWmpKTFJTcHd1UGhGam8tZzhvcURkWGFZNTFfZXJPQ3dLNTdBTkk2TzIyQ1dJWnpNdVBiYQ?oc=5",
-      "source": "재외동포신문",
-      "date": "2026-09-11"
     },
     {
       "title": "인천시의회, AI 데이터센터 유치 위한 외국인직접투자 방안 논의",
@@ -28,22 +28,16 @@
       "date": "2026-09-10"
     },
     {
-      "title": "이찬진 “결제주기 단축·거래시간 연장”…외국인 투자 문턱 낮춘다",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDRWo3dFhzcXRnUDR1dkh5QlZFTzV5VEd1MmNJaWIyd2JRRkJvWHVnSUZMRnBkZUhLcjJMdVh2Qng1Y2w1aFZYNWJwNHM3b1FuU0tBTndXRjJSb3ItaXdXRg?oc=5",
-      "source": "메트로신문",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "이찬진 금감원장 “외국인시간·장소 무관 원화 거래인프라 구축할 것”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vTjZ3VjVPZlZjWWdTQnNVT3pHLUlCRGNNcFVaTFpjOFJHd01xd1BZc2Z6aTVPcUpfaGtoMXc2X3NOUUZta09TaHRBbTJ0U2c?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-10"
-    },
-    {
       "title": "외국인 주식투자 1326조원…1년만에 ‘2배’ 껑충",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zX0hMZlVncm5yVVFwTEplb2xhMmxSS3dHdDF2ZW5DNDVMSFdmTHAtODJuUE1Pb2tDTkZVSldPS2JOU1B2VjZMWVNlbTlSQVAwbHd3Tw?oc=5",
       "source": "브릿지경제",
       "date": "2026-09-01"
+    },
+    {
+      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
+      "source": "YTN",
+      "date": "2026-07-02"
     },
     {
       "title": "[외국인 놀이터 코스피⑤] 외국인 잔칫상 차린 정부…급락장 안전판은 없었다",
@@ -52,28 +46,34 @@
       "date": "2026-08-31"
     },
     {
-      "title": "양주시, 독일계 기업 대상 투자환경 설명회…외국인 투자유치 '시동' - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kbS1wa1J3Y2FRUkRGWmlBYWFFdW5QOW1SUC1lZFkzbXdHZVlFYno0ek1adXJjVkpBR2R3Z0xuY1dJZHVBSUttMDlheFhRbUFyUjdiNE5VbnpNVUZZZi1vVHRnM3hIYW1BMnfSAW9BVV95cUxNQnpIXzNwR09Bb0Y1ZHJ3S2RoanM4TGRjdGdELXRGRHRLcEVBeG1vUFJma3JsM2RjLVZxb1cxSzBEaDF3ZVpWcnlTNjVva0pzYThQZkY4UktNQWNzdFJMLTRjUG1MRnR1eV9rbEYtdTA?oc=5",
-      "source": "머니투데이",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "中, 외국인 투자기업의 외국인 배당금·보너스에 20% 소득세 부과",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cktfbmVvbmNnX2tTSDR2bW80OFBTRURhVm5IR0U2bWRKcV8tWWxZTW56NXJLZEdrcDFBckhxRmtBSEtYM18yaWx0WU11RjNtMGtickFvUUNyYmtLeU1MLdIBeEFVX3lxTE5aSjZMdEJKTGlJbk93eDJBdU5kaXJMOXd0ZTNGQ2hKMS1PVHZPWUpDNEhJTFJ0ZS1IbUpDMGt1dTl0M3JiX005aGc5SHdEaEc5amlSS0hUbk5WQWthYlVQdkZJRmQwYjd5bjN0ajF2Wk9ZSUFha2hXUw?oc=5",
-      "source": "뉴시스",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
-      "source": "ytn.co.kr",
-      "date": "2026-07-02"
-    },
-    {
       "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
-      "source": "법률신문",
+      "source": "lawtimes.co.kr",
       "date": "2026-07-30"
+    },
+    {
+      "title": "2026년 상반기 외국인직접투자 동향",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qT1d0elo1Y2xRejlIb0FtcjZuWVRha2lfV01ZS0hsc3pOblk1ek1OejZRSnFjU0IwMkw4RjV3T05IekdleWJybUZHZzJwZWk1WUZIbXlab0dlM1lwUDZ2YkNvaE1SbHprNGZUTw?oc=5",
+      "source": "korea.kr",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "[머니톡스] 외국인투자자 엑소더스 주의보…한미 긴축에 대비해야",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRXVoTk1Qd29BM3F6dFBjYnRsLXVoOHZ3M21EdzdjWXlJLS1MalQwb0JfUVBZUHprTDdLN0ViTzdPVEhZa3lsR3FZYmhkZUpkcFNZNnlZdjFUWEnSAWBBVV95cUxQUjl5LXRoQ0x5VnF3ZVhoelRibWdlVXY4SVZVYnF4MGR2b0hKcGZ2WHdQcUNER1JIbjdXUjRJYUJCaVZ1eHBQM1Z6QTktTTlGZlYwM29VYWZDZDdXWWREOVE?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "이찬진 금감원장 “외국인시간·장소 무관 원화 거래인프라 구축할 것”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxWk9EY0VLUlU0d0tzdTZPVXBkSS1Lc3ZKVkhMbVpWOWNRRlBaVC15el9OcnhuR2NnOVM5LXZsMkxQVVRnV19Hc1pLT3g0RU4zaHpvR3NR?oc=5",
+      "source": "헤럴드경제",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "상반기 외국인직접투자 신고 142.8억달러… 9.1%↑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYkZfN3c1UTVaYndadjFHdTFPYVgwZTJ2ZDRYQW96ajBJaG5TdkVuY0d3UGswT2ZkQXRpaHRtQnZBa3hTMTMyc0ZzelpjTl9BWUZmTnBEbDg1Q3k5aXZveEVTcmpYeWRsM0pkaNIBcEFVX3lxTE9kcWM0bHpYUWswNFIwR1hvZU9TQl9aQTJQb0czcDh0SWRjS25nTmtBVVZwLVJVcW5yM3E0Z1RpNDQtVmk0d3dMNnZVS01QQnhmOXFDSmFZNnNzVzB5eTc0YWNLRGxxWThud21US19USkQ?oc=5",
+      "source": "electimes.com",
+      "date": "2026-07-03"
     }
   ]
 }
