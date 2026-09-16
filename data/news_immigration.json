@@ -1,30 +1,12 @@
 {
-  "generated_at": "2026-09-15T23:26:08+00:00",
+  "generated_at": "2026-09-16T23:33:24+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "여야, ‘응급실 뺑뺑이 방지법’·외국인투자 촉진법 등 32개 법안 합의",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OWGRMek1HNlVrcUdJd3BxZEhwUi1sR2NzUk9VUW82c241YkJrU1Y2cjd6djR2VGo2ZjhDSlVqV1BBUWRKSDFmU25Qd1FnSkZSOFQ5cA?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "외국인 '한국 ETF 역직구' 열린다…증시 수급 새 통로 기대",
+      "title": "외국인 '한국 ETF 역직구' 열린다…증시 수급 새 통로 기대 - 이비엔(EBN)뉴스센터",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uWEFEMlZGOXkyWVVHMUVybUplcmEwMW1iYTZjRHhPeXVBYjNodWxOaDIzT2sxcVdKS2V6T2dtSlJZQmg1b09oZWx1SllZZ2h4NWQ3VVd6SWRMbDlBS1RVRWtPYjBTWWpy?oc=5",
       "source": "ebn.co.kr",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "해외 칼럼 트럼프發 관세 롤러코스터, 외국인 투자를 죽인다",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQThSdDlEeGRSQk9lTXdGbm5RUFoyczNtUDNvM0hLNmN1aC0wRTAteWhHcE43SEItdndueFpzbXVjYmR3bzZmYUdEZk4yUlhmOVZpZDNCUzY0aVdJaTVocDMwS3dETnZKNVdmeHV3Q3plZGRabXBtRGhrOGdtazA?oc=5",
-      "source": "economychosun.com",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "제26회 중국 국제 투자 무역 박람회에서 이탈리아 국가관 주목",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NkpHbTZGM2RLNGhvZDhJZVB6dG1FMnFiSGlSSVExYmJrTXR5QWd3ZHFBaEhCbXd4UnVRT3RuY0ZnU0xMTkhvNTJiX3g0QWliR2cyYURuT1g3WndGZFB1dw?oc=5",
-      "source": "뉴시스",
       "date": "2026-09-15"
     },
     {
@@ -34,27 +16,27 @@
       "date": "2026-09-07"
     },
     {
+      "title": "해외 칼럼 트럼프發 관세 롤러코스터, 외국인 투자를 죽인다",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQThSdDlEeGRSQk9lTXdGbm5RUFoyczNtUDNvM0hLNmN1aC0wRTAteWhHcE43SEItdndueFpzbXVjYmR3bzZmYUdEZk4yUlhmOVZpZDNCUzY0aVdJaTVocDMwS3dETnZKNVdmeHV3Q3plZGRabXBtRGhrOGdtazA?oc=5",
+      "source": "economychosun.com",
+      "date": "2026-09-11"
+    },
+    {
       "title": "인천시의회, AI 데이터센터 유치 위한 외국인직접투자 방안 논의",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RaXJGWGtTNm0ySFhSbWZJN3luZmNvcTBXNkJmMVdfNHVlZWJNbVM4dUVURmhIUktQNTJyOHRieVYyQTg3SEVmazRMcHFLOHE0OXROd3R1VXRmVG1vUXdNckZRaS05NnBKengxb1FkVTc?oc=5",
       "source": "인천투데이",
       "date": "2026-09-12"
     },
     {
-      "title": "외국인 투자를 통해 경제 발전의 기회를 열어줍니다.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2Jvc1dsalptTW9jUmQtdmxKbGk3VHB6SnRYYVlEbVdxbTZsUHdjWUhsMXB0d2hqb1UzaTRtRnF6MGI5bXNJV3o0dmFHR3F3X2NuUVBGVzhGa2c5S3dnbXh6dWJRWmMwUjJQLVNCWkZGVGMwczF3WFVwNm9CLVJRc0ZHVHE2RGNVcVhkb2Ffbw?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "[코스닥 외국인] 에스피지·SFA반도체 쓸어 담고 주성엔지니어링은 대거 매도",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Sa2pDVS1KSjV1TmpFb00xUHJaS0VjRVFuZThLREdIR2t0UngxM2xib1FLcUFGRHlYRXNlbElHcy1JM3hrN1prcV8zV1NjSDhCMnRuRm8xS3ZnRG1sY0dSUXkxZUhNU1dnd0lpUDNoVVJBNWPSAXdBVV95cUxNVFFMVzA3QUp6SlF1cmtNamJTa1ZWSEtpRTNBbVJoMWUzQjJKTl9GZE9Iak55R3RwYWYxQVVSSHdZWE1LdktWeUpMZHYtMHo3TE5hVVZXQ0hZWnBoUkkzdV8yYzZhSUJCeS1LTFZCaDlfNVNTaWhRNA?oc=5",
-      "source": "핀포인트뉴스",
+      "title": "제26회 중국 국제 투자 무역 박람회에서 이탈리아 국가관 주목",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NkpHbTZGM2RLNGhvZDhJZVB6dG1FMnFiSGlSSVExYmJrTXR5QWd3ZHFBaEhCbXd4UnVRT3RuY0ZnU0xMTkhvNTJiX3g0QWliR2cyYURuT1g3WndGZFB1dw?oc=5",
+      "source": "뉴시스",
       "date": "2026-09-15"
     },
     {
       "title": "외국인 주식투자 1326조원…1년만에 ‘2배’ 껑충",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zX0hMZlVncm5yVVFwTEplb2xhMmxSS3dHdDF2ZW5DNDVMSFdmTHAtODJuUE1Pb2tDTkZVSldPS2JOU1B2VjZMWVNlbTlSQVAwbHd3Tw?oc=5",
-      "source": "viva100.com",
+      "source": "브릿지경제",
       "date": "2026-09-01"
     },
     {
@@ -64,16 +46,34 @@
       "date": "2026-07-02"
     },
     {
+      "title": "외국인 투자를 통해 경제 발전의 기회를 열어줍니다.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2Jvc1dsalptTW9jUmQtdmxKbGk3VHB6SnRYYVlEbVdxbTZsUHdjWUhsMXB0d2hqb1UzaTRtRnF6MGI5bXNJV3o0dmFHR3F3X2NuUVBGVzhGa2c5S3dnbXh6dWJRWmMwUjJQLVNCWkZGVGMwczF3WFVwNm9CLVJRc0ZHVHE2RGNVcVhkb2Ffbw?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-09-10"
+    },
+    {
       "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
       "source": "법률신문",
       "date": "2026-07-30"
     },
     {
+      "title": "[코스닥 외국인] 에스피지·SFA반도체 쓸어 담고 주성엔지니어링은 대거 매도",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Sa2pDVS1KSjV1TmpFb00xUHJaS0VjRVFuZThLREdIR2t0UngxM2xib1FLcUFGRHlYRXNlbElHcy1JM3hrN1prcV8zV1NjSDhCMnRuRm8xS3ZnRG1sY0dSUXkxZUhNU1dnd0lpUDNoVVJBNWPSAXdBVV95cUxNVFFMVzA3QUp6SlF1cmtNamJTa1ZWSEtpRTNBbVJoMWUzQjJKTl9GZE9Iak55R3RwYWYxQVVSSHdZWE1LdktWeUpMZHYtMHo3TE5hVVZXQ0hZWnBoUkkzdV8yYzZhSUJCeS1LTFZCaDlfNVNTaWhRNA?oc=5",
+      "source": "핀포인트뉴스",
+      "date": "2026-09-15"
+    },
+    {
       "title": "외국인도 자국 은행서 원화계좌 개설…'원화 국제화 로드맵' 발표",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTkFmc1hJTk05ZzVLWVYxdElIY0NJWGhkMnAtei1IMnotdjdILU05c241Yk5pX1VQVFZvWW1DSEhFZERXV1dEUzZkOFAtaEtGMXlZWEExMlFTbWR6bXZpQmhmQm5mQW5WaUU2Wg?oc=5",
       "source": "대한민국 정책브리핑",
       "date": "2026-07-20"
+    },
+    {
+      "title": "상반기 외국인직접투자 신고 142.8억달러… 9.1%↑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYkZfN3c1UTVaYndadjFHdTFPYVgwZTJ2ZDRYQW96ajBJaG5TdkVuY0d3UGswT2ZkQXRpaHRtQnZBa3hTMTMyc0ZzelpjTl9BWUZmTnBEbDg1Q3k5aXZveEVTcmpYeWRsM0pkaNIBcEFVX3lxTE9kcWM0bHpYUWswNFIwR1hvZU9TQl9aQTJQb0czcDh0SWRjS25nTmtBVVZwLVJVcW5yM3E0Z1RpNDQtVmk0d3dMNnZVS01QQnhmOXFDSmFZNnNzVzB5eTc0YWNLRGxxWThud21US19USkQ?oc=5",
+      "source": "전기신문",
+      "date": "2026-07-03"
     }
   ]
 }
