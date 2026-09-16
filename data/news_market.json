@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-09-15T23:28:07+00:00",
+  "generated_at": "2026-09-16T23:35:34+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "[부자들의 투자노트] 금융 중개회사 \"연준 금리인상으로 '불 스티프닝' 일어날 것\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04TGFCZzVtN1pTdzVlX0lqOXZSSVE3VHU5clJscW9kTU5odTlwenFhU2ZhalU1SDBYcWVQY0ZJbXh6OXpVQWRoaHEzZDJ0R00?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "미 국채금리 고공행진…AI 투자·글로벌 금융시장 불안감 커져",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y2txekg2MDdzakZsMW1FZWZaTWRyUERCc0YxeEV4WmViSkxSSFg5dGx4cWhGV3RaR0pVZGdHTklxRlJNZ3lURUt3aEo1Tm9fRWxlUjFsbVpwVWJBNUZsSURUMFoyU2M?oc=5",
+      "source": "한겨레",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "트럼프 \"美금리 1% 이하로 서둘러 낮춰야\"…연준 금리인상 비판",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oMF8ya1FCWXNzVTNlbFJLWHVQSFNON3NHTS1RVE45UXZRVnk0Y2MxZXNmcHFSclJxSE9MaXIzTE5EZ1BnOG9DWTRRUENXX01ZdXZBZWp5RlZSX3F0VDI2eQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "“금리 높아도 환승” 대규모 인수금융 차환 잇따라 [시그널]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wejRqeVYwWVlFUnBYTzB4VmNQX0QtZngzUzVGUmhZekJwbkthUTJiZ2Zqd1lma3R2SHFJWXlfbjFNOXJ5QnFhTDMyd3JvM29sSHfSAVNBVV95cUxPVUpUMjB5VndKZERnNnMzNmdld3IxZEkwMWtiWDNmRWJVUS1uZjRDWk5HckplRFozMGpBbEtsT3AxeGIxaW1vX2lkcDlNYUxrOXBFNA?oc=5",
+      "source": "서울경제",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "뉴욕증시, 연준 금리 인상에 일제히 하락…다우 1.21%↓",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvRlpONlU4ZWhHSmVNUTQ3eTNSWFJCMGFxX2k2ekp3MUJLb1NxOEdMRTByS3J4UHpXTzFxdjNQN1JlTFBFd0p4eWNLRkN6QnlVVnEzSnMyVlFoNjhRM3Bja2k5Z2lpUFEtelVn0gFuQVVfeXFMTktTcG1NNWhUNnlQTHVOanVtbW1QQWZLTjVqeFdRU3BfSVY4b3l5QnAzUlNqQ0tUSHlRWVo3Um5rWkRwR21TRGgtYUtqdEtNNWFkMWxaNDRtWUVIb2s3dFY4NmVxUTl2LXBaZkxHdEE?oc=5",
+      "source": "뉴시안",
+      "date": "2026-09-16"
+    },
     {
       "title": "'글로벌 채권 기준점' 미 국채 10년물 금리, 한때 5.04%...2007년 금융 위기 이후 최고치",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZazNueTVadlBUSFd4aVBDQzl0NG5kMGFPckp5WlBCT3lPeVZseDRGeUUwelNfZW9TLW9BN09jUS1TYzB3QWZqS2tmREM4d2VQWTRoQ0lyNWl4THdjTVd6X2tVVnJWX2hsdzdxUlZETQ?oc=5",
@@ -10,21 +40,27 @@
       "date": "2026-09-15"
     },
     {
-      "title": "[뉴욕증시]美 장기채 금리, 금융위기 이후 최고…일제히 하락",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOei1ERjlwdURVRnhQSGVLdUxrckRVbkV5WXBLYjRzcFljbm9PT092S1JEZnJiLUtjOFNGTU1kRHR1QW9DaVZXcTFsa1dJS2hoc3RnMGtvU3VKU1lnY2QzQmVKYWJXTjFRa3AtRGtFR0RYdWxON2I4QWJ2VnNZMXpqT3pn?oc=5",
-      "source": "아시아경제",
-      "date": "2026-09-15"
+      "title": "[마켓펄스] 코스피 반등했지만...외인 6거래일 동안 12조 던졌다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YX016ZC1LbmR2YmJud0Q2VnJqaEduUFZPWGtvTVozMlR3Y0dXdHdBUS1qdDZKV2FOSlJPck4xb2Rfa3g2UVp6TXVfcFpoc2o5aWxGT2g4VEhuc09iZWhDbkFGYm96c0tUakJr0gFvQVVfeXFMTnlWT3AxSnRNcWVnOXk3T0lQYS1ab2hRYU9TZmZ6LXRQUTNlbi1DQnZwRzNXNHY4NkVvT0FkcEl4MGZJbjdjTTR2eFhURVNDMDhGcWw2Y3NaUEVidV9NYkZjQlhUVGgtalFSeTBqcHVr?oc=5",
+      "source": "투데이신문",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "금리 뛰자 다시 연체…NPL 당분간 더 쌓인다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6S2lVdkVCSlVDSURCb1FWM3ozbFRzYjVRWEtkVi0yOGtNc3Jacno5NDNTVVd2clZ2MnYyVVNfMklCVEt2b0FCRlZFMDZDQVNtalRJMG9tMmpfZw?oc=5",
+      "source": "한국경제",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "美국채금리 19년 만에 5% 돌파…세계 금융시장 ‘고금리 충격’ 커지나",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzdnRZSjhNX1FjTjZoaHotQnRBdEN1UDREbEY5SzBvV3hhWTBtRVJveEVvZHktNUNxYVlmRWc2YmtOaVF1T2pCeWp5RzBtcHNsUnF5TVhybzBpNDhBTFpGMVl4MS1rMkI2YnltUVVn?oc=5",
+      "source": "asiatoday.co.kr",
+      "date": "2026-09-16"
     },
     {
       "title": "FOMC 앞두고 美10년물 한때 5.04%…2007년 금융위기 이후 최고",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50emZ6MG1mcVRJVGpkVWREZDRpaDRFdjVxUHZUOFJndXhDbW5YSlcwcFhibWFmdnpjOWhma1AxZjNjZ2Rhc0h1Q0FFR2RORlczNnNGMlJEYkc4MVU?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "[美 금리 쇼크] 車 수요위축 우려, 항공·해운 금융비용 '헉'...반도체도 투자비 증가",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BN0hXWDhoTUw0N2tiY0JiWVBiMERJS2VTRGxqV29UYmJTdVgxQnphOHAzc1k4aXl3Q0dYakUtVkFGWHNaVkJwTjl5WlpiY2M?oc=5",
-      "source": "v.daum.net",
+      "source": "yna.co.kr",
       "date": "2026-09-15"
     },
     {
@@ -34,46 +70,10 @@
       "date": "2026-09-15"
     },
     {
-      "title": "美 10년물 국채금리 장중 5% 돌파… 커지는 글로벌 금융 불안",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmVZdzU1UkdXYUtPZ09vS0czMXRvOU96LXJMbktfQlR1LUxidW94UWRjWW5BVG1MNy11UWE3UHU0YWNHd2poYW00WTNMTUZJZC14SGx2Q3Boa3M2UkFTQ1pDaW5FT1dDYUIxV2pLRFptR1BxV3M2STlXQ2tzNl9LbWNCWUJncE5E?oc=5",
-      "source": "조선일보",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "[사설] 미 국채 금리 5% 돌파, 금융시장 충격 대비해야",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SU1VfRm5TWWhSelMwaF9SM0RweXRWa2NQNkFFYkQyUWZ0REdnZ2Y5TEZaczA2OG1FX1ZIdWJleldoVEZneUxOb1ZvVXE4YnNDOGZVb0tZaG5IZVpuLTNrWE9yajByQ0I5X3c?oc=5",
-      "source": "한겨레",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "코스피 하락 마감, 6,627.26P (-0.85%↓) 코스피 운송장비·부품, 코스피 보험 등 하락 주도",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByNnR0MnZ5cl8zcXNHTV9mWHp0ajRjSjJQdUpaSkN3M1d0MVpjOFRQSEhFNzg3SlhYemNJejdQTFJjX0FZTmZuVEdyOGJxY1dzMVE?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "美 증시 이틀째 하락…‘금리 5%·유가 100달러’ 이중 압박",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00X1pDaGF2WWl0TDQweGNNVko0TEFoTms5SG45R2lhZmp6X3hNMUQ0SXFoeG1Za1VVbkNiRDZ1V1NIMTVrUE5aUmFtdzc5WFc3YW5aN1JzVUJ2ckZUOXpOcXpIbGdYajdCMWVJ0gFuQVVfeXFMUC1xTkVpYlB0RjN0VXpXajVrU2NhcFBJM2F6M2ZFT2V4VFhOTjZLSjhyWjNFVHVSSk9DSk1UX1N2cGFVMEk2ZkxWSERhTmUxVkhGUTdyd0NxcVpZZmp3endzTm5sblVjdGF3MGtjRVE?oc=5",
-      "source": "뉴시안",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "금리 오르자 드러난 캐피탈 민낯…PF·투자금융 비중 따라 신용등급 갈린다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TQVEtNmt5UlVTLUlNZ0hyQVZSOTRkVFRjbWdJSnpUU1dfMWZ3c0d2RkFCR1RKc0FLaFdyRzE5UFFuZmZaeHl1QkkwY0dWZmVCaDRmd3BlckFXUW4xX19SOEp4blFqa3A2?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "[마켓펄스] 외국인 대규모 매도에 환율 뛰고 증시 하락",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JNjh1eTZEdlNaaUVmRjN6WEJjdm42SjJ5QkxQbmluN3k1TVFpWXdVU3Q2UEZpVUxrZVRseXVCTnBOdXZEODFnR1lOdmc1cHZWRXh5VEUwUkxHSUdWdXlJTUJJRjFhUTRTWF9n0gFvQVVfeXFMTkNrdHlqRHFJbWVzNlRScGV1eURXbWJsZGJtWTBWbnJQOExoUEVfQ0JSeTJUSkdtMXBCTXBMUFRvaFBhdWNLM1lRM1VYV2RRUTBwcDNMcVhHcVI0MzZIeERXa25OZGlCODVyeXdKb05Z?oc=5",
-      "source": "투데이신문",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "美 10년물 국채금리 5.01%… 금융위기 직전 수준 급등",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jbDdjeHZ3eW1kZUpZRVVKLXZ2QjhKZ0V3aFNOUDVrQkd0Sk9ZeWNZMVRYZGpxbDBJRkREWlVESnBiZndkT3ZJMXBYZk1UYjVz?oc=5",
-      "source": "문화일보",
-      "date": "2026-09-15"
+      "title": "코스피, 장중 6630선 강보합 반등",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1seV9xVDBLNDNYc2tZeTJVazdUaGlqTWlBZFMwVUNlZmxRbks2ZnZEYjRhTjBpR0ppZ3ZvWG1QV0dncDdDSU9wRG1WWjVCbS1QRkl1dnZFTG5NYWp0TVpHMUJUYUNXNjVaWnlfeFE5ZFdLVTDSAXdBVV95cUxNZmlvWUdXUVE4RjY2UW1KcE1DZXlVM3YwbVlRZmdtbXN2V2RYSEdRa3dKSzJ5dkFuVFVXdDhJVHJGY25JYV9tcFBpNlZjdkR6dzRyb0ZTb0RiZmVhU0p2N1lLbXJGNEtuRl9EOVpWS2RBNlVqX3o4WQ?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-09-16"
     }
   ]
 }
