@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-09-17T23:27:25+00:00",
+  "generated_at": "2026-09-18T23:08:14+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "미 금리 상승에 환율 13.6원 ↑...코스피 약보합 마감",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkVU9jSEJyWF9xdmctQUZhdlRNZ0Z3bW1Ya0I0OVFKNEdIQndKME42QllIdmktR1VCVmJpMnZwU1ZYdFdBRmtWcnU0M2ZrcWpnLXloeWplQXRVTUVNN1E?oc=5",
+      "title": "일본은행, 3개월만에 다시 금리인상…1.25%로 31년만에 최고(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EU0hxcWxmd2dvUjZBR0RlOXo1M3Zja3NHU19EbTBkb1hmY3BHRGpaWDBrUDZrUk0xVnBReXBGQ1dNQkFWLWIzd29kWlhtbHE4WWdWQVVxWU1QM0l5RVZGatIBYEFVX3lxTE9EU0hxcWxmd2dvUjZBR0RlOXo1M3Zja3NHU19EbTBkb1hmY3BHRGpaWDBrUDZrUk0xVnBReXBGQ1dNQkFWLWIzd29kWlhtbHE4WWdWQVVxWU1QM0l5RVZGag?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "“환율 하락이 배당으로?”...4대금융 주주들 웃을 이유 생겼다 [머니+]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42WHZfem9tSlI5V29zSUI1dzNTeGJGdkVsUnRjSWp4UU43bERGU3RsZWRvck56bm5sWF9JbDhNR1RqUDNCZE5BUWxUX0tZdVlKZXEyVVoycWNYNVk?oc=5",
+      "source": "ekn.kr",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "미 금리 인상에 환율 상승세...금융당국 \"영향 제한적\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxLVpQaVZSbTdiNXdScVJiby11TUt3N3RrZ2Y3VEcydDhzb3lQN01rY3JpalJZOUV0dHFJUXNuazNJMEZZWEpQcWM0Ty1SWkRCVmpoQWZES0pHOVZ2VWc?oc=5",
       "source": "YTN",
       "date": "2026-09-17"
+    },
+    {
+      "title": "日 기준금리 31년 만에 1.25%…금융완화 종료 후 최단기간 인상",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyUnZZaDBMNm85NnFTMHVVZUFQWVloY1dYbldTUEZCZEZRWllnZWc5N3gyUTRvUi1uYmZGcl9WQWZCS2xTazlEOHBoYzVyb3M?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "[마켓펄스] “금리·유가 안정에 투심 회복”...코스피 2% 강세",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sSk9HT0JiakpNeVRfLVppam80aldkR0REdlBQY2wxdnRqVHhGWUg2R3U3bnZPSlNUckp1QkVzdG1sY2JYeThXci1DUXdRYTNvTlJwUkpKd3pSMDIxbE16dm90bFVFdVlEZkNr0gFvQVVfeXFMTTJQYmhDTGI0MkozeDNYclZBcVhyTGpUeWVMTmFZTXlOT3RSQnhOZWZLOHR2ZUVoMXIzWjdSb0FsTFZna3M5LXBzQmtrc211NUNmbW1DWkZ5Wkt3bmg2RmFjVzlETFRQcXgwczhIeU9v?oc=5",
+      "source": "투데이신문",
+      "date": "2026-09-18"
     },
     {
       "title": "확대 거시경제금융회의 개최… 美 금리 인상 대응방향 논의",
@@ -16,16 +40,16 @@
       "date": "2026-09-17"
     },
     {
-      "title": "금감원, 美 금리 인상에 시장점검…\"변동성 확대 철저히 대비\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91TVlKRjU5Mm5jQXVqdHZ0VUtYdVdmTkV2RHlYR3dGS3RHVldpd1FoUXZxeU95ZXpwcXV4REtkQllqakt1b0wwLVRJQmJTeVk?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-17"
+      "title": "코스피, 금리·유가 부담 덜자 2.66%↑…외국인 8거래일 만에 ‘사자’",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzU1NzOFFma25fY1htTzZHSHFsUkJBMWZ2M2VSay0xNEQ5elFwem5acFVENFhfRVVaY0RQamppYzJsRTJ4UV9hS2JmN3ZNVkl0aTczVUZxUGh0MzV5cVFXeGZYNXVUQ3V3UWfSAW5BVV95cUxQUkFhTno2NDV6U2x3RVN6VDN6a3B6NEZjMExGUmFzMTAtQ3BsWEFHV2hjUF95VlFvWGRqUXRoQ2tOUkFHNjFJaVNZVTRCQjRIZzlGZG1wekw0dmRVSUtfRzJqWlNvUVlIYTVVNFhadw?oc=5",
+      "source": "뉴시안",
+      "date": "2026-09-18"
     },
     {
-      "title": "경제·금융당국 \"미 금리 인상, 시장 영향 제한적‥국채시장 쏠림 과도하면 조치\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LNWpmYnhxRjVta0NRSTc0WUUwOXU3a0V2Nmg0WmZQQm0tenI3bkVqbV96NUI4Vm9rOUQzblRURlh6YTJ0NV9iTlZ1RVU5Yk1OSFBJaGY3NjFicHl0S19iVTEzOTlFN01ENklWOUZCU3V2M2820gF0QVVfeXFMT0s1amZieHFGNW1rQ1FJNzRZRTA5dTdrRXY2aDRaZlBCbS16cjduRWptX3o1QjhWb2s5RDNuVFRGWHphMnQ1X2JOVnVFVTliTU5IUEloZjc2MWJweXRLX2JVMTM5OUU3TUQ2SVY5RkJTdXYzbzY?oc=5",
-      "source": "MBC 뉴스",
-      "date": "2026-09-17"
+      "title": "코스피, 반도체 랠리에 6800선 가뿐히 돌파",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SaWdvUlYteWExWWNjckY1ZzZUODhoZFg0N21wUGNvNk9rTzNhZ0JtbmVDQVhLZTc1YmhrX2JQY2stb1dNdjBfNGVHM2tLakZDdzNObXlnUG1BZDJQUTAyNkozSkVMREp6TlAtd3JMclNtaGPSAXdBVV95cUxPRXZ3TzF2OFB3R01Ld2JPVkg2M2NYN1ZIZy01bkRBSXBUekpmcThmYktuRkJrTGpXNURDLXRMSWhIX2Y1U1ZZZ2ZSRzYtNkpPdm9pZ2M4RjBTcUlkOEJVSFlEcFRPcEhuSW1ub283bXVUTjZrTlItSQ?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-09-18"
     },
     {
       "title": "경제·금융 수장들 “미 금리 인상 영향 제한적…쏠림 땐 안정조치”",
@@ -34,44 +58,20 @@
       "date": "2026-09-17"
     },
     {
-      "title": "이찬진 \"美 금리 인상으로 불확실성↑…기업·가계부담 선제 대응\"",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xWWkzemQ0NjMwMzlKak0zZ2RJT3FpV2lpYnluQk8yR3BVVFFhMms0RldhUW9EMkVLbU9BNFpxSkVKeHpGbFI0VzgtMXd4cTdMbWlIcEhobUJncUdRWkxveDNSZHFOY3FFTXFNaDZ6SG9QUQ?oc=5",
-      "source": "KB Think",
+      "title": "우에다 BOJ 총재 \"日, 금리 올렸지만 금융환경 여전히 양호\"",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PUXVYMzBrMm5uTVBqUmNQY0pmWUJ5QWRXS0dMeXhib3AtcF9zaWZfUDc0Rk44cEcxSTlMRDR3cy00NzdsenhzTEw3YVpoQ3Nh?oc=5",
+      "source": "블루밍비트",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "경제·금융당국 \"미 금리 인상, 시장 영향 제한적‥국채시장 쏠림 과도하면 조치\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LNWpmYnhxRjVta0NRSTc0WUUwOXU3a0V2Nmg0WmZQQm0tenI3bkVqbV96NUI4Vm9rOUQzblRURlh6YTJ0NV9iTlZ1RVU5Yk1OSFBJaGY3NjFicHl0S19iVTEzOTlFN01ENklWOUZCU3V2M2820gF0QVVfeXFMT0s1amZieHFGNW1rQ1FJNzRZRTA5dTdrRXY2aDRaZlBCbS16cjduRWptX3o1QjhWb2s5RDNuVFRGWHphMnQ1X2JOVnVFVTliTU5IUEloZjc2MWJweXRLX2JVMTM5OUU3TUQ2SVY5RkJTdXYzbzY?oc=5",
+      "source": "MBC 뉴스",
       "date": "2026-09-17"
     },
     {
-      "title": "금감원, 美 금리 인상에 취약차주 금융 부담 완화안 검토",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2bV9uTXItVTAxSU9fUEdBblVwcm1ZLUtKWXJLa1hjZWNlaVBjOFgxM0VoZXh2ZU5hMVVabnFaUm5GMC1XSTBuM0F2QlJycGVKVVBHekdvb3htUkw5?oc=5",
-      "source": "newspim.com",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "금감원, 금융소비자보호법 보완…금리·빚투 리스크 관리 강화",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Id203bGhLMWU2WEJJTllmdkNJaE9qZVJvR1lTTm9GSkJaUmVxXzZRc3hJYUppMjltUjVUUm44NjhCUXNUSnZtalU3TGNwaDltX281M1NMNTR6RHVJd0licDFrWGdSY21zRzFn?oc=5",
-      "source": "BBS불교방송",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "코스피, 美 금리 인상에도 낙폭 제한…6715선 마감",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HUTRvTHJoS0xXTWJlallQall1NVFLcXk0Q0MwZ3FKWnQwTGlxeWIzd3JXZDFRUHlzQVdvMmtHMV8wWTdnNllucDN0MXMxMFd3RmNWZGI3aXFjaGh5b1h3eFRMSmFYN0FLZXfSAW5BVV95cUxPWm10NzRySUxrcGc5cU1CQTB2Z3pDS3Z4bEpwTW5TYjBlZTRFd19IUnFaTUVjdXJtUjQ2S0JMLTVzcDlieXE3Tk01ZVpQOVFMYWIwdG4teERvbDRwMVZSa1hCWVlKbFJBRjFUalZpdw?oc=5",
-      "source": "뉴시안",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "이찬진 “美 금리 인상 파급효과 점검…변동성 철저 대비”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OV1FmMTlxTUlZNkxSazBoajdCbUh2clo5TnY0RkdSbGZiZFlZUU9DYnpYdllKa1NzY1IyakVEZ1FDYVNhcEdUN3NYNWhJM19lU1JNMjdtT194aGlTempWRVVPbFNuSnZieUE?oc=5",
-      "source": "금융소비자뉴스",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "[마켓펄스] “외인 7거래일 연속 14조 던졌다”...코스피 하락 마감",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10clRJRFBtaUdQVHpYUXZGaGthbTE0b2d4SjBVZjlGenNfT3F3RlR3TDQtdWhyLXVla1UybEZDRnJ5V3UyaXg2YkJCbXNKcE1WNmQxdjgxMXZ5dW1qMlhrbVJDVl9HeDdYaXlv0gFvQVVfeXFMTjN4ZzdxcW9NeWc5YUZDQ3I4X0pnSDlsY21YZWhWNjdkNFFBcGw5OUNLMEl4MTVKclZOT0xVazdLdE81d0o3Sk1nSzYydTgwelB1cHhDd3lQTEZzdzZja2JUX2VMQnE1bmo1M0VNRTh3?oc=5",
-      "source": "투데이신문",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "미 금리 인상에 환율 상승세...금융당국 \"영향 제한적\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxLVpQaVZSbTdiNXdScVJiby11TUt3N3RrZ2Y3VEcydDhzb3lQN01rY3JpalJZOUV0dHFJUXNuazNJMEZZWEpQcWM0Ty1SWkRCVmpoQWZES0pHOVZ2VWc?oc=5",
+      "title": "미 금리 상승에 환율 13.6원 ↑...코스피 약보합 마감",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkVU9jSEJyWF9xdmctQUZhdlRNZ0Z3bW1Ya0I0OVFKNEdIQndKME42QllIdmktR1VCVmJpMnZwU1ZYdFdBRmtWcnU0M2ZrcWpnLXloeWplQXRVTUVNN1E?oc=5",
       "source": "YTN",
       "date": "2026-09-17"
     }
