@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-09-17T23:24:22+00:00",
+  "generated_at": "2026-09-18T23:03:31+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "외국인 8월 국내주식 3440억원 '순매수'…7개월 연속 매도세 후 '반전'",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MeWE3TDR3MDQzOU9nZkdoc3JmN3Q2OUIzQVhObEZkRGxOcTZzU21RRmtqSVI3OWRRV1JobjlWMHFiUGt5NVp0OXl2MFhYTWFFVVlPcWlNOEExTFhZak5memc5b9IBaEFVX3lxTE1tNUtZSDl3UHBGSnpRVElVZXRodjNLaDVzLWtPS2tYVkVaUzdxRjRmcUJLdGR2QjhBY2FFMXMzby11ZC1BNkRMS2NjN29lWkZ2ZVVKTkRzZDNRdUpOZ01SUUVpQ0tyQmVn?oc=5",
-      "source": "뉴스1",
-      "date": "2026-09-17"
+      "title": "김종철 인천경제청장…“외국인투자로 수도권 규제 한계 넘겠다”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84ZW1PMjVSQTNkS0JNTG10R1d4YlpJS1o3elgzR3o4SjRHbEE5VXM3ZnQyem1qZGY4OHRUVWlqN1J6ZUpxa3c?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "김종철 신임 인천경제청장 “수도권 규제, 외국인 투자로 돌파…바이오·반도체 키운다”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oaG9aMm9IdEtyRkpLMERrTmxaX2tQSFVCdE5SQzBhZ0lVZWQ0TGlwcnljYzBZeDRxXzlpR1o5R2ljNVllUjB0QVp6Tmc0TDJRYmgwb2w0N3gtZW81UWN3OTVR?oc=5",
+      "source": "경기신문",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "김종철 신임 인천경제청장 “바이오·반도체 질적 성장…외국인 투자 유치 집중”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Sk9vbjN2NEFJeGxsM3FYcllVT0FlWEotQ1l5bUdhdEs0dUtmeVRVdjVtREI5S0tDQk1nNWtjck54MXpadFhwNjRVTk1mWmF4ZTRBMW9rUHhVM2M?oc=5",
+      "source": "경기일보",
+      "date": "2026-09-18"
     },
     {
       "title": "산업부, 국내외 120개사 참여 소부장 국제투자 콘퍼런스",
@@ -22,21 +34,15 @@
       "date": "2026-09-15"
     },
     {
-      "title": "여야, ‘응급실 뺑뺑이 방지법’·외국인투자 촉진법 등 32개 법안 합의",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZlBZQU8ycHRYd0Z0VTNsV1NzRlc3TXQ4NUFEUEJsbDN5Tno5cUE0dHZJSnI5NUFuRU9lX21aWXM1dkhqcWZMeXFmbDNXUUE?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-15"
+      "title": "베트남, 외국인 단독주택 소유 차단 추진 나섰다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91aW1MemlOa0tlX3pRY0dnODlRRGRCMHJxZlB6MXNuU3RFTlZJZGNrVkJIajd3c2FiS1lqWDByX3BkTlpQejNaWVVLR2dPUHVGeHVLUEhrQ2JSV2xEUzVtWm9ncTZLRURVUkFlbQ?oc=5",
+      "source": "재외동포신문",
+      "date": "2026-09-18"
     },
     {
-      "title": "제26회 중국 국제 투자 무역 박람회에서 이탈리아 국가관 주목",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QbExSNDFONW5wcXJ1RWo4X01sbGIwekdFcS1uQTdLRWlLQkxPUjdKRFRRdDNiN0JKOUtMbmJ1aDJmMDF2Y0c1cUJwSDBBSm1jeG81U25B?oc=5",
-      "source": "지디넷코리아",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "글로벌 소부장 120여개사 한자리에…韓 투자·협력 기회 모색",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vOEt0TGFfa2NiZ1hoQmVnTUFyYnlxZEh1MnEwOWMyY25PdE9pY1VmeUJIWjZvLWdvTmxMdFRQbzJ5WjFfUlZ2NmNvNmw3bEhpOEVhdHFIWFhPSV9lVXY2NdIBeEFVX3lxTE53SnVOUkZkaTlGdUVndFpCbVh5ZTRiRTQzTWFoeENnUXNHZUR1OTMtSU1ZeldyOUs1MEhYTlNsbndIT3hCeGhrU0dSS29Udm85QzR0SVR3YU81ZlgxRnZqWWhHbEkwMWZVNFFYSUk0aGtfWWU4TmNiWQ?oc=5",
-      "source": "newsis.com",
+      "title": "외국인 8월 국내주식 3440억원 '순매수'…7개월 연속 매도세 후 '반전'",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MeWE3TDR3MDQzOU9nZkdoc3JmN3Q2OUIzQVhObEZkRGxOcTZzU21RRmtqSVI3OWRRV1JobjlWMHFiUGt5NVp0OXl2MFhYTWFFVVlPcWlNOEExTFhZak5memc5b9IBaEFVX3lxTE1tNUtZSDl3UHBGSnpRVElVZXRodjNLaDVzLWtPS2tYVkVaUzdxRjRmcUJLdGR2QjhBY2FFMXMzby11ZC1BNkRMS2NjN29lWkZ2ZVVKTkRzZDNRdUpOZ01SUUVpQ0tyQmVn?oc=5",
+      "source": "뉴스1",
       "date": "2026-09-17"
     },
     {
@@ -46,22 +52,16 @@
       "date": "2026-09-07"
     },
     {
-      "title": "인천시의회, AI 데이터센터 유치 위한 외국인직접투자 방안 논의",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RaXJGWGtTNm0ySFhSbWZJN3luZmNvcTBXNkJmMVdfNHVlZWJNbVM4dUVURmhIUktQNTJyOHRieVYyQTg3SEVmazRMcHFLOHE0OXROd3R1VXRmVG1vUXdNckZRaS05NnBKengxb1FkVTc?oc=5",
-      "source": "incheontoday.com",
-      "date": "2026-09-12"
+      "title": "김종철 신임 인천경제청장 \"외투유치·지역산업 집중\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fU3Bjakt4MlVFTGc4Y1hoR0RZMFZKbHhwcHYxVExvYllOMGUydlp6Szdmejlrdk5wbGhoTGZBdGJQeUg3T3JnY29rNGdTN1pEd0JSelI3WTgxd1BzS1hTZNIBeEFVX3lxTE9SUm1OSTVoc0NGNHYtQnRmRXluU2ZPcFJOM0VHZDZjZ1BzQ3Ftcmc0X1U1MTE3ai1tdDQ5UW56YThnalVCWUpmczU4a3ZRdFpob29ob3FPRlkzN0tzVzZyZFFMMUdfclVTN1RRU0twekk2Y293V01Vcg?oc=5",
+      "source": "뉴시스",
+      "date": "2026-09-18"
     },
     {
       "title": "외국인 주식투자 1326조원…1년만에 ‘2배’ 껑충",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zX0hMZlVncm5yVVFwTEplb2xhMmxSS3dHdDF2ZW5DNDVMSFdmTHAtODJuUE1Pb2tDTkZVSldPS2JOU1B2VjZMWVNlbTlSQVAwbHd3Tw?oc=5",
-      "source": "viva100.com",
+      "source": "브릿지경제",
       "date": "2026-09-01"
-    },
-    {
-      "title": "해외 칼럼 트럼프發 관세 롤러코스터, 외국인 투자를 죽인다",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQThSdDlEeGRSQk9lTXdGbm5RUFoyczNtUDNvM0hLNmN1aC0wRTAteWhHcE43SEItdndueFpzbXVjYmR3bzZmYUdEZk4yUlhmOVZpZDNCUzY0aVdJaTVocDMwS3dETnZKNVdmeHV3Q3plZGRabXBtRGhrOGdtazA?oc=5",
-      "source": "economychosun.com",
-      "date": "2026-09-11"
     },
     {
       "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
@@ -70,10 +70,10 @@
       "date": "2026-07-02"
     },
     {
-      "title": "닥락성은 양질의 외국인 투자를 통해 새로운 발전 동력을 창출하고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGpndl81MVppQ3dVbjBHTmtkcnpjU1AzX0ZqMDBRMlA0X0NDOFZYR1hOak1va3ZiaWdMZExxRWhjRTdNY21ZOFlTc3FidC1EU3p3QzhVbG9ualZGMElEZm50Rld3MDMtdmNsWWcxQnpyWnRILS12NVRlN3VfdFFEdGlXRlVDU3QzTnRPTEkxOUZCN2RxNkQzRlNTOUJQMnc4bHNXZVA2UmV3Zw?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-09-14"
+      "title": "인천시의회, AI 데이터센터 유치 위한 외국인직접투자 방안 논의",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RaXJGWGtTNm0ySFhSbWZJN3luZmNvcTBXNkJmMVdfNHVlZWJNbVM4dUVURmhIUktQNTJyOHRieVYyQTg3SEVmazRMcHFLOHE0OXROd3R1VXRmVG1vUXdNckZRaS05NnBKengxb1FkVTc?oc=5",
+      "source": "incheontoday.com",
+      "date": "2026-09-12"
     }
   ]
 }
