@@ -1,31 +1,61 @@
 {
-  "generated_at": "2026-09-20T23:05:17+00:00",
+  "generated_at": "2026-09-21T23:57:56+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "\"근저당 날짜까지 봐요\"…초우량 중기 잡으려 은행들 금리전쟁 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xVVdzYXVFUHZ4N05tLWk1aDlYX2pWZEszNVFZdUZJbHlwbU5ncVVGdVl3dFpXam9hWHlNQW1DY1R5Q1pMVkh6WTB2b2VFaGhTTU5ZS1hfbEhCVTNneW5QTDVwbTM3VTZUaHBZ0gFwQVVfeXFMTkhUM1UyWnZCdF8zbmJ6bm1tZ21hTkpiX0JxbE9odmtlY2FYTnlnM0l5SllvZS1USGczMzM3b3hCaU15RnVOQnphREVFWk1GLS1RY19zUFhfTjhxZ1NyWWVSa2oyeXhHSENwYkU5QWtWdw?oc=5",
+      "title": "\"금융시장, 단단히 대비해야\"…무서운 금리 전망 등장 [지금이뉴스]",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ejlraFNIODEyb3BhVUVwUWkxVnhhWVJyQnJCRkxYcW5FNkVyNEdWU2lFb0pWdGM4UGI1eDBUMDJadGZ4eWt2RERQQzdFeG5SQ0JvRlJpU1lDNlIwTlNV?oc=5",
+      "source": "YTN",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "[금융 한 입] 추석 전후 국내 증시, 어디에 주목해야 하나",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02Ykx3eWtjQTlWWDBzZmE4NVBEVEszbTBvakRBSTRQOUctOXlkNlV3QTZmUHppQ2wzMUt1U3BpbFg5NVVtT3hOYWc1ZDBqcDRPOU5aVjRMU0pmN1J5aTMwUlJKaDdFVFB2SmVF?oc=5",
+      "source": "BBS불교방송",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "\"회사채보다 싸게 빌리자\" 기업 노크에…\"금리 깎아줄게\" 은행 문 활짝 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHQmN0cXUyVWFtajh5bHlVWFMxTmtvR2hpZFlMRUtrZkFfQzk3VHd3MFhoNG41d0lzZFk0cVc0UXJKNXUwZmg4Wl8tTWhTM3A4Nlc0SnZ1Y3NUSkFueDhxa0EyY2JsRVV4TXhV0gFwQVVfeXFMTUp3YmFiNmxSbzNyQjVuRHFFNnptQzBmaGpGYUtOOUNvZzZWVzRGZXVwTGx2X25WT2JFbXFDb2RpYk1udFhqeTVCZ05FSHRlUl9URFB0Z0dzWVhmVUtpaDNmOHNFSmw2eTVONFN0OE9QaQ?oc=5",
       "source": "머니투데이",
-      "date": "2026-09-20"
+      "date": "2026-09-21"
     },
     {
       "title": "금융硏 \"은행권, 금리 상승기에 철저한 리스크 관리·수익 개선 나서야\"",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrWVJUT1RFMzNCYW5FdWMyamF5YWZoZVBDQnlOTjQ0Ry1yOWNla05rbmZDemRwT3laVDJkRDNjRlNmLTRfd1VDcC02T2Z5YzB5M1lqSWNCdmJheTNLVk9lZDdLRVppM0lsWGo2TzBXZEs?oc=5",
-      "source": "news.einfomax.co.kr",
+      "source": "연합인포맥스",
       "date": "2026-09-20"
     },
     {
-      "title": "호황 속 다음 스텝 고민…증권사 기업금융 격돌",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KdmwwLVNOZzk3Y2s2RTYwN2ZzOENkaXNtM1hRSzhLZWF5WjJkRWgtSWF1SHVSQ1NLWG84aFpIZW5zN3JhRUpab1hjd3R0T1Rmb0k2RDRJT214azNjb18zUEp6NElpU3BDLXdzeWx0MA?oc=5",
-      "source": "뉴스톱",
-      "date": "2026-09-20"
+      "title": "\"美 금리·유가 변수에\"...추석 연휴 이후 국내 금융시장 ‘갭 출발’ 주의보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CUF9LcURveWotVUhhZ19HWWlVRmg2ZUFPQkZRcUU2T2syMGU5MUQ1dUpfTlRaUW9tQlpVeWlvN3MweEFBRF9iR2tNRjlNcllzU1RtZWxoaG1HMDgzSVFCYm0zY29VYms?oc=5",
+      "source": "청년일보",
+      "date": "2026-09-21"
     },
     {
-      "title": "칠천피 다시 시험대…반도체 훈풍 vs 美 금리 5%",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwV0h0WDhRcXlVMXBLODd2MHRzZWo2UGZmc3lETWdvZmxqS2sxRktwUXNlc3hKWVNFZS1rMjBwYXJxczdyNFpvaDBDQjdfSFZBMzBEV21FT2YzMUl2X3FKQW84V0hxclVS?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-09-20"
+      "title": "뉴욕증시, AI주 강세에 일제히 상승…나스닥 2.3%↑ 사상 최고치",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UDVfMnBjN2xKQmRlamQtaTBSWUxTa1RXbDNXQUFGUjNsNHJfcmN1WjVkdHd1R3k2WXZzWDgwNnRGVTJwRHFCNC1DaVVCYnRSTDVSdjZuQnNNRjlnMXVnd1RNQzJTQVBINUHSAW5BVV95cUxOU2hZeU9pbXpSUGNBaU5IQmlGd09LWmRUQUhhU0txc3g3R0dadUxoa1JMeE1yV2NRLXNSWUNOOV84ZC1Sb0YwLUJvR0VJZzJCc044WXV5VFc1bjVwVDh2eXkzcG42U3B5YXpqNWZaQQ?oc=5",
+      "source": "newsian.co.kr",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "신보·IBK기업은행, 초기 스타트업 금융지원…최대 2억 보증·금리 우대",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hT0xYRnVtUWhsYm9Bd05tblc1Zk0zTXFWNFQwbXdMcGZwb1RyZmpUTVB0QU1LT0xiTTdVWVJCajc3WUhWQzJldlR0LXFwcGUxa3dpUDVhdE95RWU3T2t6N3MzXzI0SUx6?oc=5",
+      "source": "팍스경제TV",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "코스피, 7거래일 만에 7000선 재탈환",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DemNMVmZyYVV1UTBlOUNhOTVFR1JoZ1NtbzZtMF81RGRCb0xrbjlIYlpsUzY5V2w0c2pCcEFhQ3lvX245R1QwMC1ackFkWmM2LUV0VUhtY0JvaXF5cUltc3AwLTEzSTk2SHc?oc=5",
+      "source": "newscj.com",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "[마켓펄스] 개인 vs 외인·기관...코스피 7000선 공방",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wRm5OUldmTWZzcmdUU3lZMXFibnkyUGQ5bW1wRHVNUmhpcHZ2cjdOWDdaTDItNkM2Q09MdEx6MHJMb3pyX2dLWTFmRE1uNGxxOWthS0NETEFsX2xEckJHcHFMbFc3OFN6Q0Mw0gFvQVVfeXFMTXdvWW5RRjcwSnk4UjItZmRUZjA5dHh3S1hRVWNuZEx5R2Noc09PR1JHTlhFbTNYUllwcjB3akdYb0hzNzN4SEcyb3B3SjR4WVgya1lHRXdnNVZ3T0NSZ1lWNFQ4dG5SdFlLT0hvZHNv?oc=5",
+      "source": "투데이신문",
+      "date": "2026-09-21"
     },
     {
       "title": "\"마통 금리가 왜 이래\"... 만기 연장 금융소비자 높은 금리에 화들짝",
@@ -34,46 +64,16 @@
       "date": "2026-09-20"
     },
     {
-      "title": "[이번주 증시] 사흘만 여는 코스피…미중 정상회담·금리 '주목'",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaZTVqUmxkNnFFSVdKWGQydTRZakVuSkMtZk1TZldKdlJhZ2RfRTNmcm0yS2Z4a1JfLVBKVE5HdTNhdlpRdURDYmxaYzUzbnVpS3Z6MF96OHIwMGVKT0hZRFdpMk1zZjFyZFHSAW5BVV95cUxPbG5pSXhxSkRZYlhtSERpNk5SRWltWmNvdWFpOTVESDV2OGFvbWR5LTkwX2JkdmVwTjVSdGVTWXZCbmJ1ZHBudVhRRmd6SjhOQVYwM2I4LXpUbkVmQVF4NXJFdl8tM0JtSFFKYWp6UQ?oc=5",
-      "source": "뉴시안",
-      "date": "2026-09-20"
+      "title": "수신금리 올리는 5대 은행…은행으로 '머니무브' 가능성",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtWjJlLWJHQ0ZVYUs4MWprZ0pOaElrd3otVkdEMm42Zktfbmdfb0d0LXpBaWVfbWtWQW15OEowbzloWVE1RUowRnlTUlFRazJZVVlmR1RzTmRJbjN6aXQ4cjA4N0xVVlVLVk5WeGp30gFyQVVfeXFMTXVrbjhUWTlFY3RLbWdGbEtLVUM4RlIzeFJJNWt2MWo1MllwUkR1NU9Lb1AyLVhuYmFnVTN5bDJFTWF4Z3ExUVlPbEt1VnJ5ZHVZQW9NRjZwZXE0bkxqQ3JmdU1tVzJrOTg0NnlDb01lMVlB?oc=5",
+      "source": "팝콘뉴스",
+      "date": "2026-09-21"
     },
     {
-      "title": "일본은행, 3개월만에 다시 금리인상…1.25%로 31년만에 최고(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EU0hxcWxmd2dvUjZBR0RlOXo1M3Zja3NHU19EbTBkb1hmY3BHRGpaWDBrUDZrUk0xVnBReXBGQ1dNQkFWLWIzd29kWlhtbHE4WWdWQVVxWU1QM0l5RVZGatIBYEFVX3lxTE9EU0hxcWxmd2dvUjZBR0RlOXo1M3Zja3NHU19EbTBkb1hmY3BHRGpaWDBrUDZrUk0xVnBReXBGQ1dNQkFWLWIzd29kWlhtbHE4WWdWQVVxWU1QM0l5RVZGag?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "증시 주춤해도 빚부터 잡는다…2000조 가계부채에 금융불균형 경계",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53aTRNVWJhZ08wUWdZa2xlUWtzZUo4MldaRTlJR3c0ZFBHbDZ0QkJ6bzRlS1RGZGV0cFR3RVNjZnExX21pRnBqWE5EdXNTQXZpR0JhZkxWN0VjS3hsamR1c1dNeU9OME5SZ0hz0gFvQVVfeXFMT0ZNUUo1MEpjVVZoR2Z0b0RPbHBEY1ZfNnNXTUdqNWdRR0o5Unh2Z2pjTDRwbnFlYnBacHVSeXZ6MDhTTGxqRXd2bzFEZjRlQ2pUamNuUjZJVkpUZGlzSXp2ZWEwU0J5cWEzLWFRT3ow?oc=5",
-      "source": "투데이신문",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "미 금리 인상에 환율 상승세...금융당국 \"영향 제한적\"",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xSXdUVXM5MWdzOVNEck5NY2pHOUFjaFpaQUhVaUhTbDhCMGx1djFIVlZQYXhhWVMwNXJ5U2dJT3VuMlVTU1VSVFJxa1R1SGNjbnZNeVNsUEFQQW8tOXUyclVtQmZydVFfdTJrMmlraHRUSG5lSXc?oc=5",
-      "source": "YTN",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "“환율 하락이 배당으로?”...4대금융 주주들 웃을 이유 생겼다 [머니+]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42WHZfem9tSlI5V29zSUI1dzNTeGJGdkVsUnRjSWp4UU43bERGU3RsZWRvck56bm5sWF9JbDhNR1RqUDNCZE5BUWxUX0tZdVlKZXEyVVoycWNYNVk?oc=5",
-      "source": "에너지경제신문",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "증시 조정이 남긴 숙제[금융시장 돋보기]",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWWk4V1N4Vlg5dkJ3WXhNSy1pZVNpdVZfWXhPb0czSDFYMDFCQ2NOUm8tQlNWVW9pNkZzb1FicFRBeEI4TEtoeDBaMVpfZ3Y3TVRManBNRmxPYWhXbzB1dE95QkEyV0MtUWxKWG9RZ09adlFubmtBMGo5LTNzQW9mWg?oc=5",
-      "source": "edaily.co.kr",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "[뉴욕증시]美 장기채 금리, 금융위기 이후 최고…일제히 하락",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OZjRpMHJhRzloa1phd2thWTNhVmNuaGNOUkZzeE5NWW5kaDNLVTk1eWpJOHBPQkJHUC1RTDBWU0p4NG9kX2hrcmNSQ3h2Tl9taEJyd240bk1MXzFYS1Nacw?oc=5",
-      "source": "아시아경제",
-      "date": "2026-09-15"
+      "title": "코스피, 장중 7000선 돌파",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xU24yVXBGaVJYbUZ1SVNjQVgtcm56dlNCQUlOOWgtMkYyOVBNTkxJTVMyWUI5UFhjbF9mNUFQbU1MZEMyOWhKUjdBNm5IMzRyZk43dnNNNEQ2YkZ4NVV5T2JnSUJqMFBHS25yZGNxQTJWRnPSAXdBVV95cUxQdkxlQW1tNWJQeE1GWFVFTWY2Y3I4cnNMMm4xdU1MSi1hM1hwcFZhY1dCVXUtdXl2SlRrZUtGaDdFeC0zTG80bmJITmljNGVjQVZ6SEVnU0t6S1hjZDNmcS1PNGY3aWNKM3Fnb0pRUmx3UTBzQ1BXMA?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-09-21"
     }
   ]
 }
