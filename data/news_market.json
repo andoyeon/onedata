@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:32:21+00:00",
+  "generated_at": "2026-09-23T23:30:05+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
@@ -10,28 +10,10 @@
       "date": "2026-09-22"
     },
     {
-      "title": "한은 “금리 인상, 금융취약성 완화”…가계·기업 이자 부담은 커져",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0SGRxRlRycTAxVVJxeGVwakVrRnVmcnBCcEM1N3lKY250LUxMRU9GZVl3QXcxMWNBdEZXVmw4aDEya0ZNZGJ4c2hPNmJmTWF3dllIbm5oX3k1VmNzOWNsUTBMODVpTEZMakYzU1Jqa3J1Zw?oc=5",
-      "source": "인더스트리뉴스",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "[금융안정] 한은 \"두 차례 금리인상, 금융취약성 완화 기여\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jRmdXUE42RjM2TG5Ub1Bqd0hIY1N5ZnVTMTdNQ3FDZy1FUlBYRjY0MWV6bmtNRHl1NGFxbkpmVHBFZVo0VDhxRDB2cHVVNElhQ3I2M21EbUpSamFWVWVhTTJjTEpxaGhNUXRVNmwtaGo?oc=5",
+      "title": "심상찮은 금리 상승세…금융위, 가계대출 매주 밀착점검 재개",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9raDRfZkZOTGVaTklMVUpwMGVjSkp3dUdrWW1SX0NMLUEyNVpqMUhVSTJ1WlFaY1JWbnN2SzMzLWcybE1jTUhENTFKemtHTFVONkp5czFrQTRYQk9VbVM3cGh5RFRDZVZZODJPS1V4ZWk?oc=5",
       "source": "연합인포맥스",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "한은 \"기준금리 인상, 금융취약성 완화 기여\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbXFCWUtZSGhkZ2hMTFpEUlRQRVo5QXd4QmpYTEt2eDVuU2RfY2tobDZ4NUdkamN0V2wwREFzRndQZERYbGxRYnlvNlBRVUFOLXc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "한은 “금리 인상, 금융불균형 완화 기여”…가계·기업 이자부담 7조원↑",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBOEY5czkyLW5QTkpWY0pvLS0ycDNhMkN6TkRqcFlhaTNwODFsNVlrU2tBaWxHbjVxM2xPQ292a0FTUzZrM1h1aWgtVmhfcTh5U2FYN2RGRUNOTUZxZTlFbFl1TDYzeXBCWnRJODBVNm5fenJw?oc=5",
-      "source": "대한경제",
-      "date": "2026-09-22"
+      "date": "2026-09-20"
     },
     {
       "title": "\"금융시장, 단단히 대비해야\"…무서운 금리 전망 등장 [지금이뉴스]",
@@ -40,40 +22,58 @@
       "date": "2026-09-21"
     },
     {
+      "title": "한은 “금리 인상, 금융취약성 완화”…가계·기업 이자 부담은 커져",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0SGRxRlRycTAxVVJxeGVwakVrRnVmcnBCcEM1N3lKY250LUxMRU9GZVl3QXcxMWNBdEZXVmw4aDEya0ZNZGJ4c2hPNmJmTWF3dllIbm5oX3k1VmNzOWNsUTBMODVpTEZMakYzU1Jqa3J1Zw?oc=5",
+      "source": "인더스트리뉴스",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "\"5년 만기는 불안하다\"…장기금리 불확실성에 짧아지는 인수금융",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFF4eXJIUF9RUDZnYmppVU15V3BUZm5KQWdzanRLYmZBUWVZOS14SFV5VEF1a0JuQmFNSlo2MUc1MVdLYXQ3d3RVXzd4bXVaa1ljUGtkUUpqeFZaR1pzbDZmem1qa1JnRHBPRFZwYkthN0FUZm01bTJaZ0dyU2N6c3BPQQ?oc=5",
+      "source": "인베스트조선",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "금융 당국, 시장 금리 상승에 가계대출 대응 체계 강화 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMUhEMW40T0I0X2QyZWJpNjJsdWlyVk8xOGYzbF8zV2ljT2psaTlmc1Bjb0JuT0hlWmI3VnZKbTQydllWeFZrZXJka1gtNHh5cHlsb1Y5TWVPVUlfYnp3Zm9JVVY5cXhUaHJnUTBkcmhZakRYNmFSS0tiYldaQ2FFTNIBlAFBVV95cUxQSTRjcHRhQ0ZkSGpYNHZGT3RVZW5MMi1OMUdHM0dYZEZOU242WXJvNkNPOVM5b0pXdzBFbWZQTFJxeEk4M1VXN1hWYTVSYkwyblUyVlRpTHloamZJWm5Yc1lLOE5NVkhVQTRNM2d0Z0pEdmNpTF9yTFRvdkFQVWp3ZHlsVzlzbWVjdFZlMnNEUEhfdi12?oc=5",
+      "source": "Chosunbiz",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "[금융현미경]유가·금리·경기…추석 전후 韓 환율 향방 최대 변수는",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sQXJmdWY2Wlhhc2tTZWUwZlJMLUNMQ0FBVGIxWjhZM2psOUxKY1hTTnJKY090OHlPQWdVYWlUZjNzbzNYZHNZVlZYd3NlU1k?oc=5",
+      "source": "v.daum.net",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "한은 “금리 인상, 금융불균형 완화 기여”…가계·기업 이자부담 7조원↑",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSE9ibGpPUHkyNER1bUI2bzN4ZnRJMzZKUi1DLWRFY1JHWmVtcG5mY0hLVk9LaW51SDJONW14QXd2MmJzamdlb2NnbnFfemdoM2VhYXJMRkFtZy1QZjJ2M0xlZXBmWm40XzZzZ1lsakxFM2M?oc=5",
+      "source": "대한경제",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "[금융 한 입] 추석 전후 국내 증시, 어디에 주목해야 하나",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02Ykx3eWtjQTlWWDBzZmE4NVBEVEszbTBvakRBSTRQOUctOXlkNlV3QTZmUHppQ2wzMUt1U3BpbFg5NVVtT3hOYWc1ZDBqcDRPOU5aVjRMU0pmN1J5aTMwUlJKaDdFVFB2SmVF?oc=5",
+      "source": "BBS불교방송",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "코스피는 7000선 회복했는데 증권주는 못 웃는다",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xQ0h2T0xTTjRwOHhOWHZtUFowTlNWb2h0MkdLaVJzTXVxNUMtZUMtMXlLRlNtdmpRcFNfNlo5X3kwa1cxMHAzYjNYREh2cUR3TzRQTWx0OThxTU5vZmtmTVA5dkRTLXM?oc=5",
+      "source": "자본시장뉴스",
+      "date": "2026-09-23"
+    },
+    {
       "title": "[금융안정 상황] 금리 올려 금융불균형 잡는다…취약 부문 부실 위험은 '복병'",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZ2NNblhoR0wxSnpXb0pkcnlrcFptZ0RKRGZrcHBQRE42Mjl3dElBVVJWSDZnRmlWVm9mekVBSTNYbmQwYWtNU2tOa25hZUhqVzlZWlFCcTdqNmRFby1oTWw0U2lOaEdCZWR6Nm9vUFA?oc=5",
       "source": "신아일보",
       "date": "2026-09-22"
     },
     {
-      "title": "[금융안정] 달러-원 하락에 은행 자본버퍼 0.5∼0.6%p 확보",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PaXBlNXFZd1Ftb3hWNjgtbHpyd0x0Qk9halRxQzJ6UzNibTdueEpRMy1Ec0RmTW5tU20zaENSSlhXa1JCTF9LMUZxSjZNYi1EUFlsRXpURkpaMjJKSUtXNzNEdW5XQ2hPSTk1UXktLUlDUQ?oc=5",
-      "source": "KB Think",
+      "title": "한은 \"기준금리 인상, 금융취약성 완화 기여\"",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbXFCWUtZSGhkZ2hMTFpEUlRQRVo5QXd4QmpYTEt2eDVuU2RfY2tobDZ4NUdkamN0V2wwREFzRndQZERYbGxRYnlvNlBRVUFOLXc?oc=5",
+      "source": "매일경제 마켓",
       "date": "2026-09-22"
-    },
-    {
-      "title": "한은 \"국내 증시 불안, 시스템 리스크 확산 가능성 제한적\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TSWtPX01hQmNnc1A4N0xrQk9wd0t5MEtjcHJaNHk0V0s2YlpPenY3anphUjNTS2U1Sk9iczZjWXdhYmNYLWtqeEZSa2Y5OFM1c0Zwb2JnSktoV05zU2JER9IBYEFVX3lxTE5TSWtPX01hQmNnc1A4N0xrQk9wd0t5MEtjcHJaNHk0V0s2YlpPenY3anphUjNTS2U1Sk9iczZjWXdhYmNYLWtqeEZSa2Y5OFM1c0Zwb2JnSktoV05zU2JERw?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "뉴욕 증시, 美·이란 대화 재개에 혼조...국제유가 100달러 아래로 [데일리국제금융]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTelZiVGlkUkZDTWlSanhIdVJIWVBqMmlBcDdXX2VPZHJfTnQzVnkyVFhlNHV2QlN6OGRiS2ZOcWZka08ySE5yTzdNNVFkOXNWQkE?oc=5",
-      "source": "서울경제",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "한은 \"집값 잡는 금리인상…취약기업·자영업자엔 부담\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5peHZ1TGxxZjU2Smx4V1Bhc3ljdi1VZnBOaDdnZ3NlQnFIa0Q1RV9zM0NEelY2STR1dks2YUZUZkFHekdBQ1lnb2hHc0FOZHFUUDJMQVVnbFN4djlrMUxzeWRWVXZlVHo3cWg00gFwQVVfeXFMTXJBdTAxY3F3V2kxTUpvSEQ5OVF0a0JHRU9HaUI0dDhFdkRWQ0MwcURrUFJNN2lVajNEblFtVGViVE1YZ19xQThyLW5wWEZQaE5JR2ZqdTB3TFRCMFBJZkJHUlJBcFBvZW9hTnV5R2xWWA?oc=5",
-      "source": "mt.co.kr",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "[금융 한 입] 추석 전후 국내 증시, 어디에 주목해야 하나",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02Ykx3eWtjQTlWWDBzZmE4NVBEVEszbTBvakRBSTRQOUctOXlkNlV3QTZmUHppQ2wzMUt1U3BpbFg5NVVtT3hOYWc1ZDBqcDRPOU5aVjRMU0pmN1J5aTMwUlJKaDdFVFB2SmVF?oc=5",
-      "source": "news.bbsi.co.kr",
-      "date": "2026-09-21"
     }
   ]
 }
