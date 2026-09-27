@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-09-26T23:26:52+00:00",
+  "generated_at": "2026-09-27T23:42:52+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3V3FfNVB2ck9mR0NHbWlfNjI5d1JWN2lIMWFheVo5b3FiZzVQdjRNQVVGN1dRWmZ5OXpjWTlaaHhvWDhOdzBiWWFjNzczSVE?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-09-26"
+      "title": "[기자수첩] ‘롤러코스피’에 휘둘리지 않는 비법",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZcFNNVUdQcEM0a2hObTJnSDN5bC05ZnJrRkNXaEtMQm5qRnVWY3Mtdy1zOXVZUlhreTAyV08wOV95czFRc0NCcHpiUW1rZDhkVkR6aDJTWlpMUU1KbkRfM2dVbTFVM0gwX280Zm5TZ2hQVEVlTVViUzZBTVQ?oc=5",
+      "source": "한국금융신문",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "금융당국, 정책대출·고정금리 확대…금리상승기 부담 완화",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjZXFOcjFxdjBSMWVVek5VYk0xTk11WF82SWVHN0VXSTZvUGJ3NkV3ZzVBZ0FoVVVTWjI4NmJOM0tZSktuTVBKUkVpQTZZV2ZxMThhOG9SMFJWQnlPd3lmYmlPT25BWjhNeE9LeVNR?oc=5",
+      "source": "알파경제",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "‘4거래일째 상승’ 코스피 시장 연휴 뒤 흐름 촉각",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BWnVkVmIwZ0lZeGR3Znd4azBnZkhGX0J4ZHBQNmpXeEdNRXhCblJzLVhrbnZQb3VmUkZsak1wenBnMVFlUElnV29PSkNkV2pISDBzbV9SQ2U2b25xbWxzcFN3Tkl1MVhfZVE?oc=5",
+      "source": "중부매일",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "[국제금융리포트] 주요국 장기금리 들썩…국채 수급 불균형에 고금리 장기화",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT18zM3ZERWtzRVJ4U3BDalVNaHU5M1NfR2tReDk0QmZKS1QtZFl4S0dNbmw4RFNjUHBvcDJUOFMtZEppU2JKLWtoVlcxWUNuS1diS2ZQSEV2d9IBWEFVX3lxTFBCNTVQbGZXQVNBXzBtWHkxRnMyWXcwcEpZNW5YdXY0U0dLb2ZZWC11bXh2V3l3NTlWbXdxbERfODFmWlctSk8yTE5sbmVhVmx0SkhwcFpVZWU?oc=5",
+      "source": "ajunews.com",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "미 국채 10년물, ‘5% 벽’ 뚫고 치솟아…세계 금융시장 ‘뇌관’ 될까",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nREtreWg1MGh1bFgtanFvbTY0d0NYUzhYa20zUlpQR2lHNkFmMEpmeEVabDRiM3BnaEdxLVcxVGJUVHdmUU9UQldBMThjWlJTZ3ZxS0puVGNhVEFCc2daZ0Q5dVVjd2c?oc=5",
+      "source": "한겨레",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "금융당국, 고정금리 대출 상품 확대 주력",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VbC1NTWdtT1JQYnNsYXVsN0sydHBYUDZFc2J6NUhLdFc3TWwxN2J3Z24wY25yazJkbmFROFhnSjlMQjZhVjFJLWZyRnI3WmNpYV9vSTBaX2lmamh3NDlCTEZiZUdRRDVJTkE?oc=5",
+      "source": "천지일보",
+      "date": "2026-09-27"
     },
     {
       "title": "美국채 매도 심각… 10년물 금리 금융위기 후 최고",
@@ -16,64 +46,34 @@
       "date": "2026-09-25"
     },
     {
-      "title": "금리 인상 사이클, 금융株에 항상 유리할까?[주末머니]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GeThSR00yY0V3bUR5Mk1ZZ2VtQnFOSnZWWmhJdXdUR0JsYjY3cHI0VTdpQjhES3JZYVVORTVNaTBRUTd4SERhSkR2d3EzcjBhWS0xM2NmOGNPam9pZjBWQw?oc=5",
-      "source": "아시아경제",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "[금융안정] 한은 \"두 차례 금리인상, 금융취약성 완화 기여\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jRmdXUE42RjM2TG5Ub1Bqd0hIY1N5ZnVTMTdNQ3FDZy1FUlBYRjY0MWV6bmtNRHl1NGFxbkpmVHBFZVo0VDhxRDB2cHVVNElhQ3I2M21EbUpSamFWVWVhTTJjTEpxaGhNUXRVNmwtaGo?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "금융당국, 고정금리 확대 주력…금리 상승기 취약차주 지원",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jRjh6SXFadHJsZHhwWVdnZS0tNDNoYWg3NXhQYnlRZG5kRWtTNUt4ME9McnJVMmstdmNWSWFmMmxBVTN3eEUzZE1ZWTczM2NKX2pDMHI2cw?oc=5",
-      "source": "세계비즈",
+      "title": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3V3FfNVB2ck9mR0NHbWlfNjI5d1JWN2lIMWFheVo5b3FiZzVQdjRNQVVGN1dRWmZ5OXpjWTlaaHhvWDhOdzBiWWFjNzczSVE?oc=5",
+      "source": "v.daum.net",
       "date": "2026-09-26"
     },
     {
-      "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lSUVhMkUtT1ZwR2Nuc2FuQXRYUGdlcFNveEZIQTh2V1VhT3IxVS1DenVhNXF4NzZCbllCV1IzYTNkbmFXY0t1RGZoSzRzOGxvUThsZ0dfcEpfNUZhXzJJa29fbS11TEoyYnc?oc=5",
-      "source": "AI타임스",
-      "date": "2026-09-24"
+      "title": "NH농협금융 계열사 건강증진형 상품 5종 선보여, 금리 혜택·보험료 할인 연계",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rdU1UTnFCenJSbldRUXEteFd2QUtjVlhMUUZjLV9OTGN2ZmI0LV9PSTBjZV8tOHF0c1pQSGhuX2dOMzNpZGREZXhCQ25wc1FIVUpiUTQ1djJTb2ZMV1VkNVFPNVprRGliTmZMOEdVTFk2WjA?oc=5",
+      "source": "businesspost.co.kr",
+      "date": "2026-09-27"
     },
     {
-      "title": "글로벌 금융시장·국제유가 ‘요동’…추석 연휴 뒤 코스피 어디로? [이슈+]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZQzdRRzVGSEtmY2N4N0ExRllkVmZvVjJYYlBnXzJRT0xic2xPVXFrYzZCbndlT2hjczUwcGtVeE1Nb25xVjZKbTRuWGRPU3E4V3NoUDRnYnUtRW8?oc=5",
-      "source": "에너지경제신문",
-      "date": "2026-09-25"
+      "title": "8번 모두 맞힌 침체 경고음…美 장·단기 금리 역전 임박에 금융시장 긴장",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjVDRHbnB5eGhFX3ZNY210aXpIX0V5NVZoQXp4VWZsSmtUc3UxYXpmbUllOWJoenFMeDFPVGQxUmZ6VUlYYzhTTndraG44dVlvYmxVemFZcG0?oc=5",
+      "source": "블록미디어",
+      "date": "2026-09-27"
     },
     {
-      "title": "\"5년 만기는 불안하다\"…장기금리 불확실성에 짧아지는 인수금융",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFF4eXJIUF9RUDZnYmppVU15V3BUZm5KQWdzanRLYmZBUWVZOS14SFV5VEF1a0JuQmFNSlo2MUc1MVdLYXQ3d3RVXzd4bXVaa1ljUGtkUUpqeFZaR1pzbDZmem1qa1JnRHBPRFZwYkthN0FUZm01bTJaZ0dyU2N6c3BPQQ?oc=5",
-      "source": "인베스트조선",
-      "date": "2026-09-22"
+      "title": "당국, 정책금융 등 고정금리 대출 확대 주력... 금리 인상기 취약차주 상환 충격 흡수",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBTnY1QmlZVjE4YjdLTVNYVk01a29HVmpDYnFrN3NPOFNLVFAzQkRaZGtvQjJRQUxVTzJaYmxROEZid01fWWM2cjIxMUZwSWg3bkpGT2dwWVd5UV9EZzFyUW9YcWk?oc=5",
+      "source": "중도일보",
+      "date": "2026-09-27"
     },
     {
-      "title": "'금융위기급' 5% 금리에도 증시 탄탄…AI 투자 시대 금리는 '조연'",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhWUtkOVc4S3R1RVV6MWVWS3RpUW1XRzQzRmFua3ZBYlYwYTlpNGczX0xhX1F4NEdyQnEzbEl1RmZMZzM2RzdNVkdfRUpxWnlPZmxlNVdoYTZIWDZnMzlr0gFkQVVfeXFMTU5mTVduZ1dBRjBYaEJBM0tnMmVTOFF4c2FnU1NCYUF3UmR0bjN4TGV0T2ZHN1BHNFlYSlR1bUFNQkk3WHJRa2E5YXlNM01zOTk4aFczakRaXzRib3NEMjV2N2lvMQ?oc=5",
-      "source": "뉴스1",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "\"금융시장, 단단히 대비해야\"…무서운 금리 전망 등장 [지금이뉴스]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkQ2xQM0xONXE4dHdjRURDMmtqUUpsVU1uZXJrSmFZMF9qdkl0WFVjaGNxX2UybTNBWnZYdzZhYm14Mnl0Y1Jha1NtU2dYT2JOdGFoQ1FPQTdpN3RBQ1E?oc=5",
-      "source": "YTN",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "호르무즈 재개방 기대감에 뉴욕 증시↑...미 국채 금리는 5% 연일 돌파 [데일리국제금융]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0FWNHhTQ0xnX00zNF9XVk5tdWJ4VFo3TkcwNjBIUEtSUENwR2N3QzNYQVVWVHgxOXNZMDRHVTFESHR6Z2lJVVVGMlEyTjFCTmfSAVNBVV95cUxONnV4SjFRb2VIMlVKVFR1bDg3bnFxWDExaHJEWDBRSU1xRkRrR0w2Rm1ESk9BRDJZOW5qTG1NelRQajNSbkJvX2p6YTNSbXNROHpnbw?oc=5",
-      "source": "sedaily.com",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "콜금리는 금융기관끼리 하루 자금을 빌릴 때의 금리",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZcjhoRldFMGRnNERmLW5sQnVoV2NTS1N0QmY4aklWc2hZNzdUZzhYTUkwVHBPVUI2ZlVGcEJrWko1aW8wbjVRcnJsb0FQSnA1MUgtanlMYm5SWmVoVUF3MktxaUxqUQ?oc=5",
-      "source": "비건뉴스",
-      "date": "2026-09-26"
+      "title": "\"고금리 부담,정책론으로 던다\"...금융당국, 서민금융·고정금리 대출 확대 고심",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MbXVxTVE1Tm9tZlZXWWVGTzdDM3N4ZGxkVFk4QWhDV1hoaUw0akJtRlBYWENwVmdobnkyejZkQjR3R0MwdTktZEJIdnNDR3ZINlE2VUd4U1RnUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "2026-09-27"
     }
   ]
 }
