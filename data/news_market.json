@@ -1,42 +1,24 @@
 {
-  "generated_at": "2026-10-02T00:36:37+00:00",
+  "generated_at": "2026-10-03T00:18:28+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "[원자재 시황] 금·유가 동반상승…뉴욕증시 강보합",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LWnFnSzZuZnBpVEFpSXgtYUFiZE9QWl81WDNrMWdnMnZPNVdwTHNhVy1ZeGxsaEMxRVYwTTFlRHg2a055Z090R2dleUhxcXRFdVNERHFfTFVVZU9fZXJRaDJEWGJJM2M3?oc=5",
-      "source": "ebn.co.kr",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "미국·영국·프랑스 장기금리 동반 급등…글로벌 국채 투매 심화",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nYTN5bjQxdGo3QkNRZEhxTGc1cGkxUXFzcjBraWpQWUZ5VE0yVmVrSlJIYTN2YlVGVHVzY3ZEUGZWaC14aHFjSVlrUW9xQ0ZJRmNmLVlnRmpkdS02Q19WdA?oc=5",
-      "source": "조세금융신문",
-      "date": "2026-10-01"
+      "title": "美 고용 둔화 속...달러가치 '하락', 엔화 환율 '뚝'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05Z3kzRG01VEs5QmxTMHJhQXZHckVLUTk3d3huSTBENm5EUVpvTVJ3eVlCbW5JcUxWRkZub2E2bjRnVHRmQTBCQmkzQ1BZTlZseW5wNklNY3Y0LXlINDdkY0g2eEdnM1lhcjJWLXZGR2_SAXNBVV95cUxPLS1kcERmUS11enFOcWZUR094NjY3NXBPWFN0ZFo5SFJoWlFYMm1PU2lMeWRIVXljWHdzM0xxQ0tnQ193aUdxOFdMT3RHWXFFZW91STlEbzIxX3IxbGV5dHQ1V0NCYzVxQWZKTnJmUWctankw?oc=5",
+      "source": "초이스경제",
+      "date": "2026-10-02"
     },
     {
       "title": "\"금리인상기 시장 민감도 상승\"‥이억원 \"극단적 위험까지 점검·취약차주 보호\"",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zVmx2SEt6Y3RHMzdISDN6NWtlMEMzUi00N0dmaElnQ3RoeDljVGRQX05ud2R0TVdnTE53cmR0N21QTW1hSEpDMlZuak1uQ0plMUFqdXV6SXhCNVR4Nl9XYmIzNkE5bGd6S0xPcVdackllU3Yz0gF0QVVfeXFMUEcxZlJUekZ6VHFFc3JMaUNIUWpscXRpcE9pX3JINTRMVVhIclpJZHhMcGZUMVRlU2VhcTVPY2ZBNzRaNTZyQVo5aENIV091b284Tl9xd1g4aHBQRWp5TUFraHc4ZFNKb3dWYVlMMnF6SkY5aGk?oc=5",
-      "source": "imnews.imbc.com",
+      "source": "MBC 뉴스",
       "date": "2026-10-01"
     },
     {
-      "title": "한국금융지주, 수요예측에 모집액 7배 몰려…고려아연도 3배(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UaUNBR2YzcGZJMEdoMlJGQ1J5S2xYXzVUT2lKdHBQdTdFclVFUFlpTlVOZm1SdDBvZDN0aU8zbEhObXJaQW1PMkt1bmhXSERqdXgzQmlQcElka21rR0ZxMtIBYEFVX3lxTE5UaUNBR2YzcGZJMEdoMlJGQ1J5S2xYXzVUT2lKdHBQdTdFclVFUFlpTlVOZm1SdDBvZDN0aU8zbEhObXJaQW1PMkt1bmhXSERqdXgzQmlQcElka21rR0ZxMg?oc=5",
-      "source": "yna.co.kr",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "[생산적 금융의 문턱 ②] 기업대출 잔액금리 9개월째 상승…신규금리는 하락",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tNjRPakR0YWxJS3FLMXRMZFdzM0poNmFBTDJVU0hSbThlZW5GTGlPMXJta3poZjlnSUJhYVBrelZ1SWl1UUhxbnI5bWpmM0FwRGRUaFFseDJiY1owUGRwLTN6UkV2ZHM?oc=5",
-      "source": "자본시장뉴스",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "이억원, 미국 국채금리 급등 대비 금융시장 점검",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UZ1FMa2oyVUxvUTBlNXk4eVpFZGFPWkVlXzVYOEpCdlJCVmh0UlZaemc5a1pwMDZhTUZ6dkRPZ0dvdDRqT1Bwdkx4b1BCZmlv?oc=5",
-      "source": "문화일보",
+      "title": "이억원 \"금리인상기 극단적 위험까지 점검\"…취약차주 지원 강조",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1VzVYVzRPa3Bnb0FnUFBZRjUwS2dkZGhVYTVtcXBzN3JSN0N0a0o0NDZ1T1VNeTlSTm1JTHJHR2ZSRGRvRWthOC11SldHSTZvVTRqMWM4alFZWmt1aWNradIBYEFVX3lxTFB1VzVYVzRPa3Bnb0FnUFBZRjUwS2dkZGhVYTVtcXBzN3JSN0N0a0o0NDZ1T1VNeTlSTm1JTHJHR2ZSRGRvRWthOC11SldHSTZvVTRqMWM4alFZWmt1aWNraQ?oc=5",
+      "source": "연합뉴스",
       "date": "2026-10-01"
     },
     {
@@ -46,16 +28,22 @@
       "date": "2026-09-30"
     },
     {
-      "title": "금리·AI·중동 겹친 전환기…금융위, 100조+α 선제 대응",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QcklERUxmdGFRdzhBYmkzbFpFbTUwQmNib3hkV3RIT21EX1BDLVVpM3ctdEx5R044Y0NZc3lGaW1vSEJpZHJKS0dMVVhHQzdiUExXdFlJMUNocG81?oc=5",
-      "source": "뉴스핌",
-      "date": "2026-10-01"
-    },
-    {
       "title": "재정·금융 수장들 \"국고채 금리 과도하면 긴급 바이백\"",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjZndUcGJFWmFzYUMyaEcwakZUMnZWUzlTdnMtMUV4bVoyMzJESDIzWUM5Q1R6a2VVQWoxUGNnOV9zbDhidHkwTEtjaWlLWEFFLXFsVk5NeVFrQUpOYWtuMC1OUFNRVXM?oc=5",
       "source": "연합뉴스TV",
       "date": "2026-09-30"
+    },
+    {
+      "title": "이억원, 미국 국채금리 급등 대비 금융시장 점검",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UZ1FMa2oyVUxvUTBlNXk4eVpFZGFPWkVlXzVYOEpCdlJCVmh0UlZaemc5a1pwMDZhTUZ6dkRPZ0dvdDRqT1Bwdkx4b1BCZmlv?oc=5",
+      "source": "문화일보",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "[스타트 경제] 뉴노멀 된 '미 국채금리 5%'...금융시장 영향은?",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaUp0SzU5cC15VXN5NTJIMUhlWlE3TjQwbTdJNUVmTm14bjdCYWZsZ2NRUnNreDJCREY1LTY0djdJaS1fbWhfTFU5cVljaG5BX1FtLTZDSURzLW1BSEE?oc=5",
+      "source": "ytn.co.kr",
+      "date": "2026-09-28"
     },
     {
       "title": "스테이트스트리트 \"亞 금융시장의 핵심 동인은 여전히 美 금리와 AI\"",
@@ -64,16 +52,28 @@
       "date": "2026-09-29"
     },
     {
-      "title": "[스타트 경제] 뉴노멀 된 '미 국채금리 5%'...금융시장 영향은?",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaUp0SzU5cC15VXN5NTJIMUhlWlE3TjQwbTdJNUVmTm14bjdCYWZsZ2NRUnNreDJCREY1LTY0djdJaS1fbWhfTFU5cVljaG5BX1FtLTZDSURzLW1BSEE?oc=5",
-      "source": "YTN",
-      "date": "2026-09-28"
+      "title": "PCE 둔화에도 장기금리 5.3%... S&P500 0.25%↓ [뉴욕증시]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WUUxwVkNfeHh2bjhSQjQ5RThTTi1Mc1B1U3E2aFJkTktVRXpubkE5Y3ZUeFZhT1hhY1NfdmlUQjlKVjJJOGstY21KYUtoZm1sWmtzLTI5cDhwcGZLVGc3aXptLXo?oc=5",
+      "source": "매일일보",
+      "date": "2026-09-30"
     },
     {
       "title": "이억원 금융위원장 “금리 인상 여파 취약차주 영향 면밀히 점검해야”",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Oc0VubE1qNG9UYzgtblRFSVBxNVBmbmtiMGZNeTlBWm50d3pPU0R2MmVBQTU2aVVKNUoxelBFOGd6UlZSOUNjWWRoUQ?oc=5",
       "source": "v.daum.net",
       "date": "2026-10-01"
+    },
+    {
+      "title": "코스피, 막판 7000선 탈환… 코스닥 약보합 마감",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uYkljdlJQU3VPWWFfazA0a1ctZ1V3LWdOd1NiUlN6dE9TeVJjQkx4X1IzRnJ3WjBCeF94UmRSVWx6WTJEYW9YYlhJNFBzbG1CcTlNcXZmRjRlU1lwazN0WWhleFpZVUhYdWc?oc=5",
+      "source": "천지일보",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "기업은행, 소상공인에 1.8조 금융지원…금리 최대 1.5%p 감면",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ISlpCUEthcXpYWENTcVk4VzlrTXMyanZDYXlERE0xcElxeTZwSkZlLV9lZ0tYNVFYVUhIYWxkTEJmM3RlSk9yNEhuN0hNT2phWXZnbHdlbndvbk9LRlRiVQ?oc=5",
+      "source": "아시아경제",
+      "date": "2026-10-02"
     }
   ]
 }
