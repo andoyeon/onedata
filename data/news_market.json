@@ -1,25 +1,13 @@
 {
-  "generated_at": "2026-10-03T23:39:02+00:00",
+  "generated_at": "2026-10-04T23:53:22+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
-    {
-      "title": "4대 금융 주주환원 10조 바라본다, 금리인상기 주가 기대감도 유효",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1WDJidERVMy1ReG9sYUhFSGlaWUdkdW4zX1NLVXVMblhrSXBIS3VMakJXcDJ0aTZyalhITnctcUNlY0ZpcHgxWXBIVXVVaTNOTFUxUTBkQkwxcFJKRHQ4N3cwN3piMFZPUWl6TGRlWmREdzA?oc=5",
-      "source": "비즈니스포스트",
-      "date": "2026-10-03"
-    },
     {
       "title": "\"금리인상기 시장 민감도 상승\"‥이억원 \"극단적 위험까지 점검·취약차주 보호\"",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zVmx2SEt6Y3RHMzdISDN6NWtlMEMzUi00N0dmaElnQ3RoeDljVGRQX05ud2R0TVdnTE53cmR0N21QTW1hSEpDMlZuak1uQ0plMUFqdXV6SXhCNVR4Nl9XYmIzNkE5bGd6S0xPcVdackllU3Yz0gF0QVVfeXFMUEcxZlJUekZ6VHFFc3JMaUNIUWpscXRpcE9pX3JINTRMVVhIclpJZHhMcGZUMVRlU2VhcTVPY2ZBNzRaNTZyQVo5aENIV091b284Tl9xd1g4aHBQRWp5TUFraHc4ZFNKb3dWYVlMMnF6SkY5aGk?oc=5",
       "source": "MBC 뉴스",
       "date": "2026-10-01"
-    },
-    {
-      "title": "금융 위기 직전으로 돌아간 美 금리, 그때와 닮은 점과 다른 점",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5teDl6TXpfSGxBYzVHZ2tUNktseXZRQ24xeGYzTEhtQlMwcEVEblg4SG95cXFxeGJpaG1VTGJkZ18tek1VZVpycHR2VDB3blpEeFJ2NUtYX0FsNXk2YlBpWkYzeURCV3BZYkFOMlJXQmg?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-09-29"
     },
     {
       "title": "환율, 금융위기 후 첫 1,500원대 마감…유가급등에 17.9원↑",
@@ -34,22 +22,10 @@
       "date": "2026-09-30"
     },
     {
-      "title": "이억원, 미국 국채금리 급등 대비 금융시장 점검",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UZ1FMa2oyVUxvUTBlNXk4eVpFZGFPWkVlXzVYOEpCdlJCVmh0UlZaemc5a1pwMDZhTUZ6dkRPZ0dvdDRqT1Bwdkx4b1BCZmlv?oc=5",
-      "source": "munhwa.com",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "모기지 부실이 부른 '2008년 악몽' … 국채 금리 급등에 또 한번의 금융위기 워닝벨",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DNlYwV2FXc2I1dDA3dDUwM3F0RlYyMEo5UUUyX2VIbFNIbTRQejJ1QThrQ3FQckk5QS1sVGdvUzRYSUpubnRQTkZoSTZxdzhaQWNTOTlGempDd0VTVkZSMzRqMlo0RW1DdUJVT3kzZDJpbTRmOHFXSkstWdIBgAFBVV95cUxNa3N3Q2VVRVBDLWFfZkZPNEZhcDlnVGk3WWZEZXhiV1doY1c0VHc1RkZkRGdBMDZsUVhGRGY0SU9EbW1FYmNfZ2ZlbXphc0Rmb3JzNzY0b3h2SzlSaXNBMFc5Tm1yN1lXS19OSXg3ckplX3NaQkVySWxDY1I2Q0kwbA?oc=5",
-      "source": "뉴데일리",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "[스타트 경제] 뉴노멀 된 '미 국채금리 5%'...금융시장 영향은?",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaUp0SzU5cC15VXN5NTJIMUhlWlE3TjQwbTdJNUVmTm14bjdCYWZsZ2NRUnNreDJCREY1LTY0djdJaS1fbWhfTFU5cVljaG5BX1FtLTZDSURzLW1BSEE?oc=5",
-      "source": "YTN",
-      "date": "2026-09-28"
+      "title": "금융 위기 직전으로 돌아간 美 금리, 그때와 닮은 점과 다른 점",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5teDl6TXpfSGxBYzVHZ2tUNktseXZRQ24xeGYzTEhtQlMwcEVEblg4SG95cXFxeGJpaG1VTGJkZ18tek1VZVpycHR2VDB3blpEeFJ2NUtYX0FsNXk2YlBpWkYzeURCV3BZYkFOMlJXQmg?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-09-29"
     },
     {
       "title": "PCE 둔화에도 장기금리 5.3%... S&P500 0.25%↓ [뉴욕증시]",
@@ -58,22 +34,46 @@
       "date": "2026-09-30"
     },
     {
-      "title": "이억원 금융위원장 “금리 인상 여파 취약차주 영향 면밀히 점검해야”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13WHhIWkdoVEQxQ280TFVHd2t6c1phWTAzb0dKekVlYk9QSWU3TmlVWWR4QVF6aVREcTZha0ZubFBxOVBabHc?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "美 고용 둔화 속...달러가치 '하락', 엔화 환율 '뚝'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05Z3kzRG01VEs5QmxTMHJhQXZHckVLUTk3d3huSTBENm5EUVpvTVJ3eVlCbW5JcUxWRkZub2E2bjRnVHRmQTBCQmkzQ1BZTlZseW5wNklNY3Y0LXlINDdkY0g2eEdnM1lhcjJWLXZGR2_SAXNBVV95cUxPLS1kcERmUS11enFOcWZUR094NjY3NXBPWFN0ZFo5SFJoWlFYMm1PU2lMeWRIVXljWHdzM0xxQ0tnQ193aUdxOFdMT3RHWXFFZW91STlEbzIxX3IxbGV5dHQ1V0NCYzVxQWZKTnJmUWctankw?oc=5",
+      "title": "美 고용 둔화 속...달러 가치 '약세', 엔화 환율 '하락'",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FczZwYVNXbnBWS0hjNEQyaFVHWXdCdExHLVFXWU1xa29RSlk5S1JGbFFPS1FaWkx3aEVkNEJlMGVZT0I0c0JabFZ6TEY5RkxfRHlmMUpaaWhDNE9CSHpQcXNvcFlkUVF3SnlBbG1ERdIBc0FVX3lxTE8tLWRwRGZRLXV6cU5xZlRHT3g2Njc1cE9YU3RkWjlIUmhaUVgybU9TaUx5ZEhVeWNYd3MzTHFDS2dDX3dpR3E4V0xPdEdZcUVlb3VJOURvMjFfcjFsZXl0dDVXQ0JjNXFBZkpOcmZRZy1qeTA?oc=5",
       "source": "초이스경제",
       "date": "2026-10-02"
     },
     {
-      "title": "한국금융지주, 수요예측에 모집액 7배 몰려…고려아연도 3배(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UaUNBR2YzcGZJMEdoMlJGQ1J5S2xYXzVUT2lKdHBQdTdFclVFUFlpTlVOZm1SdDBvZDN0aU8zbEhObXJaQW1PMkt1bmhXSERqdXgzQmlQcElka21rR0ZxMtIBYEFVX3lxTE5UaUNBR2YzcGZJMEdoMlJGQ1J5S2xYXzVUT2lKdHBQdTdFclVFUFlpTlVOZm1SdDBvZDN0aU8zbEhObXJaQW1PMkt1bmhXSERqdXgzQmlQcElka21rR0ZxMg?oc=5",
-      "source": "연합뉴스",
+      "title": "이억원 금융위원장 “금리 인상 여파 취약차주 영향 면밀히 점검해야”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85NUtZRkNpREd0YXZHcjlFRzM4bGJIQk1oZnpSMTRpVEUtMHNBYzB4RGo1VGlOWHhudkxRUWhoNXY1Y0NzUEZzWWoyQk5OWUU?oc=5",
+      "source": "v.daum.net",
       "date": "2026-10-01"
+    },
+    {
+      "title": "4대 금융지주 주주환원 10조 바라본다, 금리인상기 주가 기대감도 유효",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1WDJidERVMy1ReG9sYUhFSGlaWUdkdW4zX1NLVXVMblhrSXBIS3VMakJXcDJ0aTZyalhITnctcUNlY0ZpcHgxWXBIVXVVaTNOTFUxUTBkQkwxcFJKRHQ4N3cwN3piMFZPUWl6TGRlWmREdzA?oc=5",
+      "source": "비즈니스포스트",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "[N2 포커스] 대출금리 오른 2개월간…'중신용자' 이자부담 제일 컸다",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNS19XTTZ1cGNjMktIeGFJSmFDMEVWNnFEdVlBTTZOY3BHSDh3Z1p3TnF0b042YktKdkpEVDJSYXQ5TnVOa3R4aUxFNTk2T1RtTm11NFRUZmxyT2pmQVE?oc=5",
+      "source": "뉴스투데이",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "[스타트 경제] 뉴노멀 된 '미 국채금리 5%'...금융시장 영향은?",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaUp0SzU5cC15VXN5NTJIMUhlWlE3TjQwbTdJNUVmTm14bjdCYWZsZ2NRUnNreDJCREY1LTY0djdJaS1fbWhfTFU5cVljaG5BX1FtLTZDSURzLW1BSEE?oc=5",
+      "source": "YTN",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "모기지 부실이 부른 '2008년 악몽' … 국채 금리 급등에 또 한번의 금융위기 워닝벨",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DNlYwV2FXc2I1dDA3dDUwM3F0RlYyMEo5UUUyX2VIbFNIbTRQejJ1QThrQ3FQckk5QS1sVGdvUzRYSUpubnRQTkZoSTZxdzhaQWNTOTlGempDd0VTVkZSMzRqMlo0RW1DdUJVT3kzZDJpbTRmOHFXSkstWdIBgAFBVV95cUxNa3N3Q2VVRVBDLWFfZkZPNEZhcDlnVGk3WWZEZXhiV1doY1c0VHc1RkZkRGdBMDZsUVhGRGY0SU9EbW1FYmNfZ2ZlbXphc0Rmb3JzNzY0b3h2SzlSaXNBMFc5Tm1yN1lXS19OSXg3ckplX3NaQkVySWxDY1I2Q0kwbA?oc=5",
+      "source": "뉴데일리",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "인플레에 재정·국채·AI까지...치솟는 美 국채금리",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoNFhUTEl2UWFIdUdKWkJ3ZmtOMTBYNHJvczlEUkl4U0dzWVNVdThSUll4UXRnZGRZSUllSjQ0bFNiSks5QXNGaF9NdjJDSV9Qa0luVnJKTmE4ZFpDWkVXV2YtS1ZBc1VBaGEw0gFvQVVfeXFMTVl5WUdac29VVlhFMFNiWmNVVmlLXzMxSU9lZU9BVmVmMWtQcHlWYzJyNElkX2ZWd2R0eHdvUVFlMjUtelNud19UTzh4Q2hZa0Q0TUJ4V1c4emlhLXhnaS1Nd01vNUpjMnFieTNsQ18w?oc=5",
+      "source": "투데이신문",
+      "date": "2026-09-29"
     }
   ]
 }
