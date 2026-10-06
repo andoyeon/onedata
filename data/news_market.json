@@ -1,13 +1,67 @@
 {
-  "generated_at": "2026-10-04T23:53:22+00:00",
+  "generated_at": "2026-10-06T01:41:56+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "고금리 뚫고 AI 랠리... 나스닥 1.05%↑ 사상 최고 [뉴욕증시]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51VGJ3aHBGbkxsWTBybXV2SmVNbjVySnVYTGtnVWF6SHhuNEx5X0FaTjBET0htVmhHZVpxTVI0ekxaeTN4Zi1LU2llYnMteEM0Zi13YnhlT1djUnFvYTdFZlN3SW8?oc=5",
+      "source": "매일일보",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "美국채금리 상승에도 뉴욕증시 상승…나스닥 사상 최고치",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wRlBhbURvMEtQUjB6REtSRkdKWkpVNmtEUzlwMm5RZjAyLW9BY1F6NDNfMUV2X295OVY0NXA0TmFIU3Zac3RHRGhXc1VPWVRpZllyYS1JR05lem82ejZidUJtTQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "기후부, 에너지이용합리화자금 금리 0.5%p 추가 인하…금융부담 완화",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95cEU2Vk9ka3NIWHhna2tHSkJDWVI3dFpQYklGMU5DOHNtS19pYU5CamVTLUVWaEE3akdwaWlLVXpxVHIxR2VoM25BWXJDbThtRGlGWnJTc1ctcktJS0V2QU1RTmx5cDhfU295RU0zQlHSAXBBVV95cUxPeXBFNlZPZGtzSFh4Z2trR0pCQ1lSN3RaUGJJRjFOQzhzbUtfaWFOQmplUy1FVmhBN2pHcGlpS1V6cVRyMUdlaDNuQVlyQ204bURpRlpyU3NXLXJLSUtFdkFNUU5seXA4X1NveUVNM0JR?oc=5",
+      "source": "전기신문",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "우리은행, 최고 연 9% ‘우리금융 다함께 적금2’ 출시",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16dDFDOXdNdDNYMjJwbUhYZEhKck5ET0dMUHJ5ZmxSS0Q4dmhNeVlBY1BVTmNLSUNxdHMwNWZiMi1nSjdrZ040dXo3RVh2YXNiQVB5NGxBbDBUUVBTT0ZhaHJ3?oc=5",
+      "source": "에너지경제신문",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "우리은행, 최고 연 9% 금리 '우리금융 다함께 적금2' 특판",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14TEYxamZIMFNBOWExd3F6YV80ZURvbEN1U2NwWXhtMGpVcTM2ZVQtVEFQSWRWT25lQ0NyM0hzajcwb0o2bGZSY1VmOUZQVERXcXY3RTExVDc1WW9vaV9TVQ?oc=5",
+      "source": "metroseoul.co.kr",
+      "date": "2026-10-05"
+    },
     {
       "title": "\"금리인상기 시장 민감도 상승\"‥이억원 \"극단적 위험까지 점검·취약차주 보호\"",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zVmx2SEt6Y3RHMzdISDN6NWtlMEMzUi00N0dmaElnQ3RoeDljVGRQX05ud2R0TVdnTE53cmR0N21QTW1hSEpDMlZuak1uQ0plMUFqdXV6SXhCNVR4Nl9XYmIzNkE5bGd6S0xPcVdackllU3Yz0gF0QVVfeXFMUEcxZlJUekZ6VHFFc3JMaUNIUWpscXRpcE9pX3JINTRMVVhIclpJZHhMcGZUMVRlU2VhcTVPY2ZBNzRaNTZyQVo5aENIV091b284Tl9xd1g4aHBQRWp5TUFraHc4ZFNKb3dWYVlMMnF6SkY5aGk?oc=5",
       "source": "MBC 뉴스",
       "date": "2026-10-01"
+    },
+    {
+      "title": "'금리 상승' 수익성 잠식…SBI·OK저축은행, 실적 부담 커진다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNLV9xbjBJMk1sU2ktU1BGX3hRNHhSMEx0emplbEMycklISmY5WkVqamJUWS0xM3Q4S2IwckU0eTN4N0g5MHhUczZpOGFkaFNtenRjajB3TURNMDlULUswZ25WdkV1QXRs0gFsQVVfeXFMUGVpNFF1a3gwaThKYlpEcUNvZm0taGlURVNZTFNUNzZ1TVJjcThxT3BadVUyZHR6cUQtNHdRRHJJcHFwVnM1Y0lsS3BlQUVMRkc5NEs1ZnR3cTlMMkhqOHJNY3NUcFFabDRKS3Iz?oc=5",
+      "source": "블로터",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "거제·통영 호우 피해기업 금융부담 낮춘다…금리 1.5%·대출한도 확대",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xUlJSVXRVYVVMT3NuMUhkelBNTHpfZjZMMXQ0YkhwRTcyTllyTlRwT2NrOEV6UVh0MU9iTzNzMHFNYnk5NW1QX3pSak5Ec0k4U200Mw?oc=5",
+      "source": "더글로벌기빙뉴스",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "에너지이용합리화자금 대출금리 0.5%p↓...\"정책금융 지원 강화\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ycGRGQ296aDFlM2JZcXdVVjhTc3dVWHlSaWllckNXNHFkVW5Dd3ZRVERnQ3c0ZDFWOUpwenc3cjZRSWl3cE5UampqLXpxYmE0bC1tVS0walY2TkloODNmRXlnMUQ5ZUJJZE1lQw?oc=5",
+      "source": "도농라이프타임즈",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zVWxBOUM3RVlQZ0F0bE9mQl9PQjg0ZFFjR2NRMW5ESWswYkxYUkJRZzJXN1E4alBLZ2Rick00aGZyWGExUUJWM2loYXJ0YllZX3dtT1VLemxaM0RvWGpUNm4wNW1VdDdMTmI00gFwQVVfeXFMTVMwQVhmLUUzUDUwNkZMY04xTkVYSTJtNEJNQmxRbktPekZxZ0EyZHJWM200SllkeGMxUUs1cEg2ZU84ZXRLclU3VjJLRnNQX2VNR09wU2gxTnM5RUlZNmFFY3RCNWJFcnRqWWdVd1hUbw?oc=5",
+      "source": "mt.co.kr",
+      "date": "2026-10-03"
     },
     {
       "title": "환율, 금융위기 후 첫 1,500원대 마감…유가급등에 17.9원↑",
@@ -16,64 +70,10 @@
       "date": "2026-09-30"
     },
     {
-      "title": "재정·금융 수장들 \"국고채 금리 과도하면 긴급 바이백\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjZndUcGJFWmFzYUMyaEcwakZUMnZWUzlTdnMtMUV4bVoyMzJESDIzWUM5Q1R6a2VVQWoxUGNnOV9zbDhidHkwTEtjaWlLWEFFLXFsVk5NeVFrQUpOYWtuMC1OUFNRVXM?oc=5",
-      "source": "연합뉴스TV",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "금융 위기 직전으로 돌아간 美 금리, 그때와 닮은 점과 다른 점",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5teDl6TXpfSGxBYzVHZ2tUNktseXZRQ24xeGYzTEhtQlMwcEVEblg4SG95cXFxeGJpaG1VTGJkZ18tek1VZVpycHR2VDB3blpEeFJ2NUtYX0FsNXk2YlBpWkYzeURCV3BZYkFOMlJXQmg?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "PCE 둔화에도 장기금리 5.3%... S&P500 0.25%↓ [뉴욕증시]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WUUxwVkNfeHh2bjhSQjQ5RThTTi1Mc1B1U3E2aFJkTktVRXpubkE5Y3ZUeFZhT1hhY1NfdmlUQjlKVjJJOGstY21KYUtoZm1sWmtzLTI5cDhwcGZLVGc3aXptLXo?oc=5",
-      "source": "매일일보",
-      "date": "2026-09-30"
-    },
-    {
       "title": "美 고용 둔화 속...달러 가치 '약세', 엔화 환율 '하락'",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FczZwYVNXbnBWS0hjNEQyaFVHWXdCdExHLVFXWU1xa29RSlk5S1JGbFFPS1FaWkx3aEVkNEJlMGVZT0I0c0JabFZ6TEY5RkxfRHlmMUpaaWhDNE9CSHpQcXNvcFlkUVF3SnlBbG1ERdIBc0FVX3lxTE8tLWRwRGZRLXV6cU5xZlRHT3g2Njc1cE9YU3RkWjlIUmhaUVgybU9TaUx5ZEhVeWNYd3MzTHFDS2dDX3dpR3E4V0xPdEdZcUVlb3VJOURvMjFfcjFsZXl0dDVXQ0JjNXFBZkpOcmZRZy1qeTA?oc=5",
-      "source": "초이스경제",
+      "source": "choicenews.co.kr",
       "date": "2026-10-02"
-    },
-    {
-      "title": "이억원 금융위원장 “금리 인상 여파 취약차주 영향 면밀히 점검해야”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85NUtZRkNpREd0YXZHcjlFRzM4bGJIQk1oZnpSMTRpVEUtMHNBYzB4RGo1VGlOWHhudkxRUWhoNXY1Y0NzUEZzWWoyQk5OWUU?oc=5",
-      "source": "v.daum.net",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "4대 금융지주 주주환원 10조 바라본다, 금리인상기 주가 기대감도 유효",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1WDJidERVMy1ReG9sYUhFSGlaWUdkdW4zX1NLVXVMblhrSXBIS3VMakJXcDJ0aTZyalhITnctcUNlY0ZpcHgxWXBIVXVVaTNOTFUxUTBkQkwxcFJKRHQ4N3cwN3piMFZPUWl6TGRlWmREdzA?oc=5",
-      "source": "비즈니스포스트",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "[N2 포커스] 대출금리 오른 2개월간…'중신용자' 이자부담 제일 컸다",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNS19XTTZ1cGNjMktIeGFJSmFDMEVWNnFEdVlBTTZOY3BHSDh3Z1p3TnF0b042YktKdkpEVDJSYXQ5TnVOa3R4aUxFNTk2T1RtTm11NFRUZmxyT2pmQVE?oc=5",
-      "source": "뉴스투데이",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "[스타트 경제] 뉴노멀 된 '미 국채금리 5%'...금융시장 영향은?",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaUp0SzU5cC15VXN5NTJIMUhlWlE3TjQwbTdJNUVmTm14bjdCYWZsZ2NRUnNreDJCREY1LTY0djdJaS1fbWhfTFU5cVljaG5BX1FtLTZDSURzLW1BSEE?oc=5",
-      "source": "YTN",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "모기지 부실이 부른 '2008년 악몽' … 국채 금리 급등에 또 한번의 금융위기 워닝벨",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DNlYwV2FXc2I1dDA3dDUwM3F0RlYyMEo5UUUyX2VIbFNIbTRQejJ1QThrQ3FQckk5QS1sVGdvUzRYSUpubnRQTkZoSTZxdzhaQWNTOTlGempDd0VTVkZSMzRqMlo0RW1DdUJVT3kzZDJpbTRmOHFXSkstWdIBgAFBVV95cUxNa3N3Q2VVRVBDLWFfZkZPNEZhcDlnVGk3WWZEZXhiV1doY1c0VHc1RkZkRGdBMDZsUVhGRGY0SU9EbW1FYmNfZ2ZlbXphc0Rmb3JzNzY0b3h2SzlSaXNBMFc5Tm1yN1lXS19OSXg3ckplX3NaQkVySWxDY1I2Q0kwbA?oc=5",
-      "source": "뉴데일리",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "인플레에 재정·국채·AI까지...치솟는 美 국채금리",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoNFhUTEl2UWFIdUdKWkJ3ZmtOMTBYNHJvczlEUkl4U0dzWVNVdThSUll4UXRnZGRZSUllSjQ0bFNiSks5QXNGaF9NdjJDSV9Qa0luVnJKTmE4ZFpDWkVXV2YtS1ZBc1VBaGEw0gFvQVVfeXFMTVl5WUdac29VVlhFMFNiWmNVVmlLXzMxSU9lZU9BVmVmMWtQcHlWYzJyNElkX2ZWd2R0eHdvUVFlMjUtelNud19UTzh4Q2hZa0Q0TUJ4V1c4emlhLXhnaS1Nd01vNUpjMnFieTNsQ18w?oc=5",
-      "source": "투데이신문",
-      "date": "2026-09-29"
     }
   ]
 }
