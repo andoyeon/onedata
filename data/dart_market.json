@@ -1,357 +1,357 @@
 {
-  "generated_at": "2026-10-07T00:30:38+00:00",
+  "generated_at": "2026-10-08T00:51:38+00:00",
   "source": "DART 전자공시시스템 (금융감독원)",
   "category": "market-disclosures",
   "disclosures": [
     {
-      "corp_name": "유니드",
-      "report_name": "결산실적공시예고(안내공시)              ",
-      "receipt_date": "20261007",
-      "filer": "유니드",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800069"
-    },
-    {
-      "corp_name": "JW홀딩스",
-      "report_name": "최대주주등소유주식변동신고서              ",
-      "receipt_date": "20261007",
-      "filer": "JW홀딩스",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800067"
-    },
-    {
-      "corp_name": "JW홀딩스",
-      "report_name": "주식등의대량보유상황보고서(일반)",
-      "receipt_date": "20261007",
-      "filer": "이경하",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000022"
-    },
-    {
-      "corp_name": "SK디앤디",
-      "report_name": "유상증자신주발행가액(안내공시)              ",
-      "receipt_date": "20261007",
-      "filer": "SK디앤디",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800052"
-    },
-    {
-      "corp_name": "교보증권",
-      "report_name": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "receipt_date": "20261007",
-      "filer": "교보증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000016"
-    },
-    {
-      "corp_name": "SK",
-      "report_name": "투자설명서",
-      "receipt_date": "20261007",
-      "filer": "SK",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000013"
-    },
-    {
-      "corp_name": "SK디앤디",
-      "report_name": "[기재정정]투자설명서",
-      "receipt_date": "20261007",
-      "filer": "SK디앤디",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000012"
-    },
-    {
-      "corp_name": "SK디앤디",
-      "report_name": "[발행조건확정]증권신고서(지분증권)",
-      "receipt_date": "20261007",
-      "filer": "SK디앤디",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000009"
-    },
-    {
-      "corp_name": "SK디앤디",
-      "report_name": "[기재정정]주요사항보고서(유상증자결정)",
-      "receipt_date": "20261007",
-      "filer": "SK디앤디",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000004"
-    },
-    {
-      "corp_name": "현대모비스",
-      "report_name": "기업설명회(IR)개최(안내공시)              ",
-      "receipt_date": "20261007",
-      "filer": "현대모비스",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
-    },
-    {
-      "corp_name": "SK",
-      "report_name": "효력발생안내( 2026.9.22. 제출 증권신고서(채무증권) )",
-      "receipt_date": "20261007",
-      "filer": "금융감독원",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260922100004"
-    },
-    {
-      "corp_name": "국제약품",
-      "report_name": "주식등의대량보유상황보고서(일반)",
-      "receipt_date": "20261007",
-      "filer": "남영우",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000461"
-    },
-    {
-      "corp_name": "다이나믹디자인",
-      "report_name": "소송등의판결ㆍ결정(일정금액이상의청구)              ",
-      "receipt_date": "20261006",
-      "filer": "다이나믹디자인",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800766"
-    },
-    {
-      "corp_name": "다이나믹디자인",
-      "report_name": "횡령ㆍ배임사실확인              ",
-      "receipt_date": "20261006",
-      "filer": "다이나믹디자인",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800767"
-    },
-    {
-      "corp_name": "국제약품",
-      "report_name": "최대주주변경              ",
-      "receipt_date": "20261006",
-      "filer": "국제약품",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800768"
-    },
-    {
-      "corp_name": "DKME",
-      "report_name": "주주명부폐쇄기간또는기준일설정              ",
-      "receipt_date": "20261006",
-      "filer": "DKME",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800759"
-    },
-    {
-      "corp_name": "대양금속",
-      "report_name": "주요사항보고서(자기전환사채만기전취득결정)",
-      "receipt_date": "20261006",
-      "filer": "대양금속",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000430"
-    },
-    {
-      "corp_name": "DKME",
-      "report_name": "주주총회소집결의              ",
-      "receipt_date": "20261006",
-      "filer": "DKME",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800743"
-    },
-    {
-      "corp_name": "DKME",
-      "report_name": "소송등의제기ㆍ신청(경영권분쟁소송)              ",
-      "receipt_date": "20261006",
-      "filer": "DKME",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800715"
-    },
-    {
-      "corp_name": "GS글로벌",
-      "report_name": "[기재정정]타인에대한채무보증결정              ",
-      "receipt_date": "20261006",
-      "filer": "GS글로벌",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800749"
-    },
-    {
-      "corp_name": "대한유화",
-      "report_name": "생산중단              ",
-      "receipt_date": "20261006",
-      "filer": "대한유화",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800696"
-    },
-    {
-      "corp_name": "이월드",
-      "report_name": "주식등의대량보유상황보고서(일반)",
-      "receipt_date": "20261006",
-      "filer": "이랜드월드",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000440"
-    },
-    {
-      "corp_name": "신영증권",
-      "report_name": "투자설명서(일괄신고)",
-      "receipt_date": "20261006",
-      "filer": "신영증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000436"
-    },
-    {
-      "corp_name": "두산에너빌리티",
-      "report_name": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "receipt_date": "20261006",
-      "filer": "두산에너빌리티",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800697"
-    },
-    {
-      "corp_name": "한화생명",
-      "report_name": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "receipt_date": "20261006",
-      "filer": "김종원",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000432"
-    },
-    {
-      "corp_name": "SK",
-      "report_name": "[발행조건확정]증권신고서(채무증권)",
-      "receipt_date": "20261006",
-      "filer": "SK",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000428"
-    },
-    {
-      "corp_name": "한화생명",
-      "report_name": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "receipt_date": "20261006",
-      "filer": "백제민",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000424"
-    },
-    {
-      "corp_name": "신영증권",
-      "report_name": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
-      "receipt_date": "20261006",
-      "filer": "신영증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000418"
-    },
-    {
-      "corp_name": "세우글로벌",
-      "report_name": "주식등의대량보유상황보고서(약식)",
-      "receipt_date": "20261006",
-      "filer": "에이스나노켐",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000416"
-    },
-    {
-      "corp_name": "DB증권",
-      "report_name": "최대주주등소유주식변동신고서              ",
-      "receipt_date": "20261006",
-      "filer": "DB증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800682"
-    },
-    {
-      "corp_name": "삼성바이오로직스",
-      "report_name": "최대주주등소유주식변동신고서              ",
-      "receipt_date": "20261006",
-      "filer": "삼성바이오로직스",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800676"
-    },
-    {
-      "corp_name": "한국금융지주",
-      "report_name": "[발행조건확정]증권신고서(채무증권)",
-      "receipt_date": "20261006",
-      "filer": "한국금융지주",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000413"
-    },
-    {
-      "corp_name": "KB금융",
-      "report_name": "투자설명서(일괄신고)",
-      "receipt_date": "20261006",
-      "filer": "KB금융",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000411"
-    },
-    {
-      "corp_name": "국제약품",
-      "report_name": "최대주주등소유주식변동신고서(최대주주변경시)              ",
-      "receipt_date": "20261006",
-      "filer": "국제약품",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800666"
-    },
-    {
-      "corp_name": "에이프로젠바이오로직스",
-      "report_name": "투자유의안내              (관리종목지정 우려 예고)",
-      "receipt_date": "20261006",
-      "filer": "유가증권시장본부",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800649"
-    },
-    {
-      "corp_name": "한국금융지주",
-      "report_name": "[기재정정]증권신고서(채무증권)",
-      "receipt_date": "20261006",
-      "filer": "한국금융지주",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000404"
-    },
-    {
-      "corp_name": "KB금융",
-      "report_name": "일괄신고추가서류",
-      "receipt_date": "20261006",
-      "filer": "KB금융",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000400"
-    },
-    {
-      "corp_name": "포스코퓨처엠",
-      "report_name": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "receipt_date": "20261006",
-      "filer": "포스코퓨처엠",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800617"
-    },
-    {
-      "corp_name": "한세엠케이",
-      "report_name": "최대주주등소유주식변동신고서              ",
-      "receipt_date": "20261006",
-      "filer": "한세엠케이",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800650"
-    },
-    {
-      "corp_name": "한세엠케이",
-      "report_name": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "receipt_date": "20261006",
-      "filer": "조영수",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000397"
-    },
-    {
-      "corp_name": "HL홀딩스",
-      "report_name": "타인에대한채무보증결정(자회사의 주요경영사항)              ",
-      "receipt_date": "20261006",
-      "filer": "HL홀딩스",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800536"
-    },
-    {
-      "corp_name": "남광토건",
-      "report_name": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "receipt_date": "20261006",
-      "filer": "남광토건",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800613"
-    },
-    {
-      "corp_name": "교보증권",
+      "corp_name": "NH투자증권",
       "report_name": "증권발행실적보고서",
-      "receipt_date": "20261006",
-      "filer": "교보증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000393"
+      "receipt_date": "20261008",
+      "filer": "NH투자증권",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000078"
+    },
+    {
+      "corp_name": "NH투자증권",
+      "report_name": "증권발행실적보고서",
+      "receipt_date": "20261008",
+      "filer": "NH투자증권",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000071"
+    },
+    {
+      "corp_name": "SK케미칼",
+      "report_name": "장래사업ㆍ경영계획(공정공시)              ",
+      "receipt_date": "20261008",
+      "filer": "SK케미칼",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800084"
+    },
+    {
+      "corp_name": "BNK금융지주",
+      "report_name": "주식등의대량보유상황보고서(약식)",
+      "receipt_date": "20261008",
+      "filer": "CapitalResearchandManagementCompany",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000065"
+    },
+    {
+      "corp_name": "하나금융지주",
+      "report_name": "주식등의대량보유상황보고서(약식)",
+      "receipt_date": "20261008",
+      "filer": "CapitalResearchandManagementCompany",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000058"
+    },
+    {
+      "corp_name": "케이뱅크",
+      "report_name": "계열금융회사의약관에의한금융거래-[예ㆍ적금]",
+      "receipt_date": "20261008",
+      "filer": "케이뱅크",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000056"
     },
     {
       "corp_name": "한화투자증권",
       "report_name": "증권발행실적보고서",
-      "receipt_date": "20261006",
+      "receipt_date": "20261008",
       "filer": "한화투자증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000391"
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000029"
     },
     {
-      "corp_name": "KG스틸",
-      "report_name": "[기재정정]주식등의대량보유상황보고서(일반)",
-      "receipt_date": "20261006",
-      "filer": "캑터스스페셜시츄에이션제1호",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000389"
-    },
-    {
-      "corp_name": "교보증권",
+      "corp_name": "유안타증권",
       "report_name": "증권발행실적보고서",
-      "receipt_date": "20261006",
-      "filer": "교보증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000387"
+      "receipt_date": "20261008",
+      "filer": "유안타증권",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000027"
     },
     {
-      "corp_name": "신영증권",
-      "report_name": "투자설명서(일괄신고)",
-      "receipt_date": "20261006",
-      "filer": "신영증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000386"
+      "corp_name": "SK케미칼",
+      "report_name": "기업설명회(IR)개최(안내공시)              ",
+      "receipt_date": "20261008",
+      "filer": "SK케미칼",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800076"
     },
     {
-      "corp_name": "고려아연",
-      "report_name": "[발행조건확정]증권신고서(채무증권)",
-      "receipt_date": "20261006",
-      "filer": "고려아연",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000382"
+      "corp_name": "LG에너지솔루션",
+      "report_name": "기업설명회(IR)개최(안내공시)              ",
+      "receipt_date": "20261008",
+      "filer": "LG에너지솔루션",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800068"
     },
     {
-      "corp_name": "교보증권",
+      "corp_name": "현대차증권",
       "report_name": "증권발행실적보고서",
-      "receipt_date": "20261006",
-      "filer": "교보증권",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000381"
+      "receipt_date": "20261008",
+      "filer": "현대차증권",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000014"
     },
     {
-      "corp_name": "서울식품공업",
-      "report_name": "투자유의안내              (우선주 시가총액요건 미달로 인한 상장폐지 우려 예고)",
-      "receipt_date": "20261006",
+      "corp_name": "LG에너지솔루션",
+      "report_name": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "receipt_date": "20261008",
+      "filer": "LG에너지솔루션",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800055"
+    },
+    {
+      "corp_name": "현대차증권",
+      "report_name": "증권발행실적보고서",
+      "receipt_date": "20261008",
+      "filer": "현대차증권",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000011"
+    },
+    {
+      "corp_name": "유진증권",
+      "report_name": "증권발행실적보고서",
+      "receipt_date": "20261008",
+      "filer": "유진증권",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000006"
+    },
+    {
+      "corp_name": "삼성전자",
+      "report_name": "기업설명회(IR)개최(안내공시)              ",
+      "receipt_date": "20261008",
+      "filer": "삼성전자",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800028"
+    },
+    {
+      "corp_name": "삼성전자",
+      "report_name": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "receipt_date": "20261008",
+      "filer": "삼성전자",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
+    },
+    {
+      "corp_name": "에이엔피",
+      "report_name": "[기재정정]기타시장안내              ",
+      "receipt_date": "20261007",
       "filer": "유가증권시장본부",
-      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800603"
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800790"
+    },
+    {
+      "corp_name": "온타이드",
+      "report_name": "[기재정정]기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800788"
+    },
+    {
+      "corp_name": "형지엘리트",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800789"
+    },
+    {
+      "corp_name": "일양약품",
+      "report_name": "불성실공시법인지정              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800786"
+    },
+    {
+      "corp_name": "SUN&L",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800780"
+    },
+    {
+      "corp_name": "아센디오",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800779"
+    },
+    {
+      "corp_name": "KR모터스",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800778"
+    },
+    {
+      "corp_name": "STX그린로지스",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800777"
+    },
+    {
+      "corp_name": "티웨이홀딩스",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800776"
+    },
+    {
+      "corp_name": "모나미",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800775"
+    },
+    {
+      "corp_name": "태원물산",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800774"
+    },
+    {
+      "corp_name": "다이나믹디자인",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800783"
+    },
+    {
+      "corp_name": "대원화성",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800749"
+    },
+    {
+      "corp_name": "SH에너지화학",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800731"
+    },
+    {
+      "corp_name": "한국전자홀딩스",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800707"
+    },
+    {
+      "corp_name": "SG글로벌",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800712"
+    },
+    {
+      "corp_name": "SHD",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800730"
+    },
+    {
+      "corp_name": "남성",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800708"
+    },
+    {
+      "corp_name": "비비안",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800705"
+    },
+    {
+      "corp_name": "동원수산",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800717"
+    },
+    {
+      "corp_name": "에이엔피",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800711"
+    },
+    {
+      "corp_name": "온타이드",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800714"
+    },
+    {
+      "corp_name": "에넥스",
+      "report_name": "기타시장안내              ",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800709"
+    },
+    {
+      "corp_name": "대양금속",
+      "report_name": "최대주주변경              ",
+      "receipt_date": "20261007",
+      "filer": "대양금속",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800672"
+    },
+    {
+      "corp_name": "한미사이언스",
+      "report_name": "투자판단관련주요경영사항(자회사의 주요경영사항)              (에페오토인젝터주(에페글레나타이드) 식품의약품안전처 품목허가 승인)",
+      "receipt_date": "20261007",
+      "filer": "한미사이언스",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800680"
+    },
+    {
+      "corp_name": "에이엔피",
+      "report_name": "투자유의안내              (주가요건 미달로 인한 상장폐지 우려 예고)",
+      "receipt_date": "20261007",
+      "filer": "유가증권시장본부",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800688"
+    },
+    {
+      "corp_name": "한미사이언스",
+      "report_name": "주식등의대량보유상황보고서(일반)",
+      "receipt_date": "20261007",
+      "filer": "송영숙",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000522"
+    },
+    {
+      "corp_name": "한미약품",
+      "report_name": "투자판단관련주요경영사항              (에페오토인젝터주(에페글레나타이드) 식품의약품안전처 품목허가 승인)",
+      "receipt_date": "20261007",
+      "filer": "한미약품",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800667"
+    },
+    {
+      "corp_name": "한미사이언스",
+      "report_name": "임원ㆍ주요주주특정증권등거래계획보고서",
+      "receipt_date": "20261007",
+      "filer": "신동국",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000516"
+    },
+    {
+      "corp_name": "진원생명과학",
+      "report_name": "주요사항보고서(자기전환사채만기전취득결정)",
+      "receipt_date": "20261007",
+      "filer": "진원생명과학",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000497"
+    },
+    {
+      "corp_name": "금양",
+      "report_name": "[기재정정]회계처리기준위반에따른검찰고발등조치              ",
+      "receipt_date": "20261007",
+      "filer": "금양",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800651"
+    },
+    {
+      "corp_name": "아센디오",
+      "report_name": "[기재정정]주요사항보고서(유상증자결정)",
+      "receipt_date": "20261007",
+      "filer": "아센디오",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000490"
+    },
+    {
+      "corp_name": "삼호개발",
+      "report_name": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "receipt_date": "20261007",
+      "filer": "삼호개발",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800647"
+    },
+    {
+      "corp_name": "파라다이스",
+      "report_name": "[발행조건확정]증권신고서(채무증권)",
+      "receipt_date": "20261007",
+      "filer": "파라다이스",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000495"
     }
   ]
 }
