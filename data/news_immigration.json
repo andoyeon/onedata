@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-07T00:23:29+00:00",
+  "generated_at": "2026-10-08T00:44:01+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "반도체·데이터센터에 외국인투자 몰렸다…3분기 누적 역대 최대",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSXZERGlqazNBWWMyeGNneFMyWTRtSDJOdGY3c0ItenJKb2VsV18yLTZoYkppZGg0a0VLOE5CTWtFd2djRlluTUdhSFVnaTVhbDRvMC1LRmFPUGxJZ3F0TGNyNXhYMHdDNnN5bA?oc=5",
+      "source": "전기신문",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "외국인직접투자 신고 10.8% 증가... AI 데이터센터·청정에너지 투자 확대",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GU0xRLTQxUHEtTnduUnhCaDhRNHRCS2tYMnBXcmhEeExxSWYzUUlEdDJ4T1V0VkFJemJVa3h2MmhaZWt1X2tLM2pFTnpJcDFaLW5oWnVzX21Ud1QyUk9ycDN6STBDV0ZWeW04T05B0gFyQVVfeXFMT0RaX1FLOEZyRjh4LWdPMjhJdjUwWGVETDJHVlJESm9YZklud2NRRFJKLTRvT2k2SmlJakFqMjB1VjhWRUtma2JKUmdyd2s4d2d4ZUE1SlZnY3d5OFBuZy1DcndMMDNfXzlQcDFYSFhqUkNB?oc=5",
+      "source": "테크데일리",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "제주 외국인직접투자 2100만달러…53.9% 늘었지만 전국 ‘최하위권’",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nTGFwWlRUMFdGbnMxdzlhdG1MNHJlT2U3U1kyUkZVcmpjd0hRNEpMeDZOQnk0WGJHZDR1ZFptQWhaUWFXNGtlS3RGcE9lS1Y1TmxWaFlrLWZhc1VrWmExTWdLQmhxWklETklR0gFuQVVfeXFMT0tCcXZJSXFEMkZRWWxEaHY5OWpmQjFDc3NWTVBMVi1JcTcycjdsVnR2MlpvbDhiblFDTWt2U2dTY21GVEFkSkZLcG1uUXpxeC0zblQwUHN4UGdOY2hXNFJXWmtBX1ZpWEp5bXJyT0E?oc=5",
+      "source": "제주뉴스",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "올 3분기 누적 외국인직접투자, 신고 역대 3위·도착 역대 1위 달성",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LN3h5OTlTSFJFX3JFMVc5MUVtejgtX05WSEhnbDBvazdZdkpnUVk2SEdrdHprVWJiQmZucHBSc2NoQWY0VllyU0ZuYXZrUW9qbWlKYTNUMUFJYWN6VXByVDNUR1ByU2c?oc=5",
+      "source": "기계신문",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "반도체 소부장·데이터센터 향한 외국인 투자… 3분기 누적 FDI 10.8%↑ - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2NJZlA3czlwbmNROU5HbUtaaEZtMnN2cnNqb1AwVjlwVm5XcVdPX3ZqQmE4NVBMVHNwNU51aXdxQTVyWU55RmwyMGFjR0o4R0hJWUV6QVktWjBVdWhmeG1Vdk5mcEZBdHgzMlNoeHIzN01tOFR1Nm56enBsaWRhbElrVl9YUdIBmgFBVV95cUxNdndRN1RPTnQzdU9QSmxMREdqSWpaU0Z6WEdackRDNjNzOUxYU28zbmItdUdsWjV4Tk5hdC1QV0V4Z1laczNfOG9qa2JvWjdpQ3EzcjROalVnUm1yVnVRYnVEWEpTR3VHN1VkMHRvYXFpb0REaU0wQVF1cnpLc0dnenRWYkVia3F2bGNLTFBISzlWamNEN2RjejlR?oc=5",
+      "source": "Chosunbiz",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "올해 3분기 누적 외국인직접투자 11% 증가…반도체 소·부·장 '훈풍'",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03TmtKa3paR2JrY1hJSE9pNklrVjVvOWYyemNuLW1FTFBjUU93el93ZURrUmZfd1p5bTE4YUxyRHVrN0psR0c4SjBkM2R3ZXF0LUhqdkNFSURWNWtJ?oc=5",
+      "source": "뉴스핌",
+      "date": "2026-10-07"
+    },
     {
       "title": "미 국무부 “한국, 외국인 투자 유치 확대…규제·노동정책은 과제”",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0ZXVndROTJKT0FNc2xtRGJCcmxUY3NhLXMtWHVSYTJEd1N0M0FSSk03MzZmakQ5Q2pjQUQ3TDYtQ3h2X2hkcEdNV2JrR040MF90V09saURpMk01MkZLSmNDSldXZmVBeFI0NGd2bWR4VGM0R3VnTjVBMEFfNHJmcHpxMGJUV2RvZjlqNE80aVVjZFUtWUNlZtIBmwFBVV95cUxPbFJXVmtCWXpSa0xiOVBNOE56VjZneDF0NG1LS0JPZ0JUc2dJQXA4WHV4b2xqWTZzSUpCSFpEM3ltNHY2eEhxemotcjVZMGhuNGR6bVRXRmRUSDZKU0xvV0dLNHVIbUZ6TE5DVGQybUlySmxlNjZwcnVMV3hWVnFsY3FEbFF5U0ozR0xNZk9FbzJTT2hObTItX2JUYw?oc=5",
@@ -10,10 +46,10 @@
       "date": "2026-09-30"
     },
     {
-      "title": "중국, 외국인 투자자의 국내 금융 시장 접근 확대?",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNN01TMmVYb2FCWDhjTlVQY3N0RHJSWlpxNklxU2ZnREh2MVd6Njc3Wld1VVBVbGhmbjJWWkx4dXFNRDZBT3BXN2VMUWprREV2Q19jcnZOMFdYQTVJQUhjaksydlY4QUw1TGJJTGpEQktXZmJZNGRfZ2VtOFNPV25kQWNiN21sUkJSWS1wbW5fMmZkZ2p4THdJOGVpSGcxQm9YeEZUVEJkQUhIOXNWTXVIRzR4M3JMVmlGaWM1RXR4U2pCMjVHdVZuaEtFcnZOUzJ4QU9XekpxYXhudE1wMEdsQWcwZmMxOHZsNkZpQW1vQlk1M2JjblByQXRTWXRkSm1YWFhoYUpKOE9waERLUWY2U1R0UmljWkNUb2JqS0xSdzE4RjI2SkgwOUdaWGhZRmRPNlRRS3ZOckF1UWFJXzZ1Y0kzVW4?oc=5",
-      "source": "IDNFinancials",
-      "date": "2026-10-01"
+      "title": "3분기 외국인직접투자 도착액 148.7억 달러… 역대 최대",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wRjlnQVYya1pxMjhQbmhDZXlLdFF2SGJFMDljZFVkNk50SWhncktSVHdzR0hFd1BxdVN3NnVLdE9mWDd5b3pwV0VBMmUyVGpTaFMwT1I2TVJ5SV9wb0JsNg?oc=5",
+      "source": "메트로신문",
+      "date": "2026-10-07"
     },
     {
       "title": "외국인 투자 유치를 통한 국가 경쟁력 강화.",
@@ -22,58 +58,22 @@
       "date": "2026-10-04"
     },
     {
-      "title": "4억 7000만 원 내면 ‘황금 여권’...남미 국가 첫 도입",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mcUJGSENhMERnSGcyY3hFVXBhRXczcFA4WmFuRExKZWVubU1tYXU4RXJ3WDYwMmd6dkpmZUN6b2NiV2g0RzkxV1BkTzdFLXlIR3fSAVNBVV95cUxQbDlYa2VEYWdLTWhRRnVkdXFLRXZKUDRzN1BJUnNfeEdrZVlVNjRaczBlb3lEMWt0ZE1jWC13bnNMbXotSUZGZ1FRcEpRQ2E2TXdyMA?oc=5",
-      "source": "서울경제",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
-      "source": "YTN",
-      "date": "2026-07-02"
-    },
-    {
-      "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
-      "source": "법률신문",
-      "date": "2026-07-30"
-    },
-    {
-      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "하노이는 외국인 직접투자 유치 목표치의 90%를 초과 달성하며 연말을 앞두고 긍정적인 분위기를 조성하고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcWVhT1ctcnJMb1M1S1VxQjktcUdSa1hoQWZjVDdJSUFjOVpXZFB2ellKbUFYTXBrZ1cwS3BvZWZaajQxX3E1c0NmMXJmNldvMFFoVEZYRF9vekFWQW42WXdtV3IyajJ2Zkl0a0YxX3BHZzhxTzg0aXVsYTdYOGNTYnF5Qm02WWQxU0wzckU0TURMM3pn?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "골드만삭스: 외국인 투자자들은 여전히 미국 회사채에 관심을 가지고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOOE1lLTZZMjAzUEotcG80NGNVNjVkRzRFcEttQTZrdzZmYnVJRzJ0YTVMZ2pTRXpFSmJIUzlvN19FcEhnTEVDdTBmOV9DTHk4QzJNQk9zS2E2UkxNOE8wZU9ZVHk1THFUQVpIeDRnYnpHSnd2N0VrSmJfdGFXYTlLSDRjdlVmWFlSV2pTSGZWODdCd0VyREZERlZ5enA3QWVHN3Q4elVGeWxLNS1vT2w5ZWNDREN2bmE1YmR5VGtRQ3hDNGF6b2FpZHI0bE5CWFg4a2x6WFdjd1U4SHVwU3U5YXRIazFTLUhzeFREMnFzWkpJZW81SWlVZ1NVN0p2RWhyY0ZhekNVVWNzX3dhZ29MeFpiaWdlZUYycXBJY09KQXdGeDVRWFFhWVdYUzZZX0lCNXVaRFp4M1lwMDlSaXEyaVlwZU03SFJSZ0YyUEp2Y3ZaUk53UEpoTFp3aThEUEVIUGdwNUd0dWxyNEo1SDA0OW5UZ2ViZTRGM2N1RzNQN0h6ekIxcG5HaHZZNlZiX2s1SFplYVZOdHBNSTFkdEdnQ0cxME1wS2twMHJPRlRFZ2NsSzB6WVphQkZ3by1LbnN2cEJHM0ppVUVLTnVUdlYyZ2JjaVBFcnU5cGxMMnJGUlhFUQ?oc=5",
+      "title": "중국, 외국인 투자자의 국내 금융 시장 접근 확대?",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNN01TMmVYb2FCWDhjTlVQY3N0RHJSWlpxNklxU2ZnREh2MVd6Njc3Wld1VVBVbGhmbjJWWkx4dXFNRDZBT3BXN2VMUWprREV2Q19jcnZOMFdYQTVJQUhjaksydlY4QUw1TGJJTGpEQktXZmJZNGRfZ2VtOFNPV25kQWNiN21sUkJSWS1wbW5fMmZkZ2p4THdJOGVpSGcxQm9YeEZUVEJkQUhIOXNWTXVIRzR4M3JMVmlGaWM1RXR4U2pCMjVHdVZuaEtFcnZOUzJ4QU9XekpxYXhudE1wMEdsQWcwZmMxOHZsNkZpQW1vQlk1M2JjblByQXRTWXRkSm1YWFhoYUpKOE9waERLUWY2U1R0UmljWkNUb2JqS0xSdzE4RjI2SkgwOUdaWGhZRmRPNlRRS3ZOckF1UWFJXzZ1Y0kzVW4?oc=5",
       "source": "IDNFinancials",
-      "date": "2026-09-17"
+      "date": "2026-10-01"
     },
     {
-      "title": "호치민시로 유입되는 외국인 직접투자(FDI)의 새로운 목적지가 등장했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GX1BmS1VaM2RYbExtS05GNlhrQ25TLVZvMkhoaEpfWUFTSjYtaC1HNlpVa0p0TmxJRnh6c05HdUQzVG9BckNOYldubURILU5rUENpRXNEQXVMRXNXN1BHdl9vQVNvYWduUEpXUUwtRnlBSDhmUXJWdkl3?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-06"
+      "title": "트럼프, 美 공장 안 지으면 300% 관세 경고…외국인 투자 압박",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZdmZXeXNPYWpIRGhua2FIMlc0WUd1UzRPcG40eXl0aVFJQjFvTFVEQll0Y25WMXM3UU9sRkZ6NDFKS2NBVzZNbmZwYnpORlY1MlF1U0QwWHZzR2xRelE3OUR1Y1ctakVD?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-10-04"
     },
     {
-      "title": "새로운 시대에 베트남의 외국인 투자 관리 및 유치에 관한 정책과 법률을 완벽하게 개선하여 안보와 사회경제적 발전 및 외교 관계의 긴밀한 통합을 보장합니다.",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQeXc0SEhIZkI2Tm5Rdjg0WXVFa3NaTnFwSTUwalJWWlRvcjR4N1RYaVRubXd5UU80S2ZPSmRITGJwU2FYWS1QaVpEaklUWnRLSm1CbndMVkgzUVVtel9FeWVtVjM2Zm0tT0pOYUtBMko2OTYwTnRpT1JtTF9rRkNoZlQ3Wnhhc0hmQWZLTk1lS1lhcE9KYm9PR1hzUC1TRmdfa1dSZWFRYktqQnVVeEVqVEdDVzh4YTZBWFV4c3NNMGpOMWpBbkZHQlQ5VERpQW5iSTdSSkZiQ1RnNlEzSXJIYjA0b0poaWNPOTJkWnQxdEw2Q1pxR3ZRdGl6Z21TNnlpcTI4bmprVmJJd1hORmE4ZVhaeW0xaWlScjY0cGlNM2xETl8t?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "새로운 단계에서는 외국인 직접투자(FDI) 유치를 위한 정책과 법률을 개선해야 합니다.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWpUZDMxTVM3dDF3QnV4ZDl2bDBOeWY1MlBGY1Vha2xqeEhoYVU4Uzh2OVVicjJUWlNhNHBKZVNndXVjUllBMG1PVWZsazhWa0htSmFRSFc4Zm5ZN0JMVm5ieGpsY3F3cGwyWnN4dVBMSE1DbW10bVhJX0RLN1J5OHpJelcwc0xoQ29pWjhtNUFUZVk?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-02"
+      "title": "3분기 외국인 직접투자 역대급 호조…신고 229억불·도착 148.7억불",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9saU81WUlnLUtjSkZNcWR4WllTYUhqOEJUVkMya1dXQ1VlNkVabWp1NXA5c2FTR1puSDJMeWtPd3ByWks1Mm5UMVJNN0pxZw?oc=5",
+      "source": "전자신문",
+      "date": "2026-10-07"
     }
   ]
 }
