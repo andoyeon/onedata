@@ -1,19 +1,55 @@
 {
-  "generated_at": "2026-10-08T00:51:40+00:00",
+  "generated_at": "2026-10-09T01:04:54+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "장기금리 5.36%까지 치솟아... S&P500 0.22%↓ [뉴욕증시]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CX1lRQlp0MUxST2QzdVJ2YmNRRDV0bXNoT3UyaUFxYW9ORURCOHlJaHVDaVYtZDNkY0FaMWxqSElZTTdFUWctRnVsaFFqb0tfUGhPY2Z5SVFhMm9XaG85MFF0MUk?oc=5",
-      "source": "매일일보",
-      "date": "2026-10-07"
+      "title": "‘코스피 불장’에 금융지주 상반기 17.6조 벌었다…역대 최대",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCT1pTb1AxT0lPWTZWQm45QXhHLUZndjZ2T0dhdENoaHYweVhST0JlZTYweGlCeDI1NVh5c0VKSm9DTzlHTE9nX2VNMzNKM1RfLXpweGRRZ2JkSDI2R2JNb1pkaUw3NjQ?oc=5",
+      "source": "한겨레",
+      "date": "2026-10-08"
     },
     {
-      "title": "금융지주 순이익 또 '역대 최대'…올해 상반기 17.6조원",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PbDIyS2o0cmQ0eGJSYWJ5bFlhRXoxLUozUEtDdlpjd0lfdjJBUlNmQ0NFOTZ3eHY0ZVd2ZWtZT2d6dVBZSXpCaDNSUjhyeWRySWRBd2pzLUMtdUXSAWBBVV95cUxOS2plZ1F1SVRkT3BDQlRldHpyZzh2czBWM1FXbk5PM1I2TEhXTHdiUld2T2JBXzZCSjlGUDh2dU9VaWZLR1RjVnBYZExVZExXZ0k4ejVBUlY3SzVVRW9pOHE?oc=5",
+      "title": "\"과거·현재·미래 모두 원달러 환율 하락 압력\"",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hTHFNTEtuV0RkT1laODY1RmNxRXE5ckpYaUZBdDdIOXFLTW5oWmx2UDhTX0gzNmtFbjZqRHhpU3RxS3NfOFVVaTFoSkdXbjl2TzJJVTFHajREaFVxUERZRm9RV0xiaHBT?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "상반기 금융지주 순익 '역대 최대' 17.6조...은행 주춤에도 증시 호황에 '미소'",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGSFM0Q2lSajFibFRqck14aEFsOEZtcE9uZUE0ckpnX29aRUpCMC01ZE1VdTc0dTJETy1RREJOSGxrb0NHSndMdHlaLVZRalNibmhaQlZjTnE4YzduMnR0VVNVa3JmR3Bn?oc=5",
+      "source": "녹색경제신문",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "삼성전자 호실적에도 '셀온'... 코스피 2.62%↓ [마감시황]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YaXNNNjlBUlJuemhSUGdjeWR5YS05V0dmXzBMNmRnTFY5SDMtRFdURWdxSzBDMUJFOVJfSmxSRE1YVTZ1YlluaFZxUXVmRmZ4a2Q1WHUyMkRaUFBLUlFzWGdTVjM?oc=5",
+      "source": "매일일보",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "증시 호조에…금융지주 상반기 순이익 17.6조 ‘역대 최대’",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nVUI3b01GVXptUnRpX0ZseWh4OUVzOVNmRGxFYlkwM3RjU040VEVMLXlpYjFPYzdmRXIya2ZPX2Z6VS1LOS14Sk1CNWRDZWIwcGFadDU3bGc5NjFRUHZnTk1lTUhwSi1LdXNjTF9aeVYzbk5Wc1HSAWZBVV95cUxPNVVsX3pTNnFQM3pTUDJqalloOE03bDRtc3hqNGJTWTNkRUxrS0Y4NFpHWWF6VVhlV3ViRVdSNC1nUl90TXljNU9BQXBidnpDZ2cxTWEwWlVPRFVaYmF2N3VXd0ZMT2c?oc=5",
+      "source": "동아일보",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "이억원 \"금리인상기, 정책서민금융 금리 낮추고 공급 확대\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13Y3UwWDczTlkyNUEzSS1qaEFYcXFrUmc5N2Zwc2RydjlFVVozczJSbEZLUXJ0Y1lldzRUaUd2ZGQzN0hGRC0zdmJiaVcxNUJNZ0tTQ0RNci1rdFgyOUJ2bdIBYEFVX3lxTE13Y3UwWDczTlkyNUEzSS1qaEFYcXFrUmc5N2Zwc2RydjlFVVozczJSbEZLUXJ0Y1lldzRUaUd2ZGQzN0hGRC0zdmJiaVcxNUJNZ0tTQ0RNci1rdFgyOUJ2bQ?oc=5",
       "source": "연합뉴스",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
+    },
+    {
+      "title": "금리 오르고 기업대출도 늘고 4대 금융 순이익 5.7조 '최대'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMbWxGVDB5VnZ1dXNWX1ZqdDk3RXVXdEN0bjY5TTU3Q1JfM3ZMdUlDMDRnQnlzNTVpMHg3cUtkUDR4NTE5NF9iZk1zc2NzenRscnBvWlEtNG5rUQ?oc=5",
+      "source": "한국경제",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "10대 금융지주 상반기 '역대 최대' 실적, 증시 호황에 금융투자 이익 73% 급증",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FeDVOWm83NTEyakczZ2RFWjNPTkItTWtnaU9BQTZFY3FQaUhFRUp5RXNWdERVd1RGNWZ5VXBaQzJvMm5pNzdoczJFcTFIbUVuN2VRbVZBeThMVV8xT1BRdjUwYjdXZEs3cTRFMUpqLUdSbWc?oc=5",
+      "source": "비즈니스포스트",
+      "date": "2026-10-08"
     },
     {
       "title": "증시 호조에 상반기 금융지주 순익 17조6000억원…전년比 13%↑",
@@ -22,46 +58,10 @@
       "date": "2026-10-07"
     },
     {
-      "title": "‘코스피 9천’ 축포 뒤 쪼그라든 기업조달…‘머니무브’는 없었다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBScTB1QTZmbW16ckF5cVB2SlVEVXZDOWRrRDBPaDY3R0VuNG02YlNJRnNaYzdVRUlsU3NSekJqYzM1X09pQjlzaFB0RTA2bkRnNDloeUZEMXhnQzdnNVFEZUc0S0FvdjA?oc=5",
-      "source": "한겨레",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "국책연구원 \"단일종목 레버리지 상품, 환율안정 단정 어렵다\"...금융위와 다른 해석",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGFJbWg4N1oyR0JVZ215OVRjODBoeGpDTEhsaGZNS1VZMlVMUlV0eU1WbENURFVKdldLZXlkaXkyWmJmdHBBYkdYVmgtTmZTR2pKWUpCa0hpU3VKNjRDMGp0SHdfYXFOd0pkMk03OVg5QmNuODZUMVk1QmhaX2dBNDU2TlRUZHZoRUdJ?oc=5",
-      "source": "조선일보",
+      "title": "이억원 금융위원장 “서민금융 금리 낮추고 성장펀드 200조 확대”",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MVExlR3J4MFkwZ2NqQ0VuRE1aMUlSUFVha2xpVldfOTNmVGRuSzlvLWVPRHYyVkVjZjFfcnQ2cTFMRXl3YS1ReVBJcFJqQQ?oc=5",
+      "source": "전자신문",
       "date": "2026-10-08"
-    },
-    {
-      "title": "美 국채금리 5.36%까지…국내 금융권 조달비용·채권손익 변수는",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwSHZTRWo3NU5IWmIxTFVmaFU4S3ZCaVQya2Z2SUQ5NFpHbmllRDZ1WG5JeXAwQ0pSUWhqWEFtcDc2NEdFZ3c4NWhCT1ZhOEk4OEgxSnFzeE84azBTNXYyQXIxalU5WWE1MlZlQ2tfOWs?oc=5",
-      "source": "www.thedailyeconomy.kr",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "10대 금융지주 상반기 17.6조 벌었다…증시 호조에 금투 약진",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ta1pFSVBnNGZDeThBODZHVFdhQlRFaF9VQlRkTXBtMTJ5MFkyUnA2N3kwcGZUOFBqamxzeURrMXF0NXh6Mk90OWg3d3RiYkRjVXFsaDdON3pONGlNeDduYjlR?oc=5",
-      "source": "뉴스1",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "금융지주 상반기 순익 17.6조···증시 호조에 은행 부진 상쇄",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pN1NubW5sdW8zMU9leHdPckFLeFhXSzdmb3FqVDA4TmFEeWx2V0ZtcHFkLTV5WTNEWFI2WE02cWdBcUE4TGRlZUZ5TnZjTVVYZlRybk5IMkJpeGVpeVFObXozUHpFMTJPcFE?oc=5",
-      "source": "서울파이낸스",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "삼성전자발 수급 충격에 코스피 1.98% 급락",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6YW1IUXZ3SlljZ05jLTB1TnRIbUJDX3h4Nk4wMVBiOEhBRmV6bkN2TDhtaUY4RU1Ma0tNSTBUQUlMSmUzZmJqWmFiZlIwLTZiX3BFel96OE5WQXI3d3Y2SGtHZXhBd2M?oc=5",
-      "source": "영남경제",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "기후부, 에너지이용합리화자금 금리 0.5%p 추가 인하…금융부담 완화",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nb012OVA2WklXdFczcXZsTDhGR3ZDQmdDYUhEZTNUNk14S0xnZzRPbDI4OUlaZ3c5d2JMM1pET0ZDY0RLaDdVaU1GT0hLYVVVWnVhODd4elJZMElNZ2RwcnFSX1cyNVA1RHFZZtIBcEFVX3lxTE95cEU2Vk9ka3NIWHhna2tHSkJDWVI3dFpQYklGMU5DOHNtS19pYU5CamVTLUVWaEE3akdwaWlLVXpxVHIxR2VoM25BWXJDbThtRGlGWnJTc1ctcktJS0V2QU1RTmx5cDhfU295RU0zQlE?oc=5",
-      "source": "전기신문",
-      "date": "2026-10-05"
     },
     {
       "title": "BOJ 총재 \"금융 여건에 따라 정책금리 지속적으로 인상\"(상보)",
@@ -70,10 +70,10 @@
       "date": "2026-10-06"
     },
     {
-      "title": "[국제금융리포트] 美 10년물 5.3% 시대…세계 국채시장 금리 양극화",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkRFhYci0wQS1KN1Y0dXFueHlMcUFvMkdNeHlnSDVnaFI5VkwyRTZZeG5aUFRuZmdBOHFwUkVmN016WWJVNUlKYUhOdWdYRHdfcFZYSEh2TXN4UdIBWEFVX3lxTE52bFUyTTVUNUx4XzVyamhRc2hsYjdyMllyOTJKMG5qcFNZNm5MVV83X2ZDR1NlWmFlalJyVGNOejY3MkU1YzFYRWNCVWN2QWp1T2dVLVBxVkI?oc=5",
-      "source": "아주경제",
-      "date": "2026-10-07"
+      "title": "이억원 금융위원장 “금리 인상기 취약계층 지원 강화…가계부채 엄격 관리”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6a1ZpMk1GM2NuQWczaUtnWXM3RW9udnVjZFpLMkV1Y0FSMWxPM2FsVXR1bzhfR0I3SmU0ZF9kNjVxN1hBTmE1VHhpRU9wNFJ5ZmZUMGxUQTZEQVk?oc=5",
+      "source": "KBS 뉴스",
+      "date": "2026-10-08"
     }
   ]
 }
