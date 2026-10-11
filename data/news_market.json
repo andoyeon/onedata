@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-10-10T00:37:51+00:00",
+  "generated_at": "2026-10-11T00:09:59+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "이억원 \"금리인상기, 정책서민금융 금리 낮추고 공급 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13Y3UwWDczTlkyNUEzSS1qaEFYcXFrUmc5N2Zwc2RydjlFVVozczJSbEZLUXJ0Y1lldzRUaUd2ZGQzN0hGRC0zdmJiaVcxNUJNZ0tTQ0RNci1rdFgyOUJ2bdIBYEFVX3lxTE13Y3UwWDczTlkyNUEzSS1qaEFYcXFrUmc5N2Zwc2RydjlFVVozczJSbEZLUXJ0Y1lldzRUaUd2ZGQzN0hGRC0zdmJiaVcxNUJNZ0tTQ0RNci1rdFgyOUJ2bQ?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-10-08"
+      "title": "[주간금융이슈] 신현송 한은 총재 첫 국감…연속 금리인상 효과·금융안정 점검",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92b00xUjFfOXh6blFfcEFvcXY1OTdlYjcwV0ZZR0N4NVhVNlVCS1JiSjZURmlXY2hzQkNCMkxkbG1EVF8xYktpNjh2V1U0d1k5aVpoUnRnY3JNWXRH?oc=5",
+      "source": "뉴스핌",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "BOJ 총재 \"금융 여건에 따라 정책금리 지속적으로 인상\"(상보)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLWtrcHhQTEt5ZjN3X1gzUGdzVXBTYXdKU2F2Z05ZNndDU09Lb3dMX1Y4eXlWYmNNNzhjbEtiTWRQYjY0NXE5aFMycElkVWFHM2xnazVlMUlzWlVXaVVKdXpDalBTdkRrb0RWZDhSZ1o?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-10-06"
     },
     {
       "title": "증시 호조에 상반기 금융지주 순익 17조6000억원…전년比 13%↑",
@@ -22,22 +28,22 @@
       "date": "2026-10-08"
     },
     {
+      "title": "[2026 국감] 이억원 “금리 인상기 대비”…가계부채 조이고 서민금융 늘린다 : 네이버 블로그",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFh4d3VkT3Q0VEVYVW1tY1RWWXlGUEY2NDBEMmsyVXBrMmpLNVZteWVZT1FOSE9IbWFleTFuOGZsN3RmN3BNVVQzT0Z0bTl2WG5iU1RIenpXbFhJaEVXaHdQT0YyT3ljUWRlLWVlVEZNSjhlYnFYSW9WYU5PS1BFc1Ftc0FVY1d2a2tOVGx5VQ?oc=5",
+      "source": "Naver Blog",
+      "date": "2026-10-10"
+    },
+    {
       "title": "장기금리 5.36%까지 치솟아... S&P500 0.22%↓ [뉴욕증시]",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CX1lRQlp0MUxST2QzdVJ2YmNRRDV0bXNoT3UyaUFxYW9ORURCOHlJaHVDaVYtZDNkY0FaMWxqSElZTTdFUWctRnVsaFFqb0tfUGhPY2Z5SVFhMm9XaG85MFF0MUk?oc=5",
       "source": "매일일보",
       "date": "2026-10-07"
     },
     {
-      "title": "기후부, 에너지이용합리화자금 금리 0.5%p 추가 인하…금융부담 완화",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nb012OVA2WklXdFczcXZsTDhGR3ZDQmdDYUhEZTNUNk14S0xnZzRPbDI4OUlaZ3c5d2JMM1pET0ZDY0RLaDdVaU1GT0hLYVVVWnVhODd4elJZMElNZ2RwcnFSX1cyNVA1RHFZZtIBcEFVX3lxTE95cEU2Vk9ka3NIWHhna2tHSkJDWVI3dFpQYklGMU5DOHNtS19pYU5CamVTLUVWaEE3akdwaWlLVXpxVHIxR2VoM25BWXJDbThtRGlGWnJTc1ctcktJS0V2QU1RTmx5cDhfU295RU0zQlE?oc=5",
-      "source": "전기신문",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "BOJ 총재 \"금융 여건에 따라 정책금리 지속적으로 인상\"(상보)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLWtrcHhQTEt5ZjN3X1gzUGdzVXBTYXdKU2F2Z05ZNndDU09Lb3dMX1Y4eXlWYmNNNzhjbEtiTWRQYjY0NXE5aFMycElkVWFHM2xnazVlMUlzWlVXaVVKdXpDalBTdkRrb0RWZDhSZ1o?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-10-06"
+      "title": "이억원 \"금리인상기, 정책서민금융 금리 낮추고 공급 확대\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12NVlxamp0UmhpandaUDdXWkhQYlh6NFF3UXdKQkM4RXNGMDNWRS1NZUhKQWxoWFZkUUVXMG5PbDZiU09EQXZIaE5XUjBKQXZnOEUyeklIR2ZhTVnSAWBBVV95cUxNd2N1MFg3M05ZMjVBM0ktamhBWHFxa1JnOTdmcHNkcnY5RVVaM3MyUmxGS1FydGNZZXc0VGlHdmRkMzdIRkQtM3ZiYmlXMTVCTWdLU0NETXIta3RYMjlCdm0?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-10-08"
     },
     {
       "title": "이억원 금융위원장 “금리 인상기 취약계층 지원 강화…가계부채 엄격 관리”",
@@ -52,6 +58,12 @@
       "date": "2026-10-08"
     },
     {
+      "title": "시장금리 상승에 은행 정기예금 금리 연 3%대 후반 육박",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NX2Y2Unl2MFdUME1tcm1aVVlpN2w4QnBzUUFEZU1UdEJnbzNWcDVEV3dKZmFPQnRleHFqTzluemtCSWNJLTZpQS1WQUVVTXNQdUJwZXE4UXNhR2dCa1VRbmtldk5jZXVESUt3?oc=5",
+      "source": "BBS불교방송",
+      "date": "2026-10-10"
+    },
+    {
       "title": "상반기 금융지주 순익 '역대 최대' 17.6조...은행 주춤에도 증시 호황에 '미소'",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGSFM0Q2lSajFibFRqck14aEFsOEZtcE9uZUE0ckpnX29aRUpCMC01ZE1VdTc0dTJETy1RREJOSGxrb0NHSndMdHlaLVZRalNibmhaQlZjTnE4YzduMnR0VVNVa3JmR3Bn?oc=5",
       "source": "녹색경제신문",
@@ -61,18 +73,6 @@
       "title": "증시 호조에…금융지주 상반기 순이익 17.6조 ‘역대 최대’",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nVUI3b01GVXptUnRpX0ZseWh4OUVzOVNmRGxFYlkwM3RjU040VEVMLXlpYjFPYzdmRXIya2ZPX2Z6VS1LOS14Sk1CNWRDZWIwcGFadDU3bGc5NjFRUHZnTk1lTUhwSi1LdXNjTF9aeVYzbk5Wc1HSAWZBVV95cUxPNVVsX3pTNnFQM3pTUDJqalloOE03bDRtc3hqNGJTWTNkRUxrS0Y4NFpHWWF6VVhlV3ViRVdSNC1nUl90TXljNU9BQXBidnpDZ2cxTWEwWlVPRFVaYmF2N3VXd0ZMT2c?oc=5",
       "source": "동아일보",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "하나금융, 금리 상승·환율 하락 환경에 매력도 극대화",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MZlZka0kxRDM5ZDJVRU0xREZ3U083cHVVX1lXb3FsTmRRMG5wbEJqa01tRlQ4UlduTTZjelJXTlZfUjUzaVdJZFNEaFBIMEdUazdZQm9yc205LUxhWjRlX3p0UE1sT1NWTUVFb3Bn?oc=5",
-      "source": "알파경제",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "금융위원장, 망분리 완화 의지 재확인…\"서민금융 금리 낮추고, 가계부채 엄격 관리\" [2026년 국감]",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzYzQxMlFGQUJnc3UtSTJRbFB0QXp2a01GbjVBMUVaTXZzbmFSMzJzdzdtOTB6TnZaME14akNOYVVTQXdtMVFyRWhSUUNDZ01MVjdlWWhMaER0c1JBN3ZMOFg1cWhTVWhrdDR2U2ZhTQ?oc=5",
-      "source": "조세일보",
       "date": "2026-10-08"
     }
   ]
