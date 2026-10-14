@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T02:26:13+00:00",
+  "generated_at": "2026-10-14T00:09:59+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
@@ -10,27 +10,27 @@
       "date": "2026-10-11"
     },
     {
+      "title": "'203조 순매도' 외국인 돌아올까?…현대차證 \"10월 말부터 반전 기회\"",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIUU5ZMnlMdHl3aWJ4ZmlWZ3JfMnpxV3hKWThFbnBGWlB5NUlhVXRtVHRpTGNic283N0lCeUxqeHhpVEtOblVGakNFUFh5M19UQTdacTRaOTNOQ0Z5Q1VpWnlqeGYwVGhT?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-10-13"
+    },
+    {
       "title": "반도체·데이터센터에 외국인투자 몰렸다…3분기 누적 역대 최대",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSXZERGlqazNBWWMyeGNneFMyWTRtSDJOdGY3c0ItenJKb2VsV18yLTZoYkppZGg0a0VLOE5CTWtFd2djRlluTUdhSFVnaTVhbDRvMC1LRmFPUGxJZ3F0TGNyNXhYMHdDNnN5bNIBcEFVX3lxTFBGRERlbXZOb3hZVFhUbmo0Z0JfQ1hkOHoxRkdjMWV3ZEVUWWpldGI1ZWs2LW0xc25IaUd6LWlORlA1WldrUzBJUVpGT29YYmstdm9CalhyX1AzZ3pwQWFNakl3T0gxQktRRWZiTEZkdHE?oc=5",
       "source": "전기신문",
       "date": "2026-10-07"
     },
     {
-      "title": "하나은행, 서브커스터디 역량 인정…외국인 투자자 유치 기반 강화",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uUlpNZ2R4d3JyVnZ0aFo1NUZQa0hKTHBGTXV0RVdtZmxBbkJpV0NadDFiWURDOF85SldaZmk1R1hWTGdWdWtiYUIzZEZGbnJUb0g5VmdoOV8?oc=5",
-      "source": "더트래커",
-      "date": "2026-10-12"
-    },
-    {
       "title": "충청권 실제 외국인투자 3분의 2 충남에 집중",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UWHlrSS1VXzZkNmlXLWlDMUtIUHZPdVlocy1KRFZSTDZkS0RmekY5Y3pwUlNjZ0dlcWg4aGxzRWt2WV9FS1ZoTUJQN0lra3FZWlF6a3RIR0l1NmhOOExPUVlSTGhkb2xRX0ZTZVZR?oc=5",
-      "source": "충청투데이",
+      "source": "cctoday.co.kr",
       "date": "2026-10-09"
     },
     {
-      "title": "외국인직접투자 신고 10.8% 증가... AI 데이터센터·청정에너지 투자 확대",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GU0xRLTQxUHEtTnduUnhCaDhRNHRCS2tYMnBXcmhEeExxSWYzUUlEdDJ4T1V0VkFJemJVa3h2MmhaZWt1X2tLM2pFTnpJcDFaLW5oWnVzX21Ud1QyUk9ycDN6STBDV0ZWeW04T05B0gFyQVVfeXFMT0RaX1FLOEZyRjh4LWdPMjhJdjUwWGVETDJHVlJESm9YZklud2NRRFJKLTRvT2k2SmlJakFqMjB1VjhWRUtma2JKUmdyd2s4d2d4ZUE1SlZnY3d5OFBuZy1DcndMMDNfXzlQcDFYSFhqUkNB?oc=5",
-      "source": "테크데일리",
+      "title": "3분기 외국인직접투자 동향",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5meDYzX1BZQ1BxME1La2o1QzA4bFJKWUhvOE9HR29fd29BdnR4YTJFQm9tWU5fQWctX2lJdlBLSm5qQTZBUkV2d3U3NmlhNGxLUWs5cUU3TW8zenNGcnd2dmdPN0NRcWFTb1VrUg?oc=5",
+      "source": "정책브리핑",
       "date": "2026-10-07"
     },
     {
@@ -40,10 +40,28 @@
       "date": "2026-09-30"
     },
     {
-      "title": "(해명자료) “[2018경제정책] 외국인투자기업 세감면 줄이고”(17.12.27, 조선비즈)",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaGFmNkI5YlFyYmVrUjNtOGJPNUtDMzFyRzZqY1NsajNaczNOaU1fZzhsd095R0M4Z0lCejJKMVBjUUxRV2FJRWtzNndHZWFsWThrMHlPdFl0TTNES2FNdDlXNG9YS3IyalZuSjI3WXBHck9ZYWlGMUstREwtZ25HdzZwQk5YZmlEd01n?oc=5",
-      "source": "서울Pn",
-      "date": "2026-10-08"
+      "title": "하나은행, 서브커스터디 역량 인정…외국인 투자자 유치 기반 강화",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uUlpNZ2R4d3JyVnZ0aFo1NUZQa0hKTHBGTXV0RVdtZmxBbkJpV0NadDFiWURDOF85SldaZmk1R1hWTGdWdWtiYUIzZEZGbnJUb0g5VmdoOV8?oc=5",
+      "source": "더트래커",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "하노이는 외국인 투자자들에게 안전하고 우호적인 투자처입니다.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTJLbmJ1N05XVzFPOHA3a1pVWm9kWlZBLXJublUzdmlpcUZDczVCUTUteEJwVXdwMWZCcl8zNlpqMWc2SzZsdEM0Rm5xd2ZESHNXalQ0MnZMMUROWVhycGlBSV9yYXlrWjhtYkFBWXlhM09FbGl3aXpOem1fay1EczI5TUhBTGhUVmxhR1dUWQ?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "외국인직접투자 신고 10.8% 증가... AI 데이터센터·청정에너지 투자 확대",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GU0xRLTQxUHEtTnduUnhCaDhRNHRCS2tYMnBXcmhEeExxSWYzUUlEdDJ4T1V0VkFJemJVa3h2MmhaZWt1X2tLM2pFTnpJcDFaLW5oWnVzX21Ud1QyUk9ycDN6STBDV0ZWeW04T05B0gFyQVVfeXFMT0RaX1FLOEZyRjh4LWdPMjhJdjUwWGVETDJHVlJESm9YZklud2NRRFJKLTRvT2k2SmlJakFqMjB1VjhWRUtma2JKUmdyd2s4d2d4ZUE1SlZnY3d5OFBuZy1DcndMMDNfXzlQcDFYSFhqUkNB?oc=5",
+      "source": "테크데일리",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "하나은행, 외국인 투자자 수탁 서비스 강화…글로벌파이낸스 수상",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xM0pQbnhuckk3c2UxYV8yS1VGcExXbFM3dUpsTUNxaWdGVi1ETnI1Q3NHUVZtV0NjQnUzY09laVdlMnA1bkFxc0gxQ3VWM0xkVDVTY3UzTElmRVdwN2hJcUdHUkVwWkVveDM0V1M5SHdMN2c?oc=5",
+      "source": "디지털투데이",
+      "date": "2026-10-12"
     },
     {
       "title": "올해 3분기 누적 외국인직접투자 11% 증가…반도체 소·부·장 '훈풍'",
@@ -56,24 +74,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2NJZlA3czlwbmNROU5HbUtaaEZtMnN2cnNqb1AwVjlwVm5XcVdPX3ZqQmE4NVBMVHNwNU51aXdxQTVyWU55RmwyMGFjR0o4R0hJWUV6QVktWjBVdWhmeG1Vdk5mcEZBdHgzMlNoeHIzN01tOFR1Nm56enBsaWRhbElrVl9YUdIBmgFBVV95cUxNdndRN1RPTnQzdU9QSmxMREdqSWpaU0Z6WEdackRDNjNzOUxYU28zbmItdUdsWjV4Tk5hdC1QV0V4Z1laczNfOG9qa2JvWjdpQ3EzcjROalVnUm1yVnVRYnVEWEpTR3VHN1VkMHRvYXFpb0REaU0wQVF1cnpLc0dnenRWYkVia3F2bGNLTFBISzlWamNEN2RjejlR?oc=5",
       "source": "Chosunbiz",
       "date": "2026-10-07"
-    },
-    {
-      "title": "국내 경제 부문과 외국인 직접투자(FDI) 부문 간의 연계를 강화합니다.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYzFtd3NvczkyQV9LcXo1cDBYVnhUMHZpcVF4N1l4cHQ0V3N1eU1rQnhMU200dDljUm1VVDNOVmJ3UFNpemg4OExZU0JYQ1hWeURYOGJfdmJBdnkxdXBnMDhrV190Y0Y2Zl9MQ04zSFBJRlV0T1FCaGRuOF9wNHpuX0JzNklZMjR0ZS1kWnp0TlppLURlLW1z?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "하나은행, 외국인 투자자 수탁 서비스 강화…글로벌파이낸스 수상",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xM0pQbnhuckk3c2UxYV8yS1VGcExXbFM3dUpsTUNxaWdGVi1ETnI1Q3NHUVZtV0NjQnUzY09laVdlMnA1bkFxc0gxQ3VWM0xkVDVTY3UzTElmRVdwN2hJcUdHUkVwWkVveDM0V1M5SHdMN2c?oc=5",
-      "source": "디지털투데이",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "하나은행, '2026 베스트 서브커스터디언' 수상",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LYzh3ZmFacW5kM3g4eHptck50dWxZUU9YVGhxUzM3dWJPQjl5a19DU3d1RGctdjZZaEhBN1o1TVhibW5jQnc2cURXY2NtZVMwVHlMSU1PM1lRZGZzeTVoVlhzRGpSZFdZRXJBbWZzTnlNNzdI?oc=5",
-      "source": "파이낸셜포스트",
-      "date": "2026-10-12"
     }
   ]
 }
