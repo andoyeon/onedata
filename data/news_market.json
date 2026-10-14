@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-14T00:12:17+00:00",
+  "generated_at": "2026-10-14T23:47:33+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "코스피 6000선 다시 시험대",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FVGc3TWpVLXNXd1dWOF9mV2d0VFpRWUZ5bXFJdGVtTGlvcE9fRlZaZTg3Q3hTdnhIbmxXYXJHaDk4eWE4N3RMTXFhN1pLVjlfY3B1M3IxS1lDN09nMXp5ZE9feHpvaXJMLUNGcFFKdm84QUXSAXdBVV95cUxORG9sU1o4eUJvSWtYT1p2dU9CSmg0bjRGeXBtY29VbllPeUJ0ZzhYQlFqeVY5cVNWLTA0V0RLaWoxbV9ZN0NXQXJJSVZpZ3Q0MVVwa0JWYlZwVG5BSjlGZ3AzM3E2Tm53VXN5VUt5NHZzbWtKWEFYcw?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "신현송 \"AI 호황, 중동 전쟁 모두 물가 압박\"…금리 인상 기조 유지 시사",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0tCOTgwNGVrU3QyTm9HZWdzOG5DdFdYZy0yaXJUaXMxQUZ3UUtVWndEQ29VekxDRGR6TkcteG9fWV8xRmI5VlM0TWZpWXA2bENwOFhvdWFBdjdzRUMtTWdEc29mUC1ZR1FYNXFmZmdIUFdEUzhBX3NvN2NQNWV3N3NOWXg3dkVJMmhncnJ3?oc=5",
+      "source": "조선일보",
+      "date": "2026-10-14"
+    },
     {
       "title": "신현송, 중립금리 상승 가능성 시사…\"신기술, 금융시스템에도 영향\"",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tbDl6eWVrd0xaSUROY2lFV3gtNUZ0WmpkbGQzbHpOVTJaMW9iaFppb0NRMEpRS1EwRlNXR2p3WlRPRm9keEhDd1NWYThYQXZkSzNVODN5WDY3aHZNSTZxNHlMcWxHOHVPdV9qdk9velg?oc=5",
@@ -10,34 +22,22 @@
       "date": "2026-10-13"
     },
     {
-      "title": "코스피, 반도체주 중심 급락…6000선 겨우 사수",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81aW1PQTRvRzRVREpVMXVuMV90ekdlWjJqMjEyQnlwd2FoaGJJZjZOTTE2cUpnVWl1ZjFPYlVwcnJmZi1XQWZGX1cwakdIMWMzN0VQSHIzZlhHTWNJZ0UwdFIzbG1hdnphWUYweQ?oc=5",
-      "source": "경상일보",
-      "date": "2026-10-13"
+      "title": "'박스권' 코스피 7000선 복귀시점, 연말연시까지 갈까?",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVHVUYkZpVUUxU2k4bjNKTmxhU2M3OGhXVy1nS1lFOUJyV2xUNlJYZUg4bllkR1A2TmRpdFFoZlFrZ1VWY1I2dERRYnEyTW9IeWxIeUJGb3dESUJ1OWZfaXNQTnRzbFA1Q1E?oc=5",
+      "source": "금융소비자뉴스",
+      "date": "2026-10-14"
     },
     {
-      "title": "신현송 “원화 추가 강세 바람직…물가·환율·금융안정 모두 긴축 가리켜”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UejJHcGJaczlJaUZGTHhkXzlKVnhXZFp2M0ZMTWxPdE5rdXFLR1BHOHV3a3RDSDlqSVdRckFHYXRjTXNoM0VvNDZOYk5lRFJNRUw4aA?oc=5",
-      "source": "뉴스1",
-      "date": "2026-10-13"
+      "title": "신현송 \"물가·환율·금융안정 한 방향\"…추가 금리 인상 시사",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QUk0tOUFpaU1UVDM4WHpFR3YwajRMdTN0dzdFVVQzUFZsSkNIcEF2eFg5R1dSNzE5NzdtMW9MUFBQYmFXWF9CdkdRM2pCbnlacThCRThYT204Qlgzclo4U1JQQ2x3enZrRHVObQ?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "date": "2026-10-14"
     },
     {
-      "title": "상호금융 부실채권 6조 털고도 50조 육박, 높아진 금리에 한숨 더 깊어진다",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpUG41cUJvVGhIaEJ6cVVZSk9pSGYxblRLSXIxbXFCNHI1MGxQVktiSXljX1B1YW5aSEh0Y3ctWkxlaVRYM19YQlJBTDVRc21iQlFNRGNTaWxkQmNfcUw5clM3Y21JY3lmYUp6dnVQTV9XOFU?oc=5",
-      "source": "비즈니스포스트",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "[원자재 시황] 사우디·후티 충돌 격화에 시장 위축",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdThhSTlNWjRrZUxmRnVZUm9qdWhReFd6Tm83OUV2bldIYzdCNzJZU2NGd3lrS1M2bFF6RDRybDI1d1BsOFBaZU16a1NGN3dVOUQ2Z1U2Y0cwMjdvTTdiSWYzTDFFRWlz?oc=5",
-      "source": "www.ebn.co.kr",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "SK하이닉스, 다시 140만원대 추락…최고가 대비 ‘반토막’",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SSHlTRjNzZkhqbUlueFdxdGlGRWFBTE9hS1Q0VGJtNWxaMzFSUGVHNlU3Y3ctaUhFeE0yNk52LUxjSjNtYlhQVXpWRi1KbFF6eS1Ldnk2LXFQUmRfVkR0M25qd1lvWkVmeVHSAW5BVV95cUxPZUpWaVJZRE1TUzA2TTl4T1piUHZPREpIdWc5cUpMSUp1MGZIZFBZRTFRVWF5Z0htRXlNRUs3Y2tPVEt5TnpQaWkzZ0hKcWtFekVfQ1MzR3RFZUtuREtLYkNaWk1hTGxoWTZDbk5CZw?oc=5",
-      "source": "중부매일",
-      "date": "2026-10-13"
+      "title": "코스피 6000선 턱걸이... 외국인 매도에 0.44%↓ [마감시황]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93RXdQdWc0QlFTLTBjaDQtaXlnZ1RnZkoxTXprOEhtdGx4SG9NaFR4UEEwUndhTTNHUTZ1SGdDN2hrTE5lYjBkSGhZdm8wSUtpRUluRy1kUktVdUs5ZFV1aUc2TkQ?oc=5",
+      "source": "매일일보",
+      "date": "2026-10-14"
     },
     {
       "title": "원/달러 환율 1,332.0원, 2년만에 최저…원/엔 금융위기 후 최저",
@@ -46,16 +46,16 @@
       "date": "2026-10-12"
     },
     {
-      "title": "코스피, ‘검은 화요일’...6000선 턱걸이 마감",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhaTNiREg1TUZtN0xxd0tHcV9HR3pLSVBIa2xrTjZwUVFOYlRDNUtiRE9PMGNpWVlGOWhnN3hmaldRZVdNaGxUalo1TTFpdVlYVkxZUUxObzE3Y2N6ekRjREZrV0xDVVVyWWF4QklhSjMwa03SAXdBVV95cUxOaEpZWHhIRlpuZVd1WlZ6TWtZVzBubk80WmY5NFNPMjFlUl9pYlNvSVZkWXh4aGZ5Z3RsXzZjVU1RSEN2U2t5cDVKM05pX2JwTmM3M2JWeE1sR2p3cDlzTTFKTjdPSFRBMGFrS3NtS3Y0LU5FZVdmYw?oc=5",
-      "source": "스트레이트뉴스",
+      "title": "신현송 “원화 추가 강세 바람직…물가·환율·금융안정 모두 긴축 가리켜”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UejJHcGJaczlJaUZGTHhkXzlKVnhXZFp2M0ZMTWxPdE5rdXFLR1BHOHV3a3RDSDlqSVdRckFHYXRjTXNoM0VvNDZOYk5lRFJNRUw4aA?oc=5",
+      "source": "뉴스1",
       "date": "2026-10-13"
     },
     {
-      "title": "장중 6000선 무너진 코스피... 낙폭 줄여 간신히 지켰다",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tMXp1X0QyZUdJM0pjMXFsX0kta2tUMUdYUkhGVFdPcnEyM0luTzd3cWV0NVlBbUxQbUx2Q3RRMVhMaHlSekZWZXJnbUZUS2ctMDB3STZKVXVzRzRRN3lzR0t1Vzc?oc=5",
-      "source": "매일일보",
-      "date": "2026-10-13"
+      "title": "\"금융소비자 잡아라\" 은행 수신금리 경쟁 치열... 안전자산 목돈 예치 더 느나",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yTC1xcFV3bjduWE9uVlgzVG5TSUpUNnJqSFBxQzVWLUFkRWNvdnZhTHpUYS1KWUxoUnNpWUppZ3F2RF9MRHBhLVBkeFlRdktvSUdOaTVteVZBaE1qOFI5Z3FaTWk?oc=5",
+      "source": "중도일보",
+      "date": "2026-10-14"
     },
     {
       "title": "저신용자 대출금리 역전?…'통계착시'에 금융위, 공시 손질한다",
@@ -65,15 +65,15 @@
     },
     {
       "title": "신현송 총재 \"물가·환율·금융안정 한 방향 가리켜\"⋯긴축 지속 시사",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hWTRhY3YzRGt2QzVxRVBCOE1zeUxRQ3RpdlBEQzktNndDXzNseDJMV1dBalg1TDlRTDE0dlFhUGk3OWo4b2tBTmpUeU9ldWxrNm9VUnp5VmVSeXB4THlFTFJGZW5GNDBDU0xDc1RR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNS1OT0xQQVNYMk9FUWdWeHUxZnk4a2lBR2FXb3gtdGhZd0pVelFmdW5EUDFfWWZRVGFhcWtybU4tWkxEcEozNmpEa2s1M3hZQ0VrTkREdUxpbEFuUmhYd2tyQW1Ha2Z3Mmw4?oc=5",
       "source": "이투데이",
       "date": "2026-10-13"
     },
     {
-      "title": "경북도, 관광업계에 86억원 금융지원…연 0.8% 금리",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvclR6WU1kM3g5b3BTV0dsUG1IRzNub1NkSERUX2pTRWpqbjQ1NnRXSXJrM2xtUVN2SUxlZUxSTVBfN3Z5Z3I0WXppcGZodGQteV9HSlNBeHJhZw?oc=5",
-      "source": "경북매일",
-      "date": "2026-10-13"
+      "title": "한은 금통위 “연속 금리인상, 물가뿐 아니라 가계부채도 대응”…추가 금융불안 경계",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mMmlpNldQSDNjbWRuNWtXSXBzMHRsbmJxMjZCRjE3czJNTkFwQlM3N243OWRSWm1IVUk4U2t1YkVSX0NQRXRXUi13ZjFrSU5YaFRjSzZ5WnNpcnBJczNHa2w0dnNGOGhmYlRF0gFuQVVfeXFMUDhtMzZQTWxFWEFpVEhQZ21CVGFRMzBRdWhnekNzYi1IbHhZSzcwYWIyazlvVTlRaVR6eXRod2U0a3NPb09UR2Y0S09yODdSU1JYY0Rha1hrcTdfa0lRdjB6eU91My1yTzFxTnd0SWc?oc=5",
+      "source": "제주뉴스",
+      "date": "2026-10-14"
     }
   ]
 }
