@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-10-16T23:21:51+00:00",
+  "generated_at": "2026-10-17T22:58:26+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
+      "title": "[주간금융이슈] 5대 은행장 '해킹 국감' 시험대…한은 금리 결정도 주목",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBia2o1azFQc0plTHg5RGZVX0ZlSUhLU1dxdGNSd1A1eUlCZHhOUnVLWEdJOFFmMVowRVhBQnA2bUlIQ3JSVnVvb2tiZWJhMk9pR2JadE1UVDFZWHZt?oc=5",
+      "source": "뉴스핌",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "[인사이드 금융] 금리 올려는데 은행 수익성 둔화···님(NIM)은 왜?",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGWW4yU2ZOeklZSlVFMHRyQXpkcTREeVhsd2pnQmRxdEhPTlJCcEJkaklVRFBRWmV0eV90YWRoTlFyaVZzdklsNGV5WmROQm91eWZtWG9RMmxVWml6emFVMHM4Tm9Ibzg5Z0E?oc=5",
+      "source": "서울파이낸스",
+      "date": "2026-10-17"
+    },
+    {
       "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0akE0TktQTnU5VFFyRE9QVWFfVzFQaXdZWUJ0aVRyMFZzRU14X3RtWTVvbHJ5ai16SkVXMDV2dlEtc1I5cGVvekhBZGFCMEZCdzd5b0g2VERMTlo1TXMxQ2JSWVVwRldFUGd6bw?oc=5",
-      "source": "대한민국 정책브리핑",
+      "source": "정책브리핑",
       "date": "2026-10-16"
     },
     {
-      "title": "신진창 부위원장 \"증시 등 금융 안정·지방 이전 소통하겠다\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnTUhGR0lhSGZQZG8tbXlBWmx3N3NvTFZ5TjBPX3dTNi12blpjd2R4M2o0VUtELXhVaGlhZTMtMlBKVTEwOGJEQ0xYZGFsa1pnSEl5Sy0telU1ZlYySTloLTROZElTQjBlVUEtMm5TY3TSAXRBVV95cUxNMWo5S1NVemJyOVlSVXJDTXpTeGRfMkdhU0VYZFV5UjBEMWZPdnc4WWd6cFZZM0VkNzlPSjM4Z1hfdjVDRm9lb1JoZ2tlMVZDNjJuVG5ka2ZURmhnN25zSU04ZzFqQ1lLM2lNS0xIbkNKS0c0cw?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-10-16"
+      "title": "한은, 금리 인상 열어둘까…국고채 반등 경계",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tNGNJd2JET2JISjRXOUZFUnFFMElkSW9aMHBqX0picDdwVGk2OUdJYWFYZzFRUUJQTGVBY0dkREFESlNyVUh5NlcwaUJES1V6TGJEVDZLcXJQMHJDWkpZdnhwNHlXNjRi?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-10-17"
     },
     {
       "title": "금융당국, 증시 긴급 점검회의…\"과도하게 반응\"",
@@ -22,16 +34,10 @@
       "date": "2026-10-15"
     },
     {
-      "title": "\"한국 금융당국 뭐 했나\"…코스피 폭락에 美 앵커 '작심발언'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XdE9Bd2UzLW1yblJyR2xpeUd6c0dWeU5Kbm5GSTFmSVYyOE9zNUZiTE5DWWsyejNRZEhCcXdzXzFPZWt6WmZJVFVudkwtVHk4RkRxeVVGZWtZZw?oc=5",
-      "source": "한국경제",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "[공동락의 금리산책] 세계 금융시장 '충격'...멀어지는 금리 정점",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56bkgzRXVZZmdIdjM5UmZiUGVzYWxkWVlXSm5OWGFybUEzcE1EUXdocGlqeTFJaF9fT0w5dHBmaFdJeXRvdkstTUxVVmV4cE56Ni1VQkh5eXVxVWREd290cnZSY0JtaG1WVGZCMW5UbTbSAXRBVV95cUxQOFFPWU96RUxUdnNVUlRrSW9sclEwLThiamtqdFNCOFZ6em5uc1FMZldDU3I4bHdlVV9nWHdQVVV0TDNZU3UyMlJzcjlvZmVVWW1pUTFXQ0FZcl9fRUtpR3JkY2VmUW9WdjZzNW9QVHlGbUNkUQ?oc=5",
-      "source": "주간한국",
-      "date": "2026-10-16"
+      "title": "증시 대폭락에 금융당국 긴급회의…\"비상대응 준비\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5haFJJbzRxY1VOZFZFXzU1VERPWXRNREJVQUxTUEJPdk9BWDhub2VwNlc1dkpHTVdRSGxYWUpTT0FZQXhkUlJMRkw0SG9ySTY3a2FqRjRtTDFZMkMzZjROdy1iQTBuZ0Q0WUswRG9BNk4?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-10-15"
     },
     {
       "title": "코스피·코스닥 -7%대 충격 마감…금융당국 긴급점검 회의",
@@ -40,28 +46,10 @@
       "date": "2026-10-15"
     },
     {
-      "title": "“코스피 0.66% 빠졌는데 전액손실”…200배 레버리지 등장했다는데",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FNXFtYWtVWVVBcHQ0VjdsOF9pNUZpTUVxeXZFZkNhQ0hxa2xveFhVODRaN2lmaXRaajl1RWYyZUdJVk5qczNvTG9TZnEzWFprVWc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "코스피 0.66% 하락에도 원금 전액 손실?…금융당국 경고",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UWXlwLUR2S2w4d05HNldKd2RSRWE1dEl2ek4wbW5xa1hxeUt4TTB5RHFCTGlYb2VxMkFhTGctM3RaNWR3bUhKZVlydnRaQnF2NjhPNzRYZDJuWkRWRnh6OVVtX05TN0s1dVFFedIBcEFVX3lxTE5jN1hDNTZYMkI1cFlEZTFkSHlNQS1CYy1VdjE3UjNzN2lVZUlZbVY2Ny13Umx6SXNrMmJIYkdEZVJwOEh1X0UzU1R2QV95Z3VzN083WE5pT05CT0t4UXh2cjBoQ3FvMlVaemVvZy0xVjk?oc=5",
-      "source": "엠에스투데이",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "신진창 금융위 부위원장 “증시 변동성·금융사 해킹 등 금융 안정이 중요” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3NUSXp1Z1pJUXc0NFRHdzR4RXYtd2YzTk1SZk5fM3lPTlF1bm5yX1VPaUhhNjVFLXJvME8zWXpYMmZhbGx0aURHWnFlMzIzU2hoR0g1R2xQb0tYMVAzaElUUW13RDhZMlI0YmVSMnRUY3dNWktJclgyWmVHbFlTS9IBlAFBVV95cUxOOG5xNnhSSDk1SkZBcHE1cFhOUENjN09vX2FMMjJTVWxic2hEMDE3WEQyaHJzMlNjQVozRlY2d0U1ZW1GMWpiV1pUMWptWnZYV0MwWUl1VDlBWEREemozMGdpSzZNT2FZaUZNNnJTSmdUdHRCc25wVXB0SDdqdHplelhZeV9zVXZ0ajc5YW5qck9ESnRT?oc=5",
-      "source": "Chosunbiz",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "충북 오창 에스에프씨, 코스피 상장 첫 단추 뀄다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkT19vRVh0VnQ0LUFFQ3ozTlhlclVuUmQzZHZIWnhmX3VpM1dGWDhlYXdzdzJHdUJsUDJHbHhiOWZneWkxczd6eFE2Yk5JeG94SGxaVWlBQVdyeTkwaklnc1p5X2l6N1lKYmfSAW5BVV95cUxPNXdRRkpfaldYOTAwdm53Y3BPV2tKNDdkdlVkYmtpbmE2eWo5Ukl2NV9zRXppVjB6ZVBSVUZpR0tZa1ZoUzJRa2R3V0duSEs2LTFyUzdKMG82QzBLTXFsdHlyeHJvQ3Fmei1xNFZRQQ?oc=5",
-      "source": "중부매일",
-      "date": "2026-10-16"
+      "title": "\"AI 우려에 유가 폭탄까지\"…뉴욕증시 기술주 잔혹사, ’금융위기급’ 신호음 By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1OThYWGUyMzFhLVctcUhoVXRTN0VodmcxeVRRZXMzMWYweE5HNDZ4a3hPbGJlVjAtSjNpQU1vU3BaMklwQzdvUWpZaml2bUdxQUkwU3EwWWRuRmJZSl8yRm5pS01kQng5VWc4U1Etb0w?oc=5",
+      "source": "Investing.com 한국어",
+      "date": "2026-10-17"
     },
     {
       "title": "금융당국, 증시 급락 긴급 점검…“과도한 신용투자 자제”",
@@ -70,9 +58,21 @@
       "date": "2026-10-15"
     },
     {
-      "title": "코스피 5554로 급락…정부, 금융시장 합동점검 강화",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LTjBLV3VZUjBpb2xfZUhmVTVPWWpqUUVDT3ZLRHR5TjhNZVRxQXZ0OVlyQzV6d0FpS1hMcWVDbmRNQ1FKbHVuREdSSW9JaDZobl96RkZBR09leGV1?oc=5",
-      "source": "뉴스핌",
+      "title": "증시 폭락, 소 잃고 외양간 고치는 금융당국 … 기업은 1류, 금융당국은 3류, 집권세력은 5류",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jY3hUbWI1eHB4OHhMNkJIQTFsc3B4cS1rX0tlTU00ajVNYURfeTNaV0kycmhQbVRTQzlrdDZTSXBybXA4bjFhaERTM3dRM0FxMV91Sk8ycjJZNnlzVmdaUGJNTkxxeTJIcng4ekFiUFRxT2tQUUMwSjN1RdIBgAFBVV95cUxQZ1M2V3lUeG5KOTcwY0gzSVdQVmJOSm1WWVcxZlk0b2VfOWF3Rl9DaWVQTVh4ZnZGcXZjcElydlVia29kamlDc1V4VnNLMC1nN1hMM2RBdGVlYnFFTE95OWpjUzduME1BbnlLeXBqd2V6Z0dkOVdjM2tsNVJhVVdETw?oc=5",
+      "source": "뉴데일리",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "코스피 급락에 긴급 점검회의…이억원 \"리스크 관리에 만전\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UM2xNYWpHQVNKUEpzZEdMcUNkS2FlMjllbmYyMndXZ0JRR1RTcTZDeG9oQ1YyZHk3OWh4Ujl6Q1BIYkMza3pfZXM0ZjQ5QjhuZE03UTYyaXp0SW52QlE3d9IBYEFVX3lxTE9UM2xNYWpHQVNKUEpzZEdMcUNkS2FlMjllbmYyMndXZ0JRR1RTcTZDeG9oQ1YyZHk3OWh4Ujl6Q1BIYkMza3pfZXM0ZjQ5QjhuZE03UTYyaXp0SW52QlE3dw?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "[N위크] 기준금리 3연속 인상할까…4대 금융지주 3분기 실적은?",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pS243Mk1FTWIxUG5rV3B5dE5acnNOSDBORmNfUWJ6b1NGRUlPaUZOdFIwdXVIcWM4NFl2dG9fV0JDczliU0JYQllhUXRscGw3Vi1yNjd1cmp4OENOdF9yM0ZmMA?oc=5",
+      "source": "조세금융신문",
       "date": "2026-10-16"
     }
   ]
