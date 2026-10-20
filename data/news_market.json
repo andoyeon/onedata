@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-10-18T22:54:25+00:00",
+  "generated_at": "2026-10-20T00:09:56+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "국토부 \"기준금리 인상 등 금융여건 변화…공급확대로 시장 안정 기반 강화\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zbUF2emlqVERnRmxBbFROcWpOU0kwVEFYeU9MNTZJNGJsc3g2UDVOcjJRZjAwZ0hJb25pMjVaNC14aGlzUUlnX1lWRzIybG51d0tVTFpvMDdFbGdnbXh6ZGpJRGxCZWxMWml0aWM5UDI?oc=5",
+      "title": "[원자재 시황] 유가 강세 속 금·구리·코인 하락",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NVpoX0lKaGtEdjgyMnhuaTZtOGdjcko2TzZXeW52ZC13Q2hnZzNjRk1pQ2w3TG1kc1VyMTlEbGtRSUp5X0NPVWRqSDhkelJVTnhIaVVDOFYtM1hQNmJ0RnVZRUtFNmZH?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRS1nQWNfLVI5X0V4S3dWY2NoS2xfakhYeDliNGJPS25IaW1BTWhiV1JpcEstRXYtMTlrN05wTG1ISE5mR19VaWF0U0lBU0lMazNZUGhvVDd2Ym9PMjBGWXJrWUVEeEh6bWwxd09mOUQ?oc=5",
       "source": "연합인포맥스",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0akE0TktQTnU5VFFyRE9QVWFfVzFQaXdZWUJ0aVRyMFZzRU14X3RtWTVvbHJ5ai16SkVXMDV2dlEtc1I5cGVvekhBZGFCMEZCdzd5b0g2VERMTlo1TXMxQ2JSWVVwRldFUGd6bw?oc=5",
-      "source": "정책브리핑",
+      "source": "대한민국 정책브리핑",
       "date": "2026-10-16"
+    },
+    {
+      "title": "[마감시황] 외국인 매도세 완화…코스피, 장 초반 3% 급락 딛고 1.8% 상승 마감",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnTWNwNU5yNmNuY181MTlGTHhMWG5yOXhEbHZLYkdWZkY5amlFOE94RXpEbDBlazNmcHRuRHFyV0o2Wi1XSU1mdDNIamtZRk53dXNKZXdqdkd1bUVX?oc=5",
+      "source": "뉴스핌",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "코스피 폭락에 외신 경고 잇따라…금융당국 '뒷북 대응' 비판",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44ZWw5OTVzQTZGRm9RMG1DdVFNdk8xdzZMM2NjR3U3NW1TOEVMSHdYSFJpenZHbmhlREt3cUJNc2JIVUxaQ1pOY3hwSDZMbHRlaWNoS2Y2bXJGRVV6SWRzLVpYWmY?oc=5",
+      "source": "서울경제TV",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "[2026 국감] 해킹엔 사과, 금리엔 말문 막힌 5대 은행장",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CWXRsY1ZDek15S1pLb2FtblFxMnFFUkpJNTktZVAwZGh5a0NuSGV2UDJxZHliejRzbW94UDItR0tYTW5mVUMzUDRUbEQ5Q2p5X0VCMjJ0dEN4WXQwbWhJY05aUQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "법정비용 제외 취지 무색…은행권 우대금리 축소 도마 위",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yeXZDRTVGclF4SUl5VXotaU9VZlpzcjluZ1hKWTU0M2VTTjl3ZW81VHhPRmRneWVoWUh6Ymlpc2tmQVRhTTRhdmhsaDVCYkdP?oc=5",
+      "source": "톱데일리",
+      "date": "2026-10-19"
     },
     {
       "title": "금융당국, 증시 긴급 점검회의…\"과도하게 반응\"",
@@ -22,58 +52,28 @@
       "date": "2026-10-15"
     },
     {
-      "title": "증시 급락과 환율 요동 속 '빚투' 불안감…주초 금융시장 변곡점",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZVY4eEdEYmgwLWZwbXNXcklpWWJERFAybk9NMEdTUUc5cFFQSmUzbXBqbXhETG5xSEphSmF5UlpKR1RsYl9kS1hkZVJOUnVpMk1QaEdyVERWZEUtdVExOVVtNmswc2kzQklKVFlrLUs?oc=5",
-      "source": "위키리크스한국",
-      "date": "2026-10-18"
+      "title": "제주은행, 다이나믹 금리인하 서비스 시행",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qcHk1T3ZhcmdLRl9Bc3NiV3pYaElRNnBENGxRTW1PdzBjWjlmczJ5RTgyNmZYV2ZVQzU1cFp0YjktX09mTWtEbXNZQmlXQ1pud0U2X2doUWItVFc2TURwVFFSRGpENlllUy13?oc=5",
+      "source": "BBS",
+      "date": "2026-10-19"
     },
     {
-      "title": "신한은행, 중저신용자 금융비용 부담 완화…중금리대출 금리 추가 인하",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4Tkc2ckx6YTRfbzZDZGctNHZyWGtCMWNDTmI3Sk9pNUptZWIzQkFpb2FsUk05ODdXb3Q5RGFGT3E1MDdKczFyeUVaV3dBWFVLRGxYVjhCRWM4UnhE?oc=5",
-      "source": "뉴스핌",
-      "date": "2026-10-18"
-    },
-    {
-      "title": "[금융 게시판] 신한은행, 중저신용자 금리 인하…농협은행, 고액자산가 WM 강화",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yNDlHNlZFS2NXWE4yYjl5SUJVaGtyTW5hTlN2d004T3JQbzFmcll0ZGVMd3hNX1FnQmVLU21lb1VFV1FFd29MQlFJX2l3N29uTGJGU3V4b3hLdGRpYWVqNGg3VXQzbDN2d2c0?oc=5",
-      "source": "라이센스뉴스",
-      "date": "2026-10-18"
-    },
-    {
-      "title": "신한은행, 서민 대상 중금리대출 금리 0.3%p 전격 인하",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03aWxsQlliMmY1VnZjRC1CcjJIdWoxZWF0RS1UZjVKenViMGt3VWIxSjNNYjEzOFhlN2YtWWI4YlItZXZuTEJoUmxiR3lCcnpVYnp3bVNGXzhZb0ZoakkyQWljUGxWeklSbjY2OQ?oc=5",
-      "source": "뉴스락",
-      "date": "2026-10-18"
-    },
-    {
-      "title": "코스피·코스닥 -7%대 충격 마감…금융당국 긴급점검 회의",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95WHRzMWdEOUNYam0yM1hPc1FtR0RiLS13RjlzajI2b2RkcFBIM2FQbUN6c1YxM2ZYdEIweTlhSXoyc1ZLOHB0RVJWNWdwd0V1N0pwVw?oc=5",
-      "source": "JTBC",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "금융당국, 증시 급락 긴급 점검…“과도한 신용투자 자제”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OTkJ1dk9udW8yZENJNHI1aERvUmVONDg2bFRtb2dHUW9kZm5XRXV1alJLS1hzSlR1dGFRRGhySXMtU0xMdzdyTmlwYXBGaVBPY3J2WVVwZHFBR0k?oc=5",
-      "source": "KBS 뉴스",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "[기획] 기준금리 3% 석달… 예금 선호 확대",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wQmNzTlRLZ0RpZk9mSW9YN255YThCUHpuQWs1WGZnX2xEYkZrTXkzSHRZajFfR08xSXlSTUsxUXl6TkZQMkVHM0YyMHBvUzQ0MHdYUUhyOHFUYUdaa3VuMi0tUE0?oc=5",
+      "title": "반도체 부진에도 코스피 1.76% 반등... 5700선 회복 [마감시황]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JaGJoNjNhdTFfZkhSdnVqY3lpUVpNYmxVNFJHZHcxak5uV05vNW8xOVpFOUlGeW13TlBVMzJlbGU4cUJWRVQ0VlMyVFlpQXVJS1Q2OW95eC1Rbm80NEcxaVZZQ0Q?oc=5",
       "source": "매일일보",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
-      "title": "\"AI 우려에 유가 폭탄까지\"…뉴욕증시 기술주 잔혹사, ’금융위기급’ 신호음 By EBN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1OThYWGUyMzFhLVctcUhoVXRTN0VodmcxeVRRZXMzMWYweE5HNDZ4a3hPbGJlVjAtSjNpQU1vU3BaMklwQzdvUWpZaml2bUdxQUkwU3EwWWRuRmJZSl8yRm5pS01kQng5VWc4U1Etb0w?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "2026-10-17"
+      "title": "인니 증시, '퇴출 위기'에 1998년 후 최악 폭락…한국 금융영토 '동남아 교두보' 흔들린다",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWW4yd0JZMXlwUGROOC1ENXRLc0tLU1J6ZGY4NWIyVE14RFExQlJOQmRmXzdnMEpoVUN1VS1oRTJWOG9pNU9iMUJFQ1hWc1RwTmtDRG81aUsySUM3VHFKV0piTGYzRURaekdoNmlKT291dWE5UTU0aU9Hdl9ucXljMnVPZUN6LURJ?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "2026-10-19"
     },
     {
-      "title": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRS1nQWNfLVI5X0V4S3dWY2NoS2xfakhYeDliNGJPS25IaW1BTWhiV1JpcEstRXYtMTlrN05wTG1ISE5mR19VaWF0U0lBU0lMazNZUGhvVDd2Ym9PMjBGWXJrWUVEeEh6bWwxd09mOUQ?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-10-18"
+      "title": "코스피·코스닥, AI 우려 딛고 상승 마감",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvcjVib3poZ2hHZ3ZRaThkQ1Q5TE5ORkloMUthLWk3RHNkeElSRFZwRFJKLXQyZEJPY2g0cGR1RXp1TkhMcFVjSmVHRHdoMXJPWkFjcnllT0xCVUkydnJ3N0dSNHhtOWpmZ1E?oc=5",
+      "source": "천지일보",
+      "date": "2026-10-19"
     }
   ]
 }
