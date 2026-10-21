@@ -1,25 +1,37 @@
 {
-  "generated_at": "2026-10-20T23:41:49+00:00",
+  "generated_at": "2026-10-21T23:56:17+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "코스피 하루 만에 3.73% 급락…환율은 1320원대로, 금융시장 '엇갈린 신호'",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSM3RucjM3MDhmODl1SlhnVHpDVVpPeUlacXBjZkpEdlJPWFZWaERDeXJmMG90ZTJWNGtGTFJIQ0tacmNwZm5JRnY5SzZCbHpCRGpaTFY1SE1sUS1GeHVwMzkxMjc?oc=5",
-      "source": "지이코노미",
-      "date": "2026-10-20"
+      "title": "오늘 한국은행 금융통화위원회, 기준금리 3.00% 동결 전망",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45UjNORWNTcGxzYTV2ZEJsM3FReU9HS3VkRHgzVEdCZU1vN1NXWWh5Tkw2UlZ4QnhZUjVwZVN5bjYzWnJ2UDMzcnRoeVlKWVlhN3IycjU2dU54cXZzYWVldkgyaUF1SWFuT1hacnN0dw?oc=5",
+      "source": "전남일보",
+      "date": "2026-10-21"
     },
     {
-      "title": "MSCI 강등 경고에 인니 금융시장 '패닉'…중앙은행 금리인상 압박 고조",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uT09tQnktaEdQNlFKTUp5SE9XRnQtU0VCMnV6VFh1MktKSjVObWV0YmZnekdoTTRPRmVCTkRjVHktUVYwVTdDaVFlUk5DU3JUcDk4RzFSSTRSeVhyRGVJQkhpWTluZHlvZ2h1VXlUZkzSAXRBVV95cUxQVVNyeTdWNDJ4YnpsQjI2cVZxZFZFRjVBRjBZUGFuSEFNdGd1Y1UtdEl1NFRHbzk3ZVAtT1liZ2E1dGxjcG9BNXJoU0RNVnIxRnlhRkZiRzJ0R0JQcEdDdktzS3NUYWVHUWdHSGl6b2ZvUWpuRw?oc=5",
+      "title": "금융위기도 아닌데 증안펀드 꺼내는 정부…'증시의 정치화' 우려",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlRZWkZ1aTVQekItY0FJVzNWcUpBeFhMREQzelpRSWJzZW5OUjdvcS1meWRYZ2g5MEZuN004bnppMm5vVzVmOXVfcWtnbTBTRWQ5TzVLdkNaVmNickFkYUFySTRuOXExSXJTZDk5X1RMb2pGNVZyMU1QWEFWREVmSjZ6Yw?oc=5",
+      "source": "인베스트조선",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "4대 금융, 3분기도 5조원대 순익…'님' 떨어져도 환율에 웃는다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S2tkakpuNFFodDlpZVNtSjRjT2psLXpKaW0wdlFrZUZCQjEwNHlqWEhoRGFfenRRQ05xM3prTXJmQVNYQVlBcC1lNGJNeVk3XzFUN2tQZUZFSzAzYkNvUTl6emlxelZKZXow?oc=5",
+      "source": "비즈워치",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "[이슈체크] 한은, 금리 숨고르기?...3연속 인상보단 속도 조절 할 듯",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BczJWV2NkazJlQmJ0VXlTOWxvcXIzZmY1enZrRlctNEF0M0Z2ZDZtTGdtZGdBR2FuUVdFcjc3Y2lsa3dQZjVKdkVBQUJVWEdxLXhFcWsyaHNqc3pnQmRNZA?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRS1nQWNfLVI5X0V4S3dWY2NoS2xfakhYeDliNGJPS25IaW1BTWhiV1JpcEstRXYtMTlrN05wTG1ISE5mR19VaWF0U0lBU0lMazNZUGhvVDd2Ym9PMjBGWXJrWUVEeEh6bWwxd09mOUQ?oc=5",
       "source": "연합인포맥스",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "中, 정책금리 운영체계 개편 추진…금융시장 안전장치도 신설 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45QlpkT3c2dWdxYUtYV1RaeUFFQWV0Y3VpZjQtYWNPeDYwZG1HeUJjOEluWmtQTGdZd25iZ2VBZmZfYzIwUU5hZUdnV2JQak5JMlVnaE5BRzEwVUlKN1NKdTQ3QllobzVv0gFuQVVfeXFMTm9mZGNHZmd6X2VzdExxX2J5cTN1YWxCOFA3WF82SmlQNUxueUhMLW9WMjhEU0xSWFY4bnRYazNUWmJ0OEttM0NaamJKYzN3bDAzRnQ1OFY3c1oxdjF3Tnlicm9hYUVmXzAzVGViY1E?oc=5",
-      "source": "머니투데이",
-      "date": "2026-10-20"
+      "date": "2026-10-19"
     },
     {
       "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
@@ -28,52 +40,40 @@
       "date": "2026-10-16"
     },
     {
-      "title": "코스피, 3.73% 급락해 5550선 마감…이틀간 상승분 모두 반납",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wZkxlVEdFY0RPTU1uQjJ1N1kwNEl6NEhhVzAyZnkzQVYxQU03RHlCMk9sY2VBNWROSGwxRXQ4ZGlGUHlaS1ppWU4waU0xdE9yeldmS2VybHpXV3NJZURUOXpralJnWXotckQ00gFuQVVfeXFMT3VlUjJkREZFb0JxQ2hoVkU0RmRXU3FDNnJ6NUotcnZxYS1rZFBSTTVhaHpHWFBESGZpcGQtM3VqcjJFUjdVN0JCSllaWWlCdDY0ejhfZWZ5WG1EeEhLSHNwV05nZEhVUFZWajQ2OGc?oc=5",
-      "source": "뉴시안",
-      "date": "2026-10-20"
+      "title": "외국인 돌아오자 코스피 3.29% 반등... 매수 사이드카 발동 [마감시황]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tZ3BpOUdTaUFLaXdSYWI2Sk82VDBOWkRadWczRXU2NkJUTmpnRzJrZUN1OC1Ub2o5VWdhMWlGdkM1SXVJc3pyVkRPa19MYkpuS1VXYU9DZ21TdjB6M2Z0OS1pUnQ?oc=5",
+      "source": "매일일보",
+      "date": "2026-10-21"
     },
     {
-      "title": "[금융 HOT 뉴스] 11월 채권시장 심리 전월 대비 호전…기준금리 동결 전망 93%",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sTk92QjEyNHUtSU5HRUZPamVBZHJUdzV1YWFKZDlBVmlpdkhfbUlkSFl3aDhRM3N3dUI3R1h5VWxzNVZQZWJFaURLY2RaTjdXRWM4cDJlV3Qybl9VZXRQVVlnQ3JUa25CRXc?oc=5",
-      "source": "비즈월드",
-      "date": "2026-10-20"
+      "title": "기업대출 금리, 회사채보다 낮아…5대 은행 생산적금융 가속",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjBjTUNLS09XNFRyNlJYVEw5TU9fMVhwU19TUC1NY0dIbmxCWXRYbUtxMTdJQ1FCMTBhSmRsVENvUF94WEJIbFhWdmZqX3ZXRG9SSjdKOW9EbEgxUlRTV24yWkV6WHZCZlhNRmxIemlRQV8wS1ZtcGpsTDJZS3VKWElrcDc?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "2026-10-21"
     },
     {
-      "title": "금융당국, 증시 긴급 점검회의…\"과도하게 반응\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuYm9FemhUdkhHVGd5RERla0QxREMxdTRmUHFnOVc5dXAzS05icWVwSksxRFduLVY5OUJTM196OTVHS0JCdHp3ZlFwZWtLSUQyWXVxRWF6RklDaW5XNlZVbUJnSlhfWmM?oc=5",
-      "source": "연합뉴스TV",
-      "date": "2026-10-15"
+      "title": "코스피·코스닥 2%대 반등 출발…외국인, 코스피 순매수",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96U1QzV2dsTEttTDZTNVVKd1NWZUhmeEN2XzRHazJlZG5meTVwbU1ocTFjVHVqaUcyVFJmaDFTOUFiQjdDbzl4OXF0SGR3R2FhbWdBd3dya0hRUkUxRlN4YlFMR05VdUNuNUp6V0VYSjBGZw?oc=5",
+      "source": "인더스트리뉴스",
+      "date": "2026-10-21"
     },
     {
-      "title": "신한카드, 소상공인 대출 금리 최대 3%P 할인 [제4회 서울상생금융대상]",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qV05FbWFHSWtndW9KMmlrcTRWVVB2V3pwMWdrYll3b1ZjUE9tVVdNSG5Rc2EyWE9TdjhEQUxGLUgzNDNoek4xeDRJZ2lLSXJUalBfRUdWc0lxY2R5YTVHTF80VU1MQjNlWm1kTUhieGViT2pYcThmZE1B?oc=5",
-      "source": "서울신문",
-      "date": "2026-10-20"
+      "title": "금리 비슷한데 대부업만 제외 … 서민금융 잇다, 대출 알선 '형평성 논란'",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zMWJrZWdfbjl1WlltZGk0T29lM1E3Y2Q1TFRKRHF0VVFXYU1FUlRfWlh4YjNuekk4VFNHWHJ1RDlqakxHMFdXQ1NCX3hXUUNQbGx1bFgwbkc2OEhTdnFEOXdtSkEzbVpwd0tyZFFBZlRVZzJoOVVaWXpZONIBgAFBVV95cUxQdUxoMFRYdmI3RW1FZC0xLV9PUmxUX0c2blhpaGpwMFU3di1iOF83SHhVN0xtYUs2WGh5STg2NEd4VjdvODExWk9IWmVXZ2Nmcm1hS3FVWG5fZWE0c0ZTMG5zMlRNaHAyNW1qMEdmYWJaNkFIMFF4U1dhb3RNSHBwNw?oc=5",
+      "source": "뉴데일리",
+      "date": "2026-10-21"
     },
     {
-      "title": "\"환율 2년 만에 최저\"…금융지주 주주환원 확대 기대감 '솔솔'",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUFU4Z0tROHdXT1JHamN4Vy1rS3FEajNqWjFydUo1M2FqaTZhdDJzNWR1U2lsZkJpcHpHX1JfMHpRSWVkTHJvaEJlV3J3UTQ1Nkx3MHBXZ3FReWdtMnc?oc=5",
-      "source": "아시아타임즈",
-      "date": "2026-10-20"
+      "title": "농협은행, 포용금융 강화 기조하에 우대 금리 조정",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEeFk5Tm9jWkJFWVV1c0pwQW4yVWRBTE5Ia3ZRaUR6LU84QlZhVUgwc3BYTFFWRmM1Q1FHNU5vRl8xNWFCMERzS0ZJZ01VVUozT1NxaklWWFluQ0JRNlpBUlVOb1lhdDhp?oc=5",
+      "source": "녹색경제신문",
+      "date": "2026-10-21"
     },
     {
-      "title": "원/달러 환율 연저점 경신, 글로벌 금융시장의 반전 조짐",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uODZ0RXQwQkNRZ3EycmtzSlVUQXdLeUFScEVkMXJweEJxeG5TQk9iVkl5bnpiWXlVeVNvcE9nSFdpZ055cTRqcEUyWmZ1T19tNkJTTnFhODVhMlhIRXY4YTE3MXV5bWcx?oc=5",
-      "source": "공감신문",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "[코스피 마감] 215.27P(3.73%) 내린 5552.74",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tNXlVYmRMeFprQ0xDZTdSc2ZabHI0dGV2VUY2dE1PRUozY1dDb0Y5ejUySm1zUzBfNk41T0YwX1o0TThwVGdreDJlX3hPeWZoR3R0ZzRnVWMtTkVRVENUWkVuVUNONWo3NWc?oc=5",
-      "source": "서울파이낸스",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "[원자재 시황] 유가 강세 속 금·구리·코인 하락",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NVpoX0lKaGtEdjgyMnhuaTZtOGdjcko2TzZXeW52ZC13Q2hnZzNjRk1pQ2w3TG1kc1VyMTlEbGtRSUp5X0NPVWRqSDhkelJVTnhIaVVDOFYtM1hQNmJ0RnVZRUtFNmZH?oc=5",
-      "source": "www.ebn.co.kr",
-      "date": "2026-10-19"
+      "title": "[국제금융리포트] 프랑스 국채금리 24년 만에 최고…영국 물가도 11개월래 최고",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rbGJCVWdNNUJfQ2V0MEtjdG92a1ZLckVieTItUExVR3VUY21SWTZQLWstWTNOeWV2SDhkbXotbEVpTXZKTFJzSFVxelNTdzlYdUhtZXV0d3dHQdIBWEFVX3lxTFBRdkM5N0ZVQTBVOHFPYmxTTTFySndya1Rsc2NVTXlKZV9sMVRhbGhYdGZOSHJUS3VUeWVWazR3UGFOalo5U2UzY3JJS0V0eng3a3RNSFdaZFY?oc=5",
+      "source": "아주경제",
+      "date": "2026-10-21"
     }
   ]
 }
