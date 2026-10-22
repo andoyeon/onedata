@@ -1,14 +1,8 @@
 {
-  "generated_at": "2026-10-21T23:54:29+00:00",
+  "generated_at": "2026-10-22T23:53:42+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
-    {
-      "title": "올해 200조 던진 외국인, 언제 돌아오나…증권가가 꼽은 반등 분수령",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxVlVwYXViTWpySkF6Y0VkRF9ILUhXNDdEaTVOZk01Y3BfNEpIR2ZVeVN0c0ZyakV1WmxLLVlVNFA2ckc2QXFWaUxLMEJCSXR0NWc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-10-18"
-    },
     {
       "title": "반도체·데이터센터에 외국인투자 몰렸다…3분기 누적 역대 최대",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSXZERGlqazNBWWMyeGNneFMyWTRtSDJOdGY3c0ItenJKb2VsV18yLTZoYkppZGg0a0VLOE5CTWtFd2djRlluTUdhSFVnaTVhbDRvMC1LRmFPUGxJZ3F0TGNyNXhYMHdDNnN5bNIBcEFVX3lxTFBGRERlbXZOb3hZVFhUbmo0Z0JfQ1hkOHoxRkdjMWV3ZEVUWWpldGI1ZWs2LW0xc25IaUd6LWlORlA1WldrUzBJUVpGT29YYmstdm9CalhyX1AzZ3pwQWFNakl3T0gxQktRRWZiTEZkdHE?oc=5",
@@ -22,10 +16,10 @@
       "date": "2026-10-11"
     },
     {
-      "title": "OECD \"韓 외국인투자 규제 106개국 중 45번째…美·日보다 장벽 높아\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJVVRrbEV0R0xaZFVET0liUWxyS0VEN0l0aDNETy1XRkxFa2FpUjVIYmVlbkd0LTVMeENiVk5tS0oxc3hFanVGU1lXQmtlbXRMekxfMQ?oc=5",
-      "source": "뉴스1",
-      "date": "2026-10-15"
+      "title": "올해 200조 던진 외국인, 언제 돌아오나…증권가가 꼽은 반등 분수령",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcnEwQWl2VlR0VE9LLWdNS1hKSzZGTjl3aHhyRHpaMWdJN1JCazZRdmV4Q1ljSlBuUTV4VzNNdDliUlJZOHBmaG5UUGRQd3c1YXc?oc=5",
+      "source": "매일경제",
+      "date": "2026-10-18"
     },
     {
       "title": "미 국무부 “한국, 외국인 투자 유치 확대…규제·노동정책은 과제”",
@@ -34,28 +28,34 @@
       "date": "2026-10-01"
     },
     {
-      "title": "어떻게 하면 베트남에 외국인 투자를 유치할 수 있을까요?",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBRElKR2hNREp3YUtzZ0pCREM3aS11RzNMNkhhak9KS01WY2s4TlcyX3VKc3N1RWdMYkk0WWZ5TlVrZ0h5OURiQ20telNKLXpjdkZHamZHbzFIdGZqbUczVTRhZk1idkd6VFZuZV9SVEhmb00?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "아시아 채권, 6년 만에 최대 규모 외국인 매도세 직면",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNZWt5bXhaLUgweTBfQ0VwY25yZER0cHlkaERuMjdzSVlxWHR5WWJyRGFKYW56TkhFUnBOUWdSblRnYV9SUnd1OG9KMTlJSmp2ODB1aklmaDNrN1liMG9sQlQ0YU5XNFNTSTRKX0dMQmRwX0Itc2FPWk1makhnSi1TM0drclpXMVJMNF84UVV2ZmlrMDhYTm5GOThwZTJkX01fdWdNS0tENFh4U0Q4emtaVFpWMU9VdWVlNGVSSEphZjR2VHZXUnFSbkdpU0VEOFVCdS1pT2QtOTVxVzlnMjdwSkJEZTBWY3VrOWpDaTIzYl81S29zODgyVDVHRlZuSENrWmJreVlZVkVRUHhiekhzeWZuNWRFUDlFUmxEdWV1TmF2UzVkTU5SZVpXSm9qVjlBclpVNzVacUxYWjJqRFpxU0FUVElRQzQ0eUFHMW05YnQ3WVE?oc=5",
-      "source": "IDNFinancials",
-      "date": "2026-10-17"
-    },
-    {
       "title": "3분기 외국인직접투자 동향",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hOWwzVDRrMERJaGppU25CS1R0U0hFcTFDMGZtYTROdXNYeGVBcDBsdFdnUlhGYU5GSHFVZUdTSlRDQVA4dDZydV9oQUhwbXNfOFEybmhmQjBEV2NHTWlXZzNGQk9Hcy1FTU5RM2t4TF9mNWNKSThn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5meDYzX1BZQ1BxME1La2o1QzA4bFJKWUhvOE9HR29fd29BdnR4YTJFQm9tWU5fQWctX2lJdlBLSm5qQTZBUkV2d3U3NmlhNGxLUWs5cUU3TW8zenNGcnd2dmdPN0NRcWFTb1VrUg?oc=5",
       "source": "대한민국 정책브리핑",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "OECD \"韓 외국인투자 규제 106개국 중 45번째…美·日보다 장벽 높아\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJVVRrbEV0R0xaZFVET0liUWxyS0VEN0l0aDNETy1XRkxFa2FpUjVIYmVlbkd0LTVMeENiVk5tS0oxc3hFanVGU1lXQmtlbXRMekxfMQ?oc=5",
+      "source": "뉴스1",
       "date": "2026-10-15"
     },
     {
-      "title": "담보로 받은 국채 다시 활용···대차거래로 외국인 투자 편의 높인다",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43UXprbkVFcS1ScE9GLVl1MFM3WVl5amlWYlRiTU92UnRrSjZ0RnVIb2E3TlotaF96SUptV1ZObGxjMmxuVUE2MWtBVFFFRjF0WlFQcVMta3Y1TGVYSEpQWFgtSG1iUmV5cWQzc2w0Y2t5X2c?oc=5",
-      "source": "여성경제신문",
-      "date": "2026-10-15"
+      "title": "전 세계 여러 국가에서 첨단 기술 투자를 유치하기 위해 많은 새로운 정책들이 시행되고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTUyM2ZVSHVhamRfOHV3V2tzbFBsY2VnUjhkT2NzdG9BUFowTi02alJKem1JbEJKaVJLYmtwdkg5UkJ0X1UzU2xQbF9TamFILWNxSHlFdU11Tk1MSDRaN2VlQll6UEhxajRKckNRTEhLRV8ySHN2NGo5TU1lM3dLLVRFWndYM3ZZczRUajBMSW1EWHJjYm5FR01IXzVBcnlTaVF0OQ?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "코스피 의약품업종 3Q 외국인투자 4.8%↑…대형주 집중",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tMFlqUzdJV1drUmpGWGFpTEVubFZTck9MTE5rZU9sM2Zsa1hJd1ExM25nVG0yMmJLVDJqMks5cjVHV2RrUTBhWHNxcTlPdHA0SmxWNUh5M0xHOENBS3QtVFNEbFF4V0dXRGRj?oc=5",
+      "source": "메디파나뉴스",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "중국 중앙은행, 외국인 투자자의 금융 시장 접근 확대",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZEU1VkZuUlREM2s4MGhQSHlwMTg0MUZxVW9OQUNLVmxHVWJ3MUYydlhiSTBsb1pGSGxQTXkza25sb0d3S2dZTTdueXlkVFVEbFQ3N0ctTEFVdTZ2R0lNRlQ2cHZyUk94Mmg2bDFaR2N0SVN1YWp3SlRYYTk4TGNGYUJfUG55dDV5cHNvY1J1YllscE12dmh3b1lIZmcxT1N6ZVVPOXBJdVNqUkRWLVhSU1I2eFZGaDhUS3hkSnU5QjNfbDNtYjBuZXM2bmJndFEzb0FIRFZhTm9fcGdBVnRvTGIwSUtZdnFmbXNZQlZRQ1Qzb3J6MXc2Q2ZKcFE3TUdEcEhGS1NISjJwaUtpZkk0TGtkLW1CUm05UUdqYW1oa0xTbVhMb0JpVVMzR1BTdVdJOHhtcjkteXlBbDA3ZkdfQXh3MFFXcFVLMllGakpzYnkyQzFrMDUxd1lPcjc?oc=5",
+      "source": "IDNFinancials",
+      "date": "2026-10-18"
     },
     {
       "title": "외국인직접투자 신고 10.8% 증가... AI 데이터센터·청정에너지 투자 확대",
