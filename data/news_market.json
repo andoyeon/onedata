@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-10-21T23:56:17+00:00",
+  "generated_at": "2026-10-22T23:55:39+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "오늘 한국은행 금융통화위원회, 기준금리 3.00% 동결 전망",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45UjNORWNTcGxzYTV2ZEJsM3FReU9HS3VkRHgzVEdCZU1vN1NXWWh5Tkw2UlZ4QnhZUjVwZVN5bjYzWnJ2UDMzcnRoeVlKWVlhN3IycjU2dU54cXZzYWVldkgyaUF1SWFuT1hacnN0dw?oc=5",
-      "source": "전남일보",
-      "date": "2026-10-21"
+      "title": "[시사금융용어] 코스피니라미",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50R3VKMUc3ZmpqR0x2NkZON3hPQnZzTTJtbWlCWEo4OWFkUV9NeHNTdnRlTDYza1NVYWpYQ1ZJRXZpTjdDaVhPNzlzQm9DLWVTZTlkUTdGckpsSmkxWlhSTmVoUkhXTXFQYnY1dHVPcFjSAXRBVV95cUxNYU9SWEppYUpRX3NDamU1UUZkUTJ6My1YOG80cEE2YmwyX0V6QUk0cFU4TG94OVB6c1dIQUZvRmdpRDRqMXpXVFY1YXNLZXRrclIwdmpuYk9RanZjdG02aTJNYUI0bWs2NXNsb0owRHk2Q0tNYQ?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "승승장구 보령, 안정형 해외채권이 되레 발목…환율에 금융손익 출렁",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QeG51UWQ3SWFVSWpMSUtGd0tUVDNYOVcwMW80WHBhbDZMV1pMQWVSV0tjR1ZDaENqakJOX1hSTVY0bXlaNWRVN1lFc3NGZmdsZFd5TjRlc3psWHF6UnBraGFrcFdjZDB0UDBaSVBPVTQxZw?oc=5",
+      "source": "메디코파마",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "기업은행, 소상공인에 1.5조 금융지원…금리 최대 1.5%p 감면",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MT0lDWHRxaGN5b1UycVJUQ2NOMDVlY1ZIdnpTTjZaTWxOaV9zZEwzbm5fOWpnb1VsUmZHX1JJd2hSeVJhRm83eUVHSWhnMU9EeHFjalFDNEdYUUVNakQ1YzRibzM?oc=5",
+      "source": "서울경제TV",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "한은, 기준금리 3% 동결… “물가·금융안정 주시”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02ZVV4cnRRMGhOQ0JVR2Z6d1BoOE9DYzJ2S3k2eVF2T2NIdGVZYXRJN09TY2pzeGZOWEV0MS1SYjlJRm9GQ1hJZExhSnFlVGRkRjl6REFwaml4WGE1c1Y2ZWNBSER3R2ZlWDNF0gFvQVVfeXFMT2poRnh2ZGxuV2JtWURCWE1oeE53UjAxb2xuWU5BSDNXSTNzUFFCOEpfSy1CazItR3NrSVZQdVpQbTBCZzVESW8wSVlNYjB3ZzVXa25UQ01zNG90WXY1cW9CdTRTV19FWXlaNDRkdjhZ?oc=5",
+      "source": "한국보험신문",
+      "date": "2026-10-22"
     },
     {
       "title": "금융위기도 아닌데 증안펀드 꺼내는 정부…'증시의 정치화' 우려",
@@ -16,64 +34,46 @@
       "date": "2026-10-21"
     },
     {
-      "title": "4대 금융, 3분기도 5조원대 순익…'님' 떨어져도 환율에 웃는다",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S2tkakpuNFFodDlpZVNtSjRjT2psLXpKaW0wdlFrZUZCQjEwNHlqWEhoRGFfenRRQ05xM3prTXJmQVNYQVlBcC1lNGJNeVk3XzFUN2tQZUZFSzAzYkNvUTl6emlxelZKZXow?oc=5",
-      "source": "비즈워치",
-      "date": "2026-10-21"
+      "title": "‘금융 불안’ 佛 국채 금리 5% 돌파… 24년만에 최고치",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fakVWWFV3S2xxX3VEbmhvOVhicWJMOWpEMmFIVzhpTWd1aWdSbXRZY2lXSmpUcDNNSU1uUDRJbEJqdUNDYkE2SmkzRGlUX3hMREZsSnJEZklqcU1SNGljMjVUUHBpRkNHQmlVNDR2NjJLbm40N1HSAWZBVV95cUxNelY5NHE1WmhNYnBOTHYxTnBuRndfVzgyb1hUWlFqNGo2U2l6RE9UeWRrOHB5X01XQ1FWRWc2Njdnc3lnLXhEMjRsQ0Z6M0NEU0xEd0JqNDI5VTdfbTlmZGltZEZIQ2c?oc=5",
+      "source": "동아일보",
+      "date": "2026-10-22"
     },
     {
-      "title": "[이슈체크] 한은, 금리 숨고르기?...3연속 인상보단 속도 조절 할 듯",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BczJWV2NkazJlQmJ0VXlTOWxvcXIzZmY1enZrRlctNEF0M0Z2ZDZtTGdtZGdBR2FuUVdFcjc3Y2lsa3dQZjVKdkVBQUJVWEdxLXhFcWsyaHNqc3pnQmRNZA?oc=5",
+      "title": "한은, 예상대로 기준금리 3% 동결…부동산 시장 관망세 이어지나",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xUFBnRGRqV210alpJM3lYTDUyMFJNaTdwSVk1R1prYmxVMTFDdnJhMm1rN1BvVWRDVWlTdjhaRFQwVGtYajdIYmg4UWxFOGVadXJIZ3AxTjBDN0RoYjVNVnIyOA?oc=5",
+      "source": "더구루",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "금리 동결에도 긴축 고삐… 기준금리 3.75% 전망도",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdS03VGFNZXcwaHduNzMzRWtrMHZFUWRGTXdNWGEtcmNDSmFuTTRYRmZoNVhyaHhIZkFuV3JsaVNSZVloblVpWWkyazUxSE9ZTmVOejBvamRsb1hFSU9SWk5mRGhLY0NHeW16dF9fZ0rSAXRBVV95cUxOZk5tQUxBSFdySnJxSjVYUGtTWGFVSGZ1MjAyWVdJMDZ5cXlIUVowVGRjV0lLM3Z0cGNKRVc4MEstS1c0V2FtY21BTUJPeFNtMWZZcnFjYjdxZ1Mzc2dDcDdXa3VwTDJCOGVjY1lrTURNamhZUw?oc=5",
+      "source": "IT조선",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "IBK기업은행, 소상공인 금융지원 1조5000억원 공급…최대 1.5%p 금리 감면",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3LVlzNlJ6emhfOU1oVnNNbDNyNlU0bHZRTGw2M1UwME1zWXVTcHlfOUxFYjRpd0hEaTNOMG9YbDA4NUtFT2FGa0QxaExsblh2cXJJT3lHUTc2MTlvdnNvLVZWcFZNYzQ?oc=5",
+      "source": "팍스경제TV",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "한은, 기준금리 3.00% 동결…숨고르기 뒤 11월 추가 인상 가능성 주목",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RZTRLNHdiYVJ0dUtLMjF2WFl2djFQVWFRUHdxZ3VIX3hOYjAwMG52aUNOM3oxN05naGNWVXFsVG1Sc3JrSi1pZmdSSGdiNGxpc01TT0d0cnBpTWlfbUh1X3JwTGkyUTNVcmZ30gFvQVVfeXFMUEZZWk1RMDIyZjQ4OUZ0Ukpoel94YlBoRVV3anBhVUFTa21qcjYxcjRPOS1DOWtNT0M4WEJXa3M3aVFIZjhST1RIYkExSGZ4Um9UbzV0WmxhRzVrNWlEYlRxVzV3cTlKdUtaNWlQbl9n?oc=5",
+      "source": "투데이신문",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "한은, 기준금리 3.00% 동결…금리 인상 시계는 계속 돈다",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54ZjZYTjNvcDRmT3p3RFZrVXc5dm5VaDBTZHFVUzJodFc1TEZIZDVYaXRYTVhBbUlfYkc5SlhDcndFR2RtYmRPQnVPZ20wZmU5bTBOb3NsU0Q1bnNvcnM3RUwxVQ?oc=5",
       "source": "조세금융신문",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
-      "title": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRS1nQWNfLVI5X0V4S3dWY2NoS2xfakhYeDliNGJPS25IaW1BTWhiV1JpcEstRXYtMTlrN05wTG1ISE5mR19VaWF0U0lBU0lMazNZUGhvVDd2Ym9PMjBGWXJrWUVEeEh6bWwxd09mOUQ?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-10-19"
-    },
-    {
-      "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0akE0TktQTnU5VFFyRE9QVWFfVzFQaXdZWUJ0aVRyMFZzRU14X3RtWTVvbHJ5ai16SkVXMDV2dlEtc1I5cGVvekhBZGFCMEZCdzd5b0g2VERMTlo1TXMxQ2JSWVVwRldFUGd6bw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "외국인 돌아오자 코스피 3.29% 반등... 매수 사이드카 발동 [마감시황]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tZ3BpOUdTaUFLaXdSYWI2Sk82VDBOWkRadWczRXU2NkJUTmpnRzJrZUN1OC1Ub2o5VWdhMWlGdkM1SXVJc3pyVkRPa19MYkpuS1VXYU9DZ21TdjB6M2Z0OS1pUnQ?oc=5",
-      "source": "매일일보",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "기업대출 금리, 회사채보다 낮아…5대 은행 생산적금융 가속",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjBjTUNLS09XNFRyNlJYVEw5TU9fMVhwU19TUC1NY0dIbmxCWXRYbUtxMTdJQ1FCMTBhSmRsVENvUF94WEJIbFhWdmZqX3ZXRG9SSjdKOW9EbEgxUlRTV24yWkV6WHZCZlhNRmxIemlRQV8wS1ZtcGpsTDJZS3VKWElrcDc?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "코스피·코스닥 2%대 반등 출발…외국인, 코스피 순매수",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96U1QzV2dsTEttTDZTNVVKd1NWZUhmeEN2XzRHazJlZG5meTVwbU1ocTFjVHVqaUcyVFJmaDFTOUFiQjdDbzl4OXF0SGR3R2FhbWdBd3dya0hRUkUxRlN4YlFMR05VdUNuNUp6V0VYSjBGZw?oc=5",
-      "source": "인더스트리뉴스",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "금리 비슷한데 대부업만 제외 … 서민금융 잇다, 대출 알선 '형평성 논란'",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zMWJrZWdfbjl1WlltZGk0T29lM1E3Y2Q1TFRKRHF0VVFXYU1FUlRfWlh4YjNuekk4VFNHWHJ1RDlqakxHMFdXQ1NCX3hXUUNQbGx1bFgwbkc2OEhTdnFEOXdtSkEzbVpwd0tyZFFBZlRVZzJoOVVaWXpZONIBgAFBVV95cUxQdUxoMFRYdmI3RW1FZC0xLV9PUmxUX0c2blhpaGpwMFU3di1iOF83SHhVN0xtYUs2WGh5STg2NEd4VjdvODExWk9IWmVXZ2Nmcm1hS3FVWG5fZWE0c0ZTMG5zMlRNaHAyNW1qMEdmYWJaNkFIMFF4U1dhb3RNSHBwNw?oc=5",
-      "source": "뉴데일리",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "농협은행, 포용금융 강화 기조하에 우대 금리 조정",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEeFk5Tm9jWkJFWVV1c0pwQW4yVWRBTE5Ia3ZRaUR6LU84QlZhVUgwc3BYTFFWRmM1Q1FHNU5vRl8xNWFCMERzS0ZJZ01VVUozT1NxaklWWFluQ0JRNlpBUlVOb1lhdDhp?oc=5",
-      "source": "녹색경제신문",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "[국제금융리포트] 프랑스 국채금리 24년 만에 최고…영국 물가도 11개월래 최고",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rbGJCVWdNNUJfQ2V0MEtjdG92a1ZLckVieTItUExVR3VUY21SWTZQLWstWTNOeWV2SDhkbXotbEVpTXZKTFJzSFVxelNTdzlYdUhtZXV0d3dHQdIBWEFVX3lxTFBRdkM5N0ZVQTBVOHFPYmxTTTFySndya1Rsc2NVTXlKZV9sMVRhbGhYdGZOSHJUS3VUeWVWazR3UGFOalo5U2UzY3JJS0V0eng3a3RNSFdaZFY?oc=5",
-      "source": "아주경제",
-      "date": "2026-10-21"
+      "title": "금리 절벽 막는다… IBK기업은행, 1.5조 금융지원 실시",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aUEVhSFMwQlh6UEFNQWxIRHRGZ3JpNkM4cUI3MjMyWHdBQmFyWTh2aGUtVlgtVUFoYXB0TkZ5eTdEUWRNcnEtNk9ZTTk1UWg1bVE4bmVURFBrXzRSNTZhbVlWaVB5c2MtOWhHZA?oc=5",
+      "source": "뉴스락",
+      "date": "2026-10-22"
     }
   ]
 }
