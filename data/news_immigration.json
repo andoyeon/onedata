@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T23:45:26+00:00",
+  "generated_at": "2026-10-24T22:55:33+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "투자법 개정안: 외국인 투자자의 시장 접근 조건 완화를 위한 제안.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFk3S2xVcmNPSzQ3OEFud3BDUkxGYm5iSkhfTzdJRGVnRFZpMGhzRGJvTUJZVW1PLVo0dG9KN3FWaFFyNTVUdFlaNUxBLTRua1k5ZmRzNWpQR1NSZ1BXV0x0cDdTQm5pOE5XRnAzN0xpRnlSaWFoZkJHcG5oNmtrQ0xHencwNjJOdVBBNFlYQS1aNzk4dFE1clZyR0U1eTQxRkl3azBmRnM2R2JUZlE?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-23"
+      "title": "반도체·데이터센터에 외국인투자 몰렸다…3분기 누적 역대 최대",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSXZERGlqazNBWWMyeGNneFMyWTRtSDJOdGY3c0ItenJKb2VsV18yLTZoYkppZGg0a0VLOE5CTWtFd2djRlluTUdhSFVnaTVhbDRvMC1LRmFPUGxJZ3F0TGNyNXhYMHdDNnN5bNIBcEFVX3lxTFBGRERlbXZOb3hZVFhUbmo0Z0JfQ1hkOHoxRkdjMWV3ZEVUWWpldGI1ZWs2LW0xc25IaUd6LWlORlA1WldrUzBJUVpGT29YYmstdm9CalhyX1AzZ3pwQWFNakl3T0gxQktRRWZiTEZkdHE?oc=5",
+      "source": "전기신문",
+      "date": "2026-10-07"
     },
     {
       "title": "미 국무부 “한국, 외국인 투자 유치 확대…규제·노동정책은 과제”",
@@ -16,10 +16,16 @@
       "date": "2026-10-01"
     },
     {
-      "title": "재무부 장관, 방콕에서 외국인 투자자 만나 무엇을 말했나?",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNTWZHZWZ5SjBfMUg1a3k4eTBqV2h0dlJJM1BYaUtLUW9Pb1oyRjZfcmJYb2tuV056cXQ4aDFrcGxWTlR5U3RCZm4xb2Zpc01WUFdQTDNNeXpTejFhc1FvWVR0aXc4MUdfYlRsSncxSlFaV3ZtZFRuMW5YODRadlFuaEFXVkw0c3hJSll1NktsTjR5QlBOemVaelhubFhqWHNxa0txMzNTQ2h0NmNnN3JjRmpFakNLQVFldHI3R3doSUVHNlpPYzZETndoNWN5cVpiT1dLVnNyV1lUZEgyVFI2WGFCY3lTVnJyRGhaVHlfY1VuQU9XcFZzdXBaUVBZNGRMY25rOFNsVlQ5a3o5dFhzaDU3dXdVUEk3UUwyS0t3c2tkemY2bnhIMWRJMlplQ2tjNHFsWi1vQkkyR0FrTXdSblFXbUpzV1oxbGh6T2VOeGRkdXhZR0RxSWpKYTJ2QmkzT3FVbm9EcDJKSDdiYnoyTUpHUjg?oc=5",
-      "source": "IDNFinancials",
-      "date": "2026-10-16"
+      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
+      "source": "YTN",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "투자법 개정안: 외국인 투자자의 시장 접근 조건 완화를 위한 제안.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFk3S2xVcmNPSzQ3OEFud3BDUkxGYm5iSkhfTzdJRGVnRFZpMGhzRGJvTUJZVW1PLVo0dG9KN3FWaFFyNTVUdFlaNUxBLTRua1k5ZmRzNWpQR1NSZ1BXV0x0cDdTQm5pOE5XRnAzN0xpRnlSaWFoZkJHcG5oNmtrQ0xHencwNjJOdVBBNFlYQS1aNzk4dFE1clZyR0U1eTQxRkl3azBmRnM2R2JUZlE?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-10-23"
     },
     {
       "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
@@ -34,15 +40,9 @@
       "date": "2026-07-30"
     },
     {
-      "title": "전 세계 여러 국가에서 첨단 기술 투자를 유치하기 위해 많은 새로운 정책들이 시행되고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTUyM2ZVSHVhamRfOHV3V2tzbFBsY2VnUjhkT2NzdG9BUFowTi02alJKem1JbEJKaVJLYmtwdkg5UkJ0X1UzU2xQbF9TamFILWNxSHlFdU11Tk1MSDRaN2VlQll6UEhxajRKckNRTEhLRV8ySHN2NGo5TU1lM3dLLVRFWndYM3ZZczRUajBMSW1EWHJjYm5FR01IXzVBcnlTaVF0OQ?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-22"
-    },
-    {
       "title": "2025년 연간 및 4분기 외국인직접투자 동향",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdGl5blNjVF80NHVKOUd5R210SWpidUNnYUxDU3dWLU9ITF9FX3F3RmJFS1dXenhiTUhIMUFENWZtM1QzRXdESkhMOEdQamE3Y0JURXMzemg4S2ZfNW9LeVBsVlVqbnZqTmJjUi01aGVaTU9ySU9j?oc=5",
-      "source": "정책브리핑",
+      "source": "대한민국 정책브리핑",
       "date": "2026-01-07"
     },
     {
@@ -50,12 +50,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzazltbHN6TzNibC00QnVMUUFJV3dfNXVMVVFFa000Q2dUcFVQS2dUblRvdDdZTm5LMDRfQklVRm9mRGRQUjlNVm15V0lxY2VhU2JHc1lPZ3d0Y3JFTzdXU1VDaUZYOVE?oc=5",
       "source": "연합뉴스TV",
       "date": "2026-01-14"
-    },
-    {
-      "title": "[경제 포커스] 외국인 ‘순매도’에 올라가는 환율, ‘순매수’ 때는 안 내려가는데… - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkltNTNrdENtNGpMVnRGc296YTNtaTZUc3BoQ296T2JFYnNaQk1FUFRhVm81SEJmVWRhVmtzTUJtUnhPNHRmLXhiOUpmQ2VvVnRSbk1YMG85aUhjQnZ1R2lta09ZWUR3VVdlZGtka3BYSm5ySjB5U0RfVUYwNmlEbUt3X1hid9IBmgFBVV95cUxNZGVBUFpSdGwtS0N2eVpHemZGdS1xVE1iWEdHV1otRFQ1OFFzREhVcW04azJpTE0xZjRYa18wQURrSUd6TFFMU0pTazBOeV9hQUpVWk9JOFQ2b1ltaFJYTVd1eHBGRkZibThiTWd4ZVdsbWZsQTZ5SW91RjJtQ3RfSGM0U2RQaUdmX0hocVZDbTdyZnFBMmp0aWZ3?oc=5",
-      "source": "Chosunbiz",
-      "date": "2026-01-13"
     },
     {
       "title": "‘환헤지’ 늘리는 외국인 투자자에…원화 약세 ‘악순환’",
@@ -70,10 +64,16 @@
       "date": "2026-01-09"
     },
     {
-      "title": "4월 외국인 투자자금 순유출 규모 줄어‥\"투자심리 회복\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10eDNORGVSVkVMRHhQZDdla1RiOUNITFJOYUMxYU1TenNNYlE4aUIwTHhTRVdGMzYtN3VxMk5tU2c4TnVnaVQ3dG1HR2lQTUh4eWQtSTZXRDRzV0RfTWk4el9KNlEzdGE1ZUo4akp2VmU0S3dT0gF0QVVfeXFMTUtUZGYwZXNyR3NrWTFtUkVkWmZHOC1LdnkxejlEUENRTnNZNWUzMEt1aFBLaHl6bi1FSzU0ZHZhMVVoVUg4Yk1TUHlTVlQwWkpKWDRqcnZBQllpZkVYTkllNDBFTU1VOVFfVldTMEtDRUx4dHE?oc=5",
-      "source": "MBC 뉴스",
-      "date": "2026-05-15"
+      "title": "\"최근 5년 기술 유출로 23조원 피해…외국인투자 심사 강화해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnV0UyWmtjamZ5MGQyOEx0Uks5bGl2cDhvZG1vNTZNUkdtUEFLdXlkUnlrQVFMN2NXNW9HUG9DWGNIcjVmZUZtemVOa1NtakNZZmtQaE1VOEtmQ0HSAWBBVV95cUxNMFFVLUJrTDJNUFBTTGRWQ2VjOUduZWtRX3BqNmQ2X19PZXAzSWZYT0V1T3lIQVZHQnQwaVd4RXh3Vzk3TXlmd0RJUGdqeVhXYnNoWlQ3RDNuVzJPMWZscl8?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "전 세계 여러 국가에서 첨단 기술 투자를 유치하기 위해 많은 새로운 정책들이 시행되고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTUyM2ZVSHVhamRfOHV3V2tzbFBsY2VnUjhkT2NzdG9BUFowTi02alJKem1JbEJKaVJLYmtwdkg5UkJ0X1UzU2xQbF9TamFILWNxSHlFdU11Tk1MSDRaN2VlQll6UEhxajRKckNRTEhLRV8ySHN2NGo5TU1lM3dLLVRFWndYM3ZZczRUajBMSW1EWHJjYm5FR01IXzVBcnlTaVF0OQ?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-10-22"
     }
   ]
 }
