@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-24T23:02:01+00:00",
+  "generated_at": "2026-10-25T23:06:16+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "보험 해지 급증, 증시 이어 금리도 변수… 자산시장 파장 경계",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZLTN5TVgway1wbEY5cTN2WWZ1dnc5ZndxaC1nMDJ6SlJzVUJZQkhJQVk4aXRUWXVSYjktYlMtXzMwWUctTnpYVWNkakJoMHlMRVFrZ1B6MzdNYS1ETG5IaTcxQlJhTDlaR1V30gFvQVVfeXFMT0xaUU02UFcydGMtNFhDSmJYQVFfaWJleldhWWVUNjZlUWpmcW9CNGk3LXlWSVVjQ1ZkWU1EUmZWMlRCQ2lTcWF1cmpmNEt1SXYyZTlLa2FQNFE3MUN1bzZKTzVIbmZzZFlKX1pQem5Z?oc=5",
+      "source": "한국보험신문",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "골드만삭스, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FR2JpNy1YaTAyTjZzZDZNd2dKbVBxd2NOdHU0d1g1QWhuSU82dXFQOFY0Q0hsQ2ZXWV9WNjVzZDVCaGhfUVlDUWpCREpYaV82VF95a1NyZ2EyaHA3aUdibFRlOA?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "“한국증시 세계서 가장 싸고, 금융위기 떄만큼 싸다”…주가수익률 4배로 인니 절반",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00U0RPcmdYZ25UOTkwRUNoSDdFUm9xelowZ0tESUZwUXp2dUdYOW51QU9XVF9rLTdDcXFiVTBjMWFfRDJBNUJRXzI3N3Fydw?oc=5",
+      "source": "전자신문",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "윤종규·윤종원·박종복 ‘3인 3색’ 리더십…금리·보안 난제 산적 [은행연합회장 레이스]",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fUWNXb09RU2o3SHlEODA1NnNKWEZreUs5STJiQ3dLVjJaMmpJNkRWc2FwcWM5bGRWaE9HME5WX3VBckxVZTVyVGZhV3EzTlZqVHhOeUVTR2xYXzR3bVNhNU9PU3FVVUViWlNuMkVBNUpRTnRwS2d6SDRsY0E?oc=5",
+      "source": "한국금융신문",
+      "date": "2026-10-25"
+    },
     {
       "title": "[시사금융용어] 코스피니라미",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50R3VKMUc3ZmpqR0x2NkZON3hPQnZzTTJtbWlCWEo4OWFkUV9NeHNTdnRlTDYza1NVYWpYQ1ZJRXZpTjdDaVhPNzlzQm9DLWVTZTlkUTdGckpsSmkxWlhSTmVoUkhXTXFQYnY1dHVPcFjSAXRBVV95cUxNYU9SWEppYUpRX3NDamU1UUZkUTJ6My1YOG80cEE2YmwyX0V6QUk0cFU4TG94OVB6c1dIQUZvRmdpRDRqMXpXVFY1YXNLZXRrclIwdmpuYk9RanZjdG02aTJNYUI0bWs2NXNsb0owRHk2Q0tNYQ?oc=5",
@@ -10,10 +34,10 @@
       "date": "2026-10-22"
     },
     {
-      "title": "한은, 기준금리 3% 동결… “물가·금융안정 주시”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02ZVV4cnRRMGhOQ0JVR2Z6d1BoOE9DYzJ2S3k2eVF2T2NIdGVZYXRJN09TY2pzeGZOWEV0MS1SYjlJRm9GQ1hJZExhSnFlVGRkRjl6REFwaml4WGE1c1Y2ZWNBSER3R2ZlWDNF0gFvQVVfeXFMT2poRnh2ZGxuV2JtWURCWE1oeE53UjAxb2xuWU5BSDNXSTNzUFFCOEpfSy1CazItR3NrSVZQdVpQbTBCZzVESW8wSVlNYjB3ZzVXa25UQ01zNG90WXY1cW9CdTRTV19FWXlaNDRkdjhZ?oc=5",
-      "source": "한국보험신문",
-      "date": "2026-10-22"
+      "title": "기업대출 금리체계 바뀐다…산업·기업은행, KOFR 대출 1조원 출시",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zek5vZ0NyV2VqVE9ZWmdHcUZXYkEyRUQwT1pudDZQbFNWUTA5cmd2eC1LekZtdkllLURvUHpnaHVTTGtPWm5HNGxPMndYeWppVlhlbW16X0lGZXhpWXdrMktVNkk?oc=5",
+      "source": "디지털데일리",
+      "date": "2026-10-25"
     },
     {
       "title": "금융위기도 아닌데 증안펀드 꺼내는 정부…'증시의 정치화' 우려",
@@ -22,57 +46,33 @@
       "date": "2026-10-21"
     },
     {
-      "title": "“레버리지 졸속 논란 이어 동전주 퇴출까지”…금융당국 규제 도마 [증시레이더]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tV1h2NndReXBBUVFCT2hJNk02Vm1xd0tQcEdBXzNBUE9NNzNXRENtY0hkLWt2WXNwV19ZWnRweFlyZFhuZmpWWk5uS3BjbWNQdmFPa1doSHR6Qmx3RGNrOWJvdDk?oc=5",
-      "source": "디지털데일리",
+      "title": "이름만 남은 ‘서민금융 우수 대부’… 은행 외면에 연 금리 20% - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2NpSGhjUXVHbkxLdnppeTZwZ2FUOE5CS0J3RXI4UWw1NTQwX08yUllUMldyT1g5elEtenl4d1JiOU1SOHRHUXlRSG5oZzhhOVNDTnJLQ3MzQWYyX0ktWS1mRElPS0FKN2ltQWVVQ1RfTVhiZzFfYld2Ny1tRjZCQdIBlAFBVV95cUxPRmNMZXRibDV2bER1SGx4YlpHQVdZdktOYVlpYnhJbHlKclhfSC1WR0RXbTQwNmhZNnU0MDNyNEFfUjRsaXlwNTFYMVFaRk1FRFB2cUZQa3d5dWVKZTB6cktlS24tVTJHX0JGc0VLX1Nmb3lOem1uRHBqWGFWSUkxNnlxTWF1b1EyS1oyZXRiVXVCUmta?oc=5",
+      "source": "Chosunbiz",
       "date": "2026-10-24"
     },
     {
-      "title": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
-      "source": "네이버페이 머니스토리",
+      "title": "승승장구 보령, 안정형 해외채권이 되레 발목…환율에 금융손익 출렁",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QeG51UWQ3SWFVSWpMSUtGd0tUVDNYOVcwMW80WHBhbDZMV1pMQWVSV0tjR1ZDaENqakJOX1hSTVY0bXlaNWRVN1lFc3NGZmdsZFd5TjRlc3psWHF6UnBraGFrcFdjZDB0UDBaSVBPVTQxZw?oc=5",
+      "source": "메디코파마",
       "date": "2026-10-22"
     },
     {
-      "title": "[1022주요일정] 금융통화위원회 기준금리 결정 예정 등 By 인포스탁데일리",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vSHhuSXRnc25sMXJDQ0FWX2VJeGhnRTlzNFNnS1VSc21ER0VNcXpZM2FMUVRkZng2eXgzTk1wYTBpOEpfRjY1WHVrUnhsVmM4VEFaN3dGcXFsbEY2ZVMxRmlSX1ZFWnBvUndzUVl6d3U?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "‘금융 불안’ 佛 국채 금리 5% 돌파… 24년만에 최고치",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fakVWWFV3S2xxX3VEbmhvOVhicWJMOWpEMmFIVzhpTWd1aWdSbXRZY2lXSmpUcDNNSU1uUDRJbEJqdUNDYkE2SmkzRGlUX3hMREZsSnJEZklqcU1SNGljMjVUUHBpRkNHQmlVNDR2NjJLbm40N1HSAWZBVV95cUxNelY5NHE1WmhNYnBOTHYxTnBuRndfVzgyb1hUWlFqNGo2U2l6RE9UeWRrOHB5X01XQ1FWRWc2Njdnc3lnLXhEMjRsQ0Z6M0NEU0xEd0JqNDI5VTdfbTlmZGltZEZIQ2c?oc=5",
+      "title": "증시 부진에 4대금융 3분기 실적 후퇴…연간순이익은 첫 20조원 전망",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tdFYxTm1PaVo2emM4YUFmSWR6Y3BZb3pXVDNpZ1FDNDhDM2JVY2g0ZjRLM2J6dGRPOS1SY2V2QU5Zekh1RnU4bU9IZGZSeGkyZWRQVnF6YUZEQmhzT0tCS285bnYtUUZ0Q1haVHJ1U21jdnNRRVHSAWZBVV95cUxPMGFDYnpiR2J6OHFOai1YbmxQNDIzMlkyczltNExYY1FKNmJfZ2tYenpyUklyenNPb2tlZmpSOV94QlRRbURlUy16RkxxNkJqeU9ndHc5YURrb09jNjZ5WGZfZElnUVE?oc=5",
       "source": "동아일보",
       "date": "2026-10-22"
     },
     {
-      "title": "한은, 예상대로 기준금리 3% 동결…부동산 시장 관망세 이어지나",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xUFBnRGRqV210alpJM3lYTDUyMFJNaTdwSVk1R1prYmxVMTFDdnJhMm1rN1BvVWRDVWlTdjhaRFQwVGtYajdIYmg4UWxFOGVadXJIZ3AxTjBDN0RoYjVNVnIyOA?oc=5",
-      "source": "더구루",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "외국인 1조원 가까이 팔았지만... 코스피 0.30% 반등 [마감시황]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83MmRwTVdDVDV6T0ZMVXlEM1IwaHpGQXhjT3Y3ZVl5dXpqcUZoSk1SWC1DeDVGSVdnWGpSeXpLSVh4WFk5MERubGhtMXJaQzdONTNPWjk5VmZZN2lXNm1ZajQtMTU?oc=5",
-      "source": "매일일보",
-      "date": "2026-10-23"
+      "title": "금융당국, 무위험지표금리 점차 확대…기업대출 상품 1조원 출시",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wZnF1Y18xcUYxWkJPdV9naVZ0MUk0TjJlZzFxS1Fsa3BETUo3emJmZHhHdnd6dTlmSnhFSWQ2dU53R01LMTJsVVNxRWQ5MWtJTTk2cnI5bTRKWlgzWnZtedIBeEFVX3lxTE9tN1J5WjZpanpxOU5yc3FWYTdkRFptUWF0aDNlcmsxZFoydDRMN1ExQUlUd2o5ZUZfSmtKTFVGdVFFUXJSdkxfVVBEbnhaOGx1dVR3OHRBbjM4YmphSGxuTE5xaXktLXdRQXhfa1VON3VVb2hibDh4cg?oc=5",
+      "source": "뉴시스",
+      "date": "2026-10-25"
     },
     {
       "title": "한은, 기준금리 3.00% 동결…숨고르기 뒤 11월 추가 인상 가능성 주목",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RZTRLNHdiYVJ0dUtLMjF2WFl2djFQVWFRUHdxZ3VIX3hOYjAwMG52aUNOM3oxN05naGNWVXFsVG1Sc3JrSi1pZmdSSGdiNGxpc01TT0d0cnBpTWlfbUh1X3JwTGkyUTNVcmZ30gFvQVVfeXFMUEZZWk1RMDIyZjQ4OUZ0Ukpoel94YlBoRVV3anBhVUFTa21qcjYxcjRPOS1DOWtNT0M4WEJXa3M3aVFIZjhST1RIYkExSGZ4Um9UbzV0WmxhRzVrNWlEYlRxVzV3cTlKdUtaNWlQbl9n?oc=5",
       "source": "투데이신문",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "\"원달러 환율, 수급 우위 속 하락 압력 우세\"신한證",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUFdHUDlNSEpaUjgwcFk5TVB0bU1TVGhFQm9IeHpULUNBOGxzTzI5U3RyUV9oZDRNSUcyTmVvY3YyQ09rano3SEFxLWViOVV6YU9zMThncjBLWWpOekw5UktKTmNPUnpMY2l0cXVWY2hQUEhxSEdr?oc=5",
-      "source": "CNews",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "금리 동결에도 긴축 고삐… 기준금리 3.75% 전망도",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdS03VGFNZXcwaHduNzMzRWtrMHZFUWRGTXdNWGEtcmNDSmFuTTRYRmZoNVhyaHhIZkFuV3JsaVNSZVloblVpWWkyazUxSE9ZTmVOejBvamRsb1hFSU9SWk5mRGhLY0NHeW16dF9fZ0rSAXRBVV95cUxOZk5tQUxBSFdySnJxSjVYUGtTWGFVSGZ1MjAyWVdJMDZ5cXlIUVowVGRjV0lLM3Z0cGNKRVc4MEstS1c0V2FtY21BTUJPeFNtMWZZcnFjYjdxZ1Mzc2dDcDdXa3VwTDJCOGVjY1lrTURNamhZUw?oc=5",
-      "source": "IT조선",
       "date": "2026-10-22"
     }
   ]
