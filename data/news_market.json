@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-10-27T00:17:26+00:00",
+  "generated_at": "2026-10-28T00:21:15+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "금융위 부위원장 오른 신진창…첫 미션 '증시 정상화' 주문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85cmtOcFJKbGIweC1sRlMwdmVneEhoemJvRG83cWpkV2x3Y0tFSlhRek80ejNSbHRaajRFWUhnWjk2cmhyblhIVWc3X3NBa0pkb2xyZFp4SGtrdDZjWTl4Ylk5NmNEOU9lWlBYYXAxX3U?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "[금융, 사다리를 놓자] “금융을 보는 관점 새롭게…금리체계에 ‘공정도 등급’ 반영하자”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CTG5pUGplc3FZTldTZGNWZzdRQkoyMHV5Vm5rUllMeVVkdWlBeDZUcGtIVHA1YUQ2c3l6ZThnbS1ZbDlYZWM0NWV0ZG04QkdmYTBFRVlOTEo3Z9IBX0FVX3lxTE14aFNobUE3YkpIM0N1WFlja2pyRzZXZk14YkI2aG9TZThwNUdCdUc5VG80ZGREclU2dTVnd3VFMUdZX2hwWlRWX3VXem5nOE5MY3FVZ0VLTE1TWmVrY2Zn?oc=5",
+      "source": "경향신문",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "JB금융 “주주환원율 당분간 50%로…시장금리 상승 4분기에 반영”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wRC00Q2kyRUVrN1M4ZGpDRENEaVdlUWFtVUpBb0paYWZKcUpGY1kwa0pSLTVlNG9xY3FFTHhzMGVLS3NjZ3Q2M0wtQVc2cEVWWTBzcjBpNjZvbnc?oc=5",
+      "source": "에너지경제신문",
+      "date": "2026-10-27"
+    },
     {
       "title": "룰라 당선에 브라질 증시 17% 폭락…금융시장 요동",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QbE9Cb0xWUms5S3VIUTk2cF94RXJJOTE5NWZibm9WN0Exb1NnclpqdFhfTUR6eGJTRnVmQUhtNDBrcC1JUWZRWVRJdF9KUWsyQTdiRkJERUZSbnl3anZPZUloMFlwVG8?oc=5",
@@ -10,10 +28,22 @@
       "date": "2026-10-26"
     },
     {
-      "title": "룰라 재선에 브라질 금융시장 발작…증시 10% 급락·채권 금리 급등",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lTmRaQ0ZGVXVpSEdHX29BQXZ4TTVmS3FpNWlYcy1DMm5ZUVJUbVVZRFlXMGJaWHdjMlFqYzc3emtzTlpEaDhpZkxVNnJNZVJjZTB2UHE3VW15VDdwU0ExbnZNZGJVUjFKQ05vOE4tdU8?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-10-26"
+      "title": "신한금융, 금리 인상 효과에 3분기 순익 '껑충'",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MXNhdnN5QUV5Mkl5TU5SOEtjZFBfNlFJQWRkTzY2UndlcU9uYlFvRktvODhMbmJ0WGpYN3U3eFNuYWRtdHpFRFJfM0VJLWw0RndFdU53?oc=5",
+      "source": "DealSite경제TV",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "신한금융, 3분기 만에 5조 벌어…금리상승 터널 통과중",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ENlVYb0hTdmxnSjRGZGJudEFQenhySlRhM193aHR2R0FodXhNZ1l5cTFaci1EczRPZFNISDU0TXdtcWVOZWw5MDZHQ3pIX3ltZmZFRWR3b1dBOGdQcjhMZjQ3RFBCZkZidXdueXJVbEVzbjjSAXdBVV95cUxPX1lNQkp4YW9qWEJCSVY2bmV5RTh2Rk9XOWo4NUFzREFxbENGcUJOOGtqRlpId3R6TzFsc3dNZExKTmJxM3NuY3VKR0FfX0M4cXhvNVYyeFJ5Sy1SMkloUWlRLWY0ODRCVXdSNkJsbFJldGJTVTZ0bw?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "새 금리 거래 늘지만 짧은 계약 중심…증권사, \"두 금리\" 관리 과제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DSUZMbmJGbl8taF9KWXhpai1aNFZhOWgyVG5YdHo1d3paZ1l6UkJKWnVkd2d3YW9sbWdRNC10OHlTMVZsUlBXOU1Icll0dWtqcng2cUlwMEJLaG52ejdwck1xVzE4WnpBbXNEX2pDcDhVOGpP?oc=5",
+      "source": "파이낸셜포스트",
+      "date": "2026-10-27"
     },
     {
       "title": "9월 기업 직접금융 조달 75% 증가…금리 안정세 속 회사채·단기자금 쏠림",
@@ -22,58 +52,28 @@
       "date": "2026-10-26"
     },
     {
-      "title": "美 국채 금리 5% 넘었는데 증시는 왜 버티나… BofA 금리 총괄 \"성장 견조, 금융 여건 위축 없어\"",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTZXRDF3cHZzUkx3c1czWXR1MVZKcFBKdkhLQ251WVA4NV9Fa0Q3dXhJOFNhQXBkNG9mM1Rual9pb24yWERiaVdyWFFzZ1F3TG1qSGgyUklNam5kYzczS0llTDdWejluWkVIVFUyUm9adGZmcjlrM1k4RURQNzJkWWNfd254bGhrZlhz?oc=5",
-      "source": "조선일보",
-      "date": "2026-10-26"
+      "title": "은행 | 금리 인상에도 순이자마진 하락, 2027년 수익성 회복의 조건",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOW1BemJXV0lZMHVWdC1Wd1ZTN1Z2QVNST3Qtdk1TNDd0VHpCYklRREtYa253MVlFZ1FLc3pZb0loQ2NEb292ZVlzMzM0aThuYkNhZG50UDY5SERaUjM5NURFRlhLdEFlMFZXbXhVOWxKaVZwUUR5SFh2QW14TWFrZVpHSV84a1pQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "date": "2026-10-27"
     },
     {
-      "title": "금융불안에 흔들리는 긴축 시계…기준금리 안갯속",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WUFtNEZ2V0FmZUd0T1RDQlFPNm5ENmJSamYwTmpQRjZhbVE4Q1BQbGNzWEo5Rm5CUHM4ajgzeDYzVGpFdVBwWjR6b3ItZW00MFFYLUVDSnJtVEJpbE1qdjhTd1pBMW1s?oc=5",
-      "source": "www.ebn.co.kr",
-      "date": "2026-10-26"
+      "title": "임이자 \"얄팍한 금융기술로 증시 살지 않아…법인세 낮추고 주52시간 완화해야\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lRDZVWXFmRnRiYUZlM19tMmI0QVVjWi1aMVM0RmtKb0tZajBaZ3dlYk5OQ3ByT2JiUnpTMkxRMVVkcjJxcHdJT0dremR3dzBrY3hfd1pDYUlEY2NwSkRSTWhzR0F4TEFGWE9aQdIBckFVX3lxTE5DcGRoc1RzSERfSUt1eXZjcDdwb2pOS1p3cGs2d216VXl1a01WbGdpSk1wN3ZqOGdjR1JWWlBrbnZ5Zl9idjZVc29FemV4ZmFUcVNUNFViWjloUzBfNXpzcTZOa3llTkpNNUR3bnVvSzR4UQ?oc=5",
+      "source": "머니투데이",
+      "date": "2026-10-27"
     },
     {
-      "title": "룰라 재선에 브라질 증시 17% 급락‥금융시장 '요동'",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lMjFVVVNnQ21TaXZySERxdVlXZGpFM0xheW8xY1dtWTgxSDlZdWVvOG13QVFqb2VQX1dyc1VLV2YyRlVjRlVsUWljUFdUZVVDRlNnc2tNVWtPdm11RDQteDdENk9MNWZ4TUliNzEtY2ZOc1RieF91RlhR0gF6QVVfeXFMTllzbW5IbmJEUGlvZ1Z5b3RwbTRMVW05MHhQYzB4LU5JS3A2RW1wU1c0ZW5Eb3JrSUVGd2tFdmJvZWQ2QlotLXZXelFFOV8tcWhhYl8wYTlmOTZKaWE5OFRKQm4xUGQ1SEVjSzJYOWkwMl9DYUNVRDZXRmc?oc=5",
-      "source": "MBC 뉴스",
-      "date": "2026-10-26"
+      "title": "환율 낮아지자 몰린 달러 자산 매수세…환차손에 수익률 희비",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxYlMyN1V5UzFNeFhsTHpQNHlwUmpjOHhDWnFqeVZSNzI4ek4xLWhKU1RLdHA3bWdQa2gwU2RGSFdSYkxXci05enRZOUE4djk2eENNMDdHRW9SQ3dKOWt5S0dVWkFFbmdPdkpr0gFvQVVfeXFMUDhRMjZ1OXhtNUY3MjlqdlBhd1lsZ3h2c3VwWDI5bGhNQ2dNTWJ6N3JwN0c3aWxna2ZDckRvQkRhU29tclJtakVqTjAxcmc1UlFSWU9sU1dXZnJSZTlSbUV5N3VPY0R2d3lmd0Z0dzlF?oc=5",
+      "source": "투데이신문",
+      "date": "2026-10-27"
     },
     {
-      "title": "[브라질증시] 룰라 재선에 금융시장 '패닉'…증시 14% 폭락·헤알화 급락",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zVnQtWWdfaGZ2M1JyMTMwUWhjTGY4c1A2b0xERUFLRE9HTlpmeWo3RHdqaV9BYmlxaFdMSXZFTkQ0Q2VqUDREdXp2Q0c5M3Z2TDg1R1BMNVpnT2Nn?oc=5",
-      "source": "뉴스핌",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "금융위기 때만큼 떨어진 코스피…과거 비슷한 9번 모두 상승했다",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FUzl4NTdhR3U0QjlGZ2FiSWV0anlLUTRJSHJxSWJ3ZlB3Qm5yQjE2R3IwYzlqcXRjRGNGMjlvN2NSamREdHBBZjRxemNWLVZ3YXB4aWhxU0RCdE5TV2F3dUpB?oc=5",
-      "source": "아시아경제",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "룰라 역전승에 브라질 증시 장중 17% 폭락…금융시장 '패닉'",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3VrZmFnaTA2cEp3YXNDRl9ya1FuUjJpOXRjTElyR0lCbU1SWWIyaS02cExzXzFnZndpMGJNYnhxVmF1dmlfb2pNbjJQN1J2cUdLWjBHNXZ3a2ZlMmhsWTh0U3ZzSFc0SjRQc09OaFBTcWpMOEdncWhSc2Nadkd6Ug?oc=5",
-      "source": "이데일리",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "금리 오르는데 고꾸라진 은행주…언제쯤 반등할까 [종목+]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rVEFKM2ViVU9LNmpsZEVfek5PNEd1elZSRm9wbWk0aGhnWWVQWXVaYkQyQmdWZWpLWmFRdkpPNHFJakRrUmtWYlNKZVEyM0F2cWpidFlGT0dtQQ?oc=5",
-      "source": "한국경제",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "코스피 5500선 무너져…7개월여만에 최저",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3ZFlONTRhd285T1ZNUGtvSjI2aTJtY3Z4cWNZUDV6a09VU1ZONmMtNENTclR2MFViMks5N0lnOU52TlkyWTkxWUw4bWYwQS1UQXBEclppV291YWJSMlhJcHVUMXhhRTVhcllHag?oc=5",
-      "source": "경상일보",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "룰라 당선에 브라질 금융시장 요동…증시 17% 폭락",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rYlRNZDlGMXdfSk5hLWVrUzRMdFdnd2NhRzhZWVgtUGs4Z29nUFF6UTI3RlV2ZWdiTFBuT204WDJSLURWVU8wbkh5OGQ4WFIxczVwOGx0VG5xSnN4RnhMV0Q5TXdnNXc1LVE?oc=5",
-      "source": "SBS 뉴스",
-      "date": "2026-10-26"
+      "title": "메리츠증권, 발행어음 출시…6개월 특판 연 5% 금리",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLQmg4YWNvTVh5NlhCTzhaLVVReTRSVk9PSlZqQXAyRHByZkpleE9feEZ0bE5UX2FZV2VhOGtxWGc4a0lRMHpYV19HOFhvTmdXNkFjdGY3ekdYbEE5VnZyelpxRXNzNFBj?oc=5",
+      "source": "뉴스워치",
+      "date": "2026-10-27"
     }
   ]
 }
