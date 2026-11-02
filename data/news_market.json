@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-31T23:58:39+00:00",
+  "generated_at": "2026-11-02T00:26:39+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "10월 한 달간 16% 급락한 코스피…외환·금융위기급 '역대 낙폭 7위'",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMjM0aHdVZ2J4MTNsZElGbGloRWlQMG5jc1NMVVBKblFmTld0cElCcXU0d0hWRnlTUDlYZ01KM0dhdFNMLU9XSEVXR1Y2XzJyVF91alZWNjBKbEE?oc=5",
+      "source": "뉴스1",
+      "date": "2026-11-01"
+    },
     {
       "title": "룰라 당선에 브라질 증시 17% 폭락…금융시장 요동",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QbE9Cb0xWUms5S3VIUTk2cF94RXJJOTE5NWZibm9WN0Exb1NnclpqdFhfTUR6eGJTRnVmQUhtNDBrcC1JUWZRWVRJdF9KUWsyQTdiRkJERUZSbnl3anZPZUloMFlwVG8?oc=5",
       "source": "연합뉴스TV",
       "date": "2026-10-26"
-    },
-    {
-      "title": "[공동락의 금리산책] 안전자산 선호 반영한 '금리하락' 일시적",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kRXhtVlFXMERrUjV2V293NHo2bEV5bkNqc3VqZHpwWXJwNld3eVdzOGJxOXhLaHJQaW5SWHJiVXA4QjZrY2o3YlVKMjhOQjNrU3BzZzI4Q0lYVVVjY1U4bXgwUXRQZ1VMam5uUlNHXznSAXRBVV95cUxNMFFLVUZBejZLNEFRbVZQbERIbk9FQWIxZzIzTWV0WGUxS1NtcGVFZmx2VEo0NGVULVhnSFMyUWpzVmp3NzlpRF9vLVNxdlhPRlBMUU1SdWNrMGdEZ05neFA4clJxcjdaVi0yZmxRbTVCX0Uxdg?oc=5",
-      "source": "주간한국",
-      "date": "2026-10-30"
     },
     {
       "title": "증시 꺾이자 증권 계열사 ‘급제동’…금융지주 순익 증가세 ‘주춤’",
@@ -22,33 +22,27 @@
       "date": "2026-10-31"
     },
     {
-      "title": "금융위 부위원장 오른 신진창…첫 미션 '증시 정상화' 주문",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85cmtOcFJKbGIweC1sRlMwdmVneEhoemJvRG83cWpkV2x3Y0tFSlhRek80ejNSbHRaajRFWUhnWjk2cmhyblhIVWc3X3NBa0pkb2xyZFp4SGtrdDZjWTl4Ylk5NmNEOU9lWlBYYXAxX3U?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-10-25"
+      "title": "회사채 '캡티브 영업' 제동…기업 조달금리 오르나 [fn마켓워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ka0FkNGlNb2dodEw2MWRQNUttajFzUW1WbGtTa2pFQmpuN3NRTGtJdXpRd2JUYkRFT2tqdVI1ZjFnOXlHSGtjbVlCXzVwMDdESG10NjZkWXRrZw?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "2026-11-01"
     },
     {
-      "title": "코스피 6000 찍자 레버리지로…서학개미는 '美 기술주' 집중",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d3VTSHVBQ3R5ZkFKMEM5OTdJajYzanhqZzN2VHk2dFZ3dlNQTndyekwwdmtwOEdyZ1J5ZS0zR3VGSkFMVDNOakZ2anN6VHMyTm05bmRXTHowbVc5enFhMGRtRGNZSi1s?oc=5",
-      "source": "www.ebn.co.kr",
-      "date": "2026-10-31"
+      "title": "[금융당국·불법공매도] 코스피·코스닥 5개 종목 무차입 공매도 의심…금감원 긴급 조사",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4MUhaeFRmczB0NjhUZ2loYVhnSDNMT0JmLWwzMGtmZDRxMjVHZWx0OEN4X2V6aUtQUnZTbzRWYmE5WkcyZ29QQU9HMWRnYktGUmlLTG9mN2xxSk81UDVhWEhuSV8taHRS?oc=5",
+      "source": "CBC뉴스",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "역대급 실적 낸 5대 금융도 못 피한 '증시 한파' … 비이자이익 40% '싹뚝’",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHTlhsRFNKQU5YVTFXVUJoazFvRzl4Z01PR0VrekJhd2I2OUdvdXo1T0E0ZlJraXRRVUk2aG1LczBlR0FJVEhDOE5uc1VWd1lrb2l3dGFrZEQ5RGpfdTIyV2ZJTEVLRXJvckVUTHZOV2NvSWpJRlhvQjJsY9IBgAFBVV95cUxQLXBGNl8wV3hySks5R3A0aXptcWxyWVhZdlFiZ2pwMTNzTURwZUtqZ2NDQTFscWQ0blRnSVA2amdYY3I0OXh5OGgwNUxHcFVid1doaUpOVllzRXNpeGtXNHFKNVpzZGNxM2d2amhYVVVGRm1VVU9PVThaRUp6R1l2aA?oc=5",
+      "source": "뉴데일리",
+      "date": "2026-11-01"
     },
     {
       "title": "日銀, 기준금리 1.25% 동결에도 추가 인상 예고…엔화·글로벌 금융시장 긴장",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQUd2ZS1ZNXNjSDlOYjNoMWRiMF9wdjhha084a2RRNzhPOERjdXpSMlhwdC1tVTdjdlp1RGgtemhSaFdqYXp6WjJaQUc3dkFkNllxZXlLYjhManU3TDJxNTEtbWVOMDA?oc=5",
       "source": "지이코노미",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "美 금리 동결에 금융시장 ‘살얼음’…정부, 변동성 대응 강화",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbEdiZzFRQ1BSdDAxTG1tY2U0WWcyMmsyX09aN3lGZnQtRGRFSV9YSzY3Q3RHTFdCTUtLRGNaWGxkQ3hZcEZqODQxVXJQNl8zMXlTcW5IX3ZpTFpnaTctSlNHdHRYcGNLenk4?oc=5",
-      "source": "BBS불교방송",
-      "date": "2026-10-29"
-    },
-    {
-      "title": "코스피 5600선 위협…매도 사이드카 발동",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0taFZQUkZyWkxucVFqZ3BDTUlScXJtY182cGc1YnVwekU5aHZWLTFhZEdiQ01FUEZsM1ZUcWNEVnluVDRFNUxyNUw5VEFZVUtKbGx6SDlCZG9CM215R1d2R2R0R3MyOFdhbXhGSS1MWl83ZWfSAXdBVV95cUxONW9HZnVpc0M0Z25JVkNfaWt3MlZCMll1MEwwaFlUYUNYWTRKclQ3MjZXVEhJNWsyZ2FObjNub0VtSUppN2pwNGpKV2VCQmJRVkdremp6QXptaUhkOWs3enB3SFRhZzVpbDlvZ3p4cl8xTjJzNXZaVQ?oc=5",
-      "source": "스트레이트뉴스",
       "date": "2026-10-30"
     },
     {
@@ -58,22 +52,28 @@
       "date": "2026-10-30"
     },
     {
-      "title": "이형일 부총리 “미 금리 높은 수준 유지·국제유가 흐름 등이 금융시장 변동성 키워”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mamJnZTc3S1NwaDFWTTZUc3NpZ2J3MDVZcjRMLWlfTkNqWmNkcUtTNFllXzNlRGphZEtXUEZhYzc5SjZDNlhidExjU2JkeW9tUGZtVDVmUmZhQQ?oc=5",
-      "source": "브릿지경제",
-      "date": "2026-10-29"
+      "title": "금융위 부위원장 오른 신진창…첫 미션 '증시 정상화' 주문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85cmtOcFJKbGIweC1sRlMwdmVneEhoemJvRG83cWpkV2x3Y0tFSlhRek80ejNSbHRaajRFWUhnWjk2cmhyblhIVWc3X3NBa0pkb2xyZFp4SGtrdDZjWTl4Ylk5NmNEOU9lWlBYYXAxX3U?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-10-25"
     },
     {
-      "title": "KB금융 3분기 순이익 1조9075억원…증시 악화에 4.3% 감소",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84UEdxeDJRMzA1cmdsbFlvMDZMRktVYUxyX0Rra2MzTWNXc1U0RGFTanl6WE9kZ1VrdXp6VXFtZFFqT3FyWGhjRnJzSUJnR1VaY1pLYnZJdld6QdIBX0FVX3lxTFBOYmhRUml0THR5VHg5UWpRanRzS3dpRk1nM2UwV1NrN01xTWlicEQybE1SQjdxRENvZG5RTVc2S0FVV29UakYtcVhsSmJGSjVEbmthT041TzhyUnVEWGMw?oc=5",
-      "source": "경향신문",
-      "date": "2026-10-29"
+      "title": "AI 투자 우려에 뉴욕증시 털썩…인텔 29% 급락에 나스닥 2.9%↓",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jb2hJZnVzWGxjUV9qbWhOaTBLM2xobUM3bF82cGROaExyUkwzSDltUXlfUW05SWd2LTNtQ3JfRTRMemM2ekkzSHlETUpvS3JDNk9SVi1FVzdTWFIxdy1HMG5qTQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-10-30"
     },
     {
-      "title": "증시 부진에 5대 금융지주 실적도 주춤…3분기 순익 5.9% 감소",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HSld5YzBLa2JRdEVpTTIzc25hdzE2eUt3NWxsbUpRLXI3dEZGYlJnRkRhSHVNbEdaZDlfcTBmRXdkM1FBSHU2S1QtbEdoZHh3ekRDU2x3M3FSTC12bWRIVWdhYXlRQTM4OVpjZVRSQlJUWnJjUHfSAWZBVV95cUxPMHBZTGNxdDZVS05Fc2VMNFNQTU1FMEZoLW9nb24tTlFWWTdKSmtDSnd2c2ktWnBrcm5GWTJPVWV2Q0JEOEhlUkhublVRSm45T1RKVHEyZHJHVWIzQWJKdFIzc2VCQ0E?oc=5",
-      "source": "동아일보",
-      "date": "2026-10-29"
+      "title": "코스피 6000 찍자 레버리지로…서학개미는 '美 기술주' 집중",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d3VTSHVBQ3R5ZkFKMEM5OTdJajYzanhqZzN2VHk2dFZ3dlNQTndyekwwdmtwOEdyZ1J5ZS0zR3VGSkFMVDNOakZ2anN6VHMyTm05bmRXTHowbVc5enFhMGRtRGNZSi1s?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "금리 인상, 금융권 부실채권 급증 초래",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90UmtneHIxWHJTLVQ1STVFa0RfT0tlbWlSREFfd3pLeUNqU0p0Y2Jpcms4Wk00dUZYNzdKLUdNbVFyV2Y5d0ItQXpkVjVJYW5rdjlMM3o4SjEzTzVLUS1MTldCN21IdG4zNGNDSFV0cDdVQQ?oc=5",
+      "source": "미디어시시비비",
+      "date": "2026-10-31"
     }
   ]
 }
