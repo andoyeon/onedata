@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-31T23:57:07+00:00",
+  "generated_at": "2026-11-02T00:19:20+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "21조 순매도 외국인…조용히 쓸어담은 '톱5' 공통점은",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyT2lrYzhweU1ZTGJLYjNrcXBxZUtVNmhucUtLSWZKVjJIdFpVb1BfZkdmenVoeVJVVW95cklxbmJQX3VfcndGNWx0d3NtMTA4aHVSbGhkNW1PQQ?oc=5",
+      "source": "한국경제",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "요동쳤던 10월 코스피, 11월엔 반등할까… 외국인 복귀·美 중간선거 촉각",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YUkRjUUdXTFFFVHdIb0VVdnNkNV9aR25TV3NtRGF6STUtZnlOeWVQcjR0eEgydXZZMktEZTRIYUtyekVqZGwybGpSbTNMZGo3REhnd2hUanFKblVPeTBnUzdBWldiWHNwZXpEV0pZT0ZXbVXSAXNBVV95cUxPWFJEY1FHV0xRRVR3SG9FVXZzZDVfWkduU1dzbURhekk1LWZ5TnllUHI0dHhIMnV2WTJLRGU0SGFLcnpFamRsMmxqUm0zTGRqN0RIZ3doVGpxSm5VT3kwZ1M3QVpXYlhzcGV6RFdKWU9GV21V?oc=5",
+      "source": "한국일보",
+      "date": "2026-11-01"
+    },
     {
       "title": "외국인 투자 '주춤'…수출입 확대에도 외환거래액 증가세 '둔화'",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYSHFCOS1zaWZGSzJrQWFXNWdkcTBOZkdNQklQZFBGLWtKWjZ6V2d3ZlVIekJzanJEZWJheEMtLTlQdFA1R2VwLWo2MXVMVEFscDZVcnVKNDdfMkF6eHFxR094MUc2NTMxOGc?oc=5",
@@ -16,16 +28,22 @@
       "date": "2026-10-30"
     },
     {
+      "title": "코스피 한 달 새 16% 급락…11월 증시 반등, 외국인 복귀가 관건",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyU0V1WjZ4SkZEeU5BblQyWi1TX3RfOFlWQ2diTV9JUUpGRVFrRW9xdmZSamdqNUFCZTRKcW9UaHBFSFQ0bl8yODM4SlE3c19kQ1UzRjFVdFN6dGhqZlRBWHN1Z3Y?oc=5",
+      "source": "https://www.ppss.kr/",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향 | 연구자료 | 보고서 | 발간물",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUhJeUpDQXNsYjl4WndmbmV5OGZWRXh2UlFqTFREdTJJYzIyaW5zSVJDVE00YUdkeENLTWhyZXFlNWQ3VEszel9Hc3pNUDZsbURaYWx1c25fUXRZMm9xdGpHc1BBNlZFa1Ntc29xeHFFTEhQbURNd2E3X2RRU1hGNkdhenlEd1lmdEE?oc=5",
+      "source": "대외경제정책연구원",
+      "date": "2026-08-12"
+    },
+    {
       "title": "반도체·데이터센터에 외국인투자 몰렸다…3분기 누적 역대 최대",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSXZERGlqazNBWWMyeGNneFMyWTRtSDJOdGY3c0ItenJKb2VsV18yLTZoYkppZGg0a0VLOE5CTWtFd2djRlluTUdhSFVnaTVhbDRvMC1LRmFPUGxJZ3F0TGNyNXhYMHdDNnN5bNIBcEFVX3lxTFBGRERlbXZOb3hZVFhUbmo0Z0JfQ1hkOHoxRkdjMWV3ZEVUWWpldGI1ZWs2LW0xc25IaUd6LWlORlA1WldrUzBJUVpGT29YYmstdm9CalhyX1AzZ3pwQWFNakl3T0gxQktRRWZiTEZkdHE?oc=5",
       "source": "전기신문",
       "date": "2026-10-07"
-    },
-    {
-      "title": "[현장] 코스피서 18조 판 외국인…현대차證 “11월 중순 이후 수급 개선 기대”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZmhCZ2k5T01URFlYdlJWSVpGZ05xN28xVldxSVFqRFVCX3FmYUNLSlpjeFJOQ2h2clJLMnZqRnJCbEJjUlNFcFRkakpqdmFSbUhCQzhPdFlPdXljWlE?oc=5",
-      "source": "뉴스투데이",
-      "date": "2026-10-28"
     },
     {
       "title": "2026년 상반기 외국인직접투자 동향",
@@ -34,46 +52,28 @@
       "date": "2026-07-03"
     },
     {
-      "title": "충북도, 일본계 외국인투자기업 임직원 투자환경 설명회 개최",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9La2twdzROQXJ5eUx5ekFLb2RtbXZ0aHdvampkS1MwOE9iSlpTZ3BMbHZlc2dXU1V1aWRfWHFyYWFZbnMzWG55bk1KZTlmWUxsZ0hyS3ZjTnFQZmRUOFBZRy1IeWJ2bndidW5WYWp3?oc=5",
-      "source": "국제뉴스",
-      "date": "2026-10-30"
+      "title": "’203조 순매도’ 외국인 돌아올까?…현대차證 \"10월 말부터 반전 기회\" By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pQUlMc0RtcDNhRXIyWkljQ0pOWW1oeG1qUDFCSUI3Q3lYUjNYb2gwQmY1RUMtYVhpeURiTTZEY1U4amg0WUxaZFZnUC13WDR0OWRQazRVSVJWck0tZ3NtUExLeXVMQjluNzkwQXdOYVU?oc=5",
+      "source": "Investing.com 한국어",
+      "date": "2026-10-14"
     },
     {
-      "title": "\"외국인 투자자 돌아와도...\" 반도체 성장세 둔화 전망? [굿모닝경제]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zT3dEeTZieVFNa0pHVmNZTHh0X2ZfVnU4Q0h4OFloaEdPV1R6SlR1QWE2Nnc0NEFSbEl1aHh1SDNhdDN4am5ndm9xa1p6empTTEc2cEk5aEw4dmNhSXc?oc=5",
-      "source": "YTN",
-      "date": "2026-07-02"
+      "title": "\"해외 개미도 K주식 쉽게 사게\"...거래문턱 낮추고 투자수요 넓혀야 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eFhEV0VpYmZIUVFFMVVjc3NGNFFiYms2UmpBdlhjZ0dvSlFvWXVZekpzZlNVbXVKelpDSGxTc3JvMWhaMWZ5U0tlcjYyN1dqN3Axcy1YQzNRX1k3OVB2d3hWeURLamZ10gFuQVVfeXFMUDdRMFdRc04yQ1dERDl6bER2ZEotMmhHRXBzYU45QVBvbDBLcXUyNHZVWS1VZ01rRGJYZ2hDV2FVUUl5RWlpc0hVSlBTeFZ6NWV5d0p3cndmRmc1M3FYSFQxT25kNjIyUEp0NzNZZlE?oc=5",
+      "source": "머니투데이",
+      "date": "2026-10-26"
     },
     {
-      "title": "외국인 투자자들은 단순히 시장 환경이 개선되는 것 이상의 것을 필요로 합니다.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEtabEhZT3FZbjk0dTRQblNoYmFDV3lYQzlVTl9jT2NFcFV2alZ5cXR5bm9fS0F3bUw3dlpRS2xKNmlTejl4T0xteGwzY1JxV2RhYVNlcVhjZEMzWDRGdjF3THVGRUx3R2tyM0tyMzVwaDdfSm82SjdwR2tlRUZNYmRiVlRCblBiMURCdHZ2Zw?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-10-30"
+      "title": "[현장] 코스피서 18조 판 외국인…현대차證 “11월 중순 이후 수급 개선 기대”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZmhCZ2k5T01URFlYdlJWSVpGZ05xN28xVldxSVFqRFVCX3FmYUNLSlpjeFJOQ2h2clJLMnZqRnJCbEJjUlNFcFRkakpqdmFSbUhCQzhPdFlPdXljWlE?oc=5",
+      "source": "뉴스투데이",
+      "date": "2026-10-28"
     },
     {
-      "title": "\"증시 저평가 매력은 끝났다\"…외국인 수급 바꿀 '두 가지' 트리거",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03LVhERmdvSWJrWGp1enQxM3dCODBsY0RmbmxNWXZxUFd4ZVhEaGVsSjh3Y0k4WUZzbkMyYWV5bkJOdVItb1U3Ykhpd0lVZjFtb3hjQ2xCMF9jd01NaElIZzYwQUVobzE5bEpCdjd6Vmg?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
-      "source": "법률신문",
-      "date": "2026-07-30"
-    },
-    {
-      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "4월 외국인 투자자금 순유출 규모 줄어‥\"투자심리 회복\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10eDNORGVSVkVMRHhQZDdla1RiOUNITFJOYUMxYU1TenNNYlE4aUIwTHhTRVdGMzYtN3VxMk5tU2c4TnVnaVQ3dG1HR2lQTUh4eWQtSTZXRDRzV0RfTWk4el9KNlEzdGE1ZUo4akp2VmU0S3dT0gF0QVVfeXFMTUtUZGYwZXNyR3NrWTFtUkVkWmZHOC1LdnkxejlEUENRTnNZNWUzMEt1aFBLaHl6bi1FSzU0ZHZhMVVoVUg4Yk1TUHlTVlQwWkpKWDRqcnZBQllpZkVYTkllNDBFTU1VOVFfVldTMEtDRUx4dHE?oc=5",
-      "source": "MBC 뉴스",
-      "date": "2026-05-15"
+      "title": "OECD \"韓 외국인투자 규제 106개국 중 45번째…美·日보다 장벽 높아\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJVVRrbEV0R0xaZFVET0liUWxyS0VEN0l0aDNETy1XRkxFa2FpUjVIYmVlbkd0LTVMeENiVk5tS0oxc3hFanVGU1lXQmtlbXRMekxfMQ?oc=5",
+      "source": "뉴스1",
+      "date": "2026-10-15"
     }
   ]
 }
