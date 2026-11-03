@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-02T00:19:20+00:00",
+  "generated_at": "2026-11-03T02:46:15+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "외투기업, 한국 첨단산업 성장 이끌었다…유공자 45점 포상",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aSExPS0taTU0wdWNEQjRwa2p2VnJlVXpfa3FYRkpQOXVNRm5lRUViT3JrTE1RVE40eHJ6NlRCanlqb1l5QkM3TVhoOHdlcVc3aXJmcHV4RXVtaWViRUQ1QkNNU2lrZElkckh0WNIBcEFVX3lxTFB4XzJ3dDFnMFFXTDhfWEZJc1JUaHlUTHNJaDJFTlljUy1aY2l5R1l4T1NTWk1Tb1h5MElXN1ozenp6Qm0wZXBnTnRUUWpkSXlhRlFxTHV3UnlmeFZsMVY4ZElYc0hpUmdTR2VLTjRnRWY?oc=5",
+      "source": "전기신문",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "[채널Who] '주주환원 늘려도 9월에만 19조 이탈', 외국인이 한국 증시 떠나는 이유",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QWDNlbGd6Y3B5X1JZY1FVSWtxVElIZTZXcnVjenoyR2xxZWhmWkxHc3BibWZCbDZDNWNaaUZKUHQ1WjhOQU1kek82cTdaS3NNcl85bHpQMmwxSERmQ0RRTEJPZ1AzZGgtWWVIT2lFckR6YXM?oc=5",
+      "source": "비즈니스포스트",
+      "date": "2026-11-02"
+    },
     {
       "title": "21조 순매도 외국인…조용히 쓸어담은 '톱5' 공통점은",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyT2lrYzhweU1ZTGJLYjNrcXBxZUtVNmhucUtLSWZKVjJIdFpVb1BfZkdmenVoeVJVVW95cklxbmJQX3VfcndGNWx0d3NtMTA4aHVSbGhkNW1PQQ?oc=5",
@@ -11,21 +23,15 @@
     },
     {
       "title": "요동쳤던 10월 코스피, 11월엔 반등할까… 외국인 복귀·美 중간선거 촉각",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YUkRjUUdXTFFFVHdIb0VVdnNkNV9aR25TV3NtRGF6STUtZnlOeWVQcjR0eEgydXZZMktEZTRIYUtyekVqZGwybGpSbTNMZGo3REhnd2hUanFKblVPeTBnUzdBWldiWHNwZXpEV0pZT0ZXbVXSAXNBVV95cUxPWFJEY1FHV0xRRVR3SG9FVXZzZDVfWkduU1dzbURhekk1LWZ5TnllUHI0dHhIMnV2WTJLRGU0SGFLcnpFamRsMmxqUm0zTGRqN0RIZ3doVGpxSm5VT3kwZ1M3QVpXYlhzcGV6RFdKWU9GV21V?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TR0o0aFVlN3k5UkNhU1J6b2hGcDNXMDdRWHF1dTZuRnZjdEhBeENnZDVXTmVQWWVwbHFNR1BTQ09MTzlzME1UanQtX0l6TnJmaUh4WTFJY1NHdU1UOVUyX1VDckM3Ni1VZUptQnVn0gFzQVVfeXFMT1hSRGNRR1dMUUVUd0hvRVV2c2Q1X1pHblNXc21EYXpJNS1meU55ZVByNHR4SDJ1dlkyS0RlNEhhS3J6RWpkbDJsalJtM0xkajdESGd3aFRqcUpuVU95MGdTN0FaV2JYc3BlekRXSllPRldtVQ?oc=5",
       "source": "한국일보",
       "date": "2026-11-01"
     },
     {
-      "title": "외국인 투자 '주춤'…수출입 확대에도 외환거래액 증가세 '둔화'",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYSHFCOS1zaWZGSzJrQWFXNWdkcTBOZkdNQklQZFBGLWtKWjZ6V2d3ZlVIekJzanJEZWJheEMtLTlQdFA1R2VwLWo2MXVMVEFscDZVcnVKNDdfMkF6eHFxR094MUc2NTMxOGc?oc=5",
-      "source": "금융소비자뉴스",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "외국인, 한 달 만에 주식 '팔자' 전환…9월 19.1조 순매도",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZWViSS1zMTJGeUJqNUZTMEZpX0xudVFzNWlqX21xVE5YR0p2c085VHdvNWduTkZLS1ItbHBseXJsLTYxQTAtSG1YN2hETVZSeVo5R19LMDVzZDJDMGhhdHhPTmkxcjI5X0pLZw?oc=5",
-      "source": "뉴시안",
-      "date": "2026-10-30"
+      "title": "호치민시가 목표치를 뛰어넘는 외국인 투자를 유치하고 있습니다. 이처럼 매력적인 투자처는 어떤 장점을 갖고 있을까요?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNkRlQTNCTHpoTzJpY0p1TXVfQy1LcTBNQkdiTXFoMDNKd0xzMlB0aXgwNU16MTVmQVpTSTZIRGkwZEJaVXBzSjA5X0FZUnd0R083M3VvVWRzeENzZDBTdGNYdWNUSzJlRzV2eDlDQno3QVZBNXdDbENXZXVObmQyN041SXhNX09ZRnBhSXJaSzE?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-11-02"
     },
     {
       "title": "코스피 한 달 새 16% 급락…11월 증시 반등, 외국인 복귀가 관건",
@@ -34,46 +40,40 @@
       "date": "2026-11-01"
     },
     {
-      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향 | 연구자료 | 보고서 | 발간물",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUhJeUpDQXNsYjl4WndmbmV5OGZWRXh2UlFqTFREdTJJYzIyaW5zSVJDVE00YUdkeENLTWhyZXFlNWQ3VEszel9Hc3pNUDZsbURaYWx1c25fUXRZMm9xdGpHc1BBNlZFa1Ntc29xeHFFTEhQbURNd2E3X2RRU1hGNkdhenlEd1lmdEE?oc=5",
-      "source": "대외경제정책연구원",
+      "title": "\"증시 저평가 매력은 끝났다\"…외국인 수급 바꿀 '두 가지' 트리거",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03LVhERmdvSWJrWGp1enQxM3dCODBsY0RmbmxNWXZxUFd4ZVhEaGVsSjh3Y0k4WUZzbkMyYWV5bkJOdVItb1U3Ykhpd0lVZjFtb3hjQ2xCMF9jd01NaElIZzYwQUVobzE5bEpCdjd6Vmg?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "개미에겐 레버리지, 외국인에겐 익절 기회?…정책 책임론 확산",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ROUFhMmFwX0lkWkdmWTdVbjlnSzdqbDI5cE82Q0RvemdDZy1VQTZBMW5YZFNUeTRlRHZtbGRCXzYxMldJNUUxemdFYlJ2UDhtczhrMC1GVDFRRk9YaF9qUlVITi1CRFE?oc=5",
+      "source": "연합뉴스TV",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
+      "source": "KDI 경제교육·정보센터",
       "date": "2026-08-12"
     },
     {
-      "title": "반도체·데이터센터에 외국인투자 몰렸다…3분기 누적 역대 최대",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSXZERGlqazNBWWMyeGNneFMyWTRtSDJOdGY3c0ItenJKb2VsV18yLTZoYkppZGg0a0VLOE5CTWtFd2djRlluTUdhSFVnaTVhbDRvMC1LRmFPUGxJZ3F0TGNyNXhYMHdDNnN5bNIBcEFVX3lxTFBGRERlbXZOb3hZVFhUbmo0Z0JfQ1hkOHoxRkdjMWV3ZEVUWWpldGI1ZWs2LW0xc25IaUd6LWlORlA1WldrUzBJUVpGT29YYmstdm9CalhyX1AzZ3pwQWFNakl3T0gxQktRRWZiTEZkdHE?oc=5",
-      "source": "전기신문",
-      "date": "2026-10-07"
+      "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
+      "source": "법률신문",
+      "date": "2026-07-30"
     },
     {
-      "title": "2026년 상반기 외국인직접투자 동향",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qT1d0elo1Y2xRejlIb0FtcjZuWVRha2lfV01ZS0hsc3pOblk1ek1OejZRSnFjU0IwMkw4RjV3T05IekdleWJybUZHZzJwZWk1WUZIbXlab0dlM1lwUDZ2YkNvaE1SbHprNGZUTw?oc=5",
+      "title": "호치민시는 외국인 직접투자(FDI) 유치를 위해 3단계 인센티브 정책을 발표했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGpDZ3FSNU1oNG5OV0NKck9MbnFaR0Y0TWdKcDkwVDYzbFdCV0FLRWFJclBsQnR4X014dlNmSjFpWXQ5ZzFsckFfV2VseWNfM1l4TUFrdWZHQlZramI3dFlQQy1KRXBkQk1zb3hsOVkwT0tnREg3UUxaOTI0YkxVcFRMQW1MREo2RGRyazVNMlllaWs?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "청년에 도약을, 지역에 성장을 가져오는 외국인 투자로",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsZzBMNmVubV93Snh2ZWtLRno4S0VudmYtZWxtOFlTTEdMRUM2UjhZc3RfTkV5MUM2NlBHU1pFT2ozVm0xX2ltSmtrODJiV2dzS1RNZktUOUJxLVA3QlBEQWlFRjVqdnh5Z1hHTw?oc=5",
       "source": "대한민국 정책브리핑",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "’203조 순매도’ 외국인 돌아올까?…현대차證 \"10월 말부터 반전 기회\" By EBN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pQUlMc0RtcDNhRXIyWkljQ0pOWW1oeG1qUDFCSUI3Q3lYUjNYb2gwQmY1RUMtYVhpeURiTTZEY1U4amg0WUxaZFZnUC13WDR0OWRQazRVSVJWck0tZ3NtUExLeXVMQjluNzkwQXdOYVU?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "\"해외 개미도 K주식 쉽게 사게\"...거래문턱 낮추고 투자수요 넓혀야 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eFhEV0VpYmZIUVFFMVVjc3NGNFFiYms2UmpBdlhjZ0dvSlFvWXVZekpzZlNVbXVKelpDSGxTc3JvMWhaMWZ5U0tlcjYyN1dqN3Axcy1YQzNRX1k3OVB2d3hWeURLamZ10gFuQVVfeXFMUDdRMFdRc04yQ1dERDl6bER2ZEotMmhHRXBzYU45QVBvbDBLcXUyNHZVWS1VZ01rRGJYZ2hDV2FVUUl5RWlpc0hVSlBTeFZ6NWV5d0p3cndmRmc1M3FYSFQxT25kNjIyUEp0NzNZZlE?oc=5",
-      "source": "머니투데이",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "[현장] 코스피서 18조 판 외국인…현대차證 “11월 중순 이후 수급 개선 기대”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZmhCZ2k5T01URFlYdlJWSVpGZ05xN28xVldxSVFqRFVCX3FmYUNLSlpjeFJOQ2h2clJLMnZqRnJCbEJjUlNFcFRkakpqdmFSbUhCQzhPdFlPdXljWlE?oc=5",
-      "source": "뉴스투데이",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "OECD \"韓 외국인투자 규제 106개국 중 45번째…美·日보다 장벽 높아\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJVVRrbEV0R0xaZFVET0liUWxyS0VEN0l0aDNETy1XRkxFa2FpUjVIYmVlbkd0LTVMeENiVk5tS0oxc3hFanVGU1lXQmtlbXRMekxfMQ?oc=5",
-      "source": "뉴스1",
-      "date": "2026-10-15"
+      "date": "2026-01-29"
     }
   ]
 }
