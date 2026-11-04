@@ -1,25 +1,37 @@
 {
-  "generated_at": "2026-11-03T02:49:51+00:00",
+  "generated_at": "2026-11-04T01:07:42+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "코스피 3% 넘게 빠져…5600선 기록",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zSm5pd0hSRmcwbDdNd3BwOHJxZk4wUzFfaEZfTXJCSzN0bnhkMHYtdEFjZlRVYktfSHhiRFczQy1fVFd4cE4tVzcxVFBhd1ZSV3A3QmUxYVFhckNVWk5NOWhLNm1OWUJjTVRqc00waThOTzg?oc=5",
-      "source": "스트레이트뉴스",
+      "title": "[개장 시황] 코스피, 상승 출발…반도체 강세",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QTndvQW5zanJYRXkzeW95N0Z6d3g2dnhTT0xTZGpHUW5RVThFQTFWeUhVRktzbFlNNzVCUkhKTmZ4TDA4Uk5vUWlrMlpTc2tJcDQ2ZF9URHJ1b2Z4VjFUTHY0N1JjZ0tY0gFsQVVfeXFMT0xrNDFyTlktVU9wR25FTUFYbFplT1FkXzliaVZrQm1YM3lYenpsUllYa0VMOXRZclg2c2hMQmk3Rm1LNXg2TTV4a05penRzQ2stVVFwbU1Fd3JlZVpwZEVNQkpyalBTYkhtUkZp?oc=5",
+      "source": "필드뉴스",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "카카오페이 실적, 증시따라 '출렁'·금융서비스 부진…수익구조 개선 과제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSGM5X0w0MWFNR2M2bFZhSS1uY1lrOHFMYkY0QXlhSUp5VEVXcExhU1M5NVduU1U1aGhuRkw4X0pUaUxYNWNEaXdoZUp0ZHlOd3lJOWpzNC0yUG5GWlE?oc=5",
+      "source": "뉴스투데이",
       "date": "2026-11-03"
     },
     {
-      "title": "주택금융공사, 11월 보금자리론 금리 0.10% 포인트 인상",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01eW0zM2o0TFJWcFdZWlBEblZsWmxPcVloZzBqS0FXR1pDYjI3WTh1bGtWOUliTUhnRkhKandJSHp3dmd6bVdWejNxTTJERG5ZekIzcmlKQm9UOHdWa0dYSDlwU2U?oc=5",
-      "source": "매일일보",
+      "title": "외국인·기관 매도에 급락한 코스피…반도체주 흔들려",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBNDlURS1JYXJkODEyc1FlZUx2enRfdmg1ZFNOTVI5cDRUd3lOcGlLTHlCbEJvRmRHWHdhM2NoeF9VZDBuWXl1cm5PLUNPTHdLNzJjNFBHdkZXR0JOTC05dXRZS1ZzNXc?oc=5",
+      "source": "영남경제",
       "date": "2026-11-03"
     },
     {
-      "title": "[원자재 시황] 유가 급락하고 금·구리 상승",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12ZTV6bUo1bUhQNC14TzVPSElhVFJMdzd4QldBaGFSYllCUnpsMVpsZDF1djFObFVMaXdCZlNjRVlyZ1gyMUgzbDN2bHl1dXlGUEZJRjlyQW9nOVBRMHBkS3lFU2VZWUdj?oc=5",
-      "source": "www.ebn.co.kr",
-      "date": "2026-11-02"
+      "title": "코스피, 반도체 '저가 매수' 유입···2%대 반등 출발",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZYmxMQ2poVHJQUFhIZTZ6TnRPbUZEZGVBMXV5dkFhUjE1cWhVNGdOZXh6SzBobVppMnZEOUFTdEZJOEcxeHNvZFEtQkp1RzBDWS12SVk5bWFJTTJnb0ZiRDRvbno2aDdjWmc?oc=5",
+      "source": "서울파이낸스",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "코스피 포인트보다 더 하락한 '삼전닉스'...언제 반등할까?",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMUJxamx3ajZMc29Qc2RocnJlQ0QzelVhUS1LLVRBeFc1UHlxSEFjUC1DUEFJTU5KdlVpQUh3VE15ME0wNEJueWZzdTFrcTZuZHVwN1pVZlhuNzZyQW5SMDg1UW5pbmJJWmc?oc=5",
+      "source": "금융소비자뉴스",
+      "date": "2026-11-03"
     },
     {
       "title": "주택금융공사, 11월 보금자리론 금리 0.10% 포인트 인상",
@@ -28,51 +40,39 @@
       "date": "2026-11-02"
     },
     {
-      "title": "[코스피 개장] 143.89P(2.46%) 내린 5715.19",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaU3k1NWN4cFVzZ0tPVjlfX1RQVXZwWUU2NVdONlU0eFNkT3Y1LXIyNVpZWUVnaWdTeHh5ZjBidmpnZWp0QVllQzQ4N2RPZ0JnWmhsNzBpSDdOdjJCa0puNlBQeTN0dDIyUXc?oc=5",
-      "source": "서울파이낸스",
+      "title": "코스피, 3.59% 내린 5648.79로 마감… 코스닥도 700선 마감",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdHFTVGtPMEd3c19sR0YtU1NfZlMyTWt0VlcyejBNMG51TWZDZFZNc1JLdDRQNGtmeU1sdTA5RjNXbHhJa29EYXN2M0Vpelc2YTZPaDlEbTdhNkhTWUZTUTEzeWJrSU5Sb1E?oc=5",
+      "source": "천지일보",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "5대 금융지주 고액자산가 공략 주력, 금리 인상기 비이자이익 확대 노린다",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YLXZGSS1aaWFPaXZZcmFjWTE0UTNIZU5zcVcxZDJJeU9TU2hEb053SjRzZWxmaUpUVDBYN0NwSzVqb01aT0FGbURtbll4YWtJRVIycS1mZ1VzaXM2a3BZN2ZaN3JCUWtBVTFFVnBUelNiTnM?oc=5",
+      "source": "비즈니스포스트",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "[속보] 원·달러 환율 2.8원 하락한 1341원",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IZUVjTWZFcXZTblg0c3hNS3I5ZGRCa084RmJoRDloVjBaVFFfNGViUFVSM0s2cmZWYTZvNGN3aDgyWjRaMm0ydUVTdTNrOVdMMld5czNIanktVEEwQkxHYzFXVDlKQmRxV0ZhYmI2a9IBc0FVX3lxTE42eHlBUUN6X2V3NzdwUUN4U1dyak5JSXZuS2JYbTBfQjRXMElZNEVxdUY1aVZOVnVOaEJOS3k3b1RzT2RPak11SUZQcm9fRUN5NGtmRi15MkIwZ3EzRTluTFNxZFZOMEMwdVk2M1Znb290S28?oc=5",
+      "source": "뉴스웍스",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "코스피 2%대 급등 출발…5780선 회복",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80NmpRT0JRRUFmRm5ULVBXNVNOOVl5a1lvektnaWRjbE55RFVNTWZFT0ZkNFZwczJhOWRfcXZFUW5jVHMzcGg1VnBuUWRCbzQyMTBPcGo1OFRmekJmSThXUUk3QTRsN1NUdjVHam5jNzXSAXRBVV95cUxOVzdxZXVvaGN3emZlc1ZJTGFDc0twMFhQRTFTSWtTdWVxV2c0Qzc5Z2ozbkhLTW1MNzA3OFUzdm1IRGgwV0dqQ01jZktRZU1fcnd2WGgwLUNwWS1fOWV3eTRwbEVhWTYxa2dQeWo2MnVGZXRqcg?oc=5",
+      "source": "포인트데일리",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "뉴욕증시, 美 중간선거 속 엇갈린 흐름…반도체주 강세",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hV0NIQTFleDdRNGFNdVA1cFZFRVN2QVhkUzN4N0pyaFJlZG9zallKUWNaWmR3Q2lfMmdwcTIyajdmbFRzdWdXeHF4SnJaaXc3TS1ONVUtRW1ERDBVTktfN1dPWi02MkVoaFhaNg?oc=5",
+      "source": "스페셜경제",
       "date": "2026-11-03"
     },
     {
       "title": "코스피, 반도체주 반등에 5800선 회복…기관 '사자' 주도",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zaS0tbVBrbkVNazJkVVlyRTFlOExkcnNsbS1JR2taLVBJSTBNUEYzYW1JTUJoN3hnMUVDYURCb1F4QmxLTmhGT1pGQVBFMjdrX3dLSEoyckRyLW1EY2dnRFNsRWZMMmtIcDNEekUyQ1dQdw?oc=5",
       "source": "인더스트리뉴스",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "신협, 금융취약계층 목돈 마련 돕는다…최고 연 7% 금리",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWTWg3UUNqUjJVdENQZV9BMmw2UjNwQ2NQcGJXM2Roa0pyeTRBUm8xR3J4ZDFQVFUtTzNCaFRQLS0yWlpGN2gwRXU5Tm0ydEpHeXRrVUhiaXRfa3EtdDJXclpvSGwzMXVTTDUw0gFvQVVfeXFMUEo0SlU1NTNiOERHQUpxT3dZOVc0aG5jT3RJRGpxT0V4RVZPcU1CN0tIXzVudktiUFdrTEJDaWZ0X3Uybm5QNWpwemhIbTFLaU9KZjBfRUk1QUFzTXlnMTF1Y1UwUTJISGpVMll0dUc4?oc=5",
-      "source": "한스경제",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "코스피, 2.5%대 급락 출발…코스닥도 2% 하락",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GY0dIMVB4YVpQY3oxLS13Tk05UTZBZVdTeHMtRWVNcHJFMHd0bk1vN2FOZTVraWxabldZcUlMUk81VkplajhHZUdULW16MDg3UXBWYjZ6TkNWZ3N6ZDA3OTJza1VsRThZaDAzcGNkX20?oc=5",
-      "source": "포인트데일리",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "뉴욕증시 혼조 마감…나스닥 1.07% 하락·다우 0.43% 상승",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iYTdCSFR2cnNuTVloVU5tbndRRkhKZEprQlk2bGd2TTdFNG9zT25Vd3d3am5Td3E0U09VVW1PeER6c0hrcVNFNkdxV09FTjZEY2FzVXlyTjB5WUxTcWhNXzRBS2N1bUZlWUY2Uw?oc=5",
-      "source": "뉴시안",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "서민 금융상품 '보금자리론' 금리 하단 5%대… 역대 처음",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4Nk5YcS1PYVhHeC14a1Bvb1ZfZERXRG05RC1lbk11cWFhdXhOb0F3X3VBYzV1U0RudkZ2cXhkRTN3c29JRklVRHJFZklrc3QzRGpvbjF3WklhdU1ILWVwSHVScjM?oc=5",
-      "source": "중도일보",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "증시 흔들리자 은행으로…정기예금 1030조 돌파",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdWs3b2ZEQ2tlRkp5RUpzWDU2dC0tZ1hVQWhBeEw0dkVVR1RmZEdkcno5RE56UW4zcVUyZGctYVN2Zlo3VHFoblBFUVpFQk11MTNXbFdnUHQ2S2ZuN0FVMWxnUXRGZF9fZExZRA?oc=5",
-      "source": "스페셜경제",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "주식 팔면 다음 날 돈 받는다…증시 결제 체계 개편",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFbjIzWENPMmh4c2ZqYndPRm01YWdtelVwT25oSEtVRGp3VDJDR2ZCMXdnLWNCWjlPb1JZZHhYdHAtOXh2VnJqOTNoa0t3VTlLZERsRkh5Wm9OVEllN29mUEF0bVVDU2JzU0E?oc=5",
-      "source": "뉴스포스트",
       "date": "2026-11-02"
     }
   ]
