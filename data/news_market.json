@@ -1,67 +1,55 @@
 {
-  "generated_at": "2026-11-06T01:25:57+00:00",
+  "generated_at": "2026-11-07T00:46:05+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "코스피 5000선 ‘와르르’…美 AI 규제 공포에 증시 패닉",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tWGxzaFhmLTh4YVp4TTJxaUl6SmRXMGc1TUhtUlZ0SXpyWVV4N1RZQm9lRjFraFRHd1FfUHlMcWEwbDBrZHZRUGl1bzduT2VuU044UGt1RTNwc2NDYUZLWg?oc=5",
+      "title": "민주, 금융시장안정 긴급 간담회...\"적극적 조치 필요\" [현장영상+]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zYXpxTTV3b1ozZWhCakIwcGJSdk5kOWxxSV9kNWF2WnhSZGZMcXZaWmQ4Z25pVm1LZVJOTklVN2xtQzJXR2VSOFBSV19FcUVteTlzdHNxTW92cjFHb0E?oc=5",
+      "source": "YTN",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "코스피 6% 급락…장중 무너진 5천선 간신히 지켜",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5WGloV3k2UkRDX3hjTlFhZDZOanBBUmhkNThNOHdWTUNlSjhxbU8xRFhqWWVxY0ZGNXd5Z2xRSWVzdkMxZEtySDJmZ0NaazA1U0ZmVEQ2LVJwQS1hUTN6OGg2Mlkxd25LMEHSAW5BVV95cUxPYnNHSjBxVkJ4LXU3YzVES2JoX3RZaU1UODduNUJXU1NEZi12Wl9oekM4MGJGLURmelFUaXViV2hUUmlGdFNUZXhfaGU1R2RTVEwxQzZaUUZ1S19ROXduUldmaENHdzBSUFJLT01rZw?oc=5",
+      "source": "중부매일",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "'검은 금요일' 코스피 6.02% 폭락... 장중 5000선 붕괴 [마감시황]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vd09WSTdhaS1ia0NxSXR3c3Boall2Y3lZQTBQVF9vSE8xVU1CX0RfUmw2ZHBmeHpSN1FiWTZ1WjRZRXBSRUZRd3MyZEZIeUhMSVB0S082Q01STGFvcDZObkhVQlk?oc=5",
+      "source": "매일일보",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "나스닥, 저가매수에 1% 반등...고용 호조에 금리인상 확률 ↑ [데일리국제금융]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41c2xTblRKdmVaSjdBcjBJbThnd2FkX25PTEJvQTk5MHVoU29FRE4yVzdhVVlRVUgxSkF4ZHBwQjJxbGZhdzB2YldCWFQta3V2YUHSAVNBVV95cUxONGhoLUE3ZUowSGJHWjRkQUo1bVFWUTUwY0VadU41VERxN0VKWXR6V0pQZGtQUGdac2hKc2tBUXVsWF81QzZiMDdGVEswc21CQ1JBcw?oc=5",
+      "source": "서울경제",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "계좌 숨기고, 아동 수당 받으면 우대금리… 달라진 은행 통장",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZ3ZWbzVnQjl2Z2Z0Rk81bXVCVmg0bFVuOFVzenh5WVp6YVBTbGVXY0x2aXZyRWxtRnQ1VUpLYVFrZ1hGb09mWlR4c0Y4N3oycDRDOFgza2RNTVlveEZkTVhJX2dFdm9WV3lvdlluelXSAXRBVV95cUxOY2N6cEwzUi1rdUkzZ1dyRDlBanFIRW84bzVrOEtVbkR0czljRkt2SzVINEZNclZvbVZwaW1JUFJJcVZtUDBZek1YVHF6ZFNKbjlaUzFQNGlXXzdiT2RwenQtRkhJbjFEQXcxVml2Q1V6VUN1dQ?oc=5",
+      "source": "IT조선",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "코스피 폭락에 정부도 비상…증권사 담보비율 규제까지 풀었다",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MbEM0dXR2RjAyR2xMRGU3YndBZUt1c2dwSnFzOEdlTlRqd2hHMlVpaXJXWHdoLXRGOUlIc2VBWlRGY0tLTktUZDlTZS1vRWFtYzEtd2FCLUlKYzBnaktXTTU0QQ?oc=5",
       "source": "조세금융신문",
       "date": "2026-11-06"
     },
     {
-      "title": "코스피, 5000선 아래로…美 '블루 웨이브' 영향 급락",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYy1DZnI3TXM5QV9maElkZjA4bF9uNmlHQ3pvYlRZWWs4emRkM1ZiX0phSzVGX0VtSEc4QXlGcWRVbHhfeXFaS3dpNWk3MXk0Nks3Nlc2OXBjb1ZzZTl4bkRwRUpwNTRjRVlzMHRtYXlNYjR4Si1pUjAzOGE?oc=5",
-      "source": "금융신문",
+      "title": "증시 급락에 금융당국 긴급 조치...신용융자 담보비율 의무 3개월 면제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ea0ZKQVN2bmVtNDEySzh6SzNtNDA2aUxlcnRTaW1GRDFwcFhDakUwd0xWQl9ockdrMnFEc3dBX0YtTkhWTVRwWFhXRGRTSmtGSlRSUnBtUFhiR3otSUg2OG5ka2huNUU?oc=5",
+      "source": "팍스경제TV",
       "date": "2026-11-06"
     },
     {
-      "title": "[원자재 시황] 증시 폭락에 오르는 금값",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3aFhuZzQ5X2JyX28yT1J3cFRtUXJuNnl5ZklILVBGY3c1ZlF3c0ZrbVlCLV9sME1EenpQOUx3SThpYWIzbUFZWDh4VnU1b1N5ZTQtZkVYMjI2WjgwVlNaZXh1ek5FSEVf?oc=5",
-      "source": "www.ebn.co.kr",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "코스피 8%대 급락에 '서킷브레이커' 발동...5000선 붕괴",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92RFBXQmN4VFhVODlQWWtTVG1QTi1ud2haTnpsSVZ5Y2ZsQVpUdUxqWkg4d18xaGZmNHd0OXVyWTVtRlI3LVJYZjVZV3dlMFNzSTNna2FwYzhFOVZLbDdYYWd5cGJPa1VuSGc?oc=5",
-      "source": "금융소비자뉴스",
+      "title": "뉴욕 증시, 반도체주 반등에 낙폭 일부 만회…주간 기준 하락",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EVy1nMm5kWk9wdGdvbTlVX2doLXVPcnI3ZjNKN1ZxT054b0RsRS01VGw1RTVGRlFHRXdfNVFzLTJCVUJaVTFSTlhMWHV3TEtESjlKUWpHaUtfUHFyMkRvUnVSZUxjeVlUYTV6bg?oc=5",
+      "source": "뉴시안",
       "date": "2026-11-06"
-    },
-    {
-      "title": "美 중간선거 후 AI 규제 우려·증시 급락…정부, 통상·금융시장 대응 점검",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aRmI0M2ViOUxQZkpCV3RpR1hESngyaW1KYlIwMzlsSExfUmdUdVZkZWR0WXpQRTJyaGN6ZFpEellRdElDMVBLSUVZX3VTOGRvdFVsZkF5N3RsVElH?oc=5",
-      "source": "뉴스핌",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "'검은 금요일' 코스피, 8%대 급락…코스닥도 6%대 급락",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfNnJhbWw2aHN2V2hIUlNGYVkzRHp1ZUNYaktrRGRGNV9KQTVuSjAxSTdnakpCRjF4dEFDSUYxR1cwc2J5NWVFenFOTWdWUThBWWhDUFkyMWlNTGRqU2d0MHhGeGlRWVFMS1Rz0gFvQVVfeXFMTzhCTllzT3prbklmeEtfU1NlZlZpcnRXSkVDaWdQZGtjbkpKN0NHYTJQdnNMalJZRWNmOEdaVnFMOXl6alVPTEs0d014RHlqaGJPOHlqOEd4VHZ0R0FtdGVmQ2gydmNKTURScEw2SG13?oc=5",
-      "source": "뉴스로드",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "미국 ‘블루웨이브’ 충격에 코스피·코스닥 5%대 급락",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSTmtuOW4tUTA1bDJ0TVg1SHdyLWtGLXd4QkozNm9XbHR4dGI2M3NXTjRLVTdXMkJYRGF2Y3JPVThXOXViVm5OTHlMT2tJRlpueVE0NVdSTUc2eGd2N2ZxOC1zMjFRYUlIS0HSAW5BVV95cUxOMDI2enJpMWViSUNJWnh3T2dwQmU2OFgxUWFmUHY0azl6X2FOZDJlTDYzN0hSNVpPZ3ZFWmxxRjBZUy1JN3NUS0hPanNGSmFlTzAwQW1nQkpQUzhCeHhYTlZtc1g0QmszWl9SbE13Zw?oc=5",
-      "source": "중부매일",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "미국 국채금리 '하락' 속...달러가치 '강보합', 엔화 '절상'",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yM3JmQWlLb1hQbzl6Sm9ta0RpbEtPTzFTUnBiUVVvTWM5M0lrUjgxU3FxMHNWdUM1U0RveHJZUllsa0dhYms5WkVsZXZER0d5TkZPdndLT2hKZUhLeTBPWnFlVHBPbGxmYXB1WUZnVdIBc0FVX3lxTE52Qk1CU3hkQktkZW9seFN3ZzZsRFhhNlBJQUdjcV9uNjVNSzBiTGx4emlUWHV6XzFEMWhUSmVVUHlScmZoc0EzQW92Y1hrRnB5XzloNnM5TnM4YnZrSjBWdWNyMExya052YnAzZGNuYmR6Z1k?oc=5",
-      "source": "초이스경제",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "[코스피 개장] 120.54P(2.24%) 내린 5263.26",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PWW5SNGxOODYxR291VTlJQ0hfTGlDY0xwdmZ6SU94Z183YlBmVi1nRE9XZFhvN0lXdTRXQmY5bWVabFoyanJOdmZadkJTRUQzVk1rTmZCTzRTNlRFeEU0Q09ZZWtoMjNSLWc?oc=5",
-      "source": "서울파이낸스",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "뉴욕증시, 기술주 사상 최대 폭락… 조정장 진입",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13bGxlYWV6RVZYdnd2NUk3ZThmRnZNU19WdktvaUNGSmgteDZtb1NuWXIxMUlnaHF5YTZGdDVwNVJVbWI3TEZ2a1FTMUJSRE1lcGZSRGI4Q1JFdENIQWFfaU9wckhLWV85ekE?oc=5",
-      "source": "천지일보",
-      "date": "2026-11-05"
     },
     {
       "title": "IM증권 \"美 블루웨이브, 금융시장에 호재…유가·금리 하락 기대\"",
@@ -70,10 +58,22 @@
       "date": "2026-11-04"
     },
     {
-      "title": "삼성證 “한국금융지주, 증시 불황에 3분기 실적 부진⋯목표가↓”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfZTRsSUkxeEsyRTA5NjFZMG1QTW1aN1cyQ3FObDNKZkU0bG0tNUZkVWVRQ0RnWVJRbFl6SzhDZEt1S1p5ajN4UDBIUTFiZks0ZFJhSw?oc=5",
-      "source": "이투데이",
-      "date": "2026-11-05"
+      "title": "대출금리 7% 육박…‘금리 불확실성’에 서민 비명",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5cUpUVHg3dTdHTUtzcFoxQlVrUEVocDJqd0J3QWwwOGF5d01zNF9YUnl1ekFIZnpWX3pTQUxMVDdRNzZ6RFFKR0h0QjUwb1FIMTlSUkNRZGxzNlg4RnQyc0xobWg5TXB0TzNB?oc=5",
+      "source": "한스경제",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "국내 증시 급락하자, 금융당국 '신용융자 담보비율 유지 의무' 3개월 면제 카드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtazR3QUp6WDRsak12alhTakxnSUUydmFEcHVWbmhyc2Q3Yks0bTc5bE1KNGhUOVFtWGFGT1RwUDZINEdBTkU3cTJ2cHNaRHhQU3MzODJQZ2hkYVlLZmZnM21QQmpZR2xXU21F?oc=5",
+      "source": "BBS불교방송",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "금융당국 '코스피 폭탄돌리기' … '담보비율 140%' 면제, '도미노 폭락' 부추길까",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyNzZXWktUWmxCSFdqZW9vWl9aNHIyZFpjemZoMnllV1EzbDZveE5MYkcxMUlwT2hSWHBGc1hUdVFSaF84aFItZTd6bEZySVJFM0FMT1pSSlB4aDdFdGFBajBSdFBqcnJUbFhFblE4c2pSdVdSOXhnenJ2c9IBgAFBVV95cUxQc01VRVBPcFpDUHRXQS1Tb29HdnNtZlVnVk1ZSGM2Y2g3TnVGaGVYTzYwU0dock9KSlpROGF0VkNGTUlkUFFNc29hLUhCOHQzajdERXNWUjFUai16LVBwei15SWdRd3p5QVlfM3FSS3NSemMxdmlYYjE4Q0x3aVN4dw?oc=5",
+      "source": "뉴데일리",
+      "date": "2026-11-06"
     }
   ]
 }
