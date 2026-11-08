@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-07T00:38:32+00:00",
+  "generated_at": "2026-11-08T00:13:00+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
+      "title": "[이번주 환율] 美 중간선거 후폭풍에 환율 1360원대 터치…AI 투자심리가 변수",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81SlBCdWd2WWxNX096MmI1Y3Bid1FNdVJjRUlscHBIWm9pSTB0NW5GeEFlMWZYeXNRbGRZOVg3YkZGRVpMSWtKUHlyT2wxYmx6OUJNNDF1b0lfVU1SVkFJTnVWdW1KMU0wNDVQa2tWRkYwdw?oc=5",
+      "source": "오피니언뉴스",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "1320원서 1350원대로…수출 호조 속 환율 발목 잡은 '외국인 매도'",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NcHFQbXQ2VVFHMDVuNk1oN2gzV2E0RUJSWDVtNXJxT1RlbmpFaTVsMFR5MHUwME9fcXZRcm5acEFEYVFUdXZQQXFyeWNvM2t4amVMYg?oc=5",
+      "source": "뉴스1",
+      "date": "2026-11-07"
+    },
+    {
       "title": "외국인 투자 20억달러 역대 최대…비수도권에 97% 집중, 지역경제 새 동력 되나",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxQXV2WVRPQkd1NG1qQTNNaE80VWRfRkZ6akU1S05RUGxGdFhJeHNuRzFuV2NXUXRralFHSzlZSnBYNERhV2UyX3A5bFRPdUpLNEo3WWpZM0VSOGVKT3dqeV94QTBuWWdESG1RdWJGNWs?oc=5",
       "source": "https://www.thedailyeconomy.kr/",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "AI 규제 우려에 흔들린 삼전닉스...외국인 2.7조 매물 폭탄",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DbFNyLXFGM1JjUHlEaERsMkdsOUtTSWFfTU0tTEFPdmlEay1SS0wtb2FpUFlMVDhYQ1FfeFZTalBnaHlZdTZHYlRiR2hoNENRd2NRbWRoU0NXRkRPT29HYWpfZ3dZQUhlZFE?oc=5",
+      "source": "비즈워치",
       "date": "2026-11-05"
     },
     {
@@ -16,34 +34,16 @@
       "date": "2026-11-06"
     },
     {
-      "title": "AI 규제 우려에 흔들린 삼전닉스...외국인 2.7조 매물 폭탄",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DbFNyLXFGM1JjUHlEaERsMkdsOUtTSWFfTU0tTEFPdmlEay1SS0wtb2FpUFlMVDhYQ1FfeFZTalBnaHlZdTZHYlRiR2hoNENRd2NRbWRoU0NXRkRPT29HYWpfZ3dZQUhlZFE?oc=5",
-      "source": "비즈워치",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "[클로징 벨] 코스피 한 주 11.71% 급락…다음 주 외국인 매도·AI 규제 주목",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kem9Rb0U4QnlJUDJHV0N0Szc5dFdUX0JudTRaOHJfekFLcTVNVDdXanIzUkRJN2ZTWEtCQVRMTUVwWVI3cVNmOHdZMWxfc1daRW80UTBvd3hubDRmSUJDNDRpdWdXQ0VoQk1V?oc=5",
-      "source": "https://www.standingout.kr/",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "코스피 5.28% 폭락해 5,383선 마감…외국인 3.4조원 '팔자'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zRmRBNzdSODEwZS1qNlBGZm1teGxVV05xS2FUX2wwMElkLWlaS0g5bFJHdERlSmxWeE13YTJZa3dLVmdYQ252d0RFTFdNMENkLTVNcnY3YkYzdlpXd2VxOF8wcW5UUDlKdzYyc0lWNUnSAXRBVV95cUxOZkFoN1F6NzU0T0FNVkdJNC1yanpHWHNJMHNiTTdRbXBrZC1raFRPRU9SbWcwMTRqRW4yRnBuRG9XMkNQQ3pEdkxFS3RkODFoekhmaV90YmxQdnd2NFRUbkRXZWZ4cGEtdGY3YWRsa0hHVW1DVw?oc=5",
-      "source": "산경투데이",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "[은행브리핑] 신한은행, 외국인투자유치 산업통상부 장관 표창 수상 외",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ib3BZVDdHdXlqVkxxVVhENWMwaTlSZEFrTDNURzh3d3h6bFhMTUtoSUZLRjc4S0IzVlc3c2FGQ2oxcVRZV2RMQ1R5cTI0eUoyUXpHbV85cXFaVlRxRENCLU1RTldDRF9ZUVE?oc=5",
-      "source": "서울파이낸스",
-      "date": "2026-11-04"
-    },
-    {
       "title": "美 중간선거에 코스피 406포인트 출렁…외국인 2조5천억 원 매도에도 상승한 이유",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tQ1kwVXpyLWh4bXNaTE9DVUk3YnU1RE5CZmsxeEF1LTlqcXg2VDFZbjBMYW83THZOeGJaWlFoc3BybmZUSHdfUGFLNFN0Snkwc0pYcFY0dlRWU2ZBcXpQaVhYa3lya1o4?oc=5",
       "source": "시사프리즘",
       "date": "2026-11-04"
+    },
+    {
+      "title": "외국인 자영업 14.3% 급증…부처 칸막이에 통계 '깜깜이'",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wVU1adWFfVVNRR2JBWFdYQkZzVGZSbGlINmdoQm1hcldyVHRPZ0RaTmZfWFF3RTItaThhX1pKQ3pTbjlnZXk3R01sTEFKMHpQd3ZlUGFYLUU5eWtSZ2dlcTJBZHhRaXg2?oc=5",
+      "source": "동행일보",
+      "date": "2026-11-07"
     },
     {
       "title": "‘블루 쓰나미’ 현실화…코스피 반등 열쇠는 ‘금리·외국인’",
@@ -52,28 +52,28 @@
       "date": "2026-11-04"
     },
     {
-      "title": "세관과 VAFIE는 외국인 직접투자기업 지원을 위한 협력 협정을 체결했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOODZzZksyTnlzbWRvSDR4dHgxYlo2cnJPZ09Xb1hja2hZOUNMcndEWEU1QTl5YWdqT2RkcXJLQmZNTG5OSC0wbFZ5MUdPZ0FXMFJ6TTRUU05Rc3Z1T3dCeGJkMHFhWTIxcmk5X1oyY0dvckZIMnhzQTA2a3g4M2xkQTVKVGRxUHB0dVhYMG8yNlNjTnM?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-11-05"
+      "title": "[클로징 벨] 코스피 한 주 11.71% 급락…다음 주 외국인 매도·AI 규제 주목",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kem9Rb0U4QnlJUDJHV0N0Szc5dFdUX0JudTRaOHJfekFLcTVNVDdXanIzUkRJN2ZTWEtCQVRMTUVwWVI3cVNmOHdZMWxfc1daRW80UTBvd3hubDRmSUJDNDRpdWdXQ0VoQk1V?oc=5",
+      "source": "https://www.standingout.kr/",
+      "date": "2026-11-06"
     },
     {
-      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
-      "source": "KDI 경제교육·정보센터",
+      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향 | 연구자료 | 보고서 | 발간물",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUhJeUpDQXNsYjl4WndmbmV5OGZWRXh2UlFqTFREdTJJYzIyaW5zSVJDVE00YUdkeENLTWhyZXFlNWQ3VEszel9Hc3pNUDZsbURaYWx1c25fUXRZMm9xdGpHc1BBNlZFa1Ntc29xeHFFTEhQbURNd2E3X2RRU1hGNkdhenlEd1lmdEE?oc=5",
+      "source": "대외경제정책연구원",
       "date": "2026-08-12"
     },
     {
-      "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
-      "source": "법률신문",
-      "date": "2026-07-30"
+      "title": "한미 10년물 금리 차 1%포인트로 확대…외국인 채권 자금은 단기물만 이탈",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04eVVXd0J2Ty12eThuVWdrUUhmM0JTWHZGZzdIYk5Bb1Zxek9McDBnOGx5ZjgtMEJhb2tkRzM4UDE5QXRuaUZzZnJmWldscjRucWprM2t0bmJ1cm9pMjdOamhyaXR2VFQ4NjZCMnBn?oc=5",
+      "source": "이포커스",
+      "date": "2026-11-07"
     },
     {
-      "title": "청년에 도약을, 지역에 성장을 가져오는 외국인 투자로",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsZzBMNmVubV93Snh2ZWtLRno4S0VudmYtZWxtOFlTTEdMRUM2UjhZc3RfTkV5MUM2NlBHU1pFT2ozVm0xX2ltSmtrODJiV2dzS1RNZktUOUJxLVA3QlBEQWlFRjVqdnh5Z1hHTw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "date": "2026-01-29"
+      "title": "외국인직접투자(FDI) 규모가 사상 최고치를 기록했다.",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YS3dBT19yRnVERHl0bGJrRWNZVmhlMmNrUlNSV1U5bGI4d081cXo0RkVId0V1OTBTd2xGcU91UTlvQUktbkx0MVJlMUdjV1RiQ3drOUxiMWE?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-11-05"
     }
   ]
 }
