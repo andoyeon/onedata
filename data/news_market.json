@@ -1,25 +1,55 @@
 {
-  "generated_at": "2026-11-08T00:17:28+00:00",
+  "generated_at": "2026-11-09T00:39:54+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "저축은행에 상호금융까지, 4%대 예금 금리 '들썩'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDZ2ZkUVJLSlAxLVNYQVQtUUdvM2hudEZHQjlaMUVmeUV0enQ2aUlUMWxuVngxMTVneHZrdW1CclFFS1VrNVlXRDR6eUpMVThPaW9HX01wemp1WGFvSmlSbg?oc=5",
-      "source": "메트로신문",
-      "date": "2026-11-07"
-    },
-    {
-      "title": "IM증권 \"美 블루웨이브, 금융시장에 호재…유가·금리 하락 기대\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2dVgtRHFQMGpLMjlaa3FpVzdXZ3p6MU85SVFPcjJoTE1ham4td0UydjRSR1RsamhpRE1HS29QbWFKZ1MxY0xsblQ2QW81ZmcwSE5ZN080TmNNTHlhZEFPLW9FQ2dmb0lZUExKc0xZTVbSAXRBVV95cUxNRzFLbmxoU0FFX1lGbzVPZXZrdU1rSTBESFExTFlXcVlxVkNzZ0tBLVpkZVFBLXliXzRGUkh5Yi0zaV9fRThGNUJzWjVyblJxOGM1QlF3anZISUEzQmQ4RXJhYmg0eFZnTUJ1ZUZmeE1tM3lEcQ?oc=5",
+      "title": "중기대출 13조 늘 때 변동형 89조↑…생산적금융 금리리스크 커진다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12bFNISmFlSHVkVUhFek1lZzUwRURLM195Mzg0OTRlS2hfQ3lXLUItOHBhc09YbVNwTE9GSV9xejUtX2tqUllaSWVNc1kzQVhEeXRNUHVIYkdKaWV4c1QycTBvcl96X09Ya0I0YktIZkc?oc=5",
       "source": "연합인포맥스",
-      "date": "2026-11-04"
+      "date": "2026-11-09"
     },
     {
-      "title": "금융당국, 증시 급락에 반대매매 완화 카드…증권사 담보비율 의무 3개월 면제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TUVROcWFWOHlqdkhZSExXMUhZQVNDZ1JwU0V4cDJUd1MxSXFqWWRScTlJdHdlMlVIbDZSS2JxUUVTV0pCeS1EUGpyVjRXQkdGTUxvYV9zdWNsdjJVNDlyeWxLM1A4ZS1EaGV4aQ?oc=5",
-      "source": "나눔경제뉴스",
-      "date": "2026-11-07"
+      "title": "[원자재 시황] 미 고용 호조에 금·코인 하락",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2cE5SRDdQMzZJbXpzT0ZwMUlVcVZqSzVJSlhqbFlNY09BNnhQd3JQUWpGQ3h2ZjdIWGNwVjNxMHhaRVV2dDUxYXRSR2pTbm55UEN5UURkeGVXcXY0OWVMbmtjanl2dzBa?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "[코스피 개장] 25.49p(0.50%) 내린 5034.20",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43cExBSkdtS0RreTJVU2ZFUEtYTEFMQ2lmN2lXT0VBbUJzcThKaS1PRTIxWjhkdVR0eDFnbTdZelB4OHdmaUg5MUNKTEg2ZDdtWnRZRE94U0E4dWdkRzhkelg3U2pFYkRCc2c?oc=5",
+      "source": "서울파이낸스",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "금융감독원, 증시 급락에 '반대매매 폭탄' 막는다…3개월간 담보비율 규제 완화",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5dF84MDdxMFlBY2ljaEt5MG4tcnpoRU5FUThyTmxsR3MyMVJJWmRXOHo3ZFFiblFzMjhmSHQwM3hWcUlUZkIzMk9iLUlUam9vTTlscXpoQ3ltRVdtTFlxSlZZdWxtZzhDcGxvYUk2ZmQ?oc=5",
+      "source": "리드경제",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "[토스뱅크 성장의 대가②] 포용금융 앞세웠지만…저신용자 대출금리 연 8%대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82S0NqcUd5TlVJYllKbFI5d3A1aHB4U29zM0xPWHJZX2VMNkxidjlOSHVxMUw3WFJxeklWdmlRNE80bVdBN19NTW9haWpyUEdMSElXa2hadzNqQ05jbEc0dWpkdDgtdF8xNnFF?oc=5",
+      "source": "뉴스저널리즘",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "키움證 \"한국금융지주, 증시 부진 여파에 감익 우려…목표가↓\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jblMyX1R0UnJ5OVR2UWZZS3cxd3pfZFV0UTR6N3M0R3djWDhDLU9OZ0dNZ05kX3pmRWI1M3pvODJ1b3RJYUlYNnFRdExFSTlnd21FOFJTdDdRSF8wTWh0UtIBeEFVX3lxTE16UVNkNldpaHJQdVA5c0haUEZtM0pGMFVOdnZEQjZTWWhLREJ5MElJdmJDLWg1aTJIbnZJbVpVX0x3SndiMjgtY2xCX0ZKYWo0V3NVYUhxLThBa0hSakRIUFV4QlpVR1Y3cm1XRnUwOWZCSlpoQ0lOQw?oc=5",
+      "source": "뉴시스",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "[국제금융리포트] 美 물가 불안 여전…연준 12월 추가 금리인상론 확산",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcHd0LTVkbzJ4Uy1HMkdmY1ZkZzRNMkNMNGw5eGp2ZEw0aEtlQVlycXJ1SUg3bHVyN0lURDltREdmZjdZTGkzSGFFVXYzanNYRUVXSXNWN180Z9IBWEFVX3lxTE5QM190cDI2djM4SExmZVB2VXV3T2hCdVAxMEhSRWNDZTFEWGJHU1lFeUFJbjZ6eF91ajhQY2p2SzlpSDh1RU5udXVweEZ6UzU2R2JzaC1UZGY?oc=5",
+      "source": "아주경제",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "코스피, 약보합 출발…5034.20 개장",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLeml1amVuQjkyQk94dklzZzFRSHN6MTYtM1RYVmtiMmJLSUU4MzlZZDYzYkc0V3N5dTFPTFEtRFN0WXRlb045Qnd0T3lyandVMml1Nk9aVEdydkpseXhXTHBkOEllbElUOThOOTNtTlTSAXRBVV95cUxObkRiLXZMNEdTQzRQQjFlTXhhazA4LXAzOU9uT3ozZ2ZmdE9XLWdfeUcyQkFEY09VMEdCaDVZOHpldlZUQUhQMmhGS1lyam9LWlNFSFNZMUM1Wm9MVml5OWlmdGJNQXJLbjBhczMxLWdQekYzbg?oc=5",
+      "source": "포인트데일리",
+      "date": "2026-11-09"
     },
     {
       "title": "코스피 6% 급락…장중 무너진 5천선 간신히 지켜",
@@ -34,45 +64,15 @@
       "date": "2026-11-06"
     },
     {
-      "title": "개인·금융투자 매수세에 낙폭 줄인 코스피…5100선 회복",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWE1Q1A5S1ZxWVFXQXRMT1FncVMyZEthbUZBQkRyYURhcEFDb1NGQjRLRFB1QV9XQWxfV0trRmFNbl81ajNUZGoyeHZsd0k2U3MwLXdNR2Q3M0FNYzV1dk5RcWZ4OGR2Q2JLaFFUT3lJQmVtT0xSN183VWE0YzFDWGdWZm45RWZ00gGcAUFVX3lxTE9nbmlHQ0JnM1l4MGdVeXhsdW1qdlgxZVFHR3FveXp3OFpCaWoycWpPMUhpOEdXbXpFakIwUzFPQmxPMHVRUWsxWmhUSHRZdDZVMy1BS3dmb3E1VnhCX054eVJQcUNLeGdCazZMZVdUdklXU3VjU090R1JRcU9UcnA5Vi00U2o5cnR5a3dmZkZzUmwydUZsWkRjNmxhSA?oc=5",
-      "source": "Chosunbiz",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "코스피·코스닥 5%대 급락…7개월 만에 최저치",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5dWtFYmF0bFphTEU1SjZUVVN1X1ZfZmlvbU5PekpqLUp5LUQ1YzM5NXQybmZEYkIxUGV6R1ZnVDBTcWtFTzJGS290SjZma21SWDQ3N3FfUDc1UmxEY2lBU0lvQWFiOWJ1b2thd0VpQjZpUQ?oc=5",
-      "source": "인더스트리뉴스",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "\"'블루웨이브 쇼크'에 세계증시 시총 하루만에 4천800조원 증발\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jaVNlMG9TZFdOZE1sU1h4b1h5VDExZzZ1VE9icDVXeEVCYjdfcFNOMTktZVRhNXBSU3g3cmZWSjFNVWJRY1hZbHhIaUNmX3EzdVdteDJSaUEwSG9EcXlKNE9maw?oc=5",
-      "source": "조세금융신문",
-      "date": "2026-11-07"
-    },
-    {
       "title": "11월 글로벌 경제 및 금융시장 전망 : 순항 중인 세계경제, 미 선거 등 불확실성은 잔존",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uNXgyTC13cF9jbUtXMzBsVzFOcU5NNjg3LUlwc2tuem1tUVctVkV4ZnJwLXlQN3hUS1NPNjE1SzVRN1cxNGM4NzREbk1NVEZNX1BVTy1iWDg0cG41VUZwTVB5ZWJodw?oc=5",
       "source": "KB Think",
       "date": "2026-11-06"
     },
     {
-      "title": "'검은 금요일' 코스피 6.02% 폭락... 장중 5000선 붕괴 [마감시황]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vd09WSTdhaS1ia0NxSXR3c3Boall2Y3lZQTBQVF9vSE8xVU1CX0RfUmw2ZHBmeHpSN1FiWTZ1WjRZRXBSRUZRd3MyZEZIeUhMSVB0S082Q01STGFvcDZObkhVQlk?oc=5",
-      "source": "매일일보",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "미국 중간선거 후폭풍, AI 규제 우려로 국내 증시 '출렁'",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1eXloVmk4Ql9ENE92TFpfOXFkeEJxMGdpSXlOeDIyR3puMkg2Uk13NmVsRWg1YzVlaF80V3dOZUxodEExc2xYZFJORkJKOTRSVEs1bzhib3JEMlRmbWszaVdfUXF6cWcw?oc=5",
-      "source": "공감신문",
-      "date": "2026-11-07"
-    },
-    {
-      "title": "국내 증시 급락하자, 금융당국 '신용융자 담보비율 유지 의무' 3개월 면제 카드",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtazR3QUp6WDRsak12alhTakxnSUUydmFEcHVWbmhyc2Q3Yks0bTc5bE1KNGhUOVFtWGFGT1RwUDZINEdBTkU3cTJ2cHNaRHhQU3MzODJQZ2hkYVlLZmZnM21QQmpZR2xXU21F?oc=5",
-      "source": "BBS불교방송",
+      "title": "개인·금융투자 매수세에 낙폭 줄인 코스피…5100선 회복",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWE1Q1A5S1ZxWVFXQXRMT1FncVMyZEthbUZBQkRyYURhcEFDb1NGQjRLRFB1QV9XQWxfV0trRmFNbl81ajNUZGoyeHZsd0k2U3MwLXdNR2Q3M0FNYzV1dk5RcWZ4OGR2Q2JLaFFUT3lJQmVtT0xSN183VWE0YzFDWGdWZm45RWZ00gGcAUFVX3lxTE9nbmlHQ0JnM1l4MGdVeXhsdW1qdlgxZVFHR3FveXp3OFpCaWoycWpPMUhpOEdXbXpFakIwUzFPQmxPMHVRUWsxWmhUSHRZdDZVMy1BS3dmb3E1VnhCX054eVJQcUNLeGdCazZMZVdUdklXU3VjU090R1JRcU9UcnA5Vi00U2o5cnR5a3dmZkZzUmwydUZsWkRjNmxhSA?oc=5",
+      "source": "Chosunbiz",
       "date": "2026-11-06"
     }
   ]
