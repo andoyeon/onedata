@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-11-10T03:13:27+00:00",
+  "generated_at": "2026-11-11T01:02:41+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "[현장] \"내년 증시 하반기 안정화 기대…반도체·외국인 수급이 변수\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xdHZvaDJvYnFzUENtNGlNbXpXdi1UOVpQeVRiU05KWEtVbjJ1akw1akpsLVBUcWVTWWdXMWhScmlWbTFlN1B4Rk5JOFV0RERuajFTZEVQdVlCS2JfbmxTYlJZVDI1Wnl2RUo1Sg?oc=5",
+      "source": "뉴시안",
+      "date": "2026-11-10"
+    },
     {
       "title": "“대만 증시 5% 급반등에도 안심은 금물”…외국인 복귀가 관건 [오늘 나온 보고서]",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmVFVoWEFkYVVYd2ZpdWtrNHZBTm9Ub0xTMmI3YU0zNFlORjZsZXFPQU9uYlVDN3hGWWQ1YmRVcWlOenVsdkJRa2pjX0NKRm01MFE?oc=5",
@@ -22,28 +28,28 @@
       "date": "2026-11-09"
     },
     {
+      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향 | 연구자료 | 보고서 | 발간물",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUhJeUpDQXNsYjl4WndmbmV5OGZWRXh2UlFqTFREdTJJYzIyaW5zSVJDVE00YUdkeENLTWhyZXFlNWQ3VEszel9Hc3pNUDZsbURaYWx1c25fUXRZMm9xdGpHc1BBNlZFa1Ntc29xeHFFTEhQbURNd2E3X2RRU1hGNkdhenlEd1lmdEE?oc=5",
+      "source": "대외경제정책연구원",
+      "date": "2026-08-12"
+    },
+    {
       "title": "양질의 외국인 직접투자(FDI) 유입을 위한 기반을 마련합니다.",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hMVA0alZDaVQtT09XWHBTbzRhNkN0OXBMTzVycjMxTERzcXFEODR4aDJZLXpMMTR5TGN2UGNwc3pGYzd4ZnkzNlc0ZnlnSE91UDdSUjhGd2ExVVdwaXY0N1diWWlfVVRsWktSWlRTaVdidEpaUUN2V05B?oc=5",
       "source": "Vietnam.vn",
       "date": "2026-11-10"
     },
     {
-      "title": "[이번주 환율] 美 중간선거 후폭풍에 환율 1360원대 터치…AI 투자심리가 변수",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81SlBCdWd2WWxNX096MmI1Y3Bid1FNdVJjRUlscHBIWm9pSTB0NW5GeEFlMWZYeXNRbGRZOVg3YkZGRVpMSWtKUHlyT2wxYmx6OUJNNDF1b0lfVU1SVkFJTnVWdW1KMU0wNDVQa2tWRkYwdw?oc=5",
-      "source": "오피니언뉴스",
-      "date": "2026-11-08"
+      "title": "\"증시 저평가 매력은 끝났다\"…외국인 수급 바꿀 '두 가지' 트리거",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03LVhERmdvSWJrWGp1enQxM3dCODBsY0RmbmxNWXZxUFd4ZVhEaGVsSjh3Y0k4WUZzbkMyYWV5bkJOdVItb1U3Ykhpd0lVZjFtb3hjQ2xCMF9jd01NaElIZzYwQUVobzE5bEpCdjd6Vmg?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-08-08"
     },
     {
-      "title": "1320원서 1350원대로…수출 호조 속 환율 발목 잡은 '외국인 매도'",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NcHFQbXQ2VVFHMDVuNk1oN2gzV2E0RUJSWDVtNXJxT1RlbmpFaTVsMFR5MHUwME9fcXZRcm5acEFEYVFUdXZQQXFyeWNvM2t4amVMYg?oc=5",
-      "source": "뉴스1",
-      "date": "2026-11-07"
-    },
-    {
-      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "2026-08-12"
+      "title": "“코스피, 4500선까진 열어놔야” 외국인·엔비디아 실적이 갈림길 [투자360]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZcGlVNVBGT182X29qcXNMWS1FMEMxQ0sxUUg4VGJELXgtNEppWUVGcDlyTnJvcUZFckVSY01Oc2Y3WWtVTmdIdmhaU2tQWll6Mk5ZTUJn?oc=5",
+      "source": "헤럴드경제",
+      "date": "2026-11-09"
     },
     {
       "title": "금융위 \"외국인 개인투자자도 국내 주식 손쉽게 거래할 수 있어\"",
@@ -52,28 +58,22 @@
       "date": "2026-02-26"
     },
     {
+      "title": "외국인 투자자, 2월 국내 주식 역대 최대 규모 순매도",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hLThWVnV5bTdfV1JmckUtTXNtR05DcDBHUXR2MVBJakNWUHBhcEtXZzZacmV0S2Mwc0htMnZoZThMc1dKUDFVejhOYk5NVVNtek8zTFJJRUFsa09sTlEwaEt3OU1ncWt1UEww?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "울산경제자유구역, AI 전환·외국인 투자 확대 위한 미래 전략 토론회 개최",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2UDc1ZVUzZkxNYVRnZjFWUG92R0FiMnFtVC1UbG92ZnN1WHRsakJTVlU1U1oxT0NleTNkcjlTSng4aDhheldBa2RIWDJLVU1UMVVhYWczWnRmVlp0Y0RIUGVHRkZ0R3AyQ2Mw?oc=5",
+      "source": "한국사회복지저널",
+      "date": "2026-11-10"
+    },
+    {
       "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
       "source": "법률신문",
       "date": "2026-07-30"
-    },
-    {
-      "title": "“코스피, 4500선까진 열어놔야” 외국인·엔비디아 실적이 갈림길 [투자360]",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BNkk1X3lFT2hCdHdwLVJPR3RzSThoeGJoN0hjMDN6bmpORllCdC1zUFA3cjZtUHYwNWxYbzRRa1Q2cGRsSU9sTElkVDF2OTBKME1MWG5Baw?oc=5",
-      "source": "헤럴드경제",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "한경협 \"5년새 기술 유출 피해 23조원…외국인 투자 심사 강화해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzazltbHN6TzNibC00QnVMUUFJV3dfNXVMVVFFa000Q2dUcFVQS2dUblRvdDdZTm5LMDRfQklVRm9mRGRQUjlNVm15V0lxY2VhU2JHc1lPZ3d0Y3JFTzdXU1VDaUZYOVE?oc=5",
-      "source": "연합뉴스TV",
-      "date": "2026-01-14"
-    },
-    {
-      "title": "작년 외국인 투자 360억달러 돌파…5년 연속 최고치",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WYXQ1VDR0d2EwUjRwWGRRaWZ4TXJQd24xb1VaNGdLTGJfdkJDX0lWdEFFSDVVd0d1d3RLMEhqekhtWkdvZGZXU0RicGxQYnV4dHVXWU1CTWhmNjDSAWBBVV95cUxQOE1CVndzaVVxa3hyT2U2VXFIN3h3TkZIZlVZUWUzOHpfczQ5djRmSXRlQVNlRk1LWlV0bEF1WHBWQWtiaUNwZWdDQ0p5QlhkNF9XVkZ1WXVqYTBZSWJMTXQ?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-01-07"
     }
   ]
 }
