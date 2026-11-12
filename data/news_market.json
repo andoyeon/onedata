@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-11-11T01:07:21+00:00",
+  "generated_at": "2026-11-12T02:09:44+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "[코스피 개장] 29.42P(0.56%) 내린 5209.71",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50WG93MVFGNDNkajlic3hVN2VUZWY1VWpNbnZNUTZSeFpHVzk4Y1JZM3JUeEpmV29yOVdrMFE1UU45T01Db2RPcWpJaDNYMVQ2VWx4Y2NYWTVoRFJYclktMkswU0xSY1VqdEE?oc=5",
-      "source": "서울파이낸스",
+      "title": "코스피 장 초반 0.68% 상승…5400선 회복",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0S3dCLVlSQ1VwTW9Xd3MteS1Hc0NSbFZ1TEJVemFDN25RRzdlZGhMS1RsZjNuNnQxMFlpV2dPbTJQSWh5VnE4cU1iUnFZNlFBaWVBbnRzOENUejVuMWJjNjNPNlRnSHVUcUx6b3V4NV9RSkHSAXdBVV95cUxQMDF6RnZXN0xBXy1RTUZNbGdvVURidGtwc0owa2hiMVIybjNGLWtJRHotTWI0UnFraUdVUkowUlJPNzhoTXQzSjZDY0dDaTFHQks5OTNlckZyN0tmZ3Y0Ml92VW9FNUJLZkhGWGVnZWUyV3EtT1VjNA?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "[원자재 시황] 금값 하락하고 유가·뉴욕증시 반등",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVkxiVjVRUWZ1TkxwZWlFcml3RUZ2TFNtQ2VSeU4xZHBPVnhtV21lNUZjdEx5ak9CbUZ6WHkzZ2lKSXJyR25CeDhla0xnWGU5YWREeG5Gal9vOVNySFQzZ3NBVnM2dHNf?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "2금융권, 금리 인상 2라운드에도 버틸 체력 키웠다",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQnNid2ROSjdmeFNWT1JyU2RVQ2haZFUwYzduM3lCS1lhN3hocDF3d1llclBpOU5tV2VmWXNHUC10anZlYkY1T3YwZjBKZHpjbVh2UG04SWFIMTl2TTVkSGVlSFc?oc=5",
+      "source": "매일일보",
       "date": "2026-11-11"
     },
     {
@@ -16,16 +28,10 @@
       "date": "2026-11-09"
     },
     {
-      "title": "[천지일보 이슈종합] 젠슨 황 스캔들·금융보안원 해킹·공소취소 특검법·美 중간선거·증시 급반등·종부세·수능 부정행위·이란 재공습",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QbTFhQzFZRDZTSElMWHM1c1dUeVRONXQtdll1VXhWTnJ1R19qUUp5Ry1uZlJ5Y1J0RUtDM2s1ekk4c09QOWZBRW42Ylk1YUpIQmg1Yzl4ZDdUWm53TENnenZiM1JkMVhTX0E?oc=5",
-      "source": "천지일보",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "반등 성공한 코스피…이 대통령 \"금융시장 동요 없도록\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJRTR3dS1PenFSUkhNQXJZa3BFTFY1bFh0Ukw2czZJX2tfU3haTENoNFdIb0gtX2NUaUlVUGZlNEQtNDRrbTNaU2U5ZU9IWVJjbmgwNVJEY3hPZHFZeG14TkJYVm9wUUxteTg5bEFn?oc=5",
-      "source": "OBS경인TV",
-      "date": "2026-11-10"
+      "title": "메리츠금융, 3분기 누적 순이익 1조9621억원…\"증시 변동성에 전년比 3.2%↓\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnYW1hdjVhamM2ZGU4MWg4M3BjYTNuazRmVFlwVUJ4cVBQSnY2NmRwZFJFNHk3ZU9NaGRtSWE0MmRiVWlObm5OcXVleno1MlNlRkxRNm5FcmZqVEtSN1VlVjY2Q3JGaTA?oc=5",
+      "source": "팍스경제TV",
+      "date": "2026-11-11"
     },
     {
       "title": "금융위 \"시중은행 우대금리 축소 행태, 금감원과 점검할 것\"",
@@ -34,45 +40,39 @@
       "date": "2026-11-09"
     },
     {
-      "title": "\"증시 핵심 변수는 AI·반도체 사이클과 외국인 수급\" [금융연구원 2027 전망]",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fa0c3eUtveTNhSzJOeGEwMzFIOENYYndfbWJZLWpxV2FRYVZkUHoyc29Zb1o2NkhuS3paQjlLc1REZDI1SDBQWllhY2J3Tm5QVEd1Z1U4ZEtQVGRIOVdQb1RCcXF4WXp0YVBVSEptNVQ2eUZnZjZpc0ZNWEk?oc=5",
-      "source": "금융신문",
-      "date": "2026-11-10"
+      "title": "공정위 \"담합으로 국고 손실\" vs 금융권 \"국고채 금리는 시장몫\"",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ZWdxWU9XcnhINGdKaklmYVF2OEg2aTJGVTYzalQ5WlEwYkQ5a1hQMmpXdGZkYlRDMjZaTnh4SkdIZkNtRXhpSXhITVZHaHAtdVE?oc=5",
+      "source": "매일경제",
+      "date": "2026-11-11"
     },
     {
-      "title": "‘생산적 금융’ 외치더니…기업 증시 자금조달 6년래 최저",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtTXVaNXpwTlk3V2JPbzJrSUZMNVQ0WkpKemRzWXRYZjRtWUVzN25ibU01Zk50bk1pUWVFSnN1ZjYyM285eTc0NW5tTUNVOGNMMWNqQU13?oc=5",
-      "source": "중앙일보",
-      "date": "2026-11-09"
+      "title": "카드사 중금리대출 늘렸지만…조달금리·연체율 부담",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwQTRZY3hEM1M1dFpVY0l5SmRSX2tGR3RhTURQa21iU3hUS3BDQXliZzhjU2pXZjZOUjFUaVRNVk5Ubl8xWjNsdzBYdHFUT1p2NS12ZzE2My02UFBxOGlwWXppb2NfWFk?oc=5",
+      "source": "자본시장뉴스",
+      "date": "2026-11-12"
     },
     {
-      "title": "[국제금융리포트] 美 물가 다시 꿈틀…12월 금리인상 확률 90% 돌파",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hRmQtMTVJTUxsZlBZQm1OMDZGZE1NOXkzNzVkekEzM3o2SXRPekx0a1pPbkFld2pqZjI3UXJESVdKazdRYWxRajRNeXhDZ0NVUDZxcWx1cTB4d9IBWEFVX3lxTFByVkZRbXZHeUV1X3pPRTkyUkpFbm5FTUl0Y0hTVUdEYTF2Y1JXa1FzNmx1WDBqN1lWd0FMSmxtbVM4amR3TmdjaXVWTjFvNUVmczlsWXdMdjQ?oc=5",
+      "title": "한국증시 급락에 정부 3개월 긴급 방어막력 총력",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUa05kTXh4SEFNUUVkSTdWdWUtVk80REptclZncWdfNlZHbjB3VmNvNWVJZEdEd2F3QTZTZ1lIRklhTkhIZVNzOURUN2lXLWdTeUszVlhkOUZtbUkteVZ1U2ViOTVlX1k?oc=5",
+      "source": "영남경제",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "[국제금융리포트] AI 투자심리 회복에 美 증시 반등…달러 강세·유가 상승 부담",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaGo5YnJiaDdHSllVZEdEb0dSMERkNmRqaUMwOEVkTnNvRERPODZrYVdhWU1idXhRNGFDeFQ2dTNEM1p3bThiWFFFSUlkN3FoQzZ0VHlEOFZfZ9IBWEFVX3lxTFA1OWJNWVA2THJYcEJ0dzI4TlFka0tfMGRValZJVUU1QTFnemtmZi1FUTBLR1V4aDRnd3JNNndhNXJ2UGtYc2EyVTRGc0FldVBtekhoWk1aUEE?oc=5",
       "source": "아주경제",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     },
     {
-      "title": "금리 상승에 수익성 압박까지⋯금융硏 \"내년 비은행권 건전성 관리 중요\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHdHBhOXB6bnhmYks2R2NaYk55OFZ6dmhqU05ON01XS25hdS1LbnRXUmhQbXg5QlFCV3l1Z2RHQTZ0OGw5ZjU2Q2RkS1ZVRXVBbmVYVA?oc=5",
-      "source": "이투데이",
-      "date": "2026-11-10"
+      "title": "금융위기보다 1.5배 출렁인 코스피… 공포지수 꺾여도 불안",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QXlBUWFyRWwwdnVZelhkZEpzWHFGdDVodHphMGkzcmQ2MHc4S0MzUjczYzBqc2xzMFdTekstX1g1WDFFOXFFODRrOEdYb1RGN3QtRl85THBqZw?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "2026-11-11"
     },
     {
-      "title": "유종우·이진우 내년 증시 낙관론…금융위, 사이드카 개선 검토",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiR3lFZk5pc0RKZ2l2dEljQ3lkY1pQNEdmTG5JYk5tWDRXbmNWVHNGZFRWbjVqdE5Lcndjb1NlQU5McjBlTlJidEdLYXR0SkRGc0o4cDJBSlpNWHFfUTViSENGbU96Z3ZQSllj0gFvQVVfeXFMTmhJUEdfc1RlNm1hY1RkeTZ6ZlByTnBKVzFGT1ZSeFdYV0RqRlpDVkY3dFlsUGxaNlFKeFo5REktajFNN3FnMUFtTnhKQXdRVHJvOVZhemJlMURRMi1Gb3AwOFFuVGpJRUVMRUdWcWtF?oc=5",
-      "source": "한스경제",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "중기대출 13조 늘 때 변동형 89조↑…생산적금융 금리리스크 커진다",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12bFNISmFlSHVkVUhFek1lZzUwRURLM195Mzg0OTRlS2hfQ3lXLUItOHBhc09YbVNwTE9GSV9xejUtX2tqUllaSWVNc1kzQVhEeXRNUHVIYkdKaWV4c1QycTBvcl96X09Ya0I0YktIZkc?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "코스피, 약보합 출발…5209.71 개장",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93WVBheF9wRWlXQnk1UmtKQ1FtVUFxVThmT1J6RXRxNHUxUVJ5cktMazVOaXlyT042bVh5dnpwU1Q0NjQyVHl0UEowQTlNakM1RmY4cVRnTU9IRG1OTjNQVkl1TS1MQUVlUmQ3MmFXX2nSAXRBVV95cUxPT3EyVjViTzNlcnl4eFl3YTd6RnhDQ0F3WnVFc3ZQOVJxVlQxcHpTcGphRndYUHVSWTQ0YTh2TXRvMkNva0o5N2hEOE90Vkg5TmFGNnFUMlFEaWJQTlFBU2J3Rm9waFN6QXhoLUtFVXBLUVpScg?oc=5",
-      "source": "포인트데일리",
+      "title": "미 중간선거 이후 금융시장 향방은…우리금융경영연구소 \"증시 변동성 유의\"",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZYTgtcHZtd0RzejFSSzFNclZMNC02UFM1bXQtT3VBcnpnVDZ2b20tbjNHalR0Y3NpN2Fvd1FxQUNNRlVWMFYyVW1meVMtbDlSMTgzTnkwVWg1N2JWRTZzRVJld0V2R3VGMkptZ19aYVBIR1RCbGc?oc=5",
+      "source": "인포스탁데일리",
       "date": "2026-11-11"
     }
   ]
