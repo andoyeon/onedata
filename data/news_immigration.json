@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-12T02:07:29+00:00",
+  "generated_at": "2026-11-13T01:41:25+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
+    {
+      "title": "\"외국인 놀이터 됐다\"…한국 주식 산 개미들 분통 터진 이유 [분석+]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM2tVX1B1QlBGZnI3NUpXZEtVb3VCX3VFb2ZUZVJ3dnJNOWhfU2R0aXBHcGVXTnpyRzZBUFhOcThVWi1UODA3LWFtaEhyaEZaOE5kODlxMzVPdw?oc=5",
+      "source": "한국경제",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "외국인 주식자금 26조원 이탈했는데 원화는 강세…한국 금융시장 '엇갈린 신호'",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xRW9RYkc4ejlxNERfMHhZaWZYU2tQS2F4bS1TUmwza1NqTDNlX0M0SFV4VHZHTW11Q216UUFNOFFuWmZfZlFGRWVSZ3RNLUJobEZrczN4d1NQZ1NXU0xjQ3F3TGw?oc=5",
+      "source": "지이코노미",
+      "date": "2026-11-12"
+    },
     {
       "title": "“대만 증시 5% 급반등에도 안심은 금물”…외국인 복귀가 관건 [오늘 나온 보고서]",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmVFVoWEFkYVVYd2ZpdWtrNHZBTm9Ub0xTMmI3YU0zNFlORjZsZXFPQU9uYlVDN3hGWWQ1YmRVcWlOenVsdkJRa2pjX0NKRm01MFE?oc=5",
@@ -16,22 +28,28 @@
       "date": "2026-11-10"
     },
     {
-      "title": "[심층분석] 코스피 '5천선' 사수전, 외국인 매도·글로벌 모멘텀 미스매치가 만든 불안",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hdW1mc1JJcnd1THRHZmEyR2lBbG5YekRBNWJNNWdCa2RjZDVpVkViazh2MGVyTzhpX0JsM0JoNnU3YWpBME9zajdxbnQ2NG5GYm8xSENqOF92Nzg?oc=5",
-      "source": "데일리연합",
-      "date": "2026-11-09"
+      "title": "외국인, 한국 주식 193억 달러 팔았다…AI 투자 불안에 흔들리는 코스피",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ETGZZQllKelgxeXpvc0VjUVIwTnRfSGlSZUtQdVpvaU45cGNiT3N3VDJZWllnOHYycTczMndyWlNkTnM0dmRKVzZmRzZmWi03WVRLOFk2ekVOVFVEM2RURU5hV3NoLTJ0aFdCQ2VoZjFGUQ?oc=5",
+      "source": "진주인터넷뉴스",
+      "date": "2026-11-12"
     },
     {
-      "title": "[삼전닉스는 지금] AI 투자 우려에 외국인 이탈…반도체주 조정 어디까지",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NdEZ6ZDBVNHAtSF9uemZWTk1TVlVyTC1RX1lKNW9WN0h4ZE9VWTFoVEx1REJyQ1dIb3FNZ3l2cEp4Z096bDg3eExkZE03VFVjemlsUlEtWk8zeXFVTzJObGVRb2N6QXJV?oc=5",
-      "source": "녹색경제신문",
-      "date": "2026-11-09"
+      "title": "외국인 자금, 9개월째 순유출···증시서만 193억달러 이탈",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yMExISXdwSEgzT09pNnhmMXIxZzFtSWcwN2lUbi04dXBNblFWUG1zaHpNdFQtY05VVzFrZnA2c2U4TVlOcmw2emloZHp0ZThuSkI2U2FOTUVmTlROU1EwREZBSjZvb0lCM0E?oc=5",
+      "source": "서울파이낸스",
+      "date": "2026-11-12"
     },
     {
-      "title": "미 국무부 “한국, 외국인 투자 유치 확대…규제·노동정책은 과제”",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0ZXVndROTJKT0FNc2xtRGJCcmxUY3NhLXMtWHVSYTJEd1N0M0FSSk03MzZmakQ5Q2pjQUQ3TDYtQ3h2X2hkcEdNV2JrR040MF90V09saURpMk01MkZLSmNDSldXZmVBeFI0NGd2bWR4VGM0R3VnTjVBMEFfNHJmcHpxMGJUV2RvZjlqNE80aVVjZFUtWUNlZtIBmwFBVV95cUxPbFJXVmtCWXpSa0xiOVBNOE56VjZneDF0NG1LS0JPZ0JUc2dJQXA4WHV4b2xqWTZzSUpCSFpEM3ltNHY2eEhxemotcjVZMGhuNGR6bVRXRmRUSDZKU0xvV0dLNHVIbUZ6TE5DVGQybUlySmxlNjZwcnVMV3hWVnFsY3FEbFF5U0ozR0xNZk9FbzJTT2hObTItX2JUYw?oc=5",
-      "source": "VOA 한국어 홈페이지",
-      "date": "2026-10-01"
+      "title": "외국인 매도세 멈추자 코스피 4%대 반등…美 선거 충격 벗어나나",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXelFoeTg4Z2hJWnEtQkY2d203OGFXWmR4eExEMDJNLU54RlA5WS1UVG9ldzdQZFdieEszZG9mdnhqRVZmd1hmUlRTSktXOWw2UEFlR3lWVC1MU3dpdmhzbW13a1BWdGd2c0RqRWRB0gFzQVVfeXFMTVctWVlYSWR0OUdXdV9YbUptbnF4SXcwaFZ4WjJ2c1p2SFdCZWNpZ05TTXVCT1F5LXRNcFRkdDRSbGUzbUlERHlMVGc4X1A3MTZkaEp6RVVRd01SNGZEbDdXaWF3QnBrSlhZdjhDakdtRUdmTQ?oc=5",
+      "source": "한국일보",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "2026-08-12"
     },
     {
       "title": "양질의 외국인 직접투자(FDI) 유입을 위한 기반을 마련합니다.",
@@ -46,34 +64,16 @@
       "date": "2026-02-26"
     },
     {
-      "title": "“코스피, 4500선까진 열어놔야” 외국인·엔비디아 실적이 갈림길 [투자360]",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZcGlVNVBGT182X29qcXNMWS1FMEMxQ0sxUUg4VGJELXgtNEppWUVGcDlyTnJvcUZFckVSY01Oc2Y3WWtVTmdIdmhaU2tQWll6Mk5ZTUJn?oc=5",
-      "source": "헤럴드경제",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "외국인 투자자, 2월 국내 주식 역대 최대 규모 순매도",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hLThWVnV5bTdfV1JmckUtTXNtR05DcDBHUXR2MVBJakNWUHBhcEtXZzZacmV0S2Mwc0htMnZoZThMc1dKUDFVejhOYk5NVVNtek8zTFJJRUFsa09sTlEwaEt3OU1ncWt1UEww?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "2026-03-04"
-    },
-    {
       "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
       "source": "법률신문",
       "date": "2026-07-30"
     },
     {
-      "title": "울산경제자유구역, AI 전환·외국인 투자 확대 위한 미래 전략 토론회 개최",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2UDc1ZVUzZkxNYVRnZjFWUG92R0FiMnFtVC1UbG92ZnN1WHRsakJTVlU1U1oxT0NleTNkcjlTSng4aDhheldBa2RIWDJLVU1UMVVhYWczWnRmVlp0Y0RIUGVHRkZ0R3AyQ2Mw?oc=5",
-      "source": "한국사회복지저널",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "코스닥 판 키우는 정책에 베팅…외국인 '역대급 환승투자'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMFBVQUxPZWFzMEJ3LVN5TnZtQUUyRkpNNWVJYnpheEdPd0dMNVNWMEx6Z2RsWDlNbU9CbmszX2JXd1BjT3NhT3VoRml0ZVlaMWpYZmI1MVFIUQ?oc=5",
-      "source": "한국경제",
-      "date": "2026-03-06"
+      "title": "한경협 \"5년새 기술 유출 피해 23조원…외국인 투자 심사 강화해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzazltbHN6TzNibC00QnVMUUFJV3dfNXVMVVFFa000Q2dUcFVQS2dUblRvdDdZTm5LMDRfQklVRm9mRGRQUjlNVm15V0lxY2VhU2JHc1lPZ3d0Y3JFTzdXU1VDaUZYOVE?oc=5",
+      "source": "연합뉴스TV",
+      "date": "2026-01-14"
     }
   ]
 }
