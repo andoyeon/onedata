@@ -1,30 +1,18 @@
 {
-  "generated_at": "2026-11-15T00:47:25+00:00",
+  "generated_at": "2026-11-16T00:46:56+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "외국인, 한국 주식 193억 달러 팔았다…AI 투자 불안에 흔들리는 코스피",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ETGZZQllKelgxeXpvc0VjUVIwTnRfSGlSZUtQdVpvaU45cGNiT3N3VDJZWllnOHYycTczMndyWlNkTnM0dmRKVzZmRzZmWi03WVRLOFk2ekVOVFVEM2RURU5hV3NoLTJ0aFdCQ2VoZjFGUQ?oc=5",
-      "source": "진주인터넷뉴스",
-      "date": "2026-11-14"
-    },
-    {
-      "title": "\"외국인 놀이터 됐다\"…한국 주식 산 개미들 분통 터진 이유 [분석+]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM2tVX1B1QlBGZnI3NUpXZEtVb3VCX3VFb2ZUZVJ3dnJNOWhfU2R0aXBHcGVXTnpyRzZBUFhOcThVWi1UODA3LWFtaEhyaEZaOE5kODlxMzVPdw?oc=5",
+      "title": "오전엔 순매수 오후엔 순매도…종잡을 수 없는 외국인 투심",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xM0MtellhM1NhMHRXTFlLbnRrSy12SS11MFItaktrbl9wSTRxZkNaQjBGOFVrRHNtTE5hNVRCeWQxc0p1MVZzZWN1S1BIekRkT051Y25xT3N1Zw?oc=5",
       "source": "한국경제",
-      "date": "2026-11-12"
+      "date": "2026-11-13"
     },
     {
       "title": "외국인 주식자금 26조원 이탈했는데 원화는 강세…한국 금융시장 '엇갈린 신호'",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xRW9RYkc4ejlxNERfMHhZaWZYU2tQS2F4bS1TUmwza1NqTDNlX0M0SFV4VHZHTW11Q216UUFNOFFuWmZfZlFGRWVSZ3RNLUJobEZrczN4d1NQZ1NXU0xjQ3F3TGw?oc=5",
       "source": "지이코노미",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "외국인 자금, 9개월째 순유출···증시서만 193억달러 이탈",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yMExISXdwSEgzT09pNnhmMXIxZzFtSWcwN2lUbi04dXBNblFWUG1zaHpNdFQtY05VVzFrZnA2c2U4TVlOcmw2emloZHp0ZThuSkI2U2FOTUVmTlROU1EwREZBSjZvb0lCM0E?oc=5",
-      "source": "서울파이낸스",
       "date": "2026-11-12"
     },
     {
@@ -34,10 +22,10 @@
       "date": "2026-08-12"
     },
     {
-      "title": "오전엔 순매수 오후엔 순매도…종잡을 수 없는 외국인 투심",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xM0MtellhM1NhMHRXTFlLbnRrSy12SS11MFItaktrbl9wSTRxZkNaQjBGOFVrRHNtTE5hNVRCeWQxc0p1MVZzZWN1S1BIekRkT051Y25xT3N1Zw?oc=5",
+      "title": "\"외국인 놀이터 됐다\"…한국 주식 산 개미들 분통 터진 이유 [분석+]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM2tVX1B1QlBGZnI3NUpXZEtVb3VCX3VFb2ZUZVJ3dnJNOWhfU2R0aXBHcGVXTnpyRzZBUFhOcThVWi1UODA3LWFtaEhyaEZaOE5kODlxMzVPdw?oc=5",
       "source": "한국경제",
-      "date": "2026-11-13"
+      "date": "2026-11-12"
     },
     {
       "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
@@ -52,6 +40,12 @@
       "date": "2026-02-26"
     },
     {
+      "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
+      "source": "법률신문",
+      "date": "2026-07-30"
+    },
+    {
       "title": "“외국인 지분율 더 늘기 어려워…ISA·공모펀드 활성화해야”",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWx2clFzcDFrcEstX21tbmFyU0dKTUZ0am1mVnU4Z0pxSnpzZFVzalFTXzEwYmpoWG00bkF0RjduRHdyVUJGSEdYcXRLSFphTm44aUdmOEZUUER5QnNrWmdlb0ZzZFYyQndRbF9jX3YtU25kOWM0S3dkX0h3MTE5LQ?oc=5",
       "source": "이데일리",
@@ -64,16 +58,22 @@
       "date": "2026-11-13"
     },
     {
-      "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
-      "source": "법률신문",
-      "date": "2026-07-30"
+      "title": "한경협 \"5년새 기술 유출 피해 23조원…외국인 투자 심사 강화해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzazltbHN6TzNibC00QnVMUUFJV3dfNXVMVVFFa000Q2dUcFVQS2dUblRvdDdZTm5LMDRfQklVRm9mRGRQUjlNVm15V0lxY2VhU2JHc1lPZ3d0Y3JFTzdXU1VDaUZYOVE?oc=5",
+      "source": "연합뉴스TV",
+      "date": "2026-01-14"
     },
     {
-      "title": "2026년 투자 유치 촉진을 위한 관세-외국인 직접투자(FDI) 비즈니스 대화 회의 개최 계획",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc1pISGFjam44N2FRVFF3cDhhYjdsRk1VR0RxajN6T2Naa1VaWHFQZ0JhanJNNnJGa2hQRnZUalpyVE1JYl9wXzJwVmNNcVNnX25iTWRpSVJsZGJ0OXcxSlNfQklRaU9RcWZIckhHT2Fha092RW5BMk5sM1E5a1o2azVSNEV1VEJTckpQbENnNF9mM2RTZFVEeUd5YlZmQU1lUk5DaExmUzY3b0NmMVIwQVpyYzQyNUk?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-11-13"
+      "title": "외국인 투자자, 2월 국내 주식 역대 최대 규모 순매도",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hLThWVnV5bTdfV1JmckUtTXNtR05DcDBHUXR2MVBJakNWUHBhcEtXZzZacmV0S2Mwc0htMnZoZThMc1dKUDFVejhOYk5NVVNtek8zTFJJRUFsa09sTlEwaEt3OU1ncWt1UEww?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "[MSCI 로드맵] 외국인 투자 접근성 문턱 낮춘다…장외·파생거래 개선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbXFKUFdnV2ZwQXNHcUlBZnp3cUpwYTVCYXJRc0RYNVhYQVF0Z3dwZFVZdFB1UmFMNEtwQkZfcGpBQ2JOTmJXRTVRM1E2UUxiaG5hSDNOQmFUOG5LdkVhMXVLMXVRUlkxV0tTTldMSGw?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-01-09"
     }
   ]
 }
