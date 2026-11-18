@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-11-16T00:52:46+00:00",
+  "generated_at": "2026-11-18T02:47:43+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "‘젠슨 황 퇴진’ 여파 속 코스피·코스닥 상승 출발",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zOUlyN1BSOWhQRzdGcVByZmRIaHA3QjRyemVzbXNEb3Q1dEN0V25Ec2FBX0dLRmhjNlNZTTgtMEZoWTdhMmlPWUljVUNuc1dMdU1RMWJxQ0dYcko5THpvMVl2NUJyajJLSmc?oc=5",
-      "source": "천지일보",
-      "date": "2026-11-16"
+      "title": "[마감시황] 코스피 2.59% 하락해 5000선 붕괴…반도체 이어 금융·조선주도 약세",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JQ3l4RmxRTkYyVE9JazA5azZCU3gyZW1sOXdFLWVnR1RkT216NlJNUGRYWlJNaDRHbHN0dG5HRzRxYmVrd3hnOWE4WlAwX1lzSUl3VGJrQXhvdw?oc=5",
+      "source": "한국경제",
+      "date": "2026-11-17"
     },
     {
-      "title": "저축은행 예금금리 다시 연 4% 눈앞…상호금융은 '신중'",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBieG1iNkZPcDhRVkFfRE9LRFBYc1h0MDRaM3lscmNtQ2tJaWhMRG1DQnpUSnBkSUhTZ0Fnb0pJYUxPdXY5eTlqSFZocDRXelF3S1pQa0tqRE1nU1hqRUtwVmxwNk1nRDBXM1VVWklZbw?oc=5",
-      "source": "진일보 | 전남일보",
-      "date": "2026-11-15"
+      "title": "예금금리 뛰자 주담대도 들썩…영끌족 이자 부담 가중",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rV2liblh6dUhHWEx4N2xLZEpYUGlOQ1I3aXF3dm1QX3drTEwzWkFoQjdJLWZ4Rk05TDQ5R2N2M2pTaGVSVEpBaDZ5SkZpV2h4Vk5CSFBnbVFZTWpnVUloN3VBQWpfOG1pM1UzSw?oc=5",
+      "source": "스페셜경제",
+      "date": "2026-11-18"
     },
     {
-      "title": "이원덕 후보, 대출금리↓·금융접근성↑···상생금융 공동 대응 이끌까 [은행연합회장 레이스]",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTd3ZUZkpPSnQxbFloN3REdTVEV3lweXVHaU10Z1RnTlYxcHE5akxMQXRjMkpDZHZyeF9PVXZWSTVEZmI5dlplN1RLdVNwTk5kaWsxQ29QSko3TGc4OE8wdUotazY2cFJmUW1KWDBGbVFzNHdMRkJhVVBsa1o?oc=5",
-      "source": "한국금융신문",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "\"국고채 금리, 연내 저점 찍고 반등…추격 매수 신중해야\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSGNja2FhMWwzQ0REaHQ0a0Fqb1pTaU5LRVFnYXRKU0RtekxoN0Yxc2locHNuMlpxTEtaX0pxTnBKQVA5c3dSaDZ2X29aYlhraDVZcU0ydmtaeHdCUzZlbnV6ckpORmlrSmtPOVhHaG3SAXRBVV95cUxOU0pyaFZ3TEFqX3RZejU1enlMLTNFOFFvUXAwU3pTQ1U3V0dzd3VrcTh3dUI4Tl9XbVNrVzc2TURNdjB4UDhrU1E1UkhDMmhvazE4cEhzTVpSeVgwekdiUzFwekRabng4LWJYYkxDcEp6WEZ3OA?oc=5",
-      "source": "연합인포맥스",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "저축은행 예금금리 다시 4% 턱밑…상호금융은 '잠잠'",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FU3pfd3VOUkgwOXJ3VEFnMkwxYnlIdDI0SFdxOTllWUR1OUFtY0NIVWFrU1pQdGUwOVFsNHBTQlVpMzN2VmRadzltRko2bXdqWm95elpmMFdaWjVoSXVGY0I1REk?oc=5",
+      "title": "[기획] 국내 증시 저평가 “소통 강화만으로 해결 어렵다”",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81T0ZwWFNDV3p6dlAxRFRXcVhCUlRJSGRXQllpM05adDZjYnJWXzFWNUdVU1lEbkV5dDI2Q3liN29RSlg5aGhqXzFCSHVDa3hGSG5HNElyZ2VPVlZJeVZlOHBEWDM?oc=5",
       "source": "매일일보",
-      "date": "2026-11-15"
+      "date": "2026-11-17"
     },
     {
-      "title": "[국제금융리포트] 美 금리인상론 부상…AI 투자 과열에 금융위험 경고",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoazRaaDc0YWc3NmlSZzJ2UmN0bXZQMkU4LWMwclZWLWxFTkFsT1NiWjRPemF3VGo0WjRuaVNaSHdCRjdKTGM3cVpJUndUQ1NYYjh1M0dJQlJzd9IBWEFVX3lxTE52MzZhVERiX0gwaHBtR0JWZTgwZWlSU0prZld0cmhGOFVBNk9JM0h0WEFrX21ubE4xMURtZmw5c092bVlwWnZ4QkRHNDl5c1BGTE4yb01FQ0Y?oc=5",
-      "source": "아주경제",
-      "date": "2026-11-15"
+      "title": "은행권, 10년 고정금리 주담대 시큰둥…왜",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kN1IwVlBtQ0NUZjl6XzR4S0VwLWxwV181R0tzdDVyU0hpTlBDMWRKLXJVY3d0bFVCc1FhNng0MUN6V3EzNWZReTJIeVl6Yk5HZ0Q3ZERIZ1ZyVDR5M1ZWbF9rZm9YeTBDbXVDR2NkeXEtdw?oc=5",
+      "source": "한양경제",
+      "date": "2026-11-17"
     },
     {
-      "title": "저축은행 예금금리 4% 다시 눈 앞…상호금융은 주춤",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UWGdXR19qWFBCdDFIWDdPNm1BWHBUNExGaWczNkwxNjZQZjN2VjBmSlNHSmtPTVFkV19LOS1LQ09EUFN2QlpLa21HUHpNM0w1NGg2SVl5Tkg2dk3SAWBBVV95cUxQdWt2VG9lSGcwOUJvSFdpc1ZURjJsRGU1ajNid0lweGRzWXV0aFlnRlNXMlB1SXRXNWdfbWY0czV1eFZMZkw3UHRBYkI4ZGdCUFFMZEI0YXZUZHRibUJlSnc?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-11-14"
+      "title": "기준금리는 누가, 어떻게 정할까: 금융통화위원회 한 장 정리",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3FLSEJmTlgyM20yQVNSNzRvLUhMOGFFTEE4dEl2enh1WUVXc1dNNWhSUU5zckZHRnFNWFNuQmZaRGtHYk5sZkNnY2lXQzhVcG5FcnJRakdBRmxtYUdrQ1F0Y0xzZVR6eGlQRjQwbzVqUURiNHhBWmJOdTRGTUlUYXBfZlVDTkF4Qi1jTTFqSDRjV3hwV0tjcElOSQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "date": "2026-11-17"
     },
     {
-      "title": "코스피 '빚투' 37% 삼전·닉스에 몰려…\"증시 변동성 키워\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNks2ZFQyWVRicnRBX01BODkxb1pVT0N5VjRsODVUWnFXekZrb1JHTjRZSDNMWlo5akpBbWV1WTFBVV95TFZuMEY2d3VKTzBCNTNhM2E2c29kSWVERUFNbFhZa3RhM0VvZ3c?oc=5",
-      "source": "금융소비자뉴스",
-      "date": "2026-11-15"
+      "title": "외국인 투자자 매수세, 엔비디아 호실적에 코스피·코스닥 상승세 주목",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZi03dEFCRVdXa2NnTS1IRy1iQldpbmpSc2QwWWsxQXlFWGQtVHE5NFhBZ1RhOXBMeDZaRWphZlpXY2Q1VXhmRi0xQXJvRXMxU2phb3EzaS11cnBJckd1bUFveFZGRjg?oc=5",
+      "source": "공감신문",
+      "date": "2026-11-18"
     },
     {
-      "title": "은행권 우대금리 축소 폭 고신용층 더 높아… '금융시장 원칙 역행'",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGNEam9qXzNEVWljSEs0WEJQSU1UYllfYnRVSVR1MGs1eVVHblRMeXo5UjdOU0RITXk1Y3h4ajJUOHVmWXhBQjBwbHE1R3NoR0lSSmJIUS1aYzBnMEc3SEtsaUt6ZVJmTmZwZzRkTkhxT3hOUEE2bEtZcDF5WkNvRkxKR1o?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "2026-11-15"
+      "title": "하나은행, JYP와 나눔 적금 출시…최고 연 6% 금리",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qWmpWQkdtVkRoWnhVNmFrU3JkTlJUMkhQbVNqZGladW5sQ2E4UExfa2VHaGxSbmRJaTU0c252dVJhZmZxcEtEeE5wOXowSjJwZnJIQmZKZHktLXpQRmdITU9oUGFjeHpRQVE?oc=5",
+      "source": "뉴스포스트",
+      "date": "2026-11-17"
     },
     {
-      "title": "코스피, 강보합 출발…5305.40 개장",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wU0Q2NWNYQzdfM2xWS0ZkU3hmaDhqMXRCUTk4WFZ6aU1YOGROclpNakxULXFYWjlwY3VlQUc3V2dKNWpDNnhVNjJnNVpNR1RYZXlCZ0trYzFlMVA2aDl0NXkzd1hOcmxEaXVlMUNBRm0?oc=5",
-      "source": "포인트데일리",
+      "title": "기업은행, 매월 이자주는 통장 출시…\"연 3.85% 금리\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yU1lqaXdwbUhFWE9USDBPTE1vSVRFYy02ZVNiZlpVNThkYmJQX3NQTnBPVGN0MnJjcnlNZGZVcWJaOUc3OXNZeVc2dDF1RmJtRnJpZ1ppN1EwVmY1emVXalN2NTJQckhuMFE?oc=5",
+      "source": "뉴스드림",
       "date": "2026-11-16"
     },
     {
-      "title": "[단독] 금융당국 \"10년 이상 고정형 주담대 만들어라\"..주요 은행들 소집",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcTB2OFU4R1BTMUhNS3kyRUozSnFXMjY1MnZuU3l1UnFlWmo1WTNvMWlrQkFSbDlndzhqa1oyOHktU1pwbFZRM29FRzZPRG5LWU9mVWtHTlg1QQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "2026-11-15"
+      "title": "코스피, 하루 만에 5천선 탈환 시도…반도체주 급등 : 금융",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQbFRaZ1plMTlhWWZnRFVLaDZReERTNkNUTXNuUUhTSS01dHBWclpuSkpRMVlLVWdqMlpSM09NeFdJSmRrVkRsbU1YUQ?oc=5",
+      "source": "재경일보",
+      "date": "2026-11-18"
     },
     {
-      "title": "[이슈체크] 주식 그만, 은행서 돈 굴릴까...저축은행 예금금리 4% 근접",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBENUtZcGFFVDU0dG5zVXdWVXFfZ0VDQ1RHZEpfY0FRMmpmTmhKRXEzUVduMHo0Z2NpSWloZ1BTbEhGSU5QU1JKNW5UMkhQa3FpR196R1JXMHZjWXJadlZNQ1VqWQ?oc=5",
-      "source": "조세금융신문",
-      "date": "2026-11-15"
+      "title": "맞춤형 재무상담 받고 청년미래적금 우대금리 0.2%p도 챙기고",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IY2dFY0VLU2hVNnFheFRUV0VyeUFLS2VtTDhJVGUzZ2xHclNHbDUtRzVRYi1uZXpPdDBXUDF4NktIMU81Qkc4YklIVkdiVDRfUzg3YXRHamtQMGFOTzdkSnpZbnozSzZrNkJocQ?oc=5",
+      "source": "대한민국 정책브리핑",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "신현송의 '호미'…백투백 선제 대응으로 물가·환율·금융안정 겨냥",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kREx5NWZoSEtCa2tpSUd4aWRfNVN2cWFMNFF4cGtLd2UxMFltWjRhbG1wMVJqUHBuM0JxTFJNTE9PSWhFb0R1YUU0UVVDMVBWT2FEQWV1aU5BU2hyRHFCd3dVS2NBaFliY3E0LTRRcFY?oc=5",
+      "source": "연합인포맥스",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "\"NH투자증권, 내년 코스피 목표치 9200\"",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiaEFWS1l4bzkwNEsyWUdOZ19GNFRPeVRBdEJUWTR4Mk5yMWxadXlLc0I4Yk10Wk9yQlhiVGFMbXd4NGYwWGEyaUZvTU5TX1hNbktkejRueVRCOFNQSllfNk5iNWc?oc=5",
+      "source": "매일일보",
+      "date": "2026-11-17"
     }
   ]
 }
