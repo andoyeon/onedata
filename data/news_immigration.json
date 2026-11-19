@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-11-18T02:44:51+00:00",
+  "generated_at": "2026-11-19T02:18:18+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "인도, 선박 등록 규제 대폭 완화…외국인 지분 50% 미만도 인도 국적선 허용",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50Um5faWFtZTFheE1uanBRVVJua2ZLZ2RyZGFaN0NYLTJRYWNUdjRIci10V2VCTVExTHV2ZjJiZmxKQWVKdXpjekJFajE0UGxwTjMzS1JDQ0tNbWMtdm1vbVYzLUtVZmg5dzBZ?oc=5",
-      "source": "해사신문",
-      "date": "2026-11-17"
+      "title": "코스피 장중 5000포인트 하회...반도체 불안감에 외국인 순매도",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fSjZSTmVHT0RHUTV6TnFsRFNkOHBhYkdiNlRmdlpYOHBzaUNQMS1YclhFZ2Z0NGJyZEFEdW9oOXY4cEdXR0FfZ2Rza25IaFZaV2pyQjB6VEtncHY4TWFBejJLUWxVVElvUVJya0dWSFlIUQ?oc=5",
+      "source": "오피니언뉴스",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "코스피, 하루 만에 5000선 탈환…반도체주 반등에도 외국인 매도세 여전",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWC1Vck5wU3FNUFZReTh1NTVtbjlMaGNQNHg5ckt0SjBsZWs4Q3ZOb3c5T0hMb2ZjQWdkU2lVRlpIQXJOUjRReGx4X3J5RllpTzNvOWE1RXozTXM3X2Eza0wzUmp2b2M?oc=5",
+      "source": "지이코노미",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "[오늘 증시 전망] 코스피 5,000선 되찾았지만 외국인 매도 지속…19일 수능일 증시 10시 개장",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lNVVnTGFnQVFzWERXVVltV3p3cFdSUS1pWGt3Q0pYaFZDX2NnUjJ0ejhTeExMOWp5SzAyVXRiVElYM3Vfd1NkV2E4RlBNc1lyM1g0WWVnam9yaWlSWnBiWDFnb1pRakZ5Tm1TY05R?oc=5",
+      "source": "업코리아",
+      "date": "2026-11-18"
     },
     {
       "title": "\"실적은 대박인데 왜 자꾸 팔아?\"…외국인이 반도체주 내던지는 이유",
@@ -16,28 +28,22 @@
       "date": "2026-11-17"
     },
     {
-      "title": "코스피 5000선 무너졌다…외국인 1조4000억원 매도에 증시 '휘청'",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53eTNUMERoMVBwdUtXODdfWEFZT2otQW9BUkNTVm1DZDVJaUNXYXdhZW9najRLSjlVZVA4Q2UyTFMzTTc5WEVjZEh4NmFsVGtFcmZKWnAydmtnMzdYYUtlWkFTVm0?oc=5",
-      "source": "지이코노미",
+      "title": "\"증시 부양책이 독 됐나\"…코스닥서 발 빼는 외국인",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQY0VUWG1sVW1WUlFMYm1iN1RweFEtd05DVEJYeTNhMVZXQWR2WXJlVzVuT09odTBMa2ViRktKeXFteUI1aGZ4NTEyUlpFSjhYdGVoZnd2WDFtZWtIUFBtc3Z1TGRseWYtUTJ0ak91VmNoTGpuQzN5d0c5R0JjLW5vdXNsQ0dnWmtLMnhkeERGY0pEUVhySW5iREhfMDBDVWF2RVE3U1hWYU45dmtrZF92NEdTcW9CZWVTM0ItUzRrZzhEaVFhSXFvRHNEclFRWW1jUzdYZC1QcUUwdVdHOFpnSm9PYnQxeHExMG5xdzE2LVFfVWNhVHRoc2czZTgxeUtDakxPaWJwOXctc2xQNDg0b1VMT19SclY1?oc=5",
+      "source": "데일리안",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "인도, 선박 등록 규제 대폭 완화…외국인 지분 50% 미만도 인도 국적선 허용",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50Um5faWFtZTFheE1uanBRVVJua2ZLZ2RyZGFaN0NYLTJRYWNUdjRIci10V2VCTVExTHV2ZjJiZmxKQWVKdXpjekJFajE0UGxwTjMzS1JDQ0tNbWMtdm1vbVYzLUtVZmg5dzBZ?oc=5",
+      "source": "해사신문",
       "date": "2026-11-17"
     },
     {
-      "title": "“외국인 1조4400억 팔아치웠는데”…美 투자회사 대표가 한국 증시 주목하는 이유",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nQXFFLTBHcEszM3gtcWdrVmxybTMzUllRek1lQUQxcER6azU1WFd4dVRwWmV0ZVhpWmFrQ0xESUZDN3dCcDFybEZVeHNEcEJSQ2xSMWdQSGRCNnJsdkFyTURSdUt1ZVpoUkJOTw?oc=5",
-      "source": "데일리25",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "[경제 포커스] 환율 1330원대에서 오르락내리락… 반도체 기업 vs 외국인·서학개미 ‘줄다리기’",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnp1Z3FnamNpRC01RlFWbndoTXpDV0VYRkNfRWU1UjYxZTlTQnhIc3d0cUowZEVva0JNSHh5ZHlKV3kxNUJWSlg4ZmdyZE1ESHJrVi1fX2k1NERPa21qTmZhc1VXbWNNLV9aVm1ONktRdDJVc0VMdzEtbGhzVGdpcFd4M2doZ9IBmgFBVV95cUxNT2JGMTl3b0gybWhGRjUxTF8zYTlzZ0pVSzBXTGxnQ1Q4M0JKNm0teEdPbXpaaTh6czZpYWhRS1NKUjI4WjB6X3JjYjhkWjhqcFhmYlJYLWtPbFpvM0M4cFVBSkpuMmtpWG54ZXRsVEJEM0gxclBrZ01RY1dQT0JpZWdJNm1YUnVVakRNeGtCUS1SUHBrTkdHcWNB?oc=5",
-      "source": "Chosunbiz",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "외국인 1.4조 매도 폭탄…코스피 5,100선 추락·코스닥 4.86% 급락",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45V2VGeGFPU2FSdUFFRXhqc0tncUFMRm5zV2IyYlFZRnF2QWN6QVJDUGJMM01VZnJuMlBaSVlQTUxyc0JIOVBIbzd6ekFyMlkwb21fVkNJczNjclVoOExjMXdJM0xvaDBzQ1BFRWpvN0TSAXRBVV95cUxNaHJ2R1pwNUJxc0ZYOGx3UklJSWpwTkVuQUpGZ051M2RvamREYWliWmZuakFYT2tTWUdoQmw4ZGhMVURseFY5T1NtbEpWUTEyVWlpX3QycERKM3dXTEd5Z3d5WnZHU1J4a0FzVmhiUmJnYnBDSw?oc=5",
-      "source": "산경투데이",
-      "date": "2026-11-16"
+      "title": "경제에 외국인 직접투자(FDI)를 활성화하기 위한 동력을 조성합니다.",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00LXk1MDVxSHBxOHZ0ZFpQSGhOQjRBQ1poVmZPc1ltYzB5Q3hLdUZCYlA2RWRWZjl6eEJ0Z3pYNnpsSlhpRW1NNVdFZ0VEVWU4enpLdkg0NElqdTZ5SUxQdzFMQQ?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-11-19"
     },
     {
       "title": "외국인 투자자들 한국 증시 주시…밸류업 수준은 야구로 치면 2~3회",
@@ -46,16 +52,10 @@
       "date": "2026-11-17"
     },
     {
-      "title": "“의무공개매수법 이대로 통과되면 코스피 4200”…외국인 이탈 경고",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KV3I3T2NEMDYyVHFQNVJzMnUwTkc0Z2VvbVpBaDZfVVA5VDN5NjhobFFVLW1xSnl2bVp2c2ZId2VZbVNQWm9WT1dpOGIzZUFsSW5EWmxmSUVXNFNyXzNiN0tkSQ?oc=5",
-      "source": "쿠키뉴스",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "호치민시 성장의 주요 동력",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlMyWWd5cndkN3c5a2tTNERJSms2SWUzVEpZWWQ2dUJ0UGs4RzlfOEdtVW1qTGk0TjRPZWl0ODB4YzMzY2NKelZpbEE1aHo1a25vMnVIdUdhLW92UXhGeDFfUllRME4tRGJ5bGxkdkxuTzBVRThmdE5WbGF0Zk1sM1lSX1FWTDRkOWdwY1pmWQ?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-11-17"
+      "title": "2026년 상반기 외국인직접투자 동향",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qT1d0elo1Y2xRejlIb0FtcjZuWVRha2lfV01ZS0hsc3pOblk1ek1OejZRSnFjU0IwMkw4RjV3T05IekdleWJybUZHZzJwZWk1WUZIbXlab0dlM1lwUDZ2YkNvaE1SbHprNGZUTw?oc=5",
+      "source": "대한민국 정책브리핑",
+      "date": "2026-07-03"
     },
     {
       "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
@@ -64,16 +64,16 @@
       "date": "2026-08-12"
     },
     {
+      "title": "“의무공개매수법 이대로 통과되면 코스피 4200”…외국인 이탈 경고",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KV3I3T2NEMDYyVHFQNVJzMnUwTkc0Z2VvbVpBaDZfVVA5VDN5NjhobFFVLW1xSnl2bVp2c2ZId2VZbVNQWm9WT1dpOGIzZUFsSW5EWmxmSUVXNFNyXzNiN0tkSQ?oc=5",
+      "source": "쿠키뉴스",
+      "date": "2026-11-15"
+    },
+    {
       "title": "주요국의 외국인투자심사 제도 강화 동향: 특징, 리스크 및 대응방향",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaDRTTDBJSF9zV00tRzNIaVJ6SGRSS2tPNWI2Z1Z5b3BGMWFZR3dWMVFBZHFWOUN6dVhiUjZMSWVlNXpOUFBLWFVoWGxmVnZIVGhLa2dnVXF3SEtwamRlb0dCeU1EZm1OVmpkY2V30gFyQVVfeXFMTndUZWtsM0ItRGI3SFBmSmhhd1NFbWZNZmR2MTV5ZHYxNm50U2VHc09QVWNzd3MzYjhtMGhIMnpfenBFV2JyQVNuUzhhdXBLT0xiMTg5ZkFIM1FVbWQ1UzM5dFpnSEcwMWtxbDVYb2trNEZR?oc=5",
       "source": "법률신문",
       "date": "2026-07-30"
-    },
-    {
-      "title": "청년에 도약을, 지역에 성장을 가져오는 외국인 투자로",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsZzBMNmVubV93Snh2ZWtLRno4S0VudmYtZWxtOFlTTEdMRUM2UjhZc3RfTkV5MUM2NlBHU1pFT2ozVm0xX2ltSmtrODJiV2dzS1RNZktUOUJxLVA3QlBEQWlFRjVqdnh5Z1hHTw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "date": "2026-01-29"
     }
   ]
 }
