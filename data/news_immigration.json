@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:59:04+00:00",
+  "generated_at": "2026-11-22T00:58:55+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
@@ -10,15 +10,9 @@
       "date": "2026-11-20"
     },
     {
-      "title": "충남 외국인투자기업, 산업안전 강화·상생협력 네트워크 구축 나서",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CYjhmMFZkajhHYkIzUDdkaXJlaVR6N2JkcVZSY3BDclFKaXRyT1kwY2dsa2xZXzZyLURLbS1nT1FwRXNoYnE3N2p2ZEdZTGhuT1NPV3RJd1k4RDFwMnhiZ0F1XzhVYzdSZEE?oc=5",
-      "source": "충청매일",
-      "date": "2026-11-21"
-    },
-    {
-      "title": "산업부, 지자체·유관기관 '외국인투자 유치 원팀' 가동",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRRzV4VTluME5HdDQxa2V5VldmeU5tel91T0NDcXpTNGtfQlg4ZGo5TmhPTGFCWTl3VTV0d2Z1REFQNzZ0VnZxVk5nYWhDeGp4UFJiLVVOYmR5X0dpcE5ZMEZaZUExeGtCRzhob3hHTTU?oc=5",
-      "source": "신아일보",
+      "title": "[마켓 뷰] 외국인 두 달 새 45조 '셀코리아'…반도체 실적도 못 막은 자금 이탈, 귀환은 언제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JczJtcWgzbXpwMFpJTDZ6N0hyaU1HN3E4a2swT05DODhwcVdqNzhlM1ZTMHFzNnFwTlJycDRvNlVxNmx3Y0lkYTBPY19hU0dXNTdKOWlCTGRBVGVWYWpxekJsdi1iU3FsZ2c?oc=5",
+      "source": "https://www.moneystorm.kr/",
       "date": "2026-11-19"
     },
     {
@@ -28,10 +22,22 @@
       "date": "2026-11-20"
     },
     {
-      "title": "금감원,2026년 10월 외국인 증권투자 동향 발표",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nZEZPR1NHeUJWU1dLNjhzdXBuWlhQb19BQmZXeFJQUWRtdTVmR1F6NnlWWGotak9zd0otLWVicWtidFdSVS1Uc2cwUldHakRQTG5rXzBGQUpObUNmTmdpVm9sVGFvcElHOHc?oc=5",
-      "source": "Daily NTN",
+      "title": "산업부, 지자체·유관기관 '외국인투자 유치 원팀' 가동",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRRzV4VTluME5HdDQxa2V5VldmeU5tel91T0NDcXpTNGtfQlg4ZGo5TmhPTGFCWTl3VTV0d2Z1REFQNzZ0VnZxVk5nYWhDeGp4UFJiLVVOYmR5X0dpcE5ZMEZaZUExeGtCRzhob3hHTTU?oc=5",
+      "source": "신아일보",
       "date": "2026-11-19"
+    },
+    {
+      "title": "외국인, 10월 국내주식 26조 원 순매도…‘한국 증시 이탈’ 신호인가",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0NWZWNFVjOWNqV2UwTE1uY0t2Z1J6NlhMdXg2Szdoc0hxbi1kMEp1REs4UzU0TXpRRlVpQUhTbWpZS3F2dFd2Z1I4eFd3LVJWOFBDcjBWOHJqNU1EZWFnalFaVTVCdXd1WUNhbTBSMUp3Zw?oc=5",
+      "source": "https://www.newscenterkorea.com/",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "충남 외국인투자기업, 산업안전 강화·상생협력 네트워크 구축 나서",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CYjhmMFZkajhHYkIzUDdkaXJlaVR6N2JkcVZSY3BDclFKaXRyT1kwY2dsa2xZXzZyLURLbS1nT1FwRXNoYnE3N2p2ZEdZTGhuT1NPV3RJd1k4RDFwMnhiZ0F1XzhVYzdSZEE?oc=5",
+      "source": "충청매일",
+      "date": "2026-11-21"
     },
     {
       "title": "코스피 장중 5000포인트 하회...반도체 불안감에 외국인 순매도",
@@ -40,9 +46,27 @@
       "date": "2026-11-19"
     },
     {
+      "title": "외국인, 10월 국내 주식 26조 순매도…美 투자자만 13.9조 팔았다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjNXU3a29TU1lJMnJ6dWkzOVcyNkVUa0ZXVGtDanZjWGg4ckgtd2JqS2JkOUpPcldwcFdVTnRtMXJRQ1FvMGxPbENteUF6ODhYV0RUajRtOTVQdGlGLXk5UjhiTlFDQnhX?oc=5",
+      "source": "www.ebn.co.kr",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "2026년 상반기 외국인직접투자 동향",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qT1d0elo1Y2xRejlIb0FtcjZuWVRha2lfV01ZS0hsc3pOblk1ek1OejZRSnFjU0IwMkw4RjV3T05IekdleWJybUZHZzJwZWk1WUZIbXlab0dlM1lwUDZ2YkNvaE1SbHprNGZUTw?oc=5",
+      "source": "대한민국 정책브리핑",
+      "date": "2026-07-03"
+    },
+    {
       "title": "외국인, 10월 국내 주식 26조원 팔았다…채권은 7.4조 순투자",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tVzRjZDVrazFTYzVNTzB4Umc3MERtNUZBeElvT3NRUXpBa1VuVmxaNjc3VmlKR3cwNE92STBSRmpqNDJ6STF1Nmx3WUI1VlFDZHl0bmZWX3FSSUEyMlVacGVKSQ?oc=5",
       "source": "뉴스1",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "금감원,2026년 10월 외국인 증권투자 동향 발표",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nZEZPR1NHeUJWU1dLNjhzdXBuWlhQb19BQmZXeFJQUWRtdTVmR1F6NnlWWGotak9zd0otLWVicWtidFdSVS1Uc2cwUldHakRQTG5rXzBGQUpObUNmTmdpVm9sVGFvcElHOHc?oc=5",
+      "source": "Daily NTN",
       "date": "2026-11-19"
     },
     {
@@ -50,30 +74,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tbzZkWUtjLVFmTmE3WjN6WjBlNE5uTVVUdmM2QUVZdWRqQTlnQ21DM0tWV0lTeXBhTXhLdnNQeUhDSHRwMFd6ZWFGRmRuZkxuelJTTnVPZ0thWmpUUlRUN3FCaVVKTVNwUWVWbUxFM1FKSjEt?oc=5",
       "source": "파이낸셜포스트",
       "date": "2026-11-20"
-    },
-    {
-      "title": "외국인, 10월 국내 주식 26조 순매도…美 투자자만 13.9조 팔았다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjNXU3a29TU1lJMnJ6dWkzOVcyNkVUa0ZXVGtDanZjWGg4ckgtd2JqS2JkOUpPcldwcFdVTnRtMXJRQ1FvMGxPbENteUF6ODhYV0RUajRtOTVQdGlGLXk5UjhiTlFDQnhX?oc=5",
-      "source": "www.ebn.co.kr",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "인도, 선박 등록 규제 대폭 완화…외국인 지분 50% 미만도 인도 국적선 허용",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50Um5faWFtZTFheE1uanBRVVJua2ZLZ2RyZGFaN0NYLTJRYWNUdjRIci10V2VCTVExTHV2ZjJiZmxKQWVKdXpjekJFajE0UGxwTjMzS1JDQ0tNbWMtdm1vbVYzLUtVZmg5dzBZ?oc=5",
-      "source": "해사신문",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "외국인, SK하이닉스 7조 팔고 SK스퀘어 순매수···투자 셈법은?",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WdC1iN21SbEdpTkRXWUdaa2pEU1B3SVBkUW1lSThVM0poWUc4dUJoRnlhUk9BU2RuUTZMTnRFM1cwQW5mVGoxV3lkOVhac2NSbGRLaXFXMW1FLTBGX0tEVlFPSDEyVXNQV0E?oc=5",
-      "source": "서울파이낸스",
-      "date": "2026-11-18"
-    },
-    {
-      "title": "코스피, 하루 만에 5000선 탈환…반도체주 반등에도 외국인 매도세 여전",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWC1Vck5wU3FNUFZReTh1NTVtbjlMaGNQNHg5ckt0SjBsZWs4Q3ZOb3c5T0hMb2ZjQWdkU2lVRlpIQXJOUjRReGx4X3J5RllpTzNvOWE1RXozTXM3X2Eza0wzUmp2b2M?oc=5",
-      "source": "지이코노미",
-      "date": "2026-11-18"
     }
   ]
 }
