@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-21T02:02:16+00:00",
+  "generated_at": "2026-11-22T01:04:42+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "환율｜코스피 폭락 이어 환율 1,346원 급등…AI 투매에 금융시장 요동",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVFJGV0FoS0FycUlUbXFFUmNOUjlPbnI2dEZNR1ZkOU1yS1AyVDQ5dks4VklMMU5mamlNbFJSSkRNRWc5aWtaS2JYTHMwaDRLUXllZVVRcGJwSEpjcWQyQjkwbHF2MG9tTnc?oc=5",
-      "source": "OBC 뉴스",
+      "title": "[기획] 앤트로픽 17% 상승 데뷔... 증시 수급불안 풀릴까",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IVkYySlcwbDFpdXJVNkZLNFFpQjE5SjVNdzhHOXo2cFJvV3VweW1NRko3NURXcF9CMjlHUk94ZktjN3VETU90MkpPTEg4ankwVXJ1YVNPU082T0xtcDQ3aVNXNjA?oc=5",
+      "source": "매일일보",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "코스피 5000선 무너뜨린 AI 쇼크… 이번 주도 살얼음판",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPVFQ0YUdEZHdheFFNWUM3V2ROU25wdHlrVHBpeVJkU1ZvZC1iVzhyUGNyakJRakFWRWhtV1VCMi0ta3VLU3A0Y1MyM1diZ20yYXM4dFd4ZHRqdFZWbThZS3VPTTFwR1VGSHc?oc=5",
+      "source": "천지일보",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "\"금리 올려도 집값 못 잡는다\"…반도체 수출 대박이 부른 '유동성 역설'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZGg4dHpQUllHRGRGY2FQZTNlZTBuWW1BQXhWMzE0VFc5d09Wenc1TTY3bEU3Z1p0SWRpTDVIUzh4bE11VkZ1aGJ3RG5kVUQ5MlhjM21PWEZPMVVWUTBrNNIBeEFVX3lxTFAyN2p6amZ6cjFfRXJ0b3I4aGhROHJ4SG5vZ0N6OU50WnZQRTExYUY4Tm9jZHpJbG1leFo2aW9fRWZORkpxN01Zb09aV2pKV1JtSzBGdENxdnRiUWFvdm9JQV96Q0NxWWVlRUlDZlY2V0lYT2o4a2VfYQ?oc=5",
+      "source": "뉴시스",
       "date": "2026-11-21"
     },
     {
-      "title": "코스피 급락에도 금융지주 선방…고금리·주주환원 기대",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45MU9TbFdiSnFUbTcxY3JkRDhrMUFTMzdNaHdfX082Q09qUEVYRWJnSmQ3aTZMbGhrbURoQkFBV3RfUTlaNUlsdG00TVRUV2pNNGU3ZWhUV1BUZw?oc=5",
-      "source": "한국경제",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "AI 거품 공포에 뉴욕증시 급락…나스닥 5.28% 폭락",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mTlpNUTJaNFN6WnJDZWpKR1Z0ei1GTXFNSm10cWhKMkgwS2pEZnV6R2swQUVGdVllYXRhLUVWcVdiQmN5eXpRbjc1c3ZDVHBCamJIWkFfSnBFZ28ta3EwUF83eE9GUUxpcVpUaQ?oc=5",
-      "source": "뉴시안",
-      "date": "2026-11-20"
+      "title": "26일 금통위 금리 결정…보험사 자본건전성 '촉각'",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWUjEwdkR0UnR2OWlORHRtdWRjVlQ5ZXhsTXgxakZpU29WZnA0T0Z2MXpVazQzWDcyVFFVd1pRbHk4enFzTmNNbjZYN0ZKUDFzTHNmRVpLaVg5U29XMXZLWl84N3RPSkVI?oc=5",
+      "source": "보험매일",
+      "date": "2026-11-22"
     },
     {
       "title": "상호금융보다 높아진 은행 대출금리…대출 수요 다시 옮겨갈까",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zSzV1bDJKRmdVZ0RNZm1rQVMwM1l1NEhLZE56VlBTWFVqQWtpUVNqZy1LellGRlJ3RlpBR1dhamllS3ZTaHNDb2gyeGpfSEtYQVFmeWFKN2g1blpmNDlNXzhrWHZscmRKLVZr?oc=5",
       "source": "비즈워치",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "코스피, 5%대 급락 '검은 금요일'…사흘만에 '5천피' 밑으로",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiQTFpM2xtRXhlYngwWjM5aUpsS1lEbnF3N3VUX3BwcnJsY3QwSkxmNElYNHIzN21CWnk3ME5MV0RfT2tqMDc0N3drT1NBQ1NaT2NQRHJWTHpPM3gzdm5iaGpWbS0tS04tVGtZ?oc=5",
-      "source": "BBS불교방송",
       "date": "2026-11-20"
     },
     {
@@ -40,21 +40,27 @@
       "date": "2026-11-19"
     },
     {
-      "title": "엔비디아 호실적도 역부족... S&P500 5거래일 연속 하락 [뉴욕증시]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uRnhoc3Z2dEl5UjFWUWg2NnZjVUE2VjFkQ3F0NzdtZ2dPRktvNnoxUXdTWnI4WVV2bG9aM01XVWdjNTlkcmR2SHctdGthRXQxWDIzQXJkX2pCRXBEczl2Rk9sVzc?oc=5",
-      "source": "매일일보",
-      "date": "2026-11-18"
-    },
-    {
       "title": "금융지주들 “증시 연말까지 본격 반등 기대 어려워”",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkdlVjJOVmxMcHZLX2JUY0JCU3FhcDdFVlFnN2l2Sll5RGxpUFpvZEdGWUV6bFk5d0tBZXk2YlNMUUFIdUlRSm43Q3hjOUNTMXRZdXNXUFRscWFSdVhLYTFoQU5rdHVPZllYd3hBMEt6Ri12b19IYUxhX3BDM01hLVRVYXV4d0thMHBudHF3?oc=5",
       "source": "국제신문",
       "date": "2026-11-19"
     },
     {
-      "title": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
-      "source": "뉴스드림",
+      "title": "증시 조정에도 마이너스통장 급증…은행권, 잠재 신용위험 '경고음'",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ucW80eHhLV2lucTc1bzBma1dfcDJMa1ZKQWJSSXJUWlhwVmFLbVU1N1RONUF6U203RDVkb0NKZExxcHBNWUhLT2pqWkpNalBJMWhnVng4UmRhcnFxRW9LbGMxSWkwdVM5REVB?oc=5",
+      "source": "한국아이닷컴",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "[N위크] 올해 마지막 기준금리 인상?…디지털자산법·금융쇄신안 공개",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnODRENGZMajJuTjlMeXNJMUFMYWxwSm40ZUpwQkdfR0FlWEZ0cVZaWWl1cXo2d0lSTEkxbmZsN1lPakU2Zl9WVTZ2SmJPeXZRYVNsNGhQWUJyOEQyaXl6c3F4SQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "코스피 급락에도 금융지주 선방…고금리·주주환원 기대",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45MU9TbFdiSnFUbTcxY3JkRDhrMUFTMzdNaHdfX082Q09qUEVYRWJnSmQ3aTZMbGhrbURoQkFBV3RfUTlaNUlsdG00TVRUV2pNNGU3ZWhUV1BUZw?oc=5",
+      "source": "한국경제",
       "date": "2026-11-20"
     },
     {
@@ -62,12 +68,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00dEtTeUxDY1ItR3F3dDRBWlhieF9MVmFvQ1NUU3JnM041c28yNUl1MTJ2d1VjZmY4LUdfZGZfZzNwaXN4Um1nRzhWemI3cldxckE?oc=5",
       "source": "매일경제 마켓",
       "date": "2026-11-18"
-    },
-    {
-      "title": "전북은행, 단기 정기예금 금리 최대 1.20%p 인상",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03WnBpSzJSRG96cnNaM0R1R1hoRjJZSW1UM0VFRlh4MFczX3pFOG91bGxFQ2VJTHJaNGd2dWktRC1wdXZ3VThpbklrdlZwVGlfQUFrNlFNdmNGN0dhNEVNWU1YamFSVnpWczBFU9IBcEFVX3lxTE1SZWRRb0lUM0lhNWl5TEtNSVR6eFFIV3UwVDlWd2RMemJWU3VhTlJybnRTa09WM214bFgxTDQ3WHppRUV4eFJ0Uk8yLV9nc2tkZFNjakI5OTNYd3V0Z0xXSUxmM0I4bkJlb3duWFJpUXU?oc=5",
-      "source": "전라일보",
-      "date": "2026-11-20"
     },
     {
       "title": "“코스피 1만 간다” vs “7500으로 하향”...월가도 엇갈린 증시 전망",
