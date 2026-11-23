@@ -1,66 +1,42 @@
 {
-  "generated_at": "2026-11-22T00:58:55+00:00",
+  "generated_at": "2026-11-23T01:25:12+00:00",
   "source": "Google News RSS",
   "label": "외국인 관련 뉴스·보고서",
   "items": [
     {
-      "title": "비수도권 외국인투자유치 강화…지역성장 지원",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yOXh3S1k1dm9SRXE3bDRNSHNMYXMtWlAzMmJkX2FkSkM4ZTI4RGVvc3dCNmFaV3gzeXZFY1lMbUdNa1d0dnRNZmI4TFNxSHNQN2VDa0EwZjQtT1ZDUmFHYkhKUlZ2MHpMaUw4UVFtZ9IBc0FVX3lxTE1STHJmaklhaFUwd25nOTVZTWVDX0YwUklHODdPUVJLUWpscjU4MEF6T2R2U0hESWhobGJzdFI2Q3hqUjhOZzhpWTBaQU02QWQ3djBfV29ZNkFGLXpTd25qUlFmeHJDMjFlbWtzTDFqd1ZUTFE?oc=5",
+      "title": "비수도권 외투 유치 훈풍 이어간다…산업부·코트라, 지자체 맞손",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51T1hxVXE0bS1aYnBOal9lcThoNGJHc0dfaVRfZEpaTkRDakphbkU3RV9GR19Ua285c0ZiUUhfZmpKZXpMcTNhdXBocGpfNi1rVUNjODRkV25nZWJLU0JNX0lkSi1VVndhWjk2b9IBcEFVX3lxTE9OZjZBVlo3OV9KNVRtMDRtc2xDRkhkWW5hM2NTelB3QS0yWk1xbUMyUGMtODZPYWZtUU11cUg3WHRjUUNLS1l1bWI5cnJpeGVWYW15eG1OVDZ3RTk3ejIyelQ2ZDhhQXl3bmtoZm9aejk?oc=5",
+      "source": "전기신문",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "[오늘 증시 전망] 코스피 4,800선 후퇴…23일 외국인 매도세 진정 여부가 반등 관건",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fTm9XMi1md1ZsbjZxb2lUX3NmMXFMVThNQUVpTWZjaG96eXM4ZDlXdW44VVR4dmFBU1czZ0d3Y0M2LXkwcHpoRE9GTW9URlB4TFhmbDdsR0t5REdrenQyd0VzaVYtM2c5YXdDUlpR?oc=5",
+      "source": "업코리아",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "코트라, 지역 외국인투자 유치 강화…67개 기관 협력 모색",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ibndic1N4V294eThGU2s2dUkwcDVBN3BZUXZtbnBXNUt2bkdCTEhFNEJ2WG1LQjE4ODA5cElSUUtVRUljeWhVR3dtbDhtdE00allXbFRHQ0tBaW43Zm9lOGZWNGZSYXZLV3JXNnVDTdIBc0FVX3lxTE1TLW0wODZGXzc0c243TUU4YUFJVVZzUzJqdU5zOEhzRTFWXzlZR3hvOERlVEY1eXR0bkVubTF5akNYdVYxYTB2ZzN0c01HLU02eGdGZS02dzl0Z2o1M3YzVVU1RXU4eWR3TDQ1VW1sVUQxNVU?oc=5",
       "source": "뉴스웍스",
-      "date": "2026-11-20"
+      "date": "2026-11-22"
     },
     {
-      "title": "[마켓 뷰] 외국인 두 달 새 45조 '셀코리아'…반도체 실적도 못 막은 자금 이탈, 귀환은 언제",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JczJtcWgzbXpwMFpJTDZ6N0hyaU1HN3E4a2swT05DODhwcVdqNzhlM1ZTMHFzNnFwTlJycDRvNlVxNmx3Y0lkYTBPY19hU0dXNTdKOWlCTGRBVGVWYWpxekJsdi1iU3FsZ2c?oc=5",
-      "source": "https://www.moneystorm.kr/",
-      "date": "2026-11-19"
+      "title": "외국인투자 97% 지방으로···코트라, 지역 투자유치전 가속",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BWjV3aXRBUUV0TjN1Y3hVa0pWZjhSYm1rd0RHODJWbEk3ZWFBME1TelNIM3BzSDdDRHRDQ3JfWVdkdmpHTUdqSEFtVHZXRUNkNEVpd29zU2N2N1ZXaUdQV0duVTJQNFZLbTFsWFp1R2rSAXRBVV95cUxOdGFrX3RTcVFUTWdick5nSW5jNDFrWWdmUlNLTUFXLUduLVdIVnd0LTBzSDJqOUJDRnhyZjNKS21QcmZBYUxLM3RNelc0bjF3cGUyNmRoRHkwSkVVQ0htZGRLMGtTLWY0VDNJSVBjV2x6b2xGWg?oc=5",
+      "source": "이뉴스투데이",
+      "date": "2026-11-22"
     },
     {
-      "title": "외국인, 10월 국내주식 26조 순매도…두 달간 45조 ‘팔자’",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBydE1aYmpvXzQ4ZHlyQ1BOQkp0dTRpRGFBbWw4OXVVN2czc3N1cEExblJBOWdYd1BBQWx1bzBfVkIwMW5MYVRRY2FFR3dYb1RaalJZU0wxQXJnZTc4Z3lubS1jdGhSVm1JdFJ4Qw?oc=5",
-      "source": "뉴시안",
-      "date": "2026-11-20"
+      "title": "정부, 10조 증안펀드 카드 꺼냈지만… 외국인 매도세 막을 수 있을까",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NSWFYZjNzeHpZY1ZQUHpycnp2WnkxQ1NXck1LTHVzZFpOQnhEUElqQVhfOFBUNm9UbWk5QzVWemwwZlp0Nk50SzVWb000aHVlcVRpcVc0Y2NfaFoxME9obmNNTVh0ZHRWTFRWclhR0gFzQVVfeXFMTWc0VjBtUk1Fa1QzQjZhSVNsdFZRcnVtUnBNMVNRcWtLQ2p0cG5RT25DT210TzZTT3VwYXlDbHUzT3RSSjRfUVBqSm1xa3FBT2JFa01RYUh3enhQZlQ3bDR3M2pwNWQ5Tmx5cTUtREdfd2FPdw?oc=5",
+      "source": "한국일보",
+      "date": "2026-11-22"
     },
     {
       "title": "산업부, 지자체·유관기관 '외국인투자 유치 원팀' 가동",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRRzV4VTluME5HdDQxa2V5VldmeU5tel91T0NDcXpTNGtfQlg4ZGo5TmhPTGFCWTl3VTV0d2Z1REFQNzZ0VnZxVk5nYWhDeGp4UFJiLVVOYmR5X0dpcE5ZMEZaZUExeGtCRzhob3hHTTU?oc=5",
       "source": "신아일보",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "외국인, 10월 국내주식 26조 원 순매도…‘한국 증시 이탈’ 신호인가",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0NWZWNFVjOWNqV2UwTE1uY0t2Z1J6NlhMdXg2Szdoc0hxbi1kMEp1REs4UzU0TXpRRlVpQUhTbWpZS3F2dFd2Z1I4eFd3LVJWOFBDcjBWOHJqNU1EZWFnalFaVTVCdXd1WUNhbTBSMUp3Zw?oc=5",
-      "source": "https://www.newscenterkorea.com/",
-      "date": "2026-11-21"
-    },
-    {
-      "title": "충남 외국인투자기업, 산업안전 강화·상생협력 네트워크 구축 나서",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CYjhmMFZkajhHYkIzUDdkaXJlaVR6N2JkcVZSY3BDclFKaXRyT1kwY2dsa2xZXzZyLURLbS1nT1FwRXNoYnE3N2p2ZEdZTGhuT1NPV3RJd1k4RDFwMnhiZ0F1XzhVYzdSZEE?oc=5",
-      "source": "충청매일",
-      "date": "2026-11-21"
-    },
-    {
-      "title": "코스피 장중 5000포인트 하회...반도체 불안감에 외국인 순매도",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fSjZSTmVHT0RHUTV6TnFsRFNkOHBhYkdiNlRmdlpYOHBzaUNQMS1YclhFZ2Z0NGJyZEFEdW9oOXY4cEdXR0FfZ2Rza25IaFZaV2pyQjB6VEtncHY4TWFBejJLUWxVVElvUVJya0dWSFlIUQ?oc=5",
-      "source": "오피니언뉴스",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "외국인, 10월 국내 주식 26조 순매도…美 투자자만 13.9조 팔았다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjNXU3a29TU1lJMnJ6dWkzOVcyNkVUa0ZXVGtDanZjWGg4ckgtd2JqS2JkOUpPcldwcFdVTnRtMXJRQ1FvMGxPbENteUF6ODhYV0RUajRtOTVQdGlGLXk5UjhiTlFDQnhX?oc=5",
-      "source": "www.ebn.co.kr",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "2026년 상반기 외국인직접투자 동향",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qT1d0elo1Y2xRejlIb0FtcjZuWVRha2lfV01ZS0hsc3pOblk1ek1OejZRSnFjU0IwMkw4RjV3T05IekdleWJybUZHZzJwZWk1WUZIbXlab0dlM1lwUDZ2YkNvaE1SbHprNGZUTw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "외국인, 10월 국내 주식 26조원 팔았다…채권은 7.4조 순투자",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tVzRjZDVrazFTYzVNTzB4Umc3MERtNUZBeElvT3NRUXpBa1VuVmxaNjc3VmlKR3cwNE92STBSRmpqNDJ6STF1Nmx3WUI1VlFDZHl0bmZWX3FSSUEyMlVacGVKSQ?oc=5",
-      "source": "뉴스1",
       "date": "2026-11-19"
     },
     {
@@ -70,10 +46,34 @@
       "date": "2026-11-19"
     },
     {
-      "title": "[분석] 외국인 공매도 하루 1조…개미 \"한시 금지\" 아우성",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tbzZkWUtjLVFmTmE3WjN6WjBlNE5uTVVUdmM2QUVZdWRqQTlnQ21DM0tWV0lTeXBhTXhLdnNQeUhDSHRwMFd6ZWFGRmRuZkxuelJTTnVPZ0thWmpUUlRUN3FCaVVKTVNwUWVWbUxFM1FKSjEt?oc=5",
-      "source": "파이낸셜포스트",
-      "date": "2026-11-20"
+      "title": "외국인투자 97% 비수도권에 집중 … 정부·코트라, 지역 투자유치 역량 강화 나서",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWFZNUGs5SHNhNEpFSlNWY2FJc0tST3pQOHpoZDd6eXpUcktoSWJ5RFBka3JLV1hyMEU5Tkg2Tk1hN1ZGTi1ob2dod1RpRHdIZDZadkRvcEstMkhDZGZzU1E2SmF4U2JpQWR2aA?oc=5",
+      "source": "워크투데이",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "충남 외국인투자기업, 산업안전 강화·상생협력 네트워크 구축 나서",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CYjhmMFZkajhHYkIzUDdkaXJlaVR6N2JkcVZSY3BDclFKaXRyT1kwY2dsa2xZXzZyLURLbS1nT1FwRXNoYnE3N2p2ZEdZTGhuT1NPV3RJd1k4RDFwMnhiZ0F1XzhVYzdSZEE?oc=5",
+      "source": "충청매일",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "외국인투자 97% 비수도권에…정부·코트라, 지역 첨단산업 유치 강화",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ydkZwTnRPR2J1elAzRmk3M0EteHhFdzZVT0V3X3JCT0lLTXd3R0syMjZVZWNidlNkWF92V1c2aW9sMGE0c0dmdGZRdlZ6X3RaaHptS1pKd0NRVGdtLVQtSg?oc=5",
+      "source": "아시아경제",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "2026년 상반기 외국인직접투자 동향",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qT1d0elo1Y2xRejlIb0FtcjZuWVRha2lfV01ZS0hsc3pOblk1ek1OejZRSnFjU0IwMkw4RjV3T05IekdleWJybUZHZzJwZWk1WUZIbXlab0dlM1lwUDZ2YkNvaE1SbHprNGZUTw?oc=5",
+      "source": "대한민국 정책브리핑",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "대미 투자 관련 투자자-국가 분쟁사례 연구: 미국의 외국인투자 정책 변화 검토와 주요 판정례 분석에 따른 한국 기업과 정부의 대응 방향",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNzdJa3dQOXJUNlVNc29yOUk4WkxMYkpXVUJDY0p4c3QzcE1DU3BIX0czX3BJV2taaEdfT0p0Z0xRaXJ0cS1CYzhaV3VuOXpHcmp5OXRzY2ZEN0p4WnJHUGkxN0hRaFZ5Qkhn?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "2026-08-12"
     }
   ]
 }
