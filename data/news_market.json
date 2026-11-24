@@ -1,19 +1,43 @@
 {
-  "generated_at": "2026-11-23T01:28:24+00:00",
+  "generated_at": "2026-11-24T05:11:35+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
     {
-      "title": "대신증권 \"코스피, 금융위기급 저평가 구간…외인 수급이 관건\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vRGYweU9HMENHMEZucjFVcFFWcU50U0FaRkdmUFV4aS1RM1E0SzZWemlXMUZEN2ZWbmE4Sjl1cWhiU1FxMXhpMTNLaGJIbWY1RW9VWXQwOVg5S0HSAWBBVV95cUxQNG9zQXNDOE91a2hRMThhcWxlWWY4ZEZCY2hBR3VGV19WazJTVENRdWRQWkxhVjZBNUdsN0gyU05MUXpDLTAwMTVkZFg2Zk9PVjg1T045SmVfRGJHRWJJVXY?oc=5",
-      "source": "연합뉴스",
-      "date": "2026-11-22"
+      "title": "대만, 증시 안정 위해 국가금융안정기금 두 배 확대 검토",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wdWgydzVtd2U1NlR6WXM3VnRjMlBMUU9PLWlDYVJFdnhSRVlLOWo5RzBKekpTV1pmdGtqTlEwREx1WHlaNWlHZFRTMFZXeFQtV0k2UksxRmo5Y0JKenl0d1doRFBfQjhXMS1sMXc3WEcxUQ?oc=5",
+      "source": "KB Think",
+      "date": "2026-11-24"
     },
     {
-      "title": "가산금리 인하에 우대금리 축소? 금융당국 점검",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaHpmSWIxZkVLQm1rMmJxUWdIY3k3OXNtczdsdGQ4VjBzTUpYZ281ejR1X2t2azJJWW44a2pRc09KSk9TOXZQOWI2MFN0dXhTaFhLTzY2RXVNZTFmdVBsYzB4UHl1NVZWWVVDalBIRdIBc0FVX3lxTFBrMF9sQkpzRHRpQ3JtdlNUaDZ1ZGJ3S3U4SnVKSDhqa05MMjJUbXVncFVnVU5TZ1VHUm9kam5wTlVUdS0zM1J4X1F0eHhocHc5VFNwMFVDLTU1dmhrSzg1ZTJfbEF2Z002TVZlellTdlZBeUU?oc=5",
-      "source": "세이프타임즈",
-      "date": "2026-11-22"
+      "title": "대만, 증시 안정 위해 국가금융안정기금 2배로 확대 검토",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncnkwaFU1ZFpLYUxEZFBZRWhkTzhzTGkzc3VuSW11a0xpcXFud2stblFrV2tiWFk4azBLZ19TdDQ5U0gzOXJSUjFrdy1JejMxMm85TkRZQk14Y1nSAWBBVV95cUxPUzMzbEpORW1odmpINk9oc0Q2Uy1RTWVlZEY0ZjhscGRHaUFFWXV6R0wwSG01dHNhalQzT0pmeWs2ZUZmcHVVeWl2T0NaM2ZKTnpNX1R4c3I1elctM3dRWXQ?oc=5",
+      "source": "연합뉴스",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "“증시 안전판 작동하는 거 맞나”…사이드카 올해만 101번 발동",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DQlNHTlktb3dob0lLNWtlcV9HVWlBdGJqX2pMLU5PTklkZy11TVBaZjNKSGVFRmpHb3FUMElRWVZlOUlJOGwxeEtaUkhsY2h0S0E?oc=5",
+      "source": "매일경제 마켓",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "증시 불안정에 적극 대응하는 대만…금융안정기금 2배로 확대 검토",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUldTWU9LN2FHNjcxaW9Rb1VQa1VOR0ZLLTB3VXJxMjdkSlYtaVliRXBIM0x4REItUm5oT0VmMTVXMjNWajBUY0VJbEUyYlN6VjRjX0kwRFJ0Zkc5SThRUVJhOERPdDA?oc=5",
+      "source": "연합뉴스TV",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "돌아온 '젠슨 황' 엔비디아 31.48% 급등... 나스닥 6.51% ↑ [뉴욕증시]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iZW41NnZHVGhWNTJyNW5JbmNHdVBKT2JyTXU2WnVIdG5hX1hqcEVhaGtzTDJfb2Y1M2hSV3NucWZ3bzZleE1kTjhldzh1bE9vSDF6MlZ4bDdQZTgxYnBWenBPVXY?oc=5",
+      "source": "매일일보",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "뉴욕 연은 총재 \"인플레 너무 높아…연속 금리인상도 배제 안해\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzdzlNbFI2aFhPb0VJWGFJM2lTZWxEaEQ0UHNBY0RuWjdiQkwxd2hFVjZkdG5KT2pDbVBqRzlEaGkzTVp3V0R5a1ZEN1ZZVEZKc0kzZTdMZF9kMmxqc3c?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-11-24"
     },
     {
       "title": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\"",
@@ -22,58 +46,34 @@
       "date": "2026-11-22"
     },
     {
-      "title": "코스피 어디까지 밀리나…과거 금융위기 대입해보니",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jTmFuWGNZSDhFTklmSFlhVW92aXlMRlVBNjBndXBBc2VZOWxJUmRjS2ZOSlNPa1A1dWc3V2xwYVNndW9tNG9JVm5QYVpnby1NZW83RlZwcE9pdXFFMFlJNlQxV3J2eU1FM0E?oc=5",
-      "source": "비즈워치",
+      "title": "'젠슨 황 복귀'에 미국 뉴욕증시 급등…나스닥 6.5% 상승",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xRG56SUNGb0w2REpHRHBHUXNVWEo2SVdzOUVsSWZjMmdvdkRQdG1jc1dKb0dSTzZldHpVSE0tV1RJU010eHhiZFpLdC1EZkpqQWZyd3FwZmNnSWVrS2NNWXIzaUt5YTUzQXNN?oc=5",
+      "source": "BBS 불교방송",
       "date": "2026-11-23"
     },
     {
-      "title": "증시안정펀드 가동 준비... 2008년 금융위기 후 처음",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjBPTG5NSy1VTkI3cmUzc3g3UlhaRzlhc1UxelFsQXg4R28wdktMWkw0Wmc2WjIxekdWOWVqWTRHaUtSQk9yMzZDZjJPTHZFWG9KNU1LdVNFbEVSNTBFSFExZ0FIcV9pS1NjakI2bERaazhPZ0FRajBWSDZ4SklzZ2hoYXpzSGc2UjVlSWdB?oc=5",
-      "source": "조선일보",
-      "date": "2026-11-22"
+      "title": "[속보] 코스피, 5% 급등 ­'매수 사이드카' 발동",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41eVRIbTBRTXROckhUd1ZwajRBdFBqNXhZazJBZWh5WDBSN291RGljQ3dzc1hYTkN3UUQxOGhDcUhOaU9kN08tZTBSOEdzUTZtNzM0MGc1WE55QlJTTmRVOVRKMlJzX1hOTTRYRTVJUdIBc0FVX3lxTE1jazNfemJHWGJsZmZiVGhWeWxtX0hxT2dxenJuakpDNFJOeVpqMmFUSDZJQ0g2ZGFLUWR1WU8xUW9CRXQ4bkk2dWF0OVlQMW1kZEl2SEJZdG1lbE5LZlRLZ0NSOGlaMTAwVWdvLWVKclNZMG8?oc=5",
+      "source": "뉴스웍스",
+      "date": "2026-11-24"
     },
     {
-      "title": "대신證 “코스피, 금융위기급 바겐세일⋯팔 때 아닌 분할매수할 때”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xcWV6Tzhsem82SUlzdXI5WFkwdXRxZHUyNVVtQlZ0bXNCSzYzZlIwdks0ZFhRZDliZzZ3dUtXRFBtSzRsVlhJdjRUMThYczN0bzQ5Qg?oc=5",
-      "source": "이투데이",
-      "date": "2026-11-22"
-    },
-    {
-      "title": "[애널픽] 코스피, 금융위기급 저평가…\"투매보다 분할매수\"",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jbGxSeWZCLXV5UC1xa1FPaFlqQ0JsaTJfbGI2bU5CWS00RHpTUmg0SzNhN0lURVd1ajdmdm1qa1dVYTZmVWpmZi1ZUkVzVDI0RWUydjdpWGY?oc=5",
-      "source": "뷰어스",
-      "date": "2026-11-22"
-    },
-    {
-      "title": "“코스피, 금융위기급 바겐세일…지금은 팔 때 아닌 버틸 때”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2pTbkNJQzhIMnVjUzdBaXI0M0NXbGd3RHVaVmxXX0NRbGVvYjNZOHlhRkxiNEppeXlrY3ZWVmtvY29pbE5TM0pfcGFBLVJhNG5NWGNUTHVPbkt1Q2hxdFJ1UE9mdzdMTTFFSG01MmtjYmlXTERJUlVraGFwS0M5Zg?oc=5",
-      "source": "이데일리",
-      "date": "2026-11-22"
-    },
-    {
-      "title": "글로벌 금융위기급 낙폭…‘삼전 30조 배당’ 반전 마중물 될까",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zSkJCbGRCa0JNSTdfVzdqSnpBdDhfbElKYURXX2s0b3BHRUNLMGhJWVpWMndLeWdpaEs0SjRsc0pBUFZQZjRpUWhUZVVQZjVDdEY0NQ?oc=5",
-      "source": "JTBC",
-      "date": "2026-11-22"
-    },
-    {
-      "title": "코스피, 3.18% 급락한 4710선…코스닥도 1%대 약세",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Vlh0TXZvM1RZa1haV0JCX1lmNTlDMmhrbnlfNVhwNGU3Ty1UWmMtUWg1YlNBNTJnVGlvRHV3RnBuZFdoek9zRGRYdkRXYlk3eDJ3WUNoeUpGbWl4b0FyVlhZSFkxOGRuV3c?oc=5",
-      "source": "nbn 시사경제",
+      "title": "[더나은미래 경제브리핑] 코스피 4700선 간신히 지켜, 5개월 만에 ‘반토막’...금융위, 증시 폭락에 상장사 자사주 일일 매수한도 3개월간 완화",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Q2plRTJjNGlKNXlIcDJza0RsQ2tYT1l0VG9BTG9KNjdUbEx1bDdKQmNqSnR6UXJfWFEzWlNwenkwUWpxVjhvb05lNFAtYlZRenc?oc=5",
+      "source": "더나은미래",
       "date": "2026-11-23"
     },
     {
-      "title": "증시급락에 '증안펀드' 18년 만에 가동 준비…불법공매도 3개월 특별감시",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40UlBmSUdOWjJwTjNsV3FvT2xYZklmVllmS2h2Nm9rUklUTkQ4ekdDc0hfWEZ0WFg2aDZrZ3h5Z2kzQWVUWlVHODQ5cVF3eDhzWlZvaGphSmhKU2FBd0dveUN4WHdzRk8xcmxlOGZR?oc=5",
-      "source": "서울이코노미뉴스",
-      "date": "2026-11-22"
+      "title": "[속보] 코스피 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lV1A5UkhmNGJBMnNpa2hyZnQyVWtvcVFNcDFKVTR3WEZfMXRqS3M5V0szdjcyYW1LSzhZLVlBMTl1SEI4b2N2cFlxd0V1QkFjWHNtMWFrdEp4QUxQMjRobEdIYnhxVzhBNFE?oc=5",
+      "source": "서울파이낸스",
+      "date": "2026-11-24"
     },
     {
-      "title": "증시N｜외국인 168조 팔았다…코스피 '금융위기급' 추락",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tOG11QnY4WVNsVGJjVEVQYWFuYVQzbVZwTXQ4VEJ6eG5OZE1oMzc1YktSbDAtZC1rdWxHZTNPVUhMclBtUHZvalVoTGpIZmhCTURNTThONDZUQUxSLUpWUmRfUVg2RzF3X3c?oc=5",
-      "source": "OBC 뉴스",
-      "date": "2026-11-22"
+      "title": "금융위기보다 빠른 추락…코스피, 장중 4600선 붕괴",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83M3lSWWpMVUVFNHFIQnlNY25FQVRBY1dyMUFhRDFGZHpzZFV6Um9tdm1xZjhHNVpWMkJxMXFBVVVWS3hZeDVWUXYyZGx1dFZieGZKNWNmSi1YLW0xUnNsSg?oc=5",
+      "source": "뉴스토마토",
+      "date": "2026-11-23"
     }
   ]
 }
