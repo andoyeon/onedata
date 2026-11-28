@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-27T03:32:53+00:00",
+  "generated_at": "2026-11-28T03:10:42+00:00",
   "source": "Google News RSS",
   "label": "금융 뉴스",
   "items": [
+    {
+      "title": "뉴욕증시, AI 우려 완화에 일제히 상승…나스닥 2.31%↑",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xSHNBMWpPcndyTHhJQzE5UGZ2ZHhnemthSDF0emhUaW5yZlZCUnVhUEtvVlVjYUFVMFl3XzdrV3ZMVEtQcFBRSkt0ZHFRa0s3b0lJdTJsU2RZdm1oWlpsSk1mY0t1RGoyVmQw?oc=5",
+      "source": "BBS불교방송",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "[2027 금융IT혁신] 구독 해지·금리 인하 신청까지…‘새는 돈’ 잡는 AI 금융비서",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQ3pIakNkSU9JWG4yc0gwQTdONF9GSlBFMVRUWFRTZzhzaGlDZFo4cE1LWjRGNVFfcGlIYmhRSVh0ZGZJd1BGYnNLeFVMMEVMV1B1OFF4UDJSZXE3cmRQblgwVy0?oc=5",
+      "source": "디지털데일리",
+      "date": "2026-11-27"
+    },
     {
       "title": "은행권 '포용 온렌딩 대출' 추진…중저신용자 금리 3~5%p 인하",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03YWdDNGx3aUVmaEZlTmx2RzQwUWZOc2JfVklodWpmSWpOUzl4RFR5WG9Bb0xBWUpfNVZmZTZJOUZwME1BMXRjWUU5aFRVQndlblpwMDRRS3g5S1JlMWhqTEo2UzNKd0hmcnd2Ug?oc=5",
@@ -10,51 +22,27 @@
       "date": "2026-11-26"
     },
     {
+      "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HVTcxcmswVUZyT2YwbHE1Nkl3ZzZXM0Mwd1FYQkVJV1F3LUlMQWJ0SWFMSVllLVAybl9KSUxHTFcwWkQyU0hjTUx4eFFWU3Q4NC1UdWRqaDIwSGM1bmhGbXl0WQ?oc=5",
+      "source": "조세금융신문",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "\"서민금융 금리 낮춘다는데…전북 은행권도 동참할까\"",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKRXFiOTRUakFHLU5WOFloQU9jVEl4M0pPVjJVM1ZGUEdGeWNvcTJ3SThWZkRpRlZGTzBGQk03RFBMOEVTVW5yVVZUZldRc1NNQmt3SmoxZEtXaWwxRkdrS0plT0JwUQ?oc=5",
+      "source": "전민일보",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "“지금이 기회”···시중금리 하락에 금융사 잇단 자본확충",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tQjU1WjZRTllCUGxSTGQzLWdnM3NVUmNoeGQyTVNLZnY3VTUwV3FPQjZtY0F0bU1ndDk0R2J4ZUFBNW9Ud1F4RnhLVkZFUUhHU0otRzkxcDNpcXFpVDFNTEtnVEtEdl9DNjJJU09GQjFpd9IBdkFVX3lxTFBaOVBpak1qRnNLSnRxd2RlMXV3RzczUjQ5V2dRdzJoRzJuZi0tYU9jS19Ya3hVRWtpaUZuQXRGZXV2SXAwTE1GdmhYZW9HTmdpU2FUVnRlYk04dDJRNW5kWV9JbVEwa0hEeHU3bXNsMVU5OVEySkE?oc=5",
+      "source": "시사저널e",
+      "date": "2026-11-27"
+    },
+    {
       "title": "한은, 기준금리 3.25%로 올려…올해 세 번째 인상",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IZEVsalhmNDFZREpaQUdrcVc4YjBmTGVIS3hGaVJpS2E1TUhoYUxkWWU1R0RJeUEweDlSNjBRaEJIY0dwRmlXSzFoLWg3UEx5VHFJN2ZsUTR5alZQXzB5cmxWdXhGV3ZSWFh5eXhVaw?oc=5",
       "source": "경북일보",
-      "date": "2026-11-26"
-    },
-    {
-      "title": "해외기관, 한은 기준금리 전망 엇갈려",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jcXdfZHY5bldBakhQMjREd2ZSTVlKcG1hOUEzMVFLMjRkRkQ1S1ZVczhnV1J4T25VTG9MY2NOUHpZczgtMTZzWlB0Z0R1ZHZpWHJrdmtrNk5NN2g0aWZSS1pmdDZLSWhnWlJNLUxkR3lwWG_SAXdBVV95cUxPZkZpaUlnTjItbF80T09qWkl2bzBiQzNiUjZ3QTN5ZkRIeHNUOEFaQ1Y0YkRSbTRlVFlwaTFxdjZzTlIzc1FDVlJKR2pZN1JYV2xHSGI5NlI0ckcwbGRLMUtKOW05OFkySTFjTklCOEZMOVhzNWVCNA?oc=5",
-      "source": "스트레이트뉴스",
-      "date": "2026-11-27"
-    },
-    {
-      "title": "금리 올렸는데 은행주 왜 파래요…한발 먼저 가는 주식 ‘선반영’ 해석",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VZWtSc09sZnktLS1KYlFLb1hCbFhTeTdubHE4N1l6QlVTdEFNVWRTS0xQVUNDR2JQMUJ6cHJQY2k2OHI1QVVCMGFwaWFhRFFUSmc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "2026-11-26"
-    },
-    {
-      "title": "정부, 금융·부동산시장 긴급 점검…증시 변동성 대응 강화",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50UnR6eW56ejVRdkZFSXhab2RsMW9NcnpkRDVnYVZsdFdpQzB1M2t3QldDczJhMFFBellmWDgxMno3eVhPVjdhQXh3cER5WGJMdXZhQ2gtNUs3YVFORkRmUEctVVdyT3AtdE5n?oc=5",
-      "source": "서울뉴스통신",
-      "date": "2026-11-27"
-    },
-    {
-      "title": "[사설]기준금리 인상, 주담대는 15년 만에 최고… ‘빚투 시대’ 저문다",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GdHR3MXZoSElJN2I1QjlKZVhDMjc5Z0IzdzdCekJXd2lZTWRHd2xqYi1iSUdQYW9fdGNaQmZUZC1zT011aUdKNlk4VGpKWk9FWFk0UWxiSFBBOGt2bUt2Uy03Y1B4azlfYnVzMUpLSGNqN2FIU1HSAWZBVV95cUxQMzhKZUdaQmVyeTR2MGpLUnJSOUtVZWVfWFpCWDFNcUpoVnJVb2YxSjZMY1ljcTRpODNqcUZVUlptdVFMT0tLNm9nVnZUQTdaZEFjeXFMWVVianJRallGMkJObEVaS3c?oc=5",
-      "source": "동아일보",
-      "date": "2026-11-26"
-    },
-    {
-      "title": "F4 “글로벌 AI 불확실성에 국내외 증시 변동성 확대”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUXNFLThNS2RYYnVMM25VNXU0Q1ZjMHg5U2xRRmlSdjRjSVFCQkI3VEJUNW90b011LXZrWVVqRHVLbFVZOHN3VXEwckd1bkl4Z3F6OTlCYXNWckNkQThUb2UyT3RGcjhlS2c?oc=5",
-      "source": "천지일보",
-      "date": "2026-11-27"
-    },
-    {
-      "title": "금융시장 동향 및 증시안정조치 진행상황 점검",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hVFQxMUJ5OU1HRHFvZ25ldTRySEc4dmFNM2ZmWElHcEdnTUdXSkhSTEZNUVVqYXBNZHNkem1GdDdZQlJTUXRrcjh4aXMwVWlhN1cwaG5BNjhVQU5mTm8zWFpR?oc=5",
-      "source": "서울Pn",
-      "date": "2026-11-27"
-    },
-    {
-      "title": "코스피 주저앉았는데 환율은 잠잠…금융위기 때와 다른 이유",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0T3ZOY0lCUjRSVnhvVGVQRFZocDlQQTNOaDN5d1Y0V0NhS0dhT0JOeVBESzNSeWYwSFJnNEcwNDA3V2FNSW5Na0lqU0RkM3hlRUYtNFBpNFVsV1VwMXIyMNIBeEFVX3lxTE5VTk55OWEtTjdzTXdZUlJ4WmRMTFV0ZzlRb0JRX0JmdU9fM3ZJd2RUcjRmcW1mcGZ2QU5yNHAxa3VFc3phUXYzZGRoZVBLclZRMDRNQ2NQbkFEeW1ZYXR3YWlDSkpBaUdoSXdHMThTdnhnc2VwcUpoLQ?oc=5",
-      "source": "뉴시스",
       "date": "2026-11-26"
     },
     {
@@ -64,16 +52,28 @@
       "date": "2026-11-26"
     },
     {
-      "title": "금리 인상에도 장기채 금리 하락세···보험사, 건전성 악화 ‘우려’",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZOGp2c29qQ2xvQ2MxQU9oMVF6TVJ3T21sRDFFSnBNLXV3LVBXdVdvRzZGT1U4czlNVFQzT2pMUTJXTW84YXNTczVQaFNYaEQ0WVN3UWpGVDhJOGNqVzNCejNETXVUeWFaX3hOeGtyeEJrd9IBdkFVX3lxTE9XbVhNNGwyM0NsVnExZTFqWDlLWFRFRC1BSngxMlVrb1B2Sk13Q0ZDYXhseUVXNWlUVGhFRm9LSVZpNFFZVlRRekUxeFNwN29SWUdxTW9yR3JoNk1YNFc1SlllTkxMVk5VTXlfemhWMk55NHhHY3c?oc=5",
-      "source": "시사저널e",
+      "title": "노무라 \"한은 금리인상 사이클 사실상 끝나…장기 동결 예상\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jODJmX1ZjdTBBT3hCRjNoYXVjSkJTUVkzbWZvZXdybXUtWG1YQXpkSkRoRVlQOTNvRnVUaW5pWG0yNlR2U0VHWFNLaDVOa09iVUdqUXF3V3I4R0FBemd6VXAwbW1xOGlFUHI4?oc=5",
+      "source": "한국부동산뉴스",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "한은 금리 인상은 선반영…금융지주 주가 일제히 하락",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XUVNRS0NhMDBBVEN6cV80UEppQkZfN2xFWEd0cWdoakM4QUNaOVZ0Z2pjWFU1bVMwWFFHN2hHdUZ6VGQyMmt1MUpVUmFvYm82V2c?oc=5",
+      "source": "매일경제 마켓",
       "date": "2026-11-26"
     },
     {
-      "title": "모건스탠리, 한은 최종금리 3.75% 전망…금융지주 이자·비이자 양면 시험대",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4eHZteFFzbnNkUzh3RjdDdTZaQ3VmWWwtaF9nalhpVHBLcWxQRVRhN19ZVUtHcGg4d0xobzRDcWlmeWE1b0dadVo1dmdYdU1TOXJmeDlneWlPRWhLc0prbEJmaV9FLXdQSUHSAW5BVV95cUxNSi1qUGhhSlZ2Z2xOWExkejlFSm5hWDk2SXc1UHhTVW42M1ZRSGVMQUFUQTVPZVZFMllwWG84WFBCbnoxVzZJbVB3T0hVdnRBaldCWW1mZGJNRkgzYkJZNnRiaTAxOFI5V25zY0lYdw?oc=5",
-      "source": "파이낸셜투데이",
-      "date": "2026-11-26"
+      "title": "기준금리 인상에 복잡해진 2금융권 셈법…건전성·조달 부담",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNeFZBZjAwMDVOc09IOWstNHRvYzRiME9CQllFXzhHbTd2V2hQa2xtcFBqZmN5VU0wZGZMdk42ZXpLVWREUFozaWR3UXhETUtQZ1Z2clJqc3dKcVNJWlpOb0IwX2dLUkYtTk94WDZfZGZlZW1FcV9wR0xSREN4N1BfblpaYjQ2UjgxRU9oYnV5Qi05N0F3Vzlia0I5aEE1SkgyV0tEdUc4Z0pVSl8tdkRxTmY1WG1GTG43WG0zcWdfdTZNTWRkTGNZcU5tZHNFRGNjdmYwa00xSnFLOFV1a3VoLWQwamFiR3JoRno4akJkdVFlY19UUkVna0M1Wnk1YnBBZjlxSXFyRGpLc2VaeGcxRzF4dTRmd3pC?oc=5",
+      "source": "데일리안",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "경제금융수장들 \"글로벌 AI 불확실성에 증시 변동성 확대...대응태세 유지\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tME1WblVSWjZLeTVydVlxeWxDMjNKR2VOcEhwWl9MZUhNNUg5Z2pHcGVyM0RzcU42NktSXzdXSDBmLUE1NXZtc0FDMW0wa1B6Tm1iSUt0TXlYaGxUZkZXVmxKc0NJdEwxRE5B?oc=5",
+      "source": "파이낸셜신문",
+      "date": "2026-11-27"
     }
   ]
 }
